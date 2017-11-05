@@ -1,0 +1,988 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>*|MC:SUBJECT|*</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <!-- Load typefaces -->
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans:700|PT+Serif:400,400i|Roboto+Mono:100,300&subset=latin-ext" rel="stylesheet">
+
+        <!-- Load styles -->
+        <style type="text/css">
+            /* Globals */
+            .btnAnimate{
+                -webkit-transition: all 0.2s ease-out;
+                -moz-transition   : all 0.2s ease-out;
+                -ms-transition    : all 0.2s ease-out;
+                -o-transition     : all 0.2s ease-out;
+                transition        : all 0.2s ease-out;
+            }
+            .btnBox:hover{
+                color: #ffffff !important;
+                border-color: #2C2020 !important;
+            }
+            .btnBoxFull:hover{
+                color: #029cd1 !important;
+                background: #1B1F25 !important;
+            }
+            .inlineLink:hover,
+            .inlineLink:hover span{
+                color: #1B1F25 !important;
+                border-color: #1B1F25 !important;
+            }
+            .inlineLink-light:hover,
+            .inlineLink-light:hover span{
+                color: #ffffff !important;
+                border-color: #ffffff !important;
+            }
+
+            /* Client Specific */
+            body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+            table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+             { -ms-interpolation-mode: bicubic; }
+
+            /* Resets */
+             { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+            table { border-collapse: collapse !important; }
+            body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+            /* iOS blue links */
+            a[x-apple-data-detectors] {
+                color: inherit !important;
+                text-decoration: none !important;
+                font-size: inherit !important;
+                font-family: inherit !important;
+                font-weight: inherit !important;
+                line-height: inherit !important;
+            }
+
+            /* Android center fix */
+            div[style*="margin: 16px 0;"] { margin: 0 !important; }
+        </style>
+
+        <style type="text/css">
+            @media only screen and (max-width: 640px){
+                .borderRadiusToggle{
+                    border-top-left-radius: 0 !important;
+                    border-top-right-radius: 0 !important;
+                    border-bottom-right-radius: 0 !important;
+                    border-bottom-left-radius: 0 !important;
+                }
+                .halfColumnToggle {
+                    padding-right: 25pt !important;
+                }
+                .intro-text{
+                    font-size: 16pt !important;
+                    line-height: 27pt !important;
+                    font-weight: 300 !important;
+                }
+                body table[class=full-width]{
+                    display: inline-block !important;
+                    margin: 0 auto;
+
+                    width: 100% !important;
+
+                    text-align: center;
+                }
+                body table[class=full-width] tbody {
+                    display: inline !important;
+                    text-align: center;
+                }
+
+                .fullWidthLeft{
+                    display: inline-block !important;
+                    margin: 0 auto;
+
+                    width: 100% !important;
+
+                    text-align: left;
+                }
+                body table[class=fullWidthLeft] tbody{
+                    display: inline !important;
+
+                    text-align: left;
+                }
+
+                .halfColumnRow {
+                    display: inline-block;
+                }
+                .halfColumnImage {
+                    width: 100% !important;
+
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                    text-align: center;
+                }
+                .halfColumnLink {
+                    display: block !important;
+
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                    text-align: center;
+
+                    display: block;
+                    width: 100%;
+                }
+                .header-logo {
+                    max-width: 270px !important;
+                    min-width: 270px !important;
+                }
+            }
+        </style>
+    </head>
+    <body style="background-color: #F7F7F8; margin: 0 !important; padding: 0 !important;">
+        <!-- Hi -->
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+            <!-- The logo -->
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr> <td bgcolor="#F7F7F8" width="100%" height="25"> </tr>
+
+              						<tr>
+              							<td align="left">
+                                            <a class="header-logo" href="http://www.publica.ro" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    width="300"
+                                                    src="http://clients.mateitudor.com/publica/newsletters/2017/05-03/img/publica-2017-05-03-logo+tagline.jpg"
+                                                    alt="Editura Publica"
+                                                    style="
+                                                        display: block;
+
+                                                        width: 300px;
+                                                        height: auto;
+
+                                                        max-width: 300px;
+                                                        min-width: 300px;
+
+                                                        color: #1B1F25;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 14pt;
+                                                        font-weight: 400;
+                                                        line-height: 25pt;
+                                                        text-align: center;
+
+                                                        margin-top: 0;
+                                                        margin-bottom: 0;
+                                                        margin-left: 23pt;
+                                                        margin-right: 0;
+                                                    "
+                                                    border="0"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr> <td bgcolor="#F7F7F8" width="100%" height="25"> </tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+
+            <!-- Hero -->
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+                                    <tr>
+                                        <td width="100%" align="center">
+                                            <a href="http://www.publica.ro/james-watt-afaceri-in-stil-punk.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    alt="Afaceri în stil punk, James Watt, Editura Publica"
+                                                    src="http://clients.mateitudor.com/publica/newsletters/2017/05-03/img/publica-2017-05-03-hero-01.jpg"
+                                                    width="700"
+                                                    style="
+                                                        display: block;
+
+                                                        width: 100%;
+                                                        height: auto;
+
+                                                        max-width: 100%;
+                                                        min-width: 100px;
+
+                                                        background: #029cd1;
+                                                        color: #ffffff;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 14pt;
+                                                        font-weight: 400;
+                                                        line-height: 25pt;
+                                                        text-align: center;
+
+                                                        border-top-left-radius: 5pt;
+                                                        border-top-right-radius: 5pt;
+                                                        border-bottom-right-radius: 0px;
+                                                        border-bottom-left-radius: 0px;
+
+                                                        margin: 0 auto;
+                                                    "
+                                                    border="0"
+                                                    class="borderRadiusToggle"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+
+            <!-- Main -->
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table
+                                    border="0"
+                                    cellpadding="0"
+                                    cellspacing="0"
+                                    width="100%"
+                                    style="max-width: 700px;"
+                                >
+
+                                    <!-- Spacer -->
+                                    <tr> <td bgcolor="#ffffff" width="100%" height="25"> </tr>
+
+                                    <!-- Content -->
+                                    <tr>
+                                        <td bgcolor="#ffffff" align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left: 25pt; padding-right: 25pt;">
+                                            <p
+                                                style="
+                                                    color: #1B1F25;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 14pt;
+                                                    font-weight: 400;
+                                                    line-height: 25pt;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 10pt;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                După ce a petrecut 7 ani pe Atlanticul de Nord, James Watt a fondat <em>BrewDog</em>, ca act de rebeliune împotriva berilor de masă, fără gust. Berea artizanală, barurile şi crowdfundingul au ajutat această afacere să se dezvolte fulminant pretutindeni în lume și să-și facă sute de mii de fani.
+                                            </p>
+                                            <p
+                                                style="
+                                                    color: #1B1F25;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 14pt;
+                                                    font-weight: 400;
+                                                    line-height: 25pt;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 10pt;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                În <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 13pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #029cd1; color: #029cd1;" href="http://www.publica.ro/james-watt-afaceri-in-stil-punk.html" target="_blank">Afaceri în stil punk</a>, autorul îşi deapănă povestea arătând cum se poate fonda o companie după bunul plac. Odată cu rescrierea registrelor contabile și cu demararea acestei revoluții nonconformiste, James Watt şi BrewDog au inventat un mod nou de a face afaceri. Cartea surprinde simplu, amuzant şi sincer filosofia lui James. Printre crezurile sale se numără și:
+                                            </p>
+                                            <ul style="list-style-type:circle; padding-left: 20px;">
+                                                <li
+                                                    style="
+                                                        color: #1B1F25;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 14pt;
+                                                        font-weight: 400;
+                                                        line-height: 25pt;
+
+                                                        margin-top: 0;
+                                                        margin-bottom: 0;
+                                                        margin-left: 0;
+                                                        margin-right: 0;
+                                                    "
+                                                >
+                                                    <em>Fură din alte domenii şi reinventează</em>. Inspiră-te de peste tot – mai puţin de la oamenii din aceeaşi industrie.
+                                                </li>
+                                                <li
+                                                    style="
+                                                        color: #1B1F25;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 14pt;
+                                                        font-weight: 400;
+                                                        line-height: 25pt;
+
+                                                        margin-top: 0;
+                                                        margin-bottom: 0;
+                                                        margin-left: 0;
+                                                        margin-right: 0;
+                                                    "
+                                                >
+                                                    <em>Detestă interviurile</em>. Acestea nu arată niciodată cât de bun este un posibil angajat în general, ci doar cât de priceput este la interviuri. Mai bine scoate-l la un test drive şi vezi cât de pasionat este şi cât se potriveşte cu restul echipei.
+                                                </li>
+                                            </ul>
+                                            <p
+                                                style="
+                                                    color: #1B1F25;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 14pt;
+                                                    font-weight: 400;
+                                                    line-height: 25pt;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Afaceri în stil punk e un ghid onest al antreprenorului anarhic şi îndemânatic, un manifest al noilor afaceri.
+                                            </p>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr> <td bgcolor="#ffffff" width="100%" height="25"> </tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- Hero -->
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#029cd1" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+              						<tr>
+              							<td width="100%" align="center">
+                                            <a href="http://www.publica.ro/james-watt-afaceri-in-stil-punk.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    alt="Afaceri în stil punk, James Watt, Editura Publica"
+                                                    src="http://clients.mateitudor.com/publica/newsletters/2017/05-03/img/publica-2017-05-03-hero-02.jpg"
+                                                    width="700"
+                                                    style="
+                                                        display: block;
+
+                                                        width: 100%;
+                                                        height: auto;
+
+                                                        max-width: 100%;
+                                                        min-width: 100px;
+
+                                                        color: #ffffff;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 14pt;
+                                                        font-weight: 400;
+                                                        line-height: 25pt;
+                                                        text-align: center;
+
+                                                        margin: 0 auto;
+                                                    "
+                                                    border="0"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- Hero: Pricing & details -->
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#029cd1" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr> <td width="100%" height="0"> </tr>
+
+                                    <tr>
+                                        <td align="center" valign="top" style="padding-top: 0pt; padding-bottom: 0pt; padding-left: 25pt; padding-right: 25pt;">
+                                            <p
+                                                style="
+                                                    color: #ffffff;
+
+                                                    font-family: 'Roboto Mono', monospace;
+                                                    font-weight: 100;
+                                                    font-size: 23pt;
+                                                    line-height: 40pt;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                    padding-top: 0;
+
+                                                    text-align: center;
+                                                "
+                                            >
+                                                Preț: 49 Lei
+                                            </p>
+                                            <p
+                                                style="
+                                                    color: #ffffff;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 14pt;
+                                                    font-weight: 400;
+                                                    line-height: 25pt;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 15pt;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                256 pagini, paperback, duotone
+                                            </p>
+                                            <!-- A pretty button -->
+                                            <!--[if mso]>
+                                                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://www.publica.ro/james-watt-afaceri-in-stil-punk.html" style="height:60px;v-text-anchor:middle;width:200px;" arcsize="10%" stroke="f" fillcolor="#ffffff">
+                                                    <w:anchorlock/>
+                                                        <center>
+                                            <![endif]-->
+                                                        <a
+                                                            class="btnBoxFull btnAnimate"
+                                                            href="http://www.publica.ro/james-watt-afaceri-in-stil-punk.html"
+                                                            target="_blank"
+                                                            style="
+                                                                background-color:#FFFFFF;
+                                                                border-radius:6px;
+                                                                display:inline-block;
+                                                                color: #1B1F25;
+                                                                font-family: 'Roboto', sans-serif;
+                                                                font-size: 14pt;
+                                                                font-weight: 700;
+                                                                letter-spacing: 0.5px;
+                                                                line-height: 60px;
+                                                                text-align:center;
+                                                                text-decoration:none;
+                                                                width:240px;
+                                                                -webkit-text-size-adjust:none;
+                                                            "
+                                                        >
+                                                            Comandă aici →
+                                                        </a>
+                                            <!--[if mso]>
+                                                    </center>
+                                                </v:roundrect>
+                                            <![endif]-->
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr> <td width="100%" height="40"> </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- Authors -->
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr> <td width="100%" height="30"> </tr>
+
+                                    <!-- Content -->
+                                    <tr>
+                                        <td align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left: 25pt; padding-right: 25pt;">
+                                            <p
+                                                class="intro-text"
+                                                style="
+                                                    color: #049CD1;
+
+                                                    font-family: 'Roboto Mono', monospace;
+                                                    font-weight: 100;
+                                                    font-size: 23pt;
+                                                    line-height: 35pt;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 10pt;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Despre autor:
+                                            </p>
+                                            <p
+                                                style="
+                                                    color: #1B1F25;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 14pt;
+                                                    font-weight: 400;
+                                                    line-height: 25pt;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                James Watt este licențiat în domeniile juridic și economic. A fost căpitan de vas cu acte în regulă, dar în 2007 a dat viața de pe mare pe aventura BrewDog, una dintre cele mai cunoscute fabrici de bere artizanală din lume. Realizează împreună cu Martin Dickie, cofondatorul BrewDog, reality show-ul Brew Dogs din reţeaua Esquire Network, o emisiune difuzată în 7 ţări. În 2014, a primit distincția Antreprenorul Britanic al Anului.
+                                            </p>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr> <td width="100%" height="30"> </tr>
+                                    <tr> <td bgcolor="#D9D9D9" width="100%" height="1"> </tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- Related: Title -->
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr> <td width="100%" height="30"> </tr>
+
+                                    <!-- Content -->
+                                    <tr>
+                                        <td align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left: 25pt; padding-right: 25pt;">
+                                            <p
+                                                class="intro-text"
+                                                style="
+                                                    color: #049CD1;
+
+                                                    font-family: 'Roboto Mono', monospace;
+                                                    font-weight: 100;
+                                                    font-size: 23pt;
+                                                    line-height: 35pt;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 15px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                 Lecturi complementare:
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- Related: Books -->
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+                                    <tr>
+                                        <td width="100%" align="center">
+
+                                            <!-- Related: Book 01 -->
+                                            <table bgcolor="#ffffff" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a href="http://www.publica.ro/srinivas-rao-inconfundabil.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Inconfundabil, Srinivas Rao"
+                                                                src="http://clients.mateitudor.com/publica/newsletters/2017/05-03/img/publica-2017-05-03-book-small-01.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #029cd1;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 10pt;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <!-- Related: Book 02 -->
+                                            <table bgcolor="#ffffff" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a href="http://www.publica.ro/jason-fried-david-heinemeier-hansson-rework.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="REWORK, David Heinemeier Hansson, Jason Fried"
+                                                                src="http://clients.mateitudor.com/publica/newsletters/2017/05-03/img/publica-2017-05-03-book-small-02.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #029cd1;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 10pt;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                        <!-- Row Divider -->
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="100%" align="center">
+
+                                            <!-- Related: Book 03 -->
+                                            <table bgcolor="#ffffff" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a href="http://www.publica.ro/tony-hsieh-cum-sa-livrezi-fericire.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Cum să livrezi fericire, Tony Hsieh"
+                                                                src="http://clients.mateitudor.com/publica/newsletters/2017/05-03/img/publica-2017-05-03-book-small-03.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #029cd1;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 10pt;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <!-- Related: Book 04 -->
+                                            <table bgcolor="#ffffff" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a href="http://www.publica.ro/chris-guillebeau-startup-de-100.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Startup de 100$, Chris Guillebeau"
+                                                                src="http://clients.mateitudor.com/publica/newsletters/2017/05-03/img/publica-2017-05-03-book-small-04.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #029cd1;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 10pt;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr>
+                                        <td
+                                            bgcolor="#ffffff"
+                                            width="100%"
+                                            height="25"
+                                            style="
+                                                border-top-left-radius: 0px;
+                                                border-top-right-radius: 0px;
+                                                border-bottom-right-radius: 5pt;
+                                                border-bottom-left-radius: 5pt;
+                                            "
+                                            class="borderRadiusToggle"
+                                        >
+                                    </tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- The Mailchimp Footer -->
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;" >
+                                    <tr> <td bgcolor="" width="100%" height="50"> </tr>
+                                    <tr>
+                                        <td align="center">
+
+                                            <table
+                                                width="65%"
+                                                align="left"
+                                                border="0"
+                                                cellpadding="0"
+                                                cellspacing="0"
+                                                style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"
+                                                class="full-width"
+                                            >
+                                                <tr>
+                                                    <td bgcolor="" align="left" style="padding-top: 0pt; padding-bottom: 0pt; padding-left: 25pt; padding-right: 25pt;">
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 11pt;
+                                                                font-weight: 400;
+                                                                line-height: 25pt;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 10pt;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            Editura Publica<br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://goo.gl/maps/iL39imwQLVS2" target="_blank">Ștefan Mihăileanu 28A, București</a><br/>
+                                                            Scrie-ne pe <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="mailto:carte@publica.ro" target="_blank">carte@publica.ro</a><br/>
+                                                        </p>
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 11pt;
+                                                                font-weight: 400;
+                                                                line-height: 25pt;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 10pt;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            *|IF:FNAME|**|TITLE:FNAME|*, primești *|ELSE:|*Primești*|END:IF|*
+                                                            acest newsletter pentru că te-ai abonat la noutățile editurii Publica. Dacă vrei să-ți editezi setările, <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="*|UPDATE_PROFILE|*" target="_blank">apasă aici</a>. Sau dezabonează-te <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="*|UNSUB|*" target="_blank">aici</a>.
+                                                        </p>
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 11pt;
+                                                                font-weight: 400;
+                                                                line-height: 25pt;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 10pt;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="http://www.publica.ro/termeni-si-conditii.html" target="_blank">Confidențialitatea datelor</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="*|ARCHIVE|*" target="_blank">Vezi în browser</a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <table
+                                                width="35%"
+                                                align="right"
+                                                border="0"
+                                                cellpadding="0"
+                                                cellspacing="0"
+                                                style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"
+                                                class="full-width fullWidthLeft"
+                                            >
+                                                <tr>
+                                                    <td bgcolor="" align="left" style="padding-top: 0pt; padding-bottom: 0pt; padding-left: 25pt; padding-right: 25pt;">
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 11pt;
+                                                                font-weight: 400;
+                                                                line-height: 25pt;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 10pt;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            Urmărește-ne și pe:
+                                                        </p>
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 11pt;
+                                                                font-weight: 400;
+                                                                line-height: 25pt;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 10pt;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.goodreads.com/user/show/56158609-editura-publica" target="_blank">Goodreads</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.instagram.com/editurapublica" target="_blank">Instagram</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.facebook.com/editurapublica" target="_blank">Facebook</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.pinterest.com/editurapublica" target="_blank">Pinterest</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.youtube.com/user/meetthethinkers" target="_blank">Youtube</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://twitter.com/edituraPublica" target="_blank">Twitter</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 10pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="http://blog.publica.ro" target="_blank">Blog</a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr> <td bgcolor="" width="100%" height="50"> </tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- Spacer -->
+            <tr> <td bgcolor="#F7F7F8" width="100%" height="50"> </tr>
+
+        </table>
+    </body>
+</html>
