@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>*|MC:SUBJECT|*</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <!-- Load typefaces -->
+        <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i|Roboto:700|Roboto+Mono:100,300&subset=latin-ext" rel="stylesheet">
+
+        <!-- Load styles -->
+        <style type="text/css">
+            /* Globals */
+            .btnAnimate{
+                -webkit-transition: all 0.2s ease-out;
+                -moz-transition   : all 0.2s ease-out;
+                -ms-transition    : all 0.2s ease-out;
+                -o-transition     : all 0.2s ease-out;
+                transition        : all 0.2s ease-out;
+            }
+            .btnBox:hover{
+                color: #5d52ae !important;
+                border-color: #ffffff !important;
+            }
+            .btnBoxFull:hover{
+                color: #5d52ae !important;
+                background: #ffffff !important;
+            }
+            .inlineLink:hover,
+            .inlineLink:hover span{
+                color: #262222 !important;
+                border-color: #262222 !important;
+            }
+
+            /* Client Specific */
+            body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+            table, td { mso-table-lspace: 0px; mso-table-rspace: 0px; }
+             { -ms-interpolation-mode: bicubic; }
+
+            /* Resets */
+             { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+            table { border-collapse: collapse !important; }
+            body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+            /* iOS blue links */
+            a[x-apple-data-detectors] {
+                color: inherit !important;
+                text-decoration: none !important;
+                font-size: inherit !important;
+                font-family: inherit !important;
+                font-weight: inherit !important;
+                line-height: inherit !important;
+            }
+
+            /* Android center fix */
+            div[style*="margin: 16px 0;"] { margin: 0 !important; }
+        </style>
+
+        <style type="text/css">
+            @media only screen and (max-width: 640px){
+                .borderRadiusToggle{
+                    border-top-left-radius: 0 !important;
+                    border-top-right-radius: 0 !important;
+                    border-bottom-right-radius: 0 !important;
+                    border-bottom-left-radius: 0 !important;
+                }
+                .halfColumnToggle {
+                    padding-right: 35px !important;
+                }
+                .intro-text{
+                    font-size: 20px !important;
+                    line-height: 35px !important;
+                    font-weight: 300 !important;
+                }
+                body table[class=full-width]{
+                    display: inline-block !important;
+                    margin: 0 auto;
+
+                    width: 100% !important;
+
+                    text-align: center;
+                }
+                body table[class=full-width] tbody {
+                    display: inline !important;
+                    text-align: center;
+                }
+
+                .fullWidthLeft{
+                    display: inline-block !important;
+                    margin: 0 auto;
+
+                    width: 100% !important;
+
+                    text-align: left;
+                }
+                body table[class=fullWidthLeft] tbody{
+                    display: inline !important;
+
+                    text-align: left;
+                }
+
+                .halfColumnRow {
+                    display: inline-block;
+                }
+                .halfColumnImage {
+                    width: 100% !important;
+
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                    text-align: center;
+                }
+                .halfColumnLink {
+                    display: block !important;
+
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                    text-align: center;
+
+                    display: block;
+                    width: 100%;
+                }
+                .header-logo {
+                    max-width: 270px !important;
+                    min-width: 270px !important;
+                }
+            }
+        </style>
+    </head>
+    <body style="background-color: #F7F7F8; margin: 0 !important; padding: 0 !important;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+                                    <tr><td bgcolor="#F7F7F8" width="100%" height="30"></td></tr>
+              						<tr>
+              							<td align="left">
+                                            <a class="header-logo" href="http://www.publica.ro" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    width="300"
+                                                    src="img/publica-2018-01-02-logo+tagline.jpg"
+                                                    src="http://newsletter.publica.ro/2018/01-02/img/publica-2018-01-02-logo+tagline.jpg"
+                                                    alt="Editura Publica"
+                                                    style="
+                                                        display: block;
+
+                                                        width: 300px;
+                                                        height: auto;
+
+                                                        max-width: 300px;
+                                                        min-width: 300px;
+
+                                                        color: #262222;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 19px;
+                                                        font-weight: 400;
+                                                        line-height: 35px;
+                                                        text-align: center;
+
+                                                        margin-top: 0;
+                                                        margin-bottom: 0;
+                                                        margin-left: 32px;
+                                                        margin-right: 0;
+                                                    "
+                                                    border="0"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr><td bgcolor="#F7F7F8" width="100%" height="20"></td></tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table
+                                    border="0"
+                                    cellpadding="0"
+                                    cellspacing="0"
+                                    width="100%"
+                                    style="max-width: 700px;"
+                                >
+
+                                    <!-- Spacer -->
+                                    <tr>
+                                        <td
+                                            bgcolor="#ffffff"
+                                            width="100%"
+                                            height="30"
+
+                                            style="
+                                                border-top-left-radius: 10px;
+                                                border-top-right-radius: 10px;
+                                                border-bottom-right-radius: 0px;
+                                                border-bottom-left-radius: 0px;
+                                            "
+
+                                        >
+                                        </td>
+                                    </tr>
+
+                                    <!-- Content -->
+                                    <tr>
+                                        <td bgcolor="#ffffff" align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left: 35px; padding-right: 35px;">
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 15px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Ne bucurăm sau ne este groază să mergem la serviciu în fiecare dimineaţă? Suntem în relaţii care ne aduc împliniri sau conflicte? Privim creşterea copiilor ca pe o povară sau ca pe o bucurie? Aducem în general contribuţii importante? Simţim că societatea ne apreciază? Cât de des luăm decizii despre care credem că ne vor ajuta să câştigăm putere şi influenţă, fără să ne dăm seama că ne subminăm neintenţionat şansele reale de a fi fericiţi? Câtă energie investim în gestionarea imaginii noastre pentru a obține aprobare socială? <em>Toate răspunsurile la aceste întrebări îşi găsesc originea undeva departe: la locurile de joacă din copilăria noastră</em>.
+                                            </p>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 15px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Bestsellerul semnat de psihologul Mitch Prinstein examinează motivele pentru care popularitatea joacă un rol atât de important în dezvoltarea noastră, influenţându-ne fericirea și succesul pe termen lung. Vechile dinamici ale copilăriei și adolescenţei continuă să se manifeste <em>în fiecare întâlnire de afaceri, în reuniunile sociale, în relaţiile personale și chiar în felul în care ne creștem copiii</em>.
+                                            </p>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Cu cât înţelegem mai multe despre cele două tipuri de popularitate şi despre cum ne afectează ea de-a lungul vieţii, cu atât creşte probabilitatea să avem relaţii profunde, satisfăcătoare şi rodnice în prezent.
+                                            </p>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td bgcolor="#ffffff" width="100%" height="30"></td></tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#867cd7" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+              						<tr>
+              							<td width="100%" align="center">
+                                            <a title="Mitch Prinstein: Popular. Editura Publica" href="https://www.publica.ro/mitch-prinstein-popular.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    alt="Mitch Prinstein: Popular. Editura Publica"
+                                                    src="img/publica-2018-01-02-hero-02.jpg"
+                                                    src="http://newsletter.publica.ro/2018/01-02/img/publica-2018-01-02-hero-02.jpg"
+                                                    width="700"
+                                                    style="
+                                                        display: block;
+
+                                                        width: 100%;
+                                                        height: auto;
+
+                                                        max-width: 100%;
+                                                        min-width: 100px;
+
+                                                        color: #ffffff;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 19px;
+                                                        font-weight: 400;
+                                                        line-height: 35px;
+                                                        text-align: center;
+
+                                                        margin: 0 auto;
+                                                    "
+                                                    border="0"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#867cd7" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="0"></td></tr>
+
+                                    <tr>
+                                        <td align="center" valign="top" style="padding-top:0px; padding-bottom:0px; padding-left: 35px; padding-right: 35px;">
+                                            <p
+                                                style="
+                                                    color: #5d52ae;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 25px;
+                                                    text-decoration: line-through;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                            ">
+                                                &nbsp; 45 Lei &nbsp;
+                                            </p>
+                                            <h1
+                                                class="intro-text"
+                                                style="
+                                                    text-align: center;
+
+                                                    color: #ffffff;
+
+                                                    font-family: 'Roboto Mono', Monaco, monospace !important;
+                                                    font-weight: 100;
+                                                    font-size: 31px;
+                                                    line-height: 42px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Preț: 36 Lei
+                                            </h1>
+                                            <p
+                                                style="
+                                                    color: #5d52ae;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 10px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                288 pagini, paperback
+                                            </p>
+                                            <!-- A pretty button -->
+                                            <!--[if mso]>
+                                                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.publica.ro/mitch-prinstein-popular.html" style="height:60px;v-text-anchor:middle;width:200px;" arcsize="10%" stroke="f" fillcolor="#1263b5">
+                                                    <w:anchorlock/>
+                                                        <center>
+                                            <![endif]-->
+                                                        <a
+                                                            class="btnBoxFull btnAnimate"
+                                                            href="https://www.publica.ro/mitch-prinstein-popular.html"
+                                                            target="_blank"
+                                                            style="
+                                                                background-color:#5d52ae;
+                                                                border-radius:6px;
+                                                                display:inline-block;
+                                                                color: #ffffff;
+                                                                font-family: 'Roboto', sans-serif;
+                                                                font-size: 19px;
+                                                                font-weight: 700;
+                                                                letter-spacing: 0.5px;
+                                                                line-height: 60px;
+                                                                text-align:center;
+                                                                text-decoration:none;
+                                                                width:240px;
+                                                                -webkit-text-size-adjust:none;
+                                                            "
+                                                        >
+                                                            Comandă aici →
+                                                        </a>
+                                            <!--[if mso]>
+                                                    </center>
+                                                </v:roundrect>
+                                            <![endif]-->
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="40"></td></tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="30"></td></tr>
+
+                                    <!-- Content -->
+                                    <tr>
+                                        <td align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left: 35px; padding-right: 35px;">
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Angela Duckworth, autoarea <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 13pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #867cd7; color: #867cd7;" href="https://www.publica.ro/angela-duckworth-grit.html" title="Angela Duckworth: Grit. Editura Publica" target="_blank">Grit</a>: <em>„Aţi fost populari în copilărie? Cu siguranţă aveţi un răspuns la această întrebare, însă Mitch Prinstein ar vrea să aveţi două: statutul este ceva, iar atractivitatea cu totul altceva. Originile ambelor tipuri de popularitate constituie subiectul acestei cărţi deosibit de fascinante și extraordinar de bine scrise. Am citit-o din scoarţă-n scoarţă și am aflat tot atâtea lucruri despre știinţă pe câte am aflat despre mine însămi.”</em>
+                                            </p>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="30"></td></tr>
+                                    <tr><td bgcolor="#e5e5e5" width="100%" height="1"></td></tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="30"></td></tr>
+
+                                    <!-- Content -->
+                                    <tr>
+                                        <td align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left: 35px; padding-right: 35px;">
+                                            <h1
+                                                class="intro-text"
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'Roboto Mono', Monaco, monospace !important;
+                                                    font-weight: 100;
+                                                    font-size: 31px;
+                                                    line-height: 42px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 10px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Despre autor:
+                                            </h1>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Dr. Mitch Prinstein este certificat în psihologia clinică a copilului și adolescentului. Este profesor de psihologie și neuroștiinţe și director al catedrei de <em>Psihologie Clinică a Universităţii Carolina de Nord</em> din Chapel Hill. Cercetările sale au fost prezentate în <em>New York <em>Time</em>s</em>, <em>Wall Street Journal</em>, <em>Los Angeles <em>Time</em>s</em>, <em>CNN</em>, <em>U.S. News & World Report</em> și <em>Time</em>.
+                                            </p>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="30"></td></tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#e5e5e5" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="30"></td></tr>
+
+                                    <!-- Content -->
+                                    <tr>
+                                        <td align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left: 35px; padding-right: 35px;">
+                                            <h1
+                                                class="intro-text"
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'Roboto Mono', Monaco, monospace !important;
+                                                    font-weight: 100;
+                                                    font-size: 31px;
+                                                    line-height: 42px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 10px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Lecturi complementare:
+                                            </h1>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', Georgia, serif !important;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 32px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Fiindcă primești newsletterul nostru, <span style="padding-top: 5px; padding-right: 5px; padding-bottom: 3px; padding-left: 6px; font-family: 'Roboto', sans-serif; font-size: 14px; letter-spacing: 0.5px; font-weight: 700; color: #ffffff; background-color: #867cd7; white-space: nowrap;">azi beneficiezi de 20% discount</span> în coș cartea nouă + oricare dintre lecturile complementare recomandate mai jos (oferta se aplică exclusiv acestui pachet):
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+                                    <tr>
+                                        <td width="100%" align="center">
+                                            <table bgcolor="#e5e5e5" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a title="Angela Duckworth: Grit. Editura Publica" href="https://www.publica.ro/angela-duckworth-grit.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Angela Duckworth: Grit. Editura Publica"
+                                                                src="img/publica-2018-01-02-book-small-01.jpg"
+                                                                src="http://newsletter.publica.ro/2018/01-02/img/publica-2018-01-02-book-small-01.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #ffffff;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 15px;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <table bgcolor="#e5e5e5" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a title="Anders Ericsson, Robert Pool: Peak. Editura Publica" href="https://www.publica.ro/anders-ericsson-robert-pool-peak.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Anders Ericsson, Robert Pool: Peak. Editura Publica"
+                                                                src="img/publica-2018-01-02-book-small-02.jpg"
+                                                                src="http://newsletter.publica.ro/2018/01-02/img/publica-2018-01-02-book-small-02.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #ffffff;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 15px;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="100%" align="center">
+                                            <table bgcolor="#e5e5e5" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a title="Bill Burnett, Dave Evans: Designing Your Life. Editura Publica" href="https://www.publica.ro/bill-burnett-dave-evans-designing-your-life.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Bill Burnett, Dave Evans: Designing Your Life. Editura Publica"
+                                                                src="img/publica-2018-01-02-book-small-03.jpg"
+                                                                src="http://newsletter.publica.ro/2018/01-02/img/publica-2018-01-02-book-small-03.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #ffffff;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 15px;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <table bgcolor="#e5e5e5" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a title="Neil Pasricha: Ecuația fericirii. Editura Publica" href="https://www.publica.ro/neil-pasricha-ecuatia-fericirii.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Neil Pasricha: Ecuația fericirii. Editura Publica"
+                                                                src="img/publica-2018-01-02-book-small-04.jpg"
+                                                                src="http://newsletter.publica.ro/2018/01-02/img/publica-2018-01-02-book-small-04.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #ffffff;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 15px;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td
+                                            bgcolor="#e5e5e5"
+                                            width="100%"
+                                            height="25"
+                                            style="
+                                                border-top-left-radius: 0px;
+                                                border-top-right-radius: 0px;
+                                                border-bottom-right-radius: 10px;
+                                                border-bottom-left-radius: 10px;
+                                            "
+                                            class="borderRadiusToggle"
+                                        >
+                                        </td>
+                                    </tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;" >
+                                    <tr><td bgcolor="" width="100%" height="50"></td></tr>
+                                    <tr>
+                                        <td align="center">
+
+                                            <table
+                                                width="65%"
+                                                align="left"
+                                                border="0"
+                                                cellpadding="0"
+                                                cellspacing="0"
+                                                style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;"
+                                                class="full-width"
+                                            >
+                                                <tr>
+                                                    <td bgcolor="" align="left" style="padding-top:0px; padding-bottom:0px; padding-left: 35px; padding-right: 35px;">
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            Editura Publica<br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://goo.gl/maps/iL39imwQLVS2" target="_blank">Ștefan Mihăileanu 28A, București</a><br/>
+                                                            Scrie-ne pe <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="mailto:carte@publica.ro" target="_blank">carte@publica.ro</a><br/>
+                                                        </p>
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            *|IF:FNAME|**|TITLE:FNAME|*, primești *|ELSE:|*Primești*|END:IF|*
+                                                            acest newsletter pentru că te-ai abonat la noutățile editurii Publica. Dacă vrei să-ți editezi setările, <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="*|UPDATE_PROFILE|*" target="_blank">apasă aici</a>. Sau dezabonează-te <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="*|UNSUB|*" target="_blank">aici</a>.
+                                                        </p>
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="http://www.publica.ro/termeni-si-conditii.html" target="_blank">Confidențialitatea datelor</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="*|ARCHIVE|*" target="_blank">Vezi în browser</a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <table
+                                                width="35%"
+                                                align="right"
+                                                border="0"
+                                                cellpadding="0"
+                                                cellspacing="0"
+                                                style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;"
+                                                class="full-width fullWidthLeft"
+                                            >
+                                                <tr>
+                                                    <td bgcolor="" align="left" style="padding-top:0px; padding-bottom:0px; padding-left: 35px; padding-right: 35px;">
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            Urmărește-ne și pe:
+                                                        </p>
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.goodreads.com/user/show/56158609-editura-publica" target="_blank">Goodreads</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.instagram.com/editurapublica" target="_blank">Instagram</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.facebook.com/editurapublica" target="_blank">Facebook</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.pinterest.com/editurapublica" target="_blank">Pinterest</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.youtube.com/user/meetthethinkers" target="_blank">Youtube</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://twitter.com/edituraPublica" target="_blank">Twitter</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="http://blog.publica.ro" target="_blank">Blog</a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td bgcolor="" width="100%" height="50"></td></tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- Spacer -->
+            <tr><td bgcolor="#F7F7F8" width="100%" height="50"></td></tr>
+
+        </table>
+    </body>
+</html>
