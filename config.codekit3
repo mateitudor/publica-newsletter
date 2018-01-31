@@ -7,7 +7,7 @@
 		"uuidString": "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26261",
 "files": {
 	"\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg": {
 		"ft": 16384,
@@ -11111,6 +11111,70 @@
 		"oAP": "\/2018\/01-03\/publica-2018-01-03-wip.html",
 		"oF": 0
 		},
+	"\/2018\/01-04\/img\/publica-2018-01-04-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 52046,
+		"oA": 0,
+		"oAP": "\/2018\/01-04\/img\/publica-2018-01-04-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/01-04\/img\/publica-2018-01-04-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 64635,
+		"oA": 0,
+		"oAP": "\/2018\/01-04\/img\/publica-2018-01-04-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/01-04\/img\/publica-2018-01-04-hero-03.jpg": {
+		"ft": 16384,
+		"iS": 346589,
+		"oA": 0,
+		"oAP": "\/2018\/01-04\/img\/publica-2018-01-04-hero-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/01-04\/img\/publica-2018-01-04-hero-04.jpg": {
+		"ft": 16384,
+		"iS": 296004,
+		"oA": 0,
+		"oAP": "\/2018\/01-04\/img\/publica-2018-01-04-hero-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/01-04\/img\/publica-2018-01-04-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 10724,
+		"oA": 0,
+		"oAP": "\/2018\/01-04\/img\/publica-2018-01-04-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/01-04\/publica-2018-01-04-absolute.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/01-04\/publica-2018-01-04-absolute.html",
+		"oF": 0
+		},
+	"\/2018\/01-04\/publica-2018-01-04-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/01-04\/publica-2018-01-04-wip.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
@@ -12348,6 +12412,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
