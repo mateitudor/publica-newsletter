@@ -11245,11 +11245,18 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/2018\/02-01\/publica-2018-02-01-wip copy.html": {
+	"\/2018\/02-01\/publica-2018-02-01-gold.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/2018\/02-01\/publica-2018-02-01-wip copy.html",
+		"oAP": "\/2018\/02-01\/publica-2018-02-01-gold.html",
+		"oF": 0
+		},
+	"\/2018\/02-01\/publica-2018-02-01-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/02-01\/publica-2018-02-01-regular.html",
 		"oF": 0
 		},
 	"\/2018\/02-01\/publica-2018-02-01-wip.html": {
