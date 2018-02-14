@@ -11175,6 +11175,90 @@
 		"oAP": "\/2018\/01-04\/publica-2018-01-04-wip.html",
 		"oF": 0
 		},
+	"\/2018\/02-01\/img\/publica-2018-02-01-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 156951,
+		"oA": 0,
+		"oAP": "\/2018\/02-01\/img\/publica-2018-02-01-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-01\/img\/publica-2018-02-01-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 145004,
+		"oA": 0,
+		"oAP": "\/2018\/02-01\/img\/publica-2018-02-01-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-01\/img\/publica-2018-02-01-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 156042,
+		"oA": 0,
+		"oAP": "\/2018\/02-01\/img\/publica-2018-02-01-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-01\/img\/publica-2018-02-01-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 115797,
+		"oA": 0,
+		"oAP": "\/2018\/02-01\/img\/publica-2018-02-01-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-01\/img\/publica-2018-02-01-hero.jpg": {
+		"ft": 16384,
+		"iS": 269056,
+		"oA": 0,
+		"oAP": "\/2018\/02-01\/img\/publica-2018-02-01-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/02-01\/img\/publica-2018-02-01-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 12928,
+		"oA": 0,
+		"oAP": "\/2018\/02-01\/img\/publica-2018-02-01-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/02-01\/img\/publica-author-iancu-guda.jpg": {
+		"ft": 16384,
+		"iS": 240924,
+		"oA": 0,
+		"oAP": "\/2018\/02-01\/img\/publica-author-iancu-guda.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/02-01\/publica-2018-02-01-wip copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/02-01\/publica-2018-02-01-wip copy.html",
+		"oF": 0
+		},
+	"\/2018\/02-01\/publica-2018-02-01-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/02-01\/publica-2018-02-01-wip.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
