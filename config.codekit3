@@ -7,7 +7,7 @@
 		"uuidString": "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26268",
 "files": {
 	"\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg": {
 		"ft": 16384,
@@ -11266,6 +11266,129 @@
 		"oAP": "\/2018\/02-01\/publica-2018-02-01-wip.html",
 		"oF": 0
 		},
+	"\/2018\/02-02\/img\/publica-2018-02-02-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 130466,
+		"oA": 0,
+		"oAP": "\/2018\/02-02\/img\/publica-2018-02-02-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-02\/img\/publica-2018-02-02-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 88364,
+		"oA": 0,
+		"oAP": "\/2018\/02-02\/img\/publica-2018-02-02-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-02\/img\/publica-2018-02-02-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 114810,
+		"oA": 0,
+		"oAP": "\/2018\/02-02\/img\/publica-2018-02-02-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-02\/img\/publica-2018-02-02-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 122316,
+		"oA": 0,
+		"oAP": "\/2018\/02-02\/img\/publica-2018-02-02-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-02\/img\/publica-2018-02-02-hero.jpg": {
+		"ft": 16384,
+		"iS": 277377,
+		"oA": 0,
+		"oAP": "\/2018\/02-02\/img\/publica-2018-02-02-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-02\/img\/publica-2018-02-02-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 7652,
+		"oA": 0,
+		"oAP": "\/2018\/02-02\/img\/publica-2018-02-02-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-02\/img\/publica-author-simon-sinek.jpg": {
+		"ft": 16384,
+		"iS": 222873,
+		"oA": 0,
+		"oAP": "\/2018\/02-02\/img\/publica-author-simon-sinek.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/02-02\/publica-2018-02-02-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/02-02\/publica-2018-02-02-gold.html",
+		"oF": 0
+		},
+	"\/2018\/02-02\/publica-2018-02-02-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/02-02\/publica-2018-02-02-regular.html",
+		"oF": 0
+		},
+	"\/2018\/02-02\/publica-2018-02-02-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/02-02\/publica-2018-02-02-wip.html",
+		"oF": 0
+		},
+	"\/2018\/03-01\/img\/publica-2018-03-01-hero.gif": {
+		"ft": 4194304,
+		"iS": 3598816,
+		"oA": 0,
+		"oAP": "\/2018\/03-01\/img\/publica-2018-03-01-hero.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/2018\/03-01\/img\/publica-2018-03-01-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 8020,
+		"oA": 0,
+		"oAP": "\/2018\/03-01\/img\/publica-2018-03-01-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-01\/publica-2018-03-01-final.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-01\/publica-2018-03-01-final.html",
+		"oF": 0
+		},
+	"\/2018\/03-01\/publica-2018-03-01-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-01\/publica-2018-03-01-wip.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
@@ -11940,6 +12063,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
