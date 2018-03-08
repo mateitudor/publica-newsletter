@@ -11459,13 +11459,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/2018\/03-02\/publica-2018-03-02-gold copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/2018\/03-02\/publica-2018-03-02-gold copy.html",
-		"oF": 0
-		},
 	"\/2018\/03-02\/publica-2018-03-02-gold.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -11473,11 +11466,119 @@
 		"oAP": "\/2018\/03-02\/publica-2018-03-02-gold.html",
 		"oF": 0
 		},
+	"\/2018\/03-02\/publica-2018-03-02-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-02\/publica-2018-03-02-regular.html",
+		"oF": 0
+		},
 	"\/2018\/03-02\/publica-2018-03-02-wip.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/2018\/03-02\/publica-2018-03-02-wip.html",
+		"oF": 0
+		},
+	"\/2018\/03-03\/img\/publica-2018-03-03-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 179109,
+		"oA": 0,
+		"oAP": "\/2018\/03-03\/img\/publica-2018-03-03-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-03\/img\/publica-2018-03-03-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 211216,
+		"oA": 0,
+		"oAP": "\/2018\/03-03\/img\/publica-2018-03-03-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-03\/img\/publica-2018-03-03-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 212073,
+		"oA": 0,
+		"oAP": "\/2018\/03-03\/img\/publica-2018-03-03-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-03\/img\/publica-2018-03-03-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 203520,
+		"oA": 0,
+		"oAP": "\/2018\/03-03\/img\/publica-2018-03-03-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-03\/img\/publica-2018-03-03-hero.jpg": {
+		"ft": 16384,
+		"iS": 1222674,
+		"oA": 0,
+		"oAP": "\/2018\/03-03\/img\/publica-2018-03-03-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/03-03\/img\/publica-2018-03-03-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 13906,
+		"oA": 0,
+		"oAP": "\/2018\/03-03\/img\/publica-2018-03-03-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/03-03\/img\/publica-author-jennifer-ackerman.JPG": {
+		"ft": 16384,
+		"iS": 55094,
+		"oA": 0,
+		"oAP": "\/2018\/03-03\/img\/publica-author-jennifer-ackerman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/03-03\/img\/publica-sor-pins.jpg": {
+		"ft": 16384,
+		"iS": 1369383,
+		"oA": 0,
+		"oAP": "\/2018\/03-03\/img\/publica-sor-pins.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/03-03\/publica-2018-03-03-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-03\/publica-2018-03-03-gold.html",
+		"oF": 0
+		},
+	"\/2018\/03-03\/publica-2018-03-03-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-03\/publica-2018-03-03-regular.html",
+		"oF": 0
+		},
+	"\/2018\/03-03\/publica-2018-03-03-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-03\/publica-2018-03-03-wip.html",
 		"oF": 0
 		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
