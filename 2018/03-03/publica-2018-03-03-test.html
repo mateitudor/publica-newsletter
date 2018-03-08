@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>*|MC:SUBJECT|*</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <!-- Load typefaces -->
+        <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i|Roboto:700|Roboto+Mono:100,300&subset=latin-ext" rel="stylesheet">
+
+        <!-- Load styles -->
+        <style type="text/css">
+            /* Globals */
+            .btnAnimate{
+                -webkit-transition: all 0.2s ease-out;
+                -moz-transition   : all 0.2s ease-out;
+                -ms-transition    : all 0.2s ease-out;
+                -o-transition     : all 0.2s ease-out;
+                transition        : all 0.2s ease-out;
+            }
+            .btnBox:hover{
+                color: #ffffff !important;
+                border-color: #262222 !important;
+            }
+            .btnBoxFull:hover{
+                color: #ffffff !important;
+                background: #262222 !important;
+            }
+            .inlineLink:hover,
+            .inlineLink:hover span{
+                color: #262222 !important;
+                border-color: #262222 !important;
+            }
+
+            /* Client Specific */
+            body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+            table, td { mso-table-lspace: 0px; mso-table-rspace: 0px; }
+             { -ms-interpolation-mode: bicubic; }
+
+            /* Resets */
+             { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+            table { border-collapse: collapse !important; }
+            body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+            /* iOS blue links */
+            a[x-apple-data-detectors] {
+                color: inherit !important;
+                text-decoration: none !important;
+                font-size: inherit !important;
+                font-family: inherit !important;
+                font-weight: inherit !important;
+                line-height: inherit !important;
+            }
+
+            /* Android center fix */
+            div[style*="margin: 16px 0;"] { margin: 0 !important; }
+        </style>
+
+        <style type="text/css">
+            @media only screen and (max-width: 640px){
+                .borderRadiusToggle{
+                    border-top-left-radius: 0 !important;
+                    border-top-right-radius: 0 !important;
+                    border-bottom-right-radius: 0 !important;
+                    border-bottom-left-radius: 0 !important;
+                }
+                .halfColumnToggle {
+                    padding-right: 35px !important;
+                }
+                .intro-text{
+                    font-size: 20px !important;
+                    line-height: 35px !important;
+                    font-weight: 300 !important;
+                }
+                body table[class=full-width]{
+                    display: inline-block !important;
+                    margin: 0 auto;
+
+                    width: 100% !important;
+
+                    text-align: center;
+                }
+                body table[class=full-width] tbody {
+                    display: inline !important;
+                    text-align: center;
+                }
+
+                .fullWidthLeft{
+                    display: inline-block !important;
+                    margin: 0 auto;
+
+                    width: 100% !important;
+
+                    text-align: left;
+                }
+                body table[class=fullWidthLeft] tbody{
+                    display: inline !important;
+
+                    text-align: left;
+                }
+
+                .halfColumnRow {
+                    display: inline-block;
+                }
+                .halfColumnImage {
+                    width: 100% !important;
+
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                    text-align: center;
+                }
+                .halfColumnLink {
+                    display: block !important;
+
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                    text-align: center;
+
+                    display: block;
+                    width: 100%;
+                }
+                .header-logo {
+                    max-width: 270px !important;
+                    min-width: 270px !important;
+                }
+            }
+        </style>
+    </head>
+    <body style="background-color: #f5fafe; margin: 0 !important; padding: 0 !important;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td bgcolor="#f5fafe" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+                                    <tr><td bgcolor="#f5fafe" width="100%" height="30"></td></tr>
+              						<tr>
+              							<td align="left">
+                                            <a class="header-logo" href="http://www.publica.ro" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    width="300"
+                                                    src="img/publica-2018-03-03-logo+tagline.jpg"
+                                                    src="http://newsletter.publica.ro/2018/03-03/img/publica-2018-03-03-logo+tagline.jpg"
+                                                    alt="Editura Publica"
+                                                    style="
+                                                        display: block;
+
+                                                        width: 300px;
+                                                        height: auto;
+
+                                                        max-width: 300px;
+                                                        min-width: 300px;
+
+                                                        color: #262222;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 19px;
+                                                        font-weight: 400;
+                                                        line-height: 35px;
+                                                        text-align: center;
+
+                                                        margin-top: 0;
+                                                        margin-bottom: 0;
+                                                        margin-left: 32px;
+                                                        margin-right: 0;
+                                                    "
+                                                    border="0"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    <tr><td bgcolor="#f5fafe" width="100%" height="20"></td></tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#f5fafe" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table
+                                    border="0"
+                                    cellpadding="0"
+                                    cellspacing="0"
+                                    width="100%"
+                                    style="max-width: 700px;"
+                                >
+
+                                    <!-- Spacer -->
+                                    <tr>
+                                        <td
+                                            bgcolor="#ffffff"
+                                            width="100%"
+                                            height="30"
+
+                                            style="
+                                                border-top-left-radius: 10px;
+                                                border-top-right-radius: 10px;
+                                                border-bottom-right-radius: 0px;
+                                                border-bottom-left-radius: 0px;
+                                            "
+                                        >
+                                        </td>
+                                    </tr>
+
+                                    <!-- Content -->
+                                    <tr>
+                                        <td bgcolor="#ffffff" align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left: 35px; padding-right: 35px;">
+                                            <a title="Jennifer Ackerman: Autoare Publica" href="https://www.publica.ro/jennifer-ackerman-geniul-pasarilor.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    src="img/publica-author-jennifer-ackerman.jpg"
+                                                    src="http://newsletter.publica.ro/2018/03-03/img/publica-author-jennifer-ackerman.jpg"
+                                                    alt="Jennifer Ackerman: Autoare Publica"
+                                                    width="700"
+                                                    style="
+                                                        display: block;
+
+                                                        width: 100%;
+                                                        height: auto;
+
+                                                        max-width: 100%;
+                                                        min-width: 100px;
+
+                                                        color: #262222;
+                                                        background-color: #ffffff;
+
+                                                        font-family: 'PT Serif', Georgia, serif !important;
+                                                        font-size: 19px;
+                                                        font-weight: 400;
+                                                        line-height: 32px;
+                                                        text-align: center;
+
+                                                        margin-bottom: 15px;
+                                                    "
+                                                    border="0"
+                                                >
+                                            </a>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 15px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Ne bucurăm să vă prezentăm azi, de 8 Martie, o carte semnată de o excepțională autoare: Jennifer Ackerman scrie despre ştiinţă, natură şi biologia umană de aproape trei decenii. Colaborează cu <em>Scientific American</em>, <em>National Geographic</em> și <em>The New York Times</em> și a primit <em>National Endowment for the Arts Literature Fellowship in Nonfiction</em>, o bursă Bunting şi una din partea <em>Fundaţiei Alfred P. Sloan</em>.
+                                            </p>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 15px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 13pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #0095da; color: #0095da;" href="https://www.publica.ro/jennifer-ackerman-geniul-pasarilor.html" target="_blank">Geniul păsărilor</a> este o cercetare ştiinţifică elegantă şi fascinantă și, totodată, un jurnal de călătorii al autoarei. Ackerman reuşeşte să ne facă să privim cu alţi ochi păsările şi talentele lor excepţionale şi să descoperim ce anume putem învăţa de la ele în legătură cu lumea noastră mereu în schimbare.
+                                            </p>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 15px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Multă vreme s-a spus despre păsări că „au ochii ca mărgelele şi creierul cât o nucă”. Limbajul nostru reflectă lipsa noastră de respect: ceva fără valoare sau neatrăgător e „de aruncat la păsări”, „să-ţi scape porumbelul” înseamnă să spui o prostie, „să cotcodăceşti” înseamnă să vorbeşti fără rost. Această atitudine faţă de păsări <em>este complet depăşită</em>, în prezent. În ultimele două decenii, laboratoarele de cercetare din toată lumea au oferit nenumărate exemple de specii de păsări capabile de performanţe mintale comparabile cu cele întâlnite la primate. Te invităm să descoperi minunata lume a vietăților care zboară în preajma noastră.
+                                            </p>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Consultantul de specialitate Dr. Angela Petrescu, <em>ornitolog</em> la Muzeul Național de Istorie Naturală Grigore Antipa, a supervizat traducerea în limba română a cărții.
+                                            </p>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td bgcolor="#ffffff" width="100%" height="30"></td></tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#f5fafe" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#ecf4ff" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+                                    <tr>
+                                        <td width="100%" align="center">
+                                            <a title="Jennifer Ackerman — Geniul păsărilor — Editura Publica" href="https://www.publica.ro/jennifer-ackerman-geniul-pasarilor.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    alt="Jennifer Ackerman — Geniul păsărilor — Editura Publica"
+                                                    src="img/publica-2018-03-03-hero.jpg"
+                                                    src="http://newsletter.publica.ro/2018/03-03/img/publica-2018-03-03-hero.jpg"
+                                                    width="700"
+                                                    style="
+                                                        display: block;
+
+                                                        width: 100%;
+                                                        height: auto;
+
+                                                        max-width: 100%;
+                                                        min-width: 100px;
+
+                                                        color: #262222;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 19px;
+                                                        font-weight: 400;
+                                                        line-height: 35px;
+                                                        text-align: center;
+
+                                                        margin: 0 auto;
+                                                    "
+                                                    border="0"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#f5fafe" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#ecf4ff" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="0"></td></tr>
+
+                                    <tr>
+                                        <td align="center" valign="top" style="padding-top:0px; padding-bottom:0px; padding-left: 35px; padding-right: 35px;">
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 25px;
+                                                    text-decoration: line-through;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                            ">
+                                                &nbsp; 35 Lei &nbsp;
+                                            </p>
+                                            <h1
+                                                class="intro-text"
+                                                style="
+                                                    text-align: center;
+
+                                                    color: #0095da;
+
+                                                    font-family: 'Roboto Mono', Monaco, monospace !important;
+                                                    font-weight: 100;
+                                                    font-size: 31px;
+                                                    line-height: 42px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Preț: 28 Lei
+                                            </h1>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 10px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                264 pagini, paperback
+                                            </p>
+                                            <!-- A pretty button -->
+                                            <!--[if mso]>
+                                                <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.publica.ro/jennifer-ackerman-geniul-pasarilor.html" style="height:60px;v-text-anchor:middle;width:200px;" arcsize="10%" stroke="f" fillcolor="#0095da">
+                                                    <w:anchorlock/>
+                                                        <center>
+                                            <![endif]-->
+                                                        <a
+                                                            class="btnBoxFull btnAnimate"
+                                                            title="Comandă → Jennifer Ackerman — Geniul păsărilor — Editura Publica"
+                                                            href="https://www.publica.ro/jennifer-ackerman-geniul-pasarilor.html"
+                                                            target="_blank"
+                                                            style="
+                                                                background-color:#0095da;
+                                                                border-radius:6px;
+                                                                display:inline-block;
+                                                                color: #ffffff;
+                                                                font-family: 'Roboto', sans-serif;
+                                                                font-size: 19px;
+                                                                font-weight: 700;
+                                                                letter-spacing: 0.5px;
+                                                                line-height: 60px;
+                                                                text-align:center;
+                                                                text-decoration:none;
+                                                                width:240px;
+                                                                -webkit-text-size-adjust:none;
+                                                            "
+                                                        >
+                                                            Comandă aici →
+                                                        </a>
+                                            <!--[if mso]>
+                                                    </center>
+                                                </v:roundrect>
+                                            <![endif]-->
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="40"></td></tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#f5fafe" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="30"></td></tr>
+
+                                    <!-- Content -->
+                                    <tr>
+                                        <td align="left" style="padding-top: 0px; padding-bottom: 0px; padding-left: 35px; padding-right: 35px;">
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Geniul păsărilor face parte din <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 13pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #0095da; color: #0095da;" href="https://www.publica.ro/co-lectia-de-stiinta.html" target="_blank">Co-lecția de știință</a> — o colecție dedicată celor mai interesante și importante idei științifice actuale, descoperiri și inovații din lumea de azi. Co-lecția de știință e susținută de <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 13pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #0095da; color: #0095da;" href="https://www.erste-am.ro/ro/informatii-investitori" target="_blank">Erste Asset Management</a>.
+                                            </p>
+                                            <a title="Jennifer Ackerman — Geniul păsărilor — Editura Publica" href="https://www.publica.ro/jennifer-ackerman-geniul-pasarilor.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    src="img/publica-sor-pins.jpg"
+                                                    src="http://newsletter.publica.ro/2018/03-03/img/publica-sor-pins.jpg"
+                                                    alt="Jennifer Ackerman — Geniul păsărilor — Editura Publica"
+                                                    width="700"
+                                                    style="
+                                                        display: block;
+
+                                                        width: 100%;
+                                                        height: auto;
+
+                                                        max-width: 100%;
+                                                        min-width: 100px;
+
+                                                        color: #262222;
+                                                        background-color: #ffffff;
+
+                                                        font-family: 'PT Serif', Georgia, serif !important;
+                                                        font-size: 19px;
+                                                        font-weight: 400;
+                                                        line-height: 32px;
+                                                        text-align: center;
+
+                                                        margin-bottom: 15px;
+                                                    "
+                                                    border="0"
+                                                >
+                                            </a>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 15px;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                Cei care achiziționează azi și mâine cartea <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 13pt; letter-spacing: 0.5px; font-weight: 700; line-height: 25pt; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #0095da; color: #0095da;" href="https://www.publica.ro/jennifer-ackerman-geniul-pasarilor.html" target="_blank">Geniul păsărilor</a> vor primi din partea noastră <span style="padding-top: 5px; padding-right: 5px; padding-bottom: 3px; padding-left: 6px; font-family: 'Roboto', sans-serif; font-size: 14px; letter-spacing: 0.5px; font-weight: 700; color: #ffffff; background-color: #0095da; white-space: nowrap;">o pasăre-insignă</span> de la <em>Societatea Ornitologică Română</em>; SOR va investi profitul din vânzarea acestor insigne în acțiuni de conservare.
+                                            </p>
+                                            <p
+                                                style="
+                                                    color: #262222;
+
+                                                    font-family: 'PT Serif', serif;
+                                                    font-size: 19px;
+                                                    font-weight: 400;
+                                                    line-height: 35px;
+
+                                                    margin-top: 0;
+                                                    margin-bottom: 0;
+                                                    margin-left: 0;
+                                                    margin-right: 0;
+                                                "
+                                            >
+                                                De asemenea, în perioada <span style="padding-top: 5px; padding-right: 5px; padding-bottom: 3px; padding-left: 6px; font-family: 'Roboto', sans-serif; font-size: 14px; letter-spacing: 0.5px; font-weight: 700; color: #ffffff; background-color: #0095da; white-space: nowrap;">8-9 martie</span>, dacă achiziționezi cartea <em>Geniul păsărilor</em> împreună cu oricare dintre recomandările de mai jos, beneficiezi de <span style="padding-top: 5px; padding-right: 5px; padding-bottom: 3px; padding-left: 6px; font-family: 'Roboto', sans-serif; font-size: 14px; letter-spacing: 0.5px; font-weight: 700; color: #ffffff; background-color: #0095da; white-space: nowrap;">20% reducere</span>:
+                                            </p>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#f5fafe" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+                                    <tr>
+                                        <td width="100%" align="center">
+                                            <table bgcolor="#ffffff" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a title="Peter Wohlleben — Pădurea — Editura Publica" href="https://www.publica.ro/peter-wohlleben-padurea.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Peter Wohlleben — Pădurea — Editura Publica"
+                                                                src="img/publica-2018-03-03-book-small-01.jpg"
+                                                                src="http://newsletter.publica.ro/2018/03-03/img/publica-2018-03-03-book-small-01.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #262222;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 15px;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <table bgcolor="#ffffff" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a title="Peter Wohlleben — Viața secretă a copacilor — Editura Publica" href="https://www.publica.ro/peter-wohlleben-viata-secreta-a-copacilor.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Peter Wohlleben — Viața secretă a copacilor — Editura Publica"
+                                                                src="img/publica-2018-03-03-book-small-02.jpg"
+                                                                src="http://newsletter.publica.ro/2018/03-03/img/publica-2018-03-03-book-small-02.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #262222;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 15px;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="100%" align="center">
+                                            <table bgcolor="#ffffff" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a title="Peter Godfrey-Smith — Celelalte minți — Editura Publica" href="https://www.publica.ro/peter-godfrey-smith-celelalte-minti.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Peter Godfrey-Smith — Celelalte minți — Editura Publica"
+                                                                src="img/publica-2018-03-03-book-small-03.jpg"
+                                                                src="http://newsletter.publica.ro/2018/03-03/img/publica-2018-03-03-book-small-03.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #262222;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 15px;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <table bgcolor="#ffffff" width="50%" border="0" cellpadding="0" cellspacing="0" align="left" style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;">
+                                                <tr>
+                                                    <td width="100%" align="center">
+                                                        <a title="Hope Jahren — Fata de laborator — Editura Publica" href="https://www.publica.ro/hope-jahren-fata-de-laborator.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                            <img
+                                                                alt="Hope Jahren — Fata de laborator — Editura Publica"
+                                                                src="img/publica-2018-03-03-book-small-04.jpg"
+                                                                src="http://newsletter.publica.ro/2018/03-03/img/publica-2018-03-03-book-small-04.jpg"
+                                                                width="700"
+                                                                style="
+                                                                    display: block;
+
+                                                                    width: 100%;
+                                                                    height: auto;
+
+                                                                    max-width: 100%;
+                                                                    min-width: 100px;
+
+                                                                    color: #262222;
+
+                                                                    font-family: 'Roboto', sans-serif;
+                                                                    font-size: 15px;
+                                                                    letter-spacing: 0.5px;
+                                                                    font-weight: 700;
+                                                                    text-align: center;
+
+                                                                    margin: 0 auto;
+                                                                "
+                                                                border="0"
+                                                                class="hover"
+                                                            >
+                                                        </a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td
+                                            bgcolor="#ffffff"
+                                            width="100%"
+                                            height="25"
+                                            style="
+                                                border-top-left-radius: 0px;
+                                                border-top-right-radius: 0px;
+                                                border-bottom-right-radius: 10px;
+                                                border-bottom-left-radius: 10px;
+                                            "
+                                            class="borderRadiusToggle"
+                                        >
+                                        </td>
+                                    </tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#f5fafe" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;" >
+                                    <tr><td bgcolor="" width="100%" height="50"></td></tr>
+                                    <tr>
+                                        <td align="center">
+
+                                            <table
+                                                width="65%"
+                                                align="left"
+                                                border="0"
+                                                cellpadding="0"
+                                                cellspacing="0"
+                                                style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;"
+                                                class="full-width"
+                                            >
+                                                <tr>
+                                                    <td bgcolor="" align="left" style="padding-top:0px; padding-bottom:0px; padding-left: 35px; padding-right: 35px;">
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            Editura Publica<br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://goo.gl/maps/iL39imwQLVS2" target="_blank">Ștefan Mihăileanu 28A, București</a><br/>
+                                                            Scrie-ne pe <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="mailto:carte@publica.ro" target="_blank">carte@publica.ro</a><br/>
+                                                        </p>
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            *|IF:FNAME|**|TITLE:FNAME|*, primești *|ELSE:|*Primești*|END:IF|*
+                                                            acest newsletter pentru că te-ai abonat la noutățile editurii Publica. Dacă vrei să-ți editezi setările, <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="*|UPDATE_PROFILE|*" target="_blank">apasă aici</a>. Sau dezabonează-te <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="*|UNSUB|*" target="_blank">aici</a>.
+                                                        </p>
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="http://www.publica.ro/termeni-si-conditii.html" target="_blank">Confidențialitatea datelor</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="*|ARCHIVE|*" target="_blank">Vezi în browser</a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <table
+                                                width="35%"
+                                                align="right"
+                                                border="0"
+                                                cellpadding="0"
+                                                cellspacing="0"
+                                                style="border-collapse:collapse; mso-table-lspace:0px; mso-table-rspace:0px;"
+                                                class="full-width fullWidthLeft"
+                                            >
+                                                <tr>
+                                                    <td bgcolor="" align="left" style="padding-top:0px; padding-bottom:0px; padding-left: 35px; padding-right: 35px;">
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            Urmărește-ne și pe:
+                                                        </p>
+                                                        <p
+                                                            style="
+                                                                color: #8B8C8D;
+
+                                                                font-family: 'PT Serif', serif;
+                                                                font-size: 15px;
+                                                                font-weight: 400;
+                                                                line-height: 35px;
+
+                                                                margin-top: 0;
+                                                                margin-bottom: 15px;
+                                                                margin-left: 0;
+                                                                margin-right: 0;
+                                                            "
+                                                        >
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.goodreads.com/user/show/56158609-editura-publica" target="_blank">Goodreads</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.instagram.com/editurapublica" target="_blank">Instagram</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.facebook.com/editurapublica" target="_blank">Facebook</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.pinterest.com/editurapublica" target="_blank">Pinterest</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://www.youtube.com/user/meetthethinkers" target="_blank">Youtube</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="https://twitter.com/edituraPublica" target="_blank">Twitter</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #8B8C8D; color: #8B8C8D;" href="http://blog.publica.ro" target="_blank">Blog</a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td bgcolor="" width="100%" height="50"></td></tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- Spacer -->
+            <tr><td bgcolor="#f5fafe" width="100%" height="50"></td></tr>
+
+        </table>
+    </body>
+</html>
