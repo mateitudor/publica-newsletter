@@ -11540,7 +11540,7 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/2018\/03-03\/img\/publica-author-jennifer-ackerman.jpg": {
+	"\/2018\/03-03\/img\/publica-author-jennifer-ackerman.JPG": {
 		"ft": 16384,
 		"iS": 55094,
 		"oA": 0,
@@ -11677,6 +11677,60 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/2018\/03-04\/publica-2018-03-04-wip.html",
+		"oF": 0
+		},
+	"\/2018\/03-05\/img\/publica-2018-03-05-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 256150,
+		"oA": 0,
+		"oAP": "\/2018\/03-05\/img\/publica-2018-03-05-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-05\/img\/publica-2018-03-05-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 212339,
+		"oA": 0,
+		"oAP": "\/2018\/03-05\/img\/publica-2018-03-05-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/03-05\/img\/publica-2018-03-05-hero-03.jpg": {
+		"ft": 16384,
+		"iS": 184797,
+		"oA": 0,
+		"oAP": "\/2018\/03-05\/img\/publica-2018-03-05-hero-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-05\/img\/publica-2018-03-05-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 12055,
+		"oA": 0,
+		"oAP": "\/2018\/03-05\/img\/publica-2018-03-05-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-05\/publica-2018-03-05-final.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-05\/publica-2018-03-05-final.html",
+		"oF": 0
+		},
+	"\/2018\/03-05\/publica-2018-03-05-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-05\/publica-2018-03-05-wip.html",
 		"oF": 0
 		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
