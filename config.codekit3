@@ -11733,6 +11733,97 @@
 		"oAP": "\/2018\/03-05\/publica-2018-03-05-wip.html",
 		"oF": 0
 		},
+	"\/2018\/03-06\/img\/publica-2018-03-06-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 190494,
+		"oA": 0,
+		"oAP": "\/2018\/03-06\/img\/publica-2018-03-06-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-06\/img\/publica-2018-03-06-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 122148,
+		"oA": 0,
+		"oAP": "\/2018\/03-06\/img\/publica-2018-03-06-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/03-06\/img\/publica-2018-03-06-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 146866,
+		"oA": 0,
+		"oAP": "\/2018\/03-06\/img\/publica-2018-03-06-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-06\/img\/publica-2018-03-06-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 146866,
+		"oA": 0,
+		"oAP": "\/2018\/03-06\/img\/publica-2018-03-06-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-06\/img\/publica-2018-03-06-hero.jpg": {
+		"ft": 16384,
+		"iS": 384807,
+		"oA": 0,
+		"oAP": "\/2018\/03-06\/img\/publica-2018-03-06-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-06\/img\/publica-2018-03-06-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 13925,
+		"oA": 0,
+		"oAP": "\/2018\/03-06\/img\/publica-2018-03-06-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/03-06\/img\/publica-author-adam-kay.jpg": {
+		"ft": 16384,
+		"iS": 469462,
+		"oA": 0,
+		"oAP": "\/2018\/03-06\/img\/publica-author-adam-kay.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/03-06\/publica-2018-03-06-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-06\/publica-2018-03-06-gold.html",
+		"oF": 0
+		},
+	"\/2018\/03-06\/publica-2018-03-06-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-06\/publica-2018-03-06-regular.html",
+		"oF": 0
+		},
+	"\/2018\/03-06\/publica-2018-03-06-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/03-06\/publica-2018-03-06-wip.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
