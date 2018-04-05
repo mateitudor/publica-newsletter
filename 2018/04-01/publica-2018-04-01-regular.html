@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>*|MC:SUBJECT|*</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+        <!-- Load typefaces -->
+        <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,400i|Roboto:700|Roboto+Mono:100,300&subset=latin-ext" rel="stylesheet">
+
+        <!-- Load styles -->
+        <style type="text/css">
+            /* Globals */
+            .btnAnimate{
+                -webkit-transition: all 0.2s ease-out;
+                -moz-transition   : all 0.2s ease-out;
+                -ms-transition    : all 0.2s ease-out;
+                -o-transition     : all 0.2s ease-out;
+                transition        : all 0.2s ease-out;
+            }
+            .btnBox:hover{
+                color: #ffffff !important;
+                border-color: #322c2e !important;
+            }
+            .btnBoxFull:hover{
+                color: #ffffff !important;
+                background: #322c2e !important;
+            }
+            .inlineLink:hover,
+            .inlineLink:hover span{
+                color: #322c2e !important;
+                border-color: #322c2e !important;
+            }
+
+            /* Client Specific */
+            body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+            table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+             { -ms-interpolation-mode: bicubic; }
+
+            /* Resets */
+             { border: 0; height: auto; line-height: 100%; outline: none; text-decoration: none; }
+            table { border-collapse: collapse !important; }
+            body { height: 100% !important; margin: 0 !important; padding: 0 !important; width: 100% !important; }
+
+            /* iOS blue links */
+            a[x-apple-data-detectors] {
+                color: inherit !important;
+                text-decoration: none !important;
+                font-size: inherit !important;
+                font-family: inherit !important;
+                font-weight: inherit !important;
+                line-height: inherit !important;
+            }
+
+            /* Android center fix */
+            div[style*="margin: 16px 0;"] { margin: 0 !important; }
+        </style>
+
+        <style type="text/css">
+            @media only screen and (max-width: 640px){
+                .borderRadiusToggle{
+                    border-top-left-radius: 0 !important;
+                    border-top-right-radius: 0 !important;
+                    border-bottom-right-radius: 0 !important;
+                    border-bottom-left-radius: 0 !important;
+                }
+                .halfColumnToggle {
+                    padding-right: 35px !important;
+                }
+                .intro-text{
+                    font-size: 16pt !important;
+                    line-height: 27pt !important;
+                    font-weight: 300 !important;
+                }
+                body table[class=full-width]{
+                    display: inline-block !important;
+                    margin: 0 auto;
+
+                    width: 100% !important;
+
+                    text-align: center;
+                }
+                body table[class=full-width] tbody {
+                    display: inline !important;
+                    text-align: center;
+                }
+
+                .fullWidthLeft{
+                    display: inline-block !important;
+                    margin: 0 auto;
+
+                    width: 100% !important;
+
+                    text-align: left;
+                }
+                body table[class=fullWidthLeft] tbody{
+                    display: inline !important;
+
+                    text-align: left;
+                }
+
+                .halfColumnRow {
+                    display: inline-block;
+                }
+                .halfColumnImage {
+                    width: 100% !important;
+
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                    text-align: center;
+                }
+                .halfColumnLink {
+                    display: block !important;
+
+                    margin: 0 auto;
+                    padding-left: 0 !important;
+                    padding-right: 0 !important;
+                    text-align: center;
+
+                    display: block;
+                    width: 100%;
+                }
+                .header-logo {
+                    max-width: 270px !important;
+                    min-width: 270px !important;
+                }
+            }
+        </style>
+    </head>
+    <body style="background-color: #F7F7F8; margin: 0 !important; padding: 0 !important;">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+
+                                    <!-- Spacer -->
+                                    <tr><td bgcolor="#F7F7F8" width="100%" height="25"></td></tr>
+
+              						<tr>
+              							<td align="left">
+                                            <a class="header-logo" href="http://www.publica.ro" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    width="300"
+                                                    src="http://newsletter.publica.ro/2018/04-01/img/publica-2018-04-01-logo+tagline.jpg"
+                                                    alt="Editura Publica"
+                                                    style=
+                                                        "
+                                                            display: block;
+
+                                                            width: 300px;
+                                                            height: auto;
+
+                                                            max-width: 300px;
+                                                            min-width: 300px;
+
+                                                            color: #0f0f0f;
+
+                                                            font-family: 'PT Serif', serif;
+                                                            font-size: 19px;
+                                                            font-weight: 400;
+                                                            line-height: 35px;
+                                                            text-align: center;
+
+                                                            margin-top: 0;
+                                                            margin-bottom: 0;
+                                                            margin-left: 32px;
+                                                            margin-right: 0;
+                                                        "
+                                                    border="0"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td width="100%" height="20"></td></tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+                                    <tr>
+                                        <td width="100%" align="center">
+                                                <a title="Nick Bilton | Geniul criminal din spatele Silk Road | Editura Publica" href="https://www.publica.ro/nick-bilton-geniul-criminal-din-spatele-silk-road.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                                <img
+                                                    alt="Nick Bilton | Geniul criminal din spatele Silk Road | Editura Publica"
+                                                    src="http://newsletter.publica.ro/2018/04-01/img/publica-2018-04-01-hero-01.jpg"
+                                                    width="700"
+                                                    style=
+                                                        "
+                                                            display: block;
+
+                                                            width: 100%;
+                                                            height: auto;
+
+                                                            max-width: 100%;
+                                                            min-width: 100px;
+
+                                                            background-color: #ffffff;
+                                                            color: #322c2e;
+
+                                                            font-family: 'PT Serif', serif;
+                                                            font-size: 19px;
+                                                            font-weight: 400;
+                                                            line-height: 35px;
+                                                            text-align: center;
+
+                                                            border-top-left-radius: 10px;
+                                                            border-top-right-radius: 10px;
+                                                            border-bottom-right-radius: 0px;
+                                                            border-bottom-left-radius: 0px;
+
+                                                            margin: 0 auto;
+                                                        "
+                                                    border="0"
+                                                    class="borderRadiusToggle"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table
+                                    border="0"
+                                    cellpadding="0"
+                                    cellspacing="0"
+                                    width="100%"
+                                    style="max-width: 700px;"
+                                >
+                                    <tr>
+                                        <td bgcolor="#ffffff" align="left" style="display: block !important; padding-top: 0px; padding-bottom: 0px; padding-left: 35px; padding-right: 35px;">
+                                            <!--[if (gte mso 9)|(IE)]>
+                                            <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                                                <tr>
+                                                    <td align="center" valign="top" width="700">
+                                            <![endif]-->
+                                                        <table
+                                                            border="0"
+                                                            cellpadding="0"
+                                                            cellspacing="0"
+                                                            width="100%"
+                                                            style="max-width: 700px;"
+                                                        >
+                                                            <tr><td bgcolor="#ffffff" width="100%" height="25"></td></tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <p
+                                                                        style=
+                                                                            "
+                                                                                color: #322c2e;
+
+                                                                                font-family: 'PT Serif', serif;
+                                                                                font-size: 19px;
+                                                                                font-weight: 400;
+                                                                                line-height: 30px;
+
+                                                                                margin-top: 0;
+                                                                                margin-bottom: 15px;
+                                                                                margin-left: 0;
+                                                                                margin-right: 0;
+                                                                            "
+                                                                    >
+                                                                        În 2011, Ross Ulbricht, un programator de 26 de ani, a inaugurat piața liberă absolută <em>Silk Road</em>, un site clandestin din <em>Dark Web</em>, unde oricine putea să tranzacționeze orice—droguri, programe de hacking, otrăvuri, pașapoarte și bani falși—la adăpost de ochiul ager al autorităților.
+                                                                    </p>
+                                                                    <p
+                                                                        style=
+                                                                            "
+                                                                                color: #322c2e;
+
+                                                                                font-family: 'PT Serif', serif;
+                                                                                font-size: 19px;
+                                                                                font-weight: 400;
+                                                                                line-height: 30px;
+
+                                                                                margin-top: 0;
+                                                                                margin-bottom: 15px;
+                                                                                margin-left: 0;
+                                                                                margin-right: 0;
+                                                                            "
+                                                                    >
+                                                                        Pentru prieteni și familie, Ross era un tânăr deștept, săritor și simpatic, un antreprenor căruia îi făcea plăcere să discute în timpul său liber despre libertarianism. Pentru FBI, el era <em>Dread Pirate Roberts</em>, proprietarul unei afaceri ilicite de 1,2 miliarde de dolari, pe care îl căutau de ani de zile, un individ despre care nici măcar nu erau siguri că exista.
+                                                                    </p>
+                                                                    <p
+                                                                        style=
+                                                                            "
+                                                                                color: #322c2e;
+
+                                                                                font-family: 'PT Serif', serif;
+                                                                                font-size: 19px;
+                                                                                font-weight: 400;
+                                                                                line-height: 30px;
+
+                                                                                margin-top: 0;
+                                                                                margin-bottom: 15px;
+                                                                                margin-left: 0;
+                                                                                margin-right: 0;
+                                                                            "
+                                                                    >
+                                                                        Bazându-se pe accesul exclusiv la actorii principali și la două miliarde de cuvinte și de imagini digitale lăsate în urmă Ross, autorul Nick Bilton (observator special pentru Vanity Fair, colaborator CNBC, fost editorialist și reporter New York Times) a creat o poveste pe care greu o poți lăsa din mână, plină de întorsături de situație, de descoperiri norocoase și de eludări de pericole pe muchie de cuțit: este o poveste despre ambiția puștiului din vecini, care a pătruns în sfera infracțională, secondată de conflictul dintre noua lume a susținătorilor lumii online libertariene, anonime, descentralizate și vechea lume a controlului exercitat de autorități, ordine și respectarea legilor.
+                                                                    </p>
+                                                                    <p
+                                                                        style=
+                                                                            "
+                                                                                color: #322c2e;
+
+                                                                                font-family: 'PT Serif', serif;
+                                                                                font-size: 19px;
+                                                                                font-weight: 400;
+                                                                                line-height: 30px;
+
+                                                                                margin-top: 0;
+                                                                                margin-bottom: 15px;
+                                                                                margin-left: 0;
+                                                                                margin-right: 0;
+                                                                            "
+                                                                    >
+                                                                        Plină de personaje memorabile și cu un punct culminant uluitor, această carte poate să pară prea de tot ca să nu fie ficțiune. <em>Dar totul este real.</em>
+                                                                    </p>
+                                                                    <!-- A pretty button -->
+                                                                    <!--[if mso]>
+                                                                        <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.publica.ro/nick-bilton-geniul-criminal-din-spatele-silk-road.html" style="height:60px;v-text-anchor:middle;width:170px;" arcsize="10%" stroke="f" fillcolor="#F399C0">
+                                                                            <w:anchorlock/>
+                                                                                <center>
+                                                                    <![endif]-->
+                                                                                <a
+                                                                                    title="Comandă aici"
+                                                                                    class="btnBoxFull btnAnimate"
+                                                                                    href="https://www.publica.ro/nick-bilton-geniul-criminal-din-spatele-silk-road.html"
+                                                                                    target="_blank"
+                                                                                    style=
+                                                                                        "
+                                                                                            background-color:#F399C0;
+                                                                                            display:inline-block;
+                                                                                            color: #ffffff;
+                                                                                            font-family: 'Roboto', sans-serif;
+                                                                                            font-size: 19px;
+                                                                                            font-weight: 700;
+                                                                                            letter-spacing: 0.5px;
+                                                                                            line-height: 40px;
+                                                                                            text-align:center;
+                                                                                            text-decoration:none;
+                                                                                            width:170px;
+                                                                                            -webkit-text-size-adjust:none;
+                                                                                        "
+                                                                                >
+                                                                                    Comandă aici →
+                                                                                </a>
+                                                                    <!--[if mso]>
+                                                                            </center>
+                                                                        </v:roundrect>
+                                                                    <![endif]-->
+                                                                    <h1
+                                                                        class="intro-text"
+                                                                        style=
+                                                                            "
+                                                                                text-align: left;
+
+                                                                                color: #132843;
+
+                                                                                font-family: 'Roboto Mono', Monaco, monospace !important;
+                                                                                font-weight: 100;
+                                                                                font-size: 31px;
+                                                                                line-height: 42px;
+
+                                                                                margin-top: 20px;
+                                                                                margin-bottom: 0;
+                                                                                margin-left: 0;
+                                                                                margin-right: 0;
+                                                                            "
+                                                                    >
+                                                                        55 Lei
+                                                                    </h1>
+                                                                    <p
+                                                                        style=
+                                                                            "
+                                                                                color: #a2a5aa;
+
+                                                                                font-family: 'PT Serif', serif;
+                                                                                font-size: 19px;
+                                                                                font-weight: 400;
+                                                                                line-height: 35px;
+
+                                                                                margin-top: 0;
+                                                                                margin-bottom: 0;
+                                                                                margin-left: 0;
+                                                                                margin-right: 0;
+                                                                            "
+                                                                    >
+                                                                        <em>496 pagini, paperback</em>
+                                                                    </p>
+                                                                </td>
+                                                            </tr>
+                                                            <tr><td bgcolor="#ffffff" width="100%" height="35"></td></tr>
+                                                        </table>
+                                            <!--[if (gte mso 9)|(IE)]>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <![endif]-->
+                                        </td>
+                                    </tr>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table bgcolor="#ff7272" border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;">
+              						<tr>
+              							<td width="100%" align="center">
+                                            <a title="Toate titlurile | Editura Publica" href="https://www.publica.ro/toate-titlurile.html" target="_blank" style="text-decoration: none; border: none !important;">
+                                            <img
+                                                alt="Toate titlurile | Editura Publica"
+                                                src="http://newsletter.publica.ro/2018/04-01/img/publica-2018-04-01-hero-02.jpg"
+                                                width="700"
+                                                style=
+                                                    "
+                                                        display: block;
+
+                                                        width: 100%;
+                                                        height: auto;
+
+                                                        max-width: 100%;
+                                                        min-width: 100px;
+
+                                                        color: #322c2e;
+                                                        background-color: #ffffff;
+
+                                                        font-family: 'PT Serif', serif;
+                                                        font-size: 19px;
+                                                        font-weight: 400;
+                                                        line-height: 35px;
+                                                        text-align: center;
+
+                                                        margin: 0 auto;
+                                                    "
+                                                border="0"
+                                                >
+                                            </a>
+                                        </td>
+                                    </tr>
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table
+                                    border="0"
+                                    cellpadding="0"
+                                    cellspacing="0"
+                                    width="100%"
+                                    style="max-width: 700px;"
+                                >
+                                    <tr>
+                                        <td
+                                            bgcolor="#ff7272"
+                                            align="left"
+                                            style=
+                                                "
+                                                    display: block !important;
+                                                    padding-top: 0px;
+                                                    padding-bottom: 0px;
+                                                    padding-left: 35px;
+                                                    padding-right: 35px;
+                                                    border-top-left-radius: 0px;
+                                                    border-top-right-radius: 0px;
+                                                    border-bottom-right-radius: 10px;
+                                                    border-bottom-left-radius: 10px;
+                                                "
+                                            class="borderRadiusToggle"
+                                        >
+                                            <!--[if (gte mso 9)|(IE)]>
+                                            <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                                                <tr>
+                                                    <td align="center" valign="top" width="700">
+                                            <![endif]-->
+                                                        <table
+                                                            border="0"
+                                                            cellpadding="0"
+                                                            cellspacing="0"
+                                                            width="100%"
+                                                            style="max-width: 700px;"
+                                                        >
+                                                            <tr><td bgcolor="#ff7272" width="100%" height="35"></td></tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <p
+                                                                        style=
+                                                                            "
+                                                                                color: #ffffff;
+
+                                                                                font-family: 'PT Serif', serif;
+                                                                                font-size: 19px;
+                                                                                font-weight: 400;
+                                                                                line-height: 30px;
+
+                                                                                margin-top: 0;
+                                                                                margin-bottom: 20px;
+                                                                                margin-left: 0;
+                                                                                margin-right: 0;
+                                                                            "
+                                                                    >
+                                                                        Începând de astăzi până luni, 9 aprilie, beneficiezi de o reducere de 20% din prețul de bază al oricărui titlu disponibil pe site. Vineri și luni suntem în vacanță, astfel că toate comenzile plasate în această mini-vacanță de Paște vor fi livrate începând cu ziua de marți, 10 aprilie.
+                                                                    </p>
+                                                                    <h1
+                                                                        class="intro-text"
+                                                                        style=
+                                                                            "
+                                                                                text-align: left;
+
+                                                                                color: #ffffff;
+
+                                                                                font-family: 'Roboto Mono', Monaco, monospace !important;
+                                                                                font-weight: 100;
+                                                                                font-size: 31px;
+                                                                                line-height: 42px;
+
+                                                                                margin-top: 0;
+                                                                                margin-bottom: 0;
+                                                                                margin-left: 0;
+                                                                                margin-right: 0;
+                                                                            "
+                                                                    >
+                                                                        Sărbători fericite!
+                                                                    </h1>
+                                                                </td>
+                                                            </tr>
+                                                            <tr><td bgcolor="#ff7272" width="100%" height="35"></td></tr>
+                                                        </table>
+                                            <!--[if (gte mso 9)|(IE)]>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                            <![endif]-->
+                                        </td>
+                                    </tr>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="#F7F7F8" align="center">
+                    <!--[if (gte mso 9)|(IE)]>
+                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="700">
+                        <tr>
+                            <td align="center" valign="top" width="700">
+                    <![endif]-->
+                                <table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 700px;" >
+                                    <tr><td bgcolor="" width="100%" height="50"></td></tr>
+                                    <tr>
+                                        <td align="center">
+
+                                            <table
+                                                width="65%"
+                                                align="left"
+                                                border="0"
+                                                cellpadding="0"
+                                                cellspacing="0"
+                                                style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"
+                                                class="full-width"
+                                            >
+                                                <tr>
+                                                    <td bgcolor="" align="left" style="padding-top: 0pt; padding-bottom: 0pt; padding-left: 35px; padding-right: 35px;">
+                                                        <p
+                                                            style=
+                                                                "
+                                                                    color: #322c2e;
+
+                                                                    font-family: 'PT Serif', serif;
+                                                                    font-size: 11pt;
+                                                                    font-weight: 400;
+                                                                    line-height: 35px;
+
+                                                                    margin-top: 0;
+                                                                    margin-bottom: 15px;
+                                                                    margin-left: 0;
+                                                                    margin-right: 0;
+                                                                "
+                                                        >
+                                                            Editura Publica<br/>
+                                                            <a class="inlineLink" style="font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="https://goo.gl/maps/iL39imwQLVS2" target="_blank">Ștefan Mihăileanu 28A, București</a><br/>
+                                                            Scrie-ne pe <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="mailto:carte@publica.ro" target="_blank">carte@publica.ro</a><br/>
+                                                        </p>
+                                                        <p
+                                                            style=
+                                                                "
+                                                                    color: #322c2e;
+
+                                                                    font-family: 'PT Serif', serif;
+                                                                    font-size: 11pt;
+                                                                    font-weight: 400;
+                                                                    line-height: 35px;
+
+                                                                    margin-top: 0;
+                                                                    margin-bottom: 15px;
+                                                                    margin-left: 0;
+                                                                    margin-right: 0;
+                                                                "
+                                                        >
+                                                            *|IF:FNAME|**|TITLE:FNAME|*, primești *|ELSE:|*Primești*|END:IF|*
+                                                            acest newsletter pentru că te-ai abonat la noutățile editurii Publica. Dacă vrei să-ți editezi setările, <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="*|UPDATE_PROFILE|*" target="_blank">apasă aici</a>. Sau dezabonează-te <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="*|UNSUB|*" target="_blank">aici</a>.
+                                                        </p>
+                                                        <p
+                                                            style=
+                                                                "
+                                                                    color: #322c2e;
+
+                                                                    font-family: 'PT Serif', serif;
+                                                                    font-size: 11pt;
+                                                                    font-weight: 400;
+                                                                    line-height: 35px;
+
+                                                                    margin-top: 0;
+                                                                    margin-bottom: 15px;
+                                                                    margin-left: 0;
+                                                                    margin-right: 0;
+                                                                "
+                                                        >
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="http://www.publica.ro/termeni-si-conditii.html" target="_blank">Confidențialitatea datelor</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="*|ARCHIVE|*" target="_blank">Vezi în browser</a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+
+                                            <table
+                                                width="35%"
+                                                align="right"
+                                                border="0"
+                                                cellpadding="0"
+                                                cellspacing="0"
+                                                style="border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;"
+                                                class="full-width fullWidthLeft"
+                                            >
+                                                <tr>
+                                                    <td bgcolor="" align="left" style="padding-top: 0pt; padding-bottom: 0pt; padding-left: 35px; padding-right: 35px;">
+                                                        <p
+                                                            style=
+                                                                "
+                                                                    color: #322c2e;
+
+                                                                    font-family: 'PT Serif', serif;
+                                                                    font-size: 11pt;
+                                                                    font-weight: 400;
+                                                                    line-height: 35px;
+
+                                                                    margin-top: 0;
+                                                                    margin-bottom: 15px;
+                                                                    margin-left: 0;
+                                                                    margin-right: 0;
+                                                                "
+                                                        >
+                                                            Urmărește-ne și pe:
+                                                        </p>
+                                                        <p
+                                                            style=
+                                                                "
+                                                                    color: #322c2e;
+
+                                                                    font-family: 'PT Serif', serif;
+                                                                    font-size: 11pt;
+                                                                    font-weight: 400;
+                                                                    line-height: 35px;
+
+                                                                    margin-top: 0;
+                                                                    margin-bottom: 15px;
+                                                                    margin-left: 0;
+                                                                    margin-right: 0;
+                                                                "
+                                                        >
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="https://www.goodreads.com/user/show/56158609-editura-publica" target="_blank">Goodreads</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="https://www.instagram.com/editurapublica" target="_blank">Instagram</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="https://www.facebook.com/editurapublica" target="_blank">Facebook</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="https://www.pinterest.com/editurapublica" target="_blank">Pinterest</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="https://www.youtube.com/user/meetthethinkers" target="_blank">Youtube</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="https://twitter.com/edituraPublica" target="_blank">Twitter</a><br/>
+                                                            <a class="inlineLink" style=" font-family: 'Roboto', sans-serif; font-size: 15px; letter-spacing: 0.5px; font-weight: 700; line-height: 35px; text-align: center; text-decoration: none; padding-bottom: 2px; border-bottom: 1px solid #322c2e; color: #322c2e;" href="http://blog.publica.ro" target="_blank">Blog</a>
+                                                        </p>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+
+                                    <!-- Spacer -->
+                                    <tr><td bgcolor="" width="100%" height="50"></td></tr>
+
+                                </table>
+                    <!--[if (gte mso 9)|(IE)]>
+                            </td>
+                        </tr>
+                    </table>
+                    <![endif]-->
+                </td>
+            </tr>
+
+            <!-- Spacer -->
+            <tr><td bgcolor="#F7F7F8" width="100%" height="50"></td></tr>
+
+        </table>
+    </body>
+</html>

@@ -11824,6 +11824,57 @@
 		"oAP": "\/2018\/03-06\/publica-2018-03-06-wip.html",
 		"oF": 0
 		},
+	"\/2018\/04-01\/img\/publica-2018-04-01-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 254487,
+		"oA": 0,
+		"oAP": "\/2018\/04-01\/img\/publica-2018-04-01-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/04-01\/img\/publica-2018-04-01-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 137993,
+		"oA": 0,
+		"oAP": "\/2018\/04-01\/img\/publica-2018-04-01-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/04-01\/img\/publica-2018-04-01-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 9280,
+		"oA": 0,
+		"oAP": "\/2018\/04-01\/img\/publica-2018-04-01-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/04-01\/publica-2018-04-01-gold copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/04-01\/publica-2018-04-01-gold copy.html",
+		"oF": 0
+		},
+	"\/2018\/04-01\/publica-2018-04-01-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/04-01\/publica-2018-04-01-gold.html",
+		"oF": 0
+		},
+	"\/2018\/04-01\/publica-2018-04-01-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/04-01\/publica-2018-04-01-wip.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
