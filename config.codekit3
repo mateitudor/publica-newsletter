@@ -12784,13 +12784,13 @@
 		},
 	"\/2018\/04-02\/img\/publica-2018-04-02-book-small-01.jpg": {
 		"ft": 16384,
-		"iS": 126552,
+		"iS": 128527,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/2018\/04-02\/img\/publica-2018-04-02-book-small-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/2018\/04-02\/img\/publica-2018-04-02-book-small-02.jpg": {
@@ -12806,18 +12806,18 @@
 		},
 	"\/2018\/04-02\/img\/publica-2018-04-02-book-small-03.jpg": {
 		"ft": 16384,
-		"iS": 216104,
+		"iS": 215836,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/2018\/04-02\/img\/publica-2018-04-02-book-small-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/2018\/04-02\/img\/publica-2018-04-02-book-small-04.jpg": {
 		"ft": 16384,
-		"iS": 140131,
+		"iS": 139968,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/2018\/04-02\/img\/publica-2018-04-02-book-small-04.jpg",
@@ -12828,13 +12828,13 @@
 		},
 	"\/2018\/04-02\/img\/publica-2018-04-02-hero-01.jpg": {
 		"ft": 16384,
-		"iS": 322369,
+		"iS": 323059,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/2018\/04-02\/img\/publica-2018-04-02-hero-01.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/2018\/04-02\/img\/publica-2018-04-02-hero-02.jpg": {
@@ -12850,13 +12850,13 @@
 		},
 	"\/2018\/04-02\/img\/publica-2018-04-02-logo+tagline.jpg": {
 		"ft": 16384,
-		"iS": 12663,
+		"iS": 7576,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/2018\/04-02\/img\/publica-2018-04-02-logo+tagline.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/2018\/04-02\/img\/publica-2018-04-02-worktable.ai": {
@@ -12868,13 +12868,13 @@
 		},
 	"\/2018\/04-02\/img\/publica-author-radu-negoita.jpg": {
 		"ft": 16384,
-		"iS": 264694,
+		"iS": 260136,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/2018\/04-02\/img\/publica-author-radu-negoita.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/2018\/04-02\/publica-2018-04-02-gold.html": {
@@ -12896,6 +12896,53 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/2018\/04-02\/publica-2018-04-02-wip.html",
+		"oF": 0
+		},
+	"\/2018\/04-03\/img\/publica-2018-04-03-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 204763,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/04-03\/img\/publica-2018-04-03-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/04-03\/img\/publica-2018-04-03-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 763333,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/04-03\/img\/publica-2018-04-03-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/04-03\/img\/publica-2018-04-03-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 7517,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/04-03\/img\/publica-2018-04-03-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/04-03\/publica-2018-04-03-final.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/04-03\/publica-2018-04-03-final.html",
+		"oF": 0
+		},
+	"\/2018\/04-03\/publica-2018-04-03-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/04-03\/publica-2018-04-03-wip.html",
 		"oF": 0
 		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
