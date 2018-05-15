@@ -13337,6 +13337,108 @@
 		"oAP": "\/2018\/05-03\/publica-2018-05-03-wip.html",
 		"oF": 0
 		},
+	"\/2018\/05-04\/img\/publica-2018-05-04-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 151698,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-04\/img\/publica-2018-05-04-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-04\/img\/publica-2018-05-04-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 245035,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-04\/img\/publica-2018-05-04-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-04\/img\/publica-2018-05-04-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 184915,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-04\/img\/publica-2018-05-04-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-04\/img\/publica-2018-05-04-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 199369,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-04\/img\/publica-2018-05-04-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-04\/img\/publica-2018-05-04-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 321131,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-04\/img\/publica-2018-05-04-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/05-04\/img\/publica-2018-05-04-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 321131,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-04\/img\/publica-2018-05-04-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/05-04\/img\/publica-2018-05-04-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 7612,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-04\/img\/publica-2018-05-04-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-04\/img\/publica-authors-rebecca-skloot.jpg": {
+		"ft": 16384,
+		"iS": 490587,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-04\/img\/publica-authors-rebecca-skloot.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-04\/publica-2018-05-04-wip copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/05-04\/publica-2018-05-04-wip copy.html",
+		"oF": 0
+		},
+	"\/2018\/05-04\/publica-2018-05-04-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/05-04\/publica-2018-05-04-wip.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
