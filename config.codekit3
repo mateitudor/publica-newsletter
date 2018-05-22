@@ -13425,11 +13425,18 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/2018\/05-04\/publica-2018-05-04-wip copy.html": {
+	"\/2018\/05-04\/publica-2018-05-04-gold.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/2018\/05-04\/publica-2018-05-04-wip copy.html",
+		"oAP": "\/2018\/05-04\/publica-2018-05-04-gold.html",
+		"oF": 0
+		},
+	"\/2018\/05-04\/publica-2018-05-04-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/05-04\/publica-2018-05-04-regular.html",
 		"oF": 0
 		},
 	"\/2018\/05-04\/publica-2018-05-04-wip.html": {
@@ -13437,6 +13444,42 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/2018\/05-04\/publica-2018-05-04-wip.html",
+		"oF": 0
+		},
+	"\/2018\/05-05\/img\/publica-2018-05-05-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 306229,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-05\/img\/publica-2018-05-05-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-05\/img\/publica-2018-05-05-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 10586,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-05\/img\/publica-2018-05-05-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-05\/publica-2018-05-05-final.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/05-05\/publica-2018-05-05-final.html",
+		"oF": 0
+		},
+	"\/2018\/05-05\/publica-2018-05-05-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/05-05\/publica-2018-05-05-wip.html",
 		"oF": 0
 		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
