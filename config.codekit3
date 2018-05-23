@@ -13482,6 +13482,104 @@
 		"oAP": "\/2018\/05-05\/publica-2018-05-05-wip.html",
 		"oF": 0
 		},
+	"\/2018\/05-06\/img\/publica-2018-05-06-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 136419,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-06\/img\/publica-2018-05-06-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-06\/img\/publica-2018-05-06-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 151810,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-06\/img\/publica-2018-05-06-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-06\/img\/publica-2018-05-06-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 177510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-06\/img\/publica-2018-05-06-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-06\/img\/publica-2018-05-06-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 203089,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-06\/img\/publica-2018-05-06-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-06\/img\/publica-2018-05-06-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 518407,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-06\/img\/publica-2018-05-06-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-06\/img\/publica-2018-05-06-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 10092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-06\/img\/publica-2018-05-06-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-06\/img\/publica-author-dan-ariely.jpg": {
+		"ft": 16384,
+		"iS": 599089,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/05-06\/img\/publica-author-dan-ariely.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/05-06\/publica-2018-05-06-gold copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/05-06\/publica-2018-05-06-gold copy.html",
+		"oF": 0
+		},
+	"\/2018\/05-06\/publica-2018-05-06-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/05-06\/publica-2018-05-06-gold.html",
+		"oF": 0
+		},
+	"\/2018\/05-06\/publica-2018-05-06-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/05-06\/publica-2018-05-06-wip.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
