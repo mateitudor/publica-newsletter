@@ -13772,6 +13772,486 @@
 		"oAP": "\/2018\/05-08\/publica-2018-05-08-wip.html",
 		"oF": 0
 		},
+	"\/2018\/06-01\/img\/publica-2018-06-01-hero.jpg": {
+		"ft": 16384,
+		"iS": 1366296,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-01\/img\/publica-2018-06-01-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-01\/img\/publica-2018-06-01-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 12164,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-01\/img\/publica-2018-06-01-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-01\/publica-2018-06-01-final.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/06-01\/publica-2018-06-01-final.html",
+		"oF": 0
+		},
+	"\/2018\/06-01\/publica-2018-06-01-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/06-01\/publica-2018-06-01-wip.html",
+		"oF": 0
+		},
+	"\/2018\/06-02\/img\/publica-2018-06-02-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 70352,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-02\/img\/publica-2018-06-02-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-02\/img\/publica-2018-06-02-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 135536,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-02\/img\/publica-2018-06-02-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-02\/img\/publica-2018-06-02-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 127734,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-02\/img\/publica-2018-06-02-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-02\/img\/publica-2018-06-02-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 88298,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-02\/img\/publica-2018-06-02-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-02\/img\/publica-2018-06-02-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 1253537,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-02\/img\/publica-2018-06-02-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-02\/img\/publica-2018-06-02-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 288586,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-02\/img\/publica-2018-06-02-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-02\/img\/publica-2018-06-02-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 8274,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-02\/img\/publica-2018-06-02-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-02\/img\/publica-author-walter-isaacson.jpg": {
+		"ft": 16384,
+		"iS": 277760,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/06-02\/img\/publica-author-walter-isaacson.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/06-02\/publica-2018-06-02-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/06-02\/publica-2018-06-02-gold.html",
+		"oF": 0
+		},
+	"\/2018\/06-02\/publica-2018-06-02-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/06-02\/publica-2018-06-02-regular.html",
+		"oF": 0
+		},
+	"\/2018\/06-02\/publica-2018-06-02-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/06-02\/publica-2018-06-02-wip.html",
+		"oF": 0
+		},
+	"\/2018\/07-01\/img\/publica-2018-07-01-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 151698,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-2018-07-01-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/img\/publica-2018-07-01-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 245035,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-2018-07-01-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/img\/publica-2018-07-01-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 168752,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-2018-07-01-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/img\/publica-2018-07-01-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 229787,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-2018-07-01-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/img\/publica-2018-07-01-hero-01-b.jpg": {
+		"ft": 16384,
+		"iS": 158765,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-2018-07-01-hero-01-b.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/img\/publica-2018-07-01-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 297487,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-2018-07-01-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/img\/publica-2018-07-01-hero-02-b.jpg": {
+		"ft": 16384,
+		"iS": 478930,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-2018-07-01-hero-02-b.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/img\/publica-2018-07-01-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 581219,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-2018-07-01-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/img\/publica-2018-07-01-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 13913,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-2018-07-01-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/img\/publica-author-katharina-vestre.jpg": {
+		"ft": 16384,
+		"iS": 134101,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-01\/img\/publica-author-katharina-vestre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-01\/publica-2018-07-01-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/07-01\/publica-2018-07-01-gold.html",
+		"oF": 0
+		},
+	"\/2018\/07-01\/publica-2018-07-01-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/07-01\/publica-2018-07-01-regular.html",
+		"oF": 0
+		},
+	"\/2018\/07-01\/publica-2018-07-01-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/07-01\/publica-2018-07-01-wip.html",
+		"oF": 0
+		},
+	"\/2018\/07-02\/img\/publica-2018-07-02-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 231929,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-02\/img\/publica-2018-07-02-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-02\/img\/publica-2018-07-02-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 134615,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-02\/img\/publica-2018-07-02-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-02\/img\/publica-2018-07-02-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 149349,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-02\/img\/publica-2018-07-02-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-02\/img\/publica-2018-07-02-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 135475,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-02\/img\/publica-2018-07-02-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-02\/img\/publica-2018-07-02-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 354198,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-02\/img\/publica-2018-07-02-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-02\/img\/publica-2018-07-02-hero-02.gif": {
+		"ft": 4194304,
+		"iS": 385857,
+		"oA": 0,
+		"oAP": "\/2018\/07-02\/img\/publica-2018-07-02-hero-02.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/2018\/07-02\/img\/publica-2018-07-02-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 11968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/07-02\/img\/publica-2018-07-02-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/07-02\/publica-2018-07-02-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/07-02\/publica-2018-07-02-gold.html",
+		"oF": 0
+		},
+	"\/2018\/07-02\/publica-2018-07-02-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/07-02\/publica-2018-07-02-regular.html",
+		"oF": 0
+		},
+	"\/2018\/07-02\/publica-2018-07-02-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/07-02\/publica-2018-07-02-wip.html",
+		"oF": 0
+		},
+	"\/2018\/08-01\/img\/publica-2018-08-01-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 219228,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-01\/img\/publica-2018-08-01-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/08-01\/img\/publica-2018-08-01-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 218512,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-01\/img\/publica-2018-08-01-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-01\/img\/publica-2018-08-01-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 215195,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-01\/img\/publica-2018-08-01-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-01\/img\/publica-2018-08-01-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 209600,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-01\/img\/publica-2018-08-01-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-01\/img\/publica-2018-08-01-hero-01.jpg": {
+		"ft": 16384,
+		"iS": 969404,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-01\/img\/publica-2018-08-01-hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-01\/img\/publica-2018-08-01-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 945566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-01\/img\/publica-2018-08-01-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-01\/img\/publica-2018-08-01-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 9759,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-01\/img\/publica-2018-08-01-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-01\/img\/publica-author-chris-guillebeau.jpg": {
+		"ft": 16384,
+		"iS": 524561,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-01\/img\/publica-author-chris-guillebeau.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-01\/publica-2018-08-01-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/08-01\/publica-2018-08-01-gold.html",
+		"oF": 0
+		},
+	"\/2018\/08-01\/publica-2018-08-01-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/08-01\/publica-2018-08-01-regular.html",
+		"oF": 0
+		},
+	"\/2018\/08-01\/publica-2018-08-01-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/08-01\/publica-2018-08-01-wip.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
