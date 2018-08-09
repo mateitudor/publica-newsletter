@@ -14252,6 +14252,104 @@
 		"oAP": "\/2018\/08-01\/publica-2018-08-01-wip.html",
 		"oF": 0
 		},
+	"\/2018\/08-02\/img\/publica-2018-08-02-book-small-01.jpg": {
+		"ft": 16384,
+		"iS": 486773,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-02\/img\/publica-2018-08-02-book-small-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/08-02\/img\/publica-2018-08-02-book-small-02.jpg": {
+		"ft": 16384,
+		"iS": 424553,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-02\/img\/publica-2018-08-02-book-small-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/08-02\/img\/publica-2018-08-02-book-small-03.jpg": {
+		"ft": 16384,
+		"iS": 428869,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-02\/img\/publica-2018-08-02-book-small-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/08-02\/img\/publica-2018-08-02-book-small-04.jpg": {
+		"ft": 16384,
+		"iS": 533329,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-02\/img\/publica-2018-08-02-book-small-04.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/08-02\/img\/publica-2018-08-02-hero-02.jpg": {
+		"ft": 16384,
+		"iS": 218416,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-02\/img\/publica-2018-08-02-hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-02\/img\/publica-2018-08-02-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 11832,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-02\/img\/publica-2018-08-02-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-02\/img\/publica-author-sir-john-whitmore.jpg": {
+		"ft": 16384,
+		"iS": 622191,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/08-02\/img\/publica-author-sir-john-whitmore.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/08-02\/publica-2018-08-02-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/08-02\/publica-2018-08-02-gold.html",
+		"oF": 0
+		},
+	"\/2018\/08-02\/publica-2018-08-02-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/08-02\/publica-2018-08-02-regular.html",
+		"oF": 0
+		},
+	"\/2018\/08-02\/publica-2018-08-02-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/08-02\/publica-2018-08-02-wip.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
