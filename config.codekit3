@@ -14496,18 +14496,109 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/2018\/09-01\/publica-2018-09-01-gold copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/2018\/09-01\/publica-2018-09-01-gold copy.html",
-		"oF": 0
-		},
 	"\/2018\/09-01\/publica-2018-09-01-gold.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/2018\/09-01\/publica-2018-09-01-gold.html",
+		"oF": 0
+		},
+	"\/2018\/09-01\/publica-2018-09-01-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/09-01\/publica-2018-09-01-regular.html",
+		"oF": 0
+		},
+	"\/2018\/09-11\/img\/publica-2018-09-02-logo+tagline.jpg": {
+		"ft": 16384,
+		"iS": 13519,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-11\/img\/publica-2018-09-02-logo+tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-11\/img\/publica-author-eric-ries.jpg": {
+		"ft": 16384,
+		"iS": 181279,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-11\/img\/publica-author-eric-ries.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-11\/img\/publica.ro_20180911-book_hero-the-startup-way.jpg": {
+		"ft": 16384,
+		"iS": 470747,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-11\/img\/publica.ro_20180911-book_hero-the-startup-way.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-11\/img\/publica.ro_20180911-book_small-business-model-generation.jpg": {
+		"ft": 16384,
+		"iS": 133907,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-11\/img\/publica.ro_20180911-book_small-business-model-generation.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-11\/img\/publica.ro_20180911-book_small-echipa-de-echipe.jpg": {
+		"ft": 16384,
+		"iS": 130510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-11\/img\/publica.ro_20180911-book_small-echipa-de-echipe.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-11\/img\/publica.ro_20180911-book_small-in-competitie-cu-norocul.jpg": {
+		"ft": 16384,
+		"iS": 144441,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-11\/img\/publica.ro_20180911-book_small-in-competitie-cu-norocul.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-11\/img\/publica.ro_20180911-book_small-lean-startup.jpg": {
+		"ft": 16384,
+		"iS": 108842,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-11\/img\/publica.ro_20180911-book_small-lean-startup.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-11\/publica-20180911-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/09-11\/publica-20180911-gold.html",
+		"oF": 0
+		},
+	"\/2018\/09-11\/publica-20180911-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/09-11\/publica-20180911-regular.html",
 		"oF": 0
 		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
