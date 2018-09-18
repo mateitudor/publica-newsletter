@@ -14601,6 +14601,104 @@
 		"oAP": "\/2018\/09-11\/publica-20180911-regular.html",
 		"oF": 0
 		},
+	"\/2018\/09-18\/img\/publica-author-dr-victoria-sweet.jpg": {
+		"ft": 16384,
+		"iS": 115344,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-18\/img\/publica-author-dr-victoria-sweet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-18\/img\/publica.ro-20180918-logo-tagline.jpg": {
+		"ft": 16384,
+		"iS": 12673,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-18\/img\/publica.ro-20180918-logo-tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/2018\/09-18\/img\/publica.ro_20180918-book_hero-medicina-lenta.jpg": {
+		"ft": 16384,
+		"iS": 480012,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-18\/img\/publica.ro_20180918-book_hero-medicina-lenta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-18\/img\/publica.ro_20180918-book_small-gandirea-de-tip-cutie-neagra.jpg": {
+		"ft": 16384,
+		"iS": 291748,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-18\/img\/publica.ro_20180918-book_small-gandirea-de-tip-cutie-neagra.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-18\/img\/publica.ro_20180918-book_small-o-sa-va-cam-usture.jpg": {
+		"ft": 16384,
+		"iS": 313804,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-18\/img\/publica.ro_20180918-book_small-o-sa-va-cam-usture.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-18\/img\/publica.ro_20180918-book_small-probe-de-empatie.jpg": {
+		"ft": 16384,
+		"iS": 243906,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-18\/img\/publica.ro_20180918-book_small-probe-de-empatie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-18\/img\/publica.ro_20180918-book_small-viata-nemuritoare-a-henriettei-lacks.jpg": {
+		"ft": 16384,
+		"iS": 392622,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/2018\/09-18\/img\/publica.ro_20180918-book_small-viata-nemuritoare-a-henriettei-lacks.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/2018\/09-18\/publica-20180911-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/09-18\/publica-20180911-regular.html",
+		"oF": 0
+		},
+	"\/2018\/09-18\/publica-20180918-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/09-18\/publica-20180918-gold.html",
+		"oF": 0
+		},
+	"\/2018\/09-18\/publica-20180918-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/2018\/09-18\/publica-20180918-regular.html",
+		"oF": 0
+		},
 	"\/assets\/bootstrap\/css\/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
