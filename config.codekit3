@@ -7,7 +7,7 @@
 		"uuidString": "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
 		}
 	],
-"creatorBuild": "28841",
+"creatorBuild": "28901",
 "files": {
 	"/2016/06-01/img-orig/publica-book-cand-sa-jefuiesti-o-banca.jpg": {
 		"ft": 16384,
@@ -14774,6 +14774,13 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2018/09-28/publica-20180911-wip.html",
+		"oF": 0
+		},
+	"/2018/10-04/publica-20181004-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-04/publica-20181004-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
