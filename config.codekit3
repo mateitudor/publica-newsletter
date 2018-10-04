@@ -14776,6 +14776,17 @@
 		"oAP": "/2018/09-28/publica-20180911-wip.html",
 		"oF": 0
 		},
+	"/2018/10-04/img/publica.ro-20181004-book_hero-de-ce-mancam-animale.jpg": {
+		"ft": 16384,
+		"iS": 456447,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-04/img/publica.ro-20181004-book_hero-de-ce-mancam-animale.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/2018/10-04/img/publica.ro-20181004-book_small-celelalte-minti.jpg": {
 		"ft": 16384,
 		"iS": 1364341,
@@ -14831,23 +14842,12 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/2018/10-04/img/publica.ro_20181004-book_hero-de-ce-mancam-animale.jpg": {
-		"ft": 16384,
-		"iS": 456447,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/2018/10-04/img/publica.ro_20181004-book_hero-de-ce-mancam-animale.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/2018/10-04/img/publica.ro_author-jonathan-safran-foer.jpg": {
+	"/2018/10-04/img/publica.ro-author-jonathan-safran-foer.jpg": {
 		"ft": 16384,
 		"iS": 172105,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/2018/10-04/img/publica.ro_author-jonathan-safran-foer.jpg",
+		"oAP": "/2018/10-04/img/publica.ro-author-jonathan-safran-foer.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
