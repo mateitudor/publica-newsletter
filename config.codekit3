@@ -14776,11 +14776,102 @@
 		"oAP": "/2018/09-28/publica-20180911-wip.html",
 		"oF": 0
 		},
+	"/2018/10-04/img/publica.ro-20181004-book_small-celelalte-minti.jpg": {
+		"ft": 16384,
+		"iS": 1364341,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-04/img/publica.ro-20181004-book_small-celelalte-minti.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-04/img/publica.ro-20181004-book_small-dilema-omnivorului.jpg": {
+		"ft": 16384,
+		"iS": 1420962,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-04/img/publica.ro-20181004-book_small-dilema-omnivorului.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-04/img/publica.ro-20181004-book_small-kitchen-confidential.jpg": {
+		"ft": 16384,
+		"iS": 1375671,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-04/img/publica.ro-20181004-book_small-kitchen-confidential.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/10-04/img/publica.ro-20181004-book_small-mai-uman.jpg": {
+		"ft": 16384,
+		"iS": 1539875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-04/img/publica.ro-20181004-book_small-mai-uman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-04/img/publica.ro-20181004-logo-tagline.jpg": {
+		"ft": 16384,
+		"iS": 13184,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-04/img/publica.ro-20181004-logo-tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-04/img/publica.ro_20181004-book_hero-de-ce-mancam-animale.jpg": {
+		"ft": 16384,
+		"iS": 456447,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-04/img/publica.ro_20181004-book_hero-de-ce-mancam-animale.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-04/img/publica.ro_author-jonathan-safran-foer-03.jpg": {
+		"ft": 16384,
+		"iS": 172105,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-04/img/publica.ro_author-jonathan-safran-foer-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-04/publica-20181004-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-04/publica-20181004-gold.html",
+		"oF": 0
+		},
 	"/2018/10-04/publica-20181004-regular.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2018/10-04/publica-20181004-regular.html",
+		"oF": 0
+		},
+	"/2018/10-04/publica-20181004-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-04/publica-20181004-test.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
