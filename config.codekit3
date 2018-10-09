@@ -14874,6 +14874,104 @@
 		"oAP": "/2018/10-04/publica-20181004-test.html",
 		"oF": 0
 		},
+	"/2018/10-09/img/publica.ro-20181009-book_hero-dilema-omnivorului-youngster.jpg": {
+		"ft": 16384,
+		"iS": 572014,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-09/img/publica.ro-20181009-book_hero-dilema-omnivorului-youngster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/10-09/img/publica.ro-20181009-book_small-auzi-cum-vorbesc-copacii.jpg": {
+		"ft": 16384,
+		"iS": 3488249,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-09/img/publica.ro-20181009-book_small-auzi-cum-vorbesc-copacii.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/10-09/img/publica.ro-20181009-book_small-de-ce-mancam-animale.jpg": {
+		"ft": 16384,
+		"iS": 1588855,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-09/img/publica.ro-20181009-book_small-de-ce-mancam-animale.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/10-09/img/publica.ro-20181009-book_small-dilema-omnivorului.jpg": {
+		"ft": 16384,
+		"iS": 1420962,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-09/img/publica.ro-20181009-book_small-dilema-omnivorului.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/10-09/img/publica.ro-20181009-book_small-kitchen-confidential.jpg": {
+		"ft": 16384,
+		"iS": 1486381,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-09/img/publica.ro-20181009-book_small-kitchen-confidential.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/10-09/img/publica.ro-20181009-logo-tagline.jpg": {
+		"ft": 16384,
+		"iS": 13338,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-09/img/publica.ro-20181009-logo-tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/10-09/img/publica.ro-author-michael-pollan.jpg": {
+		"ft": 16384,
+		"iS": 85780,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-09/img/publica.ro-author-michael-pollan.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/10-09/publica-20181009-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-09/publica-20181009-gold.html",
+		"oF": 0
+		},
+	"/2018/10-09/publica-20181009-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-09/publica-20181009-regular.html",
+		"oF": 0
+		},
+	"/2018/10-09/publica-20181009-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-09/publica-20181009-test.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
