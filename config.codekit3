@@ -14972,17 +14972,6 @@
 		"oAP": "/2018/10-09/publica-20181009-test.html",
 		"oF": 0
 		},
-	"/2018/10-11/img/publica.ro-20181009-logo-tagline.jpg": {
-		"ft": 16384,
-		"iS": 3121,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/2018/10-11/img/publica.ro-20181009-logo-tagline.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/2018/10-11/img/publica.ro-20181011-book_hero-factfulness.jpg": {
 		"ft": 16384,
 		"iS": 418515,
@@ -15013,8 +15002,15 @@
 		"oAP": "/2018/10-11/img/publica.ro-20181011-logo-tagline.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
+		},
+	"/2018/10-11/publica-20181011-dist.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-11/publica-20181011-dist.html",
+		"oF": 0
 		},
 	"/2018/10-11/publica-20181011-test.html": {
 		"cB": 0,
