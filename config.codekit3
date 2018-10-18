@@ -15019,6 +15019,104 @@
 		"oAP": "/2018/10-11/publica-20181011-test.html",
 		"oF": 0
 		},
+	"/2018/10-18/img/publica.ro-20181018-book_hero-cum-sa-dai-lovitura.jpg": {
+		"ft": 16384,
+		"iS": 464052,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-18/img/publica.ro-20181018-book_hero-cum-sa-dai-lovitura.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-18/img/publica.ro-20181018-book_small-bani-extra-job.jpg": {
+		"ft": 16384,
+		"iS": 2595390,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-18/img/publica.ro-20181018-book_small-bani-extra-job.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-18/img/publica.ro-20181018-book_small-da-lovitura.jpg": {
+		"ft": 16384,
+		"iS": 1652977,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-18/img/publica.ro-20181018-book_small-da-lovitura.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-18/img/publica.ro-20181018-book_small-inconfundabil.jpg": {
+		"ft": 16384,
+		"iS": 1853620,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-18/img/publica.ro-20181018-book_small-inconfundabil.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-18/img/publica.ro-20181018-book_small-oare-o-sa-zboare.jpg": {
+		"ft": 16384,
+		"iS": 1539681,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-18/img/publica.ro-20181018-book_small-oare-o-sa-zboare.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-18/img/publica.ro-20181018-logo-tagline.jpg": {
+		"ft": 16384,
+		"iS": 9479,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-18/img/publica.ro-20181018-logo-tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-18/img/publica.ro-author-gary-vaynerchuk.jpg": {
+		"ft": 16384,
+		"iS": 1336714,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-18/img/publica.ro-author-gary-vaynerchuk.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-18/publica-20181018-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-18/publica-20181018-gold.html",
+		"oF": 0
+		},
+	"/2018/10-18/publica-20181018-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-18/publica-20181018-regular.html",
+		"oF": 0
+		},
+	"/2018/10-18/publica-20181018-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-18/publica-20181018-test.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
