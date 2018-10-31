@@ -15117,6 +15117,93 @@
 		"oAP": "/2018/10-18/publica-20181018-test.html",
 		"oF": 0
 		},
+	"/2018/10-31/img/publica.ro-20181018-book_small-cei-mai-destepti-copii-din-lume.jpg": {
+		"ft": 16384,
+		"iS": 1680289,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-31/img/publica.ro-20181018-book_small-cei-mai-destepti-copii-din-lume.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-31/img/publica.ro-20181018-book_small-descopera-ti-elementul.jpg": {
+		"ft": 16384,
+		"iS": 1769424,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-31/img/publica.ro-20181018-book_small-descopera-ti-elementul.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-31/img/publica.ro-20181018-book_small-o-singura-scoala-pentru-toata-lumea.jpg": {
+		"ft": 16384,
+		"iS": 1674157,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-31/img/publica.ro-20181018-book_small-o-singura-scoala-pentru-toata-lumea.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-31/img/publica.ro-20181018-book_small-scoli-creative.jpg": {
+		"ft": 16384,
+		"iS": 1670357,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-31/img/publica.ro-20181018-book_small-scoli-creative.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-31/img/publica.ro-20181031-book_hero-tu-copilul-tau-si-scoala.jpg": {
+		"ft": 16384,
+		"iS": 437888,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-31/img/publica.ro-20181031-book_hero-tu-copilul-tau-si-scoala.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-31/img/publica.ro-20181031-logo-tagline.jpg": {
+		"ft": 16384,
+		"iS": 13729,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/10-31/img/publica.ro-20181031-logo-tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/10-31/publica-20181031-regular copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-31/publica-20181031-regular copy.html",
+		"oF": 0
+		},
+	"/2018/10-31/publica-20181031-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-31/publica-20181031-regular.html",
+		"oF": 0
+		},
+	"/2018/10-31/publica-20181031-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/10-31/publica-20181031-test.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
