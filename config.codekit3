@@ -15204,6 +15204,93 @@
 		"oAP": "/2018/10-31/publica-20181031-test.html",
 		"oF": 0
 		},
+	"/2018/11-06/img/publica.ro-20181106-book_hero-povestea-originilor.jpg": {
+		"ft": 16384,
+		"iS": 0,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-06/img/publica.ro-20181106-book_hero-povestea-originilor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/11-06/img/publica.ro-20181106-book_small-factfulness.jpg": {
+		"ft": 16384,
+		"iS": 1584347,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-factfulness.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-06/img/publica.ro-20181106-book_small-scanteia-creativa.jpg": {
+		"ft": 16384,
+		"iS": 1821366,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-scanteia-creativa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-06/img/publica.ro-20181106-book_small-scurta-istorie-a-tuturor.jpg": {
+		"ft": 16384,
+		"iS": 1479838,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-scurta-istorie-a-tuturor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
+		"ft": 16384,
+		"iS": 1582187,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-06/img/publica.ro-20181106-logo-tagline.jpg": {
+		"ft": 16384,
+		"iS": 13729,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-06/img/publica.ro-20181106-logo-tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-06/publica-20181106-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/11-06/publica-20181106-gold.html",
+		"oF": 0
+		},
+	"/2018/11-06/publica-20181106-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/11-06/publica-20181106-regular.html",
+		"oF": 0
+		},
+	"/2018/11-06/publica-20181106-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/11-06/publica-20181106-test.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
