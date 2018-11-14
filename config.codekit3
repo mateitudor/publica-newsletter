@@ -15291,6 +15291,101 @@
 		"oAP": "/2018/11-06/publica-20181106-test.html",
 		"oF": 0
 		},
+	"/2018/11-14/img/publica.ro-20181114-book_hero-behave.jpg": {
+		"ft": 16384,
+		"iS": 194193,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-14/img/publica.ro-20181114-book_hero-behave.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-14/img/publica.ro-20181114-book_hero-cand.jpg": {
+		"ft": 16384,
+		"iS": 182749,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-14/img/publica.ro-20181114-book_hero-cand.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-14/img/publica.ro-20181114-book_hero-klopp.jpg": {
+		"ft": 16384,
+		"iS": 177886,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-14/img/publica.ro-20181114-book_hero-klopp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-14/img/publica.ro-20181114-book_hero-mercury.jpg": {
+		"ft": 16384,
+		"iS": 197529,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-14/img/publica.ro-20181114-book_hero-mercury.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-14/img/publica.ro-20181114-book_hero-pana-sa-ti-dai-seama.jpg": {
+		"ft": 16384,
+		"iS": 182024,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-14/img/publica.ro-20181114-book_hero-pana-sa-ti-dai-seama.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-14/img/publica.ro-20181114-book_hero-senna.jpg": {
+		"ft": 16384,
+		"iS": 184300,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-14/img/publica.ro-20181114-book_hero-senna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-14/img/publica.ro-20181114-hero.jpg": {
+		"ft": 16384,
+		"iS": 123817,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-14/img/publica.ro-20181114-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-14/img/publica.ro-20181114-logo-tagline.jpg": {
+		"ft": 16384,
+		"iS": 7295,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/11-14/img/publica.ro-20181114-logo-tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/11-14/publica.ro-2018-11-14-test.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/11-14/publica.ro-2018-11-14-test.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
