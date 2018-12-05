@@ -15386,6 +15386,46 @@
 		"oAP": "/2018/11-14/publica.ro-2018-11-14-test.html",
 		"oF": 0
 		},
+	"/2018/12-05/img/publica.ro-2018-12-05-logo-tagline.jpg": {
+		"ft": 16384,
+		"iS": 11861,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-05/img/publica.ro-2018-12-05-logo-tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-05/img/publica.ro-jolabokaflod-newsletter_hero_01.jpg": {
+		"ft": 16384,
+		"iS": 1226393,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-05/img/publica.ro-jolabokaflod-newsletter_hero_01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-05/img/publica.ro-jolabokaflod-newsletter_hero_02.jpg": {
+		"ft": 16384,
+		"iS": 687875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-05/img/publica.ro-jolabokaflod-newsletter_hero_02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-05/publica.ro-2018-12-05-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/12-05/publica.ro-2018-12-05-wip.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
