@@ -15250,7 +15250,7 @@
 		},
 	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
 		"ft": 16384,
-		"iS": 1582187,
+		"iS": 138053,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
@@ -15424,6 +15424,93 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2018/12-05/publica.ro-2018-12-05-wip.html",
+		"oF": 0
+		},
+	"/2018/12-11/img/publica.ro-2018-12-11-book_hero-un_veac_de_sinceritate.jpg": {
+		"ft": 16384,
+		"iS": 1094533,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-11/img/publica.ro-2018-12-11-book_hero-un_veac_de_sinceritate.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-11/img/publica.ro-2018-12-11-book_small-de_data_asta_e_altfel.jpg": {
+		"ft": 16384,
+		"iS": 550784,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-11/img/publica.ro-2018-12-11-book_small-de_data_asta_e_altfel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-11/img/publica.ro-2018-12-11-book_small-despre_inegalitate.jpg": {
+		"ft": 16384,
+		"iS": 455846,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-11/img/publica.ro-2018-12-11-book_small-despre_inegalitate.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-11/img/publica.ro-2018-12-11-book_small-marea_divizare.jpg": {
+		"ft": 16384,
+		"iS": 436699,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-11/img/publica.ro-2018-12-11-book_small-marea_divizare.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-11/img/publica.ro-2018-12-11-book_small-teoria_sentimentelor_morale.jpg": {
+		"ft": 16384,
+		"iS": 435247,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-11/img/publica.ro-2018-12-11-book_small-teoria_sentimentelor_morale.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-11/img/publica.ro-2018-12-11-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 10727,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-11/img/publica.ro-2018-12-11-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-11/publica-20181106-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/12-11/publica-20181106-regular.html",
+		"oF": 0
+		},
+	"/2018/12-11/publica.ro-2018-12-11-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/12-11/publica.ro-2018-12-11-gold.html",
+		"oF": 0
+		},
+	"/2018/12-11/Untitled-2": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/12-11/Untitled-2",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
