@@ -15250,7 +15250,7 @@
 		},
 	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
 		"ft": 16384,
-		"iS": 1582187,
+		"iS": 138053,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
@@ -15504,6 +15504,68 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2018/12-11/publica.ro-2018-12-11-regular.html",
+		"oF": 0
+		},
+	"/2018/12-14/img/publica.ro-2018-12-14-book_01.jpg": {
+		"ft": 16384,
+		"iS": 1516619,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-14/img/publica.ro-2018-12-14-book_01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/12-14/img/publica.ro-2018-12-14-book_02.jpg": {
+		"ft": 16384,
+		"iS": 1460593,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-14/img/publica.ro-2018-12-14-book_02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/12-14/img/publica.ro-2018-12-14-book_03.jpg": {
+		"ft": 16384,
+		"iS": 1718324,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-14/img/publica.ro-2018-12-14-book_03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/12-14/img/publica.ro-2018-12-14-logo-tagline.jpg": {
+		"ft": 16384,
+		"iS": 11861,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-14/img/publica.ro-2018-12-14-logo-tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2018/12-14/img/publica.ro-jolabokaflod-newsletter_hero_01.jpg": {
+		"ft": 16384,
+		"iS": 1226393,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-14/img/publica.ro-jolabokaflod-newsletter_hero_01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2018/12-14/publica.ro-2018-12-14-wip.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2018/12-14/publica.ro-2018-12-14-wip.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
