@@ -15250,7 +15250,7 @@
 		},
 	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
 		"ft": 16384,
-		"iS": 1582187,
+		"iS": 138053,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
@@ -15622,6 +15622,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/2018/12-21/img/publica.ro-2018-12-21-hero_gold.jpg": {
+		"ft": 16384,
+		"iS": 142867,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2018/12-21/img/publica.ro-2018-12-21-hero_gold.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/2018/12-21/img/publica.ro-2018-12-21-logo_tagline.jpg": {
 		"ft": 16384,
 		"iS": 11861,
@@ -15633,11 +15644,11 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/2018/12-21/publica.ro-2018-12-21-regular copy.html": {
+	"/2018/12-21/publica.ro-2018-12-21-gold.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "/2018/12-21/publica.ro-2018-12-21-regular copy.html",
+		"oAP": "/2018/12-21/publica.ro-2018-12-21-gold.html",
 		"oF": 0
 		},
 	"/2018/12-21/publica.ro-2018-12-21-regular.html": {
