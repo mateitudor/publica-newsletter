@@ -15250,7 +15250,7 @@
 		},
 	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
 		"ft": 16384,
-		"iS": 138053,
+		"iS": 1582187,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
@@ -15663,6 +15663,60 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2018/12-21/publica.ro-2018-12-21-wip.html",
+		"oF": 0
+		},
+	"/2019/01_16/img/publica.ro-2019_01_15-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7445,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_16/img/publica.ro-2019_01_15-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_16/img/publica.ro-2019_01_16-upcoming_books.jpg": {
+		"ft": 16384,
+		"iS": 331597,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_16/img/publica.ro-2019_01_16-upcoming_books.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_16/img/publica.ro-book_hero-cei_patru.jpg": {
+		"ft": 16384,
+		"iS": 852174,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_16/img/publica.ro-book_hero-cei_patru.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_16/publica.ro-2019_01_16-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_16/publica.ro-2019_01_16-dev.html",
+		"oF": 0
+		},
+	"/2019/01_16/publica.ro-2019_01_16-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_16/publica.ro-2019_01_16-gold.html",
+		"oF": 0
+		},
+	"/2019/01_16/publica.ro-2019_01_16-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_16/publica.ro-2019_01_16-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
