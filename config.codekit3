@@ -15250,7 +15250,7 @@
 		},
 	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
 		"ft": 16384,
-		"iS": 1582187,
+		"iS": 138053,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
@@ -15717,6 +15717,104 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2019/01_16/publica.ro-2019_01_16-regular.html",
+		"oF": 0
+		},
+	"/2019/01_29/img/publica.ro-2019_01_29-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 9932,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_29/img/publica.ro-2019_01_29-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_29/img/publica.ro-author-phil_knight.jpg": {
+		"ft": 16384,
+		"iS": 136076,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_29/img/publica.ro-author-phil_knight.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_29/img/publica.ro-book_hero-shoe_dog_youngster.jpg": {
+		"ft": 16384,
+		"iS": 114685,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_29/img/publica.ro-book_hero-shoe_dog_youngster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_29/img/publica.ro-book_small-auzi_cum_vorbesc_copacii.jpg": {
+		"ft": 16384,
+		"iS": 126863,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_29/img/publica.ro-book_small-auzi_cum_vorbesc_copacii.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_29/img/publica.ro-book_small-dilema_omnivorului_youngster.jpg": {
+		"ft": 16384,
+		"iS": 395552,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_29/img/publica.ro-book_small-dilema_omnivorului_youngster.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_29/img/publica.ro-book_small-rafael_nadal.jpg": {
+		"ft": 16384,
+		"iS": 257286,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_29/img/publica.ro-book_small-rafael_nadal.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_29/img/publica.ro-book_small-shoe_dog.jpg": {
+		"ft": 16384,
+		"iS": 236472,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_29/img/publica.ro-book_small-shoe_dog.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_29/publica.ro-2019_01_29-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_29/publica.ro-2019_01_29-dev.html",
+		"oF": 0
+		},
+	"/2019/01_29/publica.ro-2019_01_29-gold copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_29/publica.ro-2019_01_29-gold copy.html",
+		"oF": 0
+		},
+	"/2019/01_29/publica.ro-2019_01_29-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_29/publica.ro-2019_01_29-gold.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
