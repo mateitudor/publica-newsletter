@@ -15250,7 +15250,7 @@
 		},
 	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
 		"ft": 16384,
-		"iS": 138053,
+		"iS": 1582187,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
@@ -15803,18 +15803,105 @@
 		"oAP": "/2019/01_29/publica.ro-2019_01_29-dev.html",
 		"oF": 0
 		},
-	"/2019/01_29/publica.ro-2019_01_29-gold copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/2019/01_29/publica.ro-2019_01_29-gold copy.html",
-		"oF": 0
-		},
 	"/2019/01_29/publica.ro-2019_01_29-gold.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2019/01_29/publica.ro-2019_01_29-gold.html",
+		"oF": 0
+		},
+	"/2019/01_29/publica.ro-2019_01_29-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_29/publica.ro-2019_01_29-regular.html",
+		"oF": 0
+		},
+	"/2019/01_31/img/publica.ro-2019_01_31-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7445,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_31/img/publica.ro-2019_01_31-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_31/img/publica.ro-book_hero-reveal.jpg": {
+		"ft": 16384,
+		"iS": 1837895,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_31/img/publica.ro-book_hero-reveal.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_31/img/publica.ro-book_small-david_bowie.jpg": {
+		"ft": 16384,
+		"iS": 437100,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_31/img/publica.ro-book_small-bowie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_31/img/publica.ro-book_small-eric_clapton.jpg": {
+		"ft": 16384,
+		"iS": 294765,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_31/img/publica.ro-book_small-eric_clapton.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_31/img/publica.ro-book_small-freddie_mercury.jpg": {
+		"ft": 16384,
+		"iS": 328553,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_31/img/publica.ro-book_small-freddie_mercury.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_31/img/publica.ro-book_small-jimi_hendrix.jpg": {
+		"ft": 16384,
+		"iS": 284875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/01_31/img/publica.ro-book_small-jimi_hendrix.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/01_31/publica.ro-2019_01_31-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_31/publica.ro-2019_01_31-dev.html",
+		"oF": 0
+		},
+	"/2019/01_31/publica.ro-2019_01_31-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_31/publica.ro-2019_01_31-gold.html",
+		"oF": 0
+		},
+	"/2019/01_31/publica.ro-2019_01_31-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/01_31/publica.ro-2019_01_31-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
