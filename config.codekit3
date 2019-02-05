@@ -15250,7 +15250,7 @@
 		},
 	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
 		"ft": 16384,
-		"iS": 1582187,
+		"iS": 138053,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
@@ -15863,7 +15863,7 @@
 		},
 	"/2019/01_31/img/publica.ro-book_small-freddie_mercury.jpg": {
 		"ft": 16384,
-		"iS": 328553,
+		"iS": 69362,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2019/01_31/img/publica.ro-book_small-freddie_mercury.jpg",
@@ -15902,6 +15902,93 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2019/01_31/publica.ro-2019_01_31-regular.html",
+		"oF": 0
+		},
+	"/2019/02_05/img/publica.ro-2019_02_05-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 11863,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_05/img/publica.ro-2019_02_05-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_05/img/publica.ro-book_hero-in_natura.jpg": {
+		"ft": 16384,
+		"iS": 1894748,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_05/img/publica.ro-book_hero-in_natura.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/02_05/img/publica.ro-book_small-geniul_pasarilor.jpg": {
+		"ft": 16384,
+		"iS": 286694,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_05/img/publica.ro-book_small-geniul_pasarilor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/02_05/img/publica.ro-book_small-intelepciunea_lupilor.jpg": {
+		"ft": 16384,
+		"iS": 296141,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_05/img/publica.ro-book_small-intelepciunea_lupilor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_05/img/publica.ro-book_small-sunt_aici_acum.jpg": {
+		"ft": 16384,
+		"iS": 266842,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_05/img/publica.ro-book_small-sunt_aici_acum.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/02_05/img/publica.ro-book_small-viata_secreta_a_copacilor.jpg": {
+		"ft": 16384,
+		"iS": 316901,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_05/img/publica.ro-book_small-viata_secreta_a_copacilor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/02_05/publica.ro-2019_02_05-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_05/publica.ro-2019_02_05-dev.html",
+		"oF": 0
+		},
+	"/2019/02_05/publica.ro-2019_02_05-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_05/publica.ro-2019_02_05-gold.html",
+		"oF": 0
+		},
+	"/2019/02_05/publica.ro-2019_02_05-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_05/publica.ro-2019_02_05-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
