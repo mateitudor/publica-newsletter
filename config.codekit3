@@ -15250,7 +15250,7 @@
 		},
 	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
 		"ft": 16384,
-		"iS": 138053,
+		"iS": 1582187,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
@@ -15989,6 +15989,93 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2019/02_05/publica.ro-2019_02_05-regular.html",
+		"oF": 0
+		},
+	"/2019/02_14/img/publica.ro-2019_02_14-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 12922,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_14/img/publica.ro-2019_02_14-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_14/img/publica.ro-book_hero-recuperarea.jpg": {
+		"ft": 16384,
+		"iS": 1878285,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_14/img/publica.ro-book_hero-recuperarea.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_14/img/publica.ro-book_small-camera_de_povestit.jpg": {
+		"ft": 16384,
+		"iS": 391559,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_14/img/publica.ro-book_small-camera_de_povestit.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/02_14/img/publica.ro-book_small-medicina_lenta.jpg": {
+		"ft": 16384,
+		"iS": 330358,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_14/img/publica.ro-book_small-medicina_lenta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/02_14/img/publica.ro-book_small-o_sa_va_cam_usture.jpg": {
+		"ft": 16384,
+		"iS": 391059,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_14/img/publica.ro-book_small-o_sa_va_cam_usture.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/02_14/img/publica.ro-book_small-probe_de_empatie.jpg": {
+		"ft": 16384,
+		"iS": 309255,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_14/img/publica.ro-book_small-probe_de_empatie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/02_14/publica.ro-2019_02_14-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_14/publica.ro-2019_02_14-dev.html",
+		"oF": 0
+		},
+	"/2019/02_14/publica.ro-2019_02_14-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_14/publica.ro-2019_02_14-gold.html",
+		"oF": 0
+		},
+	"/2019/02_14/publica.ro-2019_02_14-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_14/publica.ro-2019_02_14-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
