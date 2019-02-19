@@ -16078,6 +16078,93 @@
 		"oAP": "/2019/02_14/publica.ro-2019_02_14-regular.html",
 		"oF": 0
 		},
+	"/2019/02_19/img/publica.ro-2019_02_19-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 11945,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_19/img/publica.ro-2019_02_19-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_19/img/publica.ro-book_hero-cum_sa_te_inventezi.jpg": {
+		"ft": 16384,
+		"iS": 90244,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_19/img/publica.ro-book_hero-cum_sa_te_inventezi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_19/img/publica.ro-book_small-behave.jpg": {
+		"ft": 16384,
+		"iS": 73434,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_19/img/publica.ro-book_small-behave.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_19/img/publica.ro-book_small-cei_mai_destepti_copii_din_lume.jpg": {
+		"ft": 16384,
+		"iS": 82754,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_19/img/publica.ro-book_small-cei_mai_destepti_copii_din_lume.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_19/img/publica.ro-book_small-cel_dintai_mister.jpg": {
+		"ft": 16384,
+		"iS": 71371,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_19/img/publica.ro-book_small-cel_dintai_mister.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_19/img/publica.ro-book_small-tu_copilul_tau_si_scoala.jpg": {
+		"ft": 16384,
+		"iS": 70066,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_19/img/publica.ro-book_small-tu_copilul_tau_si_scoala.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_19/publica.ro-2019_02_19-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_19/publica.ro-2019_02_19-dev.html",
+		"oF": 0
+		},
+	"/2019/02_19/publica.ro-2019_02_19-gold copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_19/publica.ro-2019_02_19-gold copy.html",
+		"oF": 0
+		},
+	"/2019/02_19/publica.ro-2019_02_19-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_19/publica.ro-2019_02_19-gold.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
