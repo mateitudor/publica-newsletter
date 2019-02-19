@@ -16151,18 +16151,18 @@
 		"oAP": "/2019/02_19/publica.ro-2019_02_19-dev.html",
 		"oF": 0
 		},
-	"/2019/02_19/publica.ro-2019_02_19-gold copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/2019/02_19/publica.ro-2019_02_19-gold copy.html",
-		"oF": 0
-		},
 	"/2019/02_19/publica.ro-2019_02_19-gold.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2019/02_19/publica.ro-2019_02_19-gold.html",
+		"oF": 0
+		},
+	"/2019/02_19/publica.ro-2019_02_19-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_19/publica.ro-2019_02_19-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
