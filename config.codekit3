@@ -15863,7 +15863,7 @@
 		},
 	"/2019/01_31/img/publica.ro-book_small-freddie_mercury.jpg": {
 		"ft": 16384,
-		"iS": 69362,
+		"iS": 328553,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2019/01_31/img/publica.ro-book_small-freddie_mercury.jpg",
@@ -16217,6 +16217,46 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2019/02_26/publica.ro-2019_02_26-regular.html",
+		"oF": 0
+		},
+	"/2019/02_28/img/publica.ro-2019_02_28-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_28/img/publica.ro-2019_02_28-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_28/img/publica.ro-hero-2019_02_28-2+1.jpg": {
+		"ft": 16384,
+		"iS": 119808,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_28/img/publica.ro-hero-2019_02_28-2+1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/02_28/img/publica.ro-reminder-2019_02_28-2+1.jpg": {
+		"ft": 16384,
+		"iS": 146641,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/02_28/img/publica.ro-reminder-2019_02_28-2+1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/02_28/publica.ro-2019_02_28-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/02_28/publica.ro-2019_02_28-dev.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
