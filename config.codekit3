@@ -16346,6 +16346,86 @@
 		"oAP": "/2019/03_05/publica.ro-2019_03_05-regular.html",
 		"oF": 0
 		},
+	"/2019/03_07/img/publica.ro-2019_03_07-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 6407,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_07/img/publica.ro-2019_03_07-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_07/img/publica.ro-book_hero-excitat.jpg": {
+		"ft": 16384,
+		"iS": 379606,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_07/img/publica.ro-book_hero-excitat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/03_07/img/publica.ro-book_small-cel_dintai_mister.jpg": {
+		"ft": 16384,
+		"iS": 143409,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_07/img/publica.ro-book_small-cel_dintai_mister.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/03_07/img/publica.ro-book_small-de_ce_nu_fac_zebrele_ulcer.jpg": {
+		"ft": 16384,
+		"iS": 168090,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_07/img/publica.ro-book_small-de_ce_nu_fac_zebrele_ulcer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/03_07/img/publica.ro-book_small-medicina_lenta.jpg": {
+		"ft": 16384,
+		"iS": 126169,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_07/img/publica.ro-book_small-medicina_lenta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/03_07/img/publica.ro-book_small-viata_nemuritoare_a_henriettei_lacks.jpg": {
+		"ft": 16384,
+		"iS": 180363,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_07/img/publica.ro-book_small-viata_nemuritoare_a_henriettei_lacks.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/03_07/publica.ro-2019_03_07-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_07/publica.ro-2019_03_07-dev.html",
+		"oF": 0
+		},
+	"/2019/03_07/publica.ro-2019_03_07-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_07/publica.ro-2019_03_07-gold.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
