@@ -15250,7 +15250,7 @@
 		},
 	"/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg": {
 		"ft": 16384,
-		"iS": 1582187,
+		"iS": 138053,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2018/11-06/img/publica.ro-20181106-book_small-universul-accidental.jpg",
@@ -16357,6 +16357,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/2019/03_07/img/publica.ro-book_hero-excitat.jpg": {
+		"ft": 16384,
+		"iS": 59663,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_07/img/publica.ro-book_hero-excitat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/2019/03_07/img/publica.ro-book_small-cel_dintai_mister.jpg": {
 		"ft": 16384,
 		"iS": 143409,
@@ -16413,6 +16424,57 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2019/03_07/publica.ro-2019_03_07-gold.html",
+		"oF": 0
+		},
+	"/2019/03_07/publica.ro-2019_03_07-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_07/publica.ro-2019_03_07-regular.html",
+		"oF": 0
+		},
+	"/2019/03_15/img/publica.ro-2019_03_15-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 6369,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_15/img/publica.ro-2019_03_15-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_15/img/publica.ro-book_hero-coaching_pentru_performanta_reeditare.gif": {
+		"ft": 4194304,
+		"iS": 1056133,
+		"oA": 0,
+		"oAP": "/2019/03_15/img/publica.ro-book_hero-coaching_pentru_performanta_reeditare.gif",
+		"oF": 0,
+		"opt": 1
+		},
+	"/2019/03_15/img/publica.ro-hero-susan_fowler_ro.jpg": {
+		"ft": 16384,
+		"iS": 238262,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_15/img/publica.ro-hero-susan_fowler_ro.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_15/publica.ro-2019_03_15-dev copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_15/publica.ro-2019_03_15-dev copy.html",
+		"oF": 0
+		},
+	"/2019/03_15/publica.ro-2019_03_15-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_15/publica.ro-2019_03_15-dev.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
