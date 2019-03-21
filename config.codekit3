@@ -16463,18 +16463,54 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/2019/03_15/publica.ro-2019_03_15-dev copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "/2019/03_15/publica.ro-2019_03_15-dev copy.html",
-		"oF": 0
-		},
 	"/2019/03_15/publica.ro-2019_03_15-dev.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2019/03_15/publica.ro-2019_03_15-dev.html",
+		"oF": 0
+		},
+	"/2019/03_15/publica.ro-2019_03_15.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_15/publica.ro-2019_03_15.html",
+		"oF": 0
+		},
+	"/2019/03_21/img/publica.ro-2019_03_21-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 6407,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_21/img/publica.ro-2019_03_21-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_21/img/publica.ro-2019_03_21-newsletter_hero-cum_am_ajuns_aici.jpg": {
+		"ft": 16384,
+		"iS": 1401376,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_21/img/publica.ro-2019_03_21-newsletter_hero-cum_am_ajuns_aici.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/03_21/publica.ro-2019_03_21-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_21/publica.ro-2019_03_21-dev.html",
+		"oF": 0
+		},
+	"/2019/03_21/publica.ro-2019_03_21.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_21/publica.ro-2019_03_21.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
