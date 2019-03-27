@@ -15863,7 +15863,7 @@
 		},
 	"/2019/01_31/img/publica.ro-book_small-freddie_mercury.jpg": {
 		"ft": 16384,
-		"iS": 328553,
+		"iS": 69362,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2019/01_31/img/publica.ro-book_small-freddie_mercury.jpg",
@@ -16511,6 +16511,93 @@
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "/2019/03_21/publica.ro-2019_03_21.html",
+		"oF": 0
+		},
+	"/2019/03_27/img/publica.ro-2019_03_27-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 11717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_27/img/publica.ro-2019_03_27-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_27/img/publica.ro-book_hero-nascuti_pentru_a_invata.jpg": {
+		"ft": 16384,
+		"iS": 522892,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_27/img/publica.ro-book_hero-nascuti_pentru_a_invata.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_27/img/publica.ro-book_small-cei_mai_destepti_copii_din_lume.jpg": {
+		"ft": 16384,
+		"iS": 415945,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_27/img/publica.ro-book_small-cei_mai_destepti_copii_din_lume.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_27/img/publica.ro-book_small-cum_sa_te_inventezi.jpg": {
+		"ft": 16384,
+		"iS": 350872,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_27/img/publica.ro-book_small-cum_sa_te_inventezi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_27/img/publica.ro-book_small-o_singura_scoala.jpg": {
+		"ft": 16384,
+		"iS": 387822,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_27/img/publica.ro-book_small-o_singura_scoala.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_27/img/publica.ro-book_small-primele_20_de_ore.jpg": {
+		"ft": 16384,
+		"iS": 390528,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/03_27/img/publica.ro-book_small-primele_20_de_ore.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/03_27/publica.ro-2019_03_27-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_27/publica.ro-2019_03_27-dev.html",
+		"oF": 0
+		},
+	"/2019/03_27/publica.ro-2019_03_27-regular copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_27/publica.ro-2019_03_27-regular copy.html",
+		"oF": 0
+		},
+	"/2019/03_27/publica.ro-2019_03_27-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "/2019/03_27/publica.ro-2019_03_27-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
