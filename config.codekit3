@@ -17257,6 +17257,66 @@
 		"oAP": "/2019/04_16/publica.ro-2019_04_16-regular.html",
 		"oF": 0
 		},
+	"/2019/04_25/img/publica.ro-2019_04_25-hero-authors.jpg": {
+		"ft": 16384,
+		"iS": 520025,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/04_25/img/publica.ro-2019_04_25-hero-authors.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/04_25/img/publica.ro-2019_04_25-hero-discount.jpg": {
+		"ft": 16384,
+		"iS": 142434,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/04_25/img/publica.ro-2019_04_25-hero-discount.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/04_25/img/publica.ro-2019_04_25-logo_tagline-@2x.jpg": {
+		"ft": 16384,
+		"iS": 10726,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/04_25/img/publica.ro-2019_04_25-logo_tagline-@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/04_25/img/publica.ro-hero-lansare_pericolele_perceptiei.jpg": {
+		"ft": 16384,
+		"iS": 299760,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/04_25/img/publica.ro-hero-lansare_pericolele_perceptiei.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/04_25/publica.ro-2019_04_25-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/04_25/publica.ro-2019_04_25-dev.html",
+		"oF": 0
+		},
+	"/2019/04_25/publica.ro-2019_04_25-production.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/04_25/publica.ro-2019_04_25-production.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
