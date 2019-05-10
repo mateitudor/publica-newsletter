@@ -17473,6 +17473,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/2019/05_08/img/publica.ro-lansare_pericolele_perceptiei.jpg": {
+		"ft": 16384,
+		"iS": 513695,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_08/img/publica.ro-lansare_pericolele_perceptiei.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/2019/05_08/publica.ro-2019_05_08-dev.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -17495,6 +17506,63 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2019/05_08/publica.ro-2019_05_08-regular.html",
+		"oF": 0
+		},
+	"/2019/05_10/img/publica.ro-2019_05_10-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 10727,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_10/img/publica.ro-2019_05_10-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_10/img/publica.ro-book_hero-asta_inseamna_marketing.jpg": {
+		"ft": 16384,
+		"iS": 794953,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_10/img/publica.ro-book_hero-asta_inseamna_marketing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_10/img/publica.ro-book_hero-wise_guy.jpg": {
+		"ft": 16384,
+		"iS": 482126,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_10/img/publica.ro-book_hero-wise_guy.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_10/publica.ro-2019_05_08-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_10/publica.ro-2019_05_08-gold.html",
+		"oF": 0
+		},
+	"/2019/05_10/publica.ro-2019_05_08-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_10/publica.ro-2019_05_08-regular.html",
+		"oF": 0
+		},
+	"/2019/05_10/publica.ro-2019_05_10-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_10/publica.ro-2019_05_10-dev.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
