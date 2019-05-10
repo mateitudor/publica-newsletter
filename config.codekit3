@@ -17565,6 +17565,22 @@
 		"oAP": "/2019/05_10/publica.ro-2019_05_10-dev.html",
 		"oF": 0
 		},
+	"/2019/05_10/publica.ro-2019_05_10-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_10/publica.ro-2019_05_10-gold.html",
+		"oF": 0
+		},
+	"/2019/05_10/publica.ro-2019_05_10-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_10/publica.ro-2019_05_10-regular.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
