@@ -17677,14 +17677,6 @@
 		"opt": 1,
 		"q": 100
 		},
-	"/2019/05_21/publica.ro-2019_05_21-dev copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/2019/05_21/publica.ro-2019_05_21-dev copy.html",
-		"oF": 0
-		},
 	"/2019/05_21/publica.ro-2019_05_21-dev.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -17699,6 +17691,107 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2019/05_21/publica.ro-2019_05_21-gold.html",
+		"oF": 0
+		},
+	"/2019/05_21/publica.ro-2019_05_21-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_21/publica.ro-2019_05_21-regular.html",
+		"oF": 0
+		},
+	"/2019/05_23/img/publica.ro-2019_05_23-logo_tagline-@2x.jpg": {
+		"ft": 16384,
+		"iS": 10726,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_23/img/publica.ro-2019_05_23-logo_tagline-@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_23/img/publica.ro-hero-bookfest_2019.jpg": {
+		"ft": 16384,
+		"iS": 219925,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_23/img/publica.ro-hero-bookfest_2019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_23/img/publica.ro-hero-brand_minds_2020.jpg": {
+		"ft": 16384,
+		"iS": 83661,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_23/img/publica.ro-hero-brand_minds_2020.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_23/img/publica.ro-hero-malcolm_gladwell-martin_lindstrom.jpg": {
+		"ft": 16384,
+		"iS": 701587,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_23/img/publica.ro-hero-malcolm_gladwell-martin_lindstrom.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_23/img/publica.ro-hero-ron_kaufman.jpg": {
+		"ft": 16384,
+		"iS": 256651,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_23/img/publica.ro-hero-ron_kaufman.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_23/img/publica.ro-hero-susan_fowler.jpg": {
+		"ft": 16384,
+		"iS": 1090816,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_23/img/publica.ro-hero-susan_fowler.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_23/img/publica.ro-hero-vast_curious_mihai_simiuc.jpg": {
+		"ft": 16384,
+		"iS": 707428,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_23/img/publica.ro-hero-vast_curious_mihai_simiuc.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_23/publica.ro-2019_05_23-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_23/publica.ro-2019_05_23-dev.html",
+		"oF": 0
+		},
+	"/2019/05_23/publica.ro-2019_05_23-dist.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_23/publica.ro-2019_05_23-dist.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
