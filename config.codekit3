@@ -17794,6 +17794,44 @@
 		"oAP": "/2019/05_23/publica.ro-2019_05_23-dist.html",
 		"oF": 0
 		},
+	"/2019/05_29/img/publica.ro-2019_05_29-logo_tagline-@2x.jpg": {
+		"ft": 16384,
+		"iS": 10726,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_29/img/publica.ro-2019_05_29-logo_tagline-@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/05_29/img/publica.ro-nl_hero-bookfest_2019.jpg": {
+		"ft": 16384,
+		"iS": 1697200,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/05_29/img/publica.ro-nl_hero-bookfest_2019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/05_29/publica.ro-2019_05_29-dev copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_29/publica.ro-2019_05_29-dev copy.html",
+		"oF": 0
+		},
+	"/2019/05_29/publica.ro-2019_05_29-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/05_29/publica.ro-2019_05_29-dev.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
