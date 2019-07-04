@@ -18086,6 +18086,91 @@
 		"oAP": "/2019/07_02/publica.ro-2019_07_02-regular.html",
 		"oF": 0
 		},
+	"/2019/07_04/img/publica.ro-2019_07_04-brandminds.jpg": {
+		"ft": 16384,
+		"iS": 286049,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_04/img/publica.ro-2019_07_04-brandminds.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_04/img/publica.ro-2019_07_04-logo_tagline-@2x.jpg": {
+		"ft": 16384,
+		"iS": 10726,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_04/img/publica.ro-2019_07_04-logo_tagline-@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_04/img/publica.ro-book_hero-mini_obiceiuri.jpg": {
+		"ft": 16384,
+		"iS": 1204125,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_04/img/publica.ro-book_hero-mini_obiceiuri.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_04/img/publica.ro-book_small-cum_sa_ai_o_zi_buna.jpg": {
+		"ft": 16384,
+		"iS": 300329,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_04/img/publica.ro-book_small-cum_sa_ai_o_zi_buna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_04/img/publica.ro-book_small-deep_work.jpg": {
+		"ft": 16384,
+		"iS": 291150,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_04/img/publica.ro-book_small-deep_work.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_04/img/publica.ro-book_small-musai_list.jpg": {
+		"ft": 16384,
+		"iS": 227871,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_04/img/publica.ro-book_small-musai_list.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_04/img/publica.ro-book_small-puterea_obisnuintei.jpg": {
+		"ft": 16384,
+		"iS": 292167,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_04/img/publica.ro-book_small-puterea_obisnuintei.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_04/publica.ro-2019_07_04-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_04/publica.ro-2019_07_04-dev.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
