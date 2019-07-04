@@ -18116,7 +18116,7 @@
 		"oAP": "/2019/07_04/img/publica.ro-book_hero-mini_obiceiuri.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/2019/07_04/img/publica.ro-book_small-cum_sa_ai_o_zi_buna.jpg": {
@@ -18169,6 +18169,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2019/07_04/publica.ro-2019_07_04-dev.html",
+		"oF": 0
+		},
+	"/2019/07_04/publica.ro-2019_07_04-regular copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_04/publica.ro-2019_07_04-regular copy.html",
+		"oF": 0
+		},
+	"/2019/07_04/publica.ro-2019_07_04-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_04/publica.ro-2019_07_04-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
