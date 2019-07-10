@@ -18171,12 +18171,12 @@
 		"oAP": "/2019/07_04/publica.ro-2019_07_04-dev.html",
 		"oF": 0
 		},
-	"/2019/07_04/publica.ro-2019_07_04-regular copy.html": {
+	"/2019/07_04/publica.ro-2019_07_04-gold.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/2019/07_04/publica.ro-2019_07_04-regular copy.html",
+		"oAP": "/2019/07_04/publica.ro-2019_07_04-gold.html",
 		"oF": 0
 		},
 	"/2019/07_04/publica.ro-2019_07_04-regular.html": {
@@ -18185,6 +18185,91 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2019/07_04/publica.ro-2019_07_04-regular.html",
+		"oF": 0
+		},
+	"/2019/07_10/img/publica.ro-2019_07_10-brandminds.jpg": {
+		"ft": 16384,
+		"iS": 286049,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_10/img/publica.ro-2019_07_10-brandminds.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_10/img/publica.ro-2019_07_10-logo_tagline-@2x.jpg": {
+		"ft": 16384,
+		"iS": 10510,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_10/img/publica.ro-2019_07_10-logo_tagline-@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_10/img/publica.ro-book_small-adevarul_de_necombatut.jpg": {
+		"ft": 16384,
+		"iS": 291943,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_10/img/publica.ro-book_small-adevarul_de_necombatut.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_10/img/publica.ro-book_small-in_fuga.jpg": {
+		"ft": 16384,
+		"iS": 320465,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_10/img/publica.ro-book_small-in_fuga.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_10/img/publica.ro-book_small-rod_laver.jpg": {
+		"ft": 16384,
+		"iS": 306116,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_10/img/publica.ro-book_small-rod_laver.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_10/img/publica.ro-book_small-ronnie.jpg": {
+		"ft": 16384,
+		"iS": 301240,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_10/img/publica.ro-book_small-ronnie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_10/img/publica.ro-nl_hero-eu_si_masa.jpg": {
+		"ft": 16384,
+		"iS": 1745734,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_10/img/publica.ro-nl_hero-eu_si_masa.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_10/publica.ro-2019_07_10-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_10/publica.ro-2019_07_10-dev.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
