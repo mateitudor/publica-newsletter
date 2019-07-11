@@ -18217,7 +18217,7 @@
 		"oAP": "/2019/07_10/img/publica.ro-book_small-adevarul_de_necombatut.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/2019/07_10/img/publica.ro-book_small-in_fuga.jpg": {
@@ -18228,7 +18228,7 @@
 		"oAP": "/2019/07_10/img/publica.ro-book_small-in_fuga.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/2019/07_10/img/publica.ro-book_small-rod_laver.jpg": {
@@ -18239,7 +18239,7 @@
 		"oAP": "/2019/07_10/img/publica.ro-book_small-rod_laver.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/2019/07_10/img/publica.ro-book_small-ronnie.jpg": {
@@ -18250,18 +18250,18 @@
 		"oAP": "/2019/07_10/img/publica.ro-book_small-ronnie.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/2019/07_10/img/publica.ro-nl_hero-eu_si_masa.jpg": {
 		"ft": 16384,
-		"iS": 1745734,
+		"iS": 590968,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2019/07_10/img/publica.ro-nl_hero-eu_si_masa.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/2019/07_10/publica.ro-2019_07_10-dev.html": {
@@ -18270,6 +18270,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2019/07_10/publica.ro-2019_07_10-dev.html",
+		"oF": 0
+		},
+	"/2019/07_10/publica.ro-2019_07_10-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_10/publica.ro-2019_07_10-gold.html",
+		"oF": 0
+		},
+	"/2019/07_10/publica.ro-2019_07_10-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_10/publica.ro-2019_07_10-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
