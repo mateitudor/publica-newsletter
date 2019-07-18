@@ -18373,6 +18373,22 @@
 		"oAP": "/2019/07_18/publica.ro-2019_07_18-dev.html",
 		"oF": 0
 		},
+	"/2019/07_18/publica.ro-2019_07_18-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_18/publica.ro-2019_07_18-gold.html",
+		"oF": 0
+		},
+	"/2019/07_18/publica.ro-2019_07_18-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_18/publica.ro-2019_07_18-regular.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
