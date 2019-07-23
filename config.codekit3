@@ -18389,6 +18389,96 @@
 		"oAP": "/2019/07_18/publica.ro-2019_07_18-regular.html",
 		"oF": 0
 		},
+	"/2019/07_23/img/publica.ro-2019_07_23-logo_tagline-@2x.jpg": {
+		"ft": 16384,
+		"iS": 5192,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_23/img/publica.ro-2019_07_23-logo_tagline-@2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_23/img/publica.ro-book_hero-einstein.jpg": {
+		"ft": 16384,
+		"iS": 2297713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_23/img/publica.ro-book_hero-einstein.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_23/img/publica.ro-book_small-ce_ti_pasa_tie_de_parerile_altora.jpg": {
+		"ft": 16384,
+		"iS": 514745,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_23/img/publica.ro-book_small-ce_ti_pasa_tie_de_parerile_altora.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/07_23/img/publica.ro-book_small-inovatorii.jpg": {
+		"ft": 16384,
+		"iS": 289885,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_23/img/publica.ro-book_small-inovatorii.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/07_23/img/publica.ro-book_small-isaac_newton.jpg": {
+		"ft": 16384,
+		"iS": 297359,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_23/img/publica.ro-book_small-isaac_newton.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_23/img/publica.ro-book_small-leonardo_da_vinci.jpg": {
+		"ft": 16384,
+		"iS": 677503,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/07_23/img/publica.ro-book_small-leonardo_da_vinci.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/07_23/publica.ro-2019_07_23-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_23/publica.ro-2019_07_23-dev.html",
+		"oF": 0
+		},
+	"/2019/07_23/publica.ro-2019_07_23-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_23/publica.ro-2019_07_23-gold.html",
+		"oF": 0
+		},
+	"/2019/07_23/publica.ro-2019_07_23-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/07_23/publica.ro-2019_07_23-regular.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
