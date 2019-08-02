@@ -18514,10 +18514,21 @@
 		},
 	"/2019/08_02/img/publica.ro-2019_08_02-logo_tagline.jpg": {
 		"ft": 16384,
-		"iS": 5192,
+		"iS": 15303,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2019/08_02/img/publica.ro-2019_08_02-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_02/img/publica.ro-book_hero-wohlleben.jpg": {
+		"ft": 16384,
+		"iS": 601041,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_02/img/publica.ro-book_hero-wohlleben.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
