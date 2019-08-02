@@ -7,7 +7,7 @@
 		"uuidString": "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "31491",
 "files": {
 	"/2016/06-01/img-orig/publica-book-cand-sa-jefuiesti-o-banca.jpg": {
 		"ft": 16384,
@@ -18479,6 +18479,77 @@
 		"oAP": "/2019/07_23/publica.ro-2019_07_23-regular.html",
 		"oF": 0
 		},
+	"/2019/08_02/img/brandminds-2020.jpg": {
+		"ft": 16384,
+		"iS": 809868,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_02/img/brandminds-2020.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_02/img/digitalium-2019_10_07.jpg": {
+		"ft": 16384,
+		"iS": 676303,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_02/img/digitalium-2019_10_07.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_02/img/power_of_storytelling-10_18_2019.jpg": {
+		"ft": 16384,
+		"iS": 1152539,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_02/img/power_of_storytelling-10_18_2019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_02/img/publica.ro-2019_08_02-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 5192,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_02/img/publica.ro-2019_08_02-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_02/img/publica.ro-event-viata_secreta_a_copacilor.jpg": {
+		"ft": 16384,
+		"iS": 1756337,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_02/img/publica.ro-event-viata_secreta_a_copacilor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_02/peter_wohlleben_in_romania.ics": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_02/peter_wohlleben_in_romania.ics",
+		"oF": 0
+		},
+	"/2019/08_02/publica.ro-2019_08_02-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_02/publica.ro-2019_08_02-dev.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
@@ -19206,6 +19277,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -19217,6 +19289,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -19356,6 +19429,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -19387,6 +19463,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -19481,11 +19560,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -20490,6 +20568,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -21243,6 +21325,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, /storage/framework/sessions, node_modules",

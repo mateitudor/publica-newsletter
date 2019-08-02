@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ICalendarCreator//NONSGML//EN
+BEGIN:VEVENT
+DTSTART:20190829T190000
+DTEND:20190829T200000
+SUMMARY:Peter Wohlleben în România
+LOCATION:Seneca Anticafe, Strada Arhitect Ion Mincu 1, București
+DESCRIPTION:Întâlnirea cu autorul bestsellerului Publica „Viața secretă a copacilor”.
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Peter Wohlleben în România
+END:VALARM
+END:VEVENT
+END:VCALENDAR
