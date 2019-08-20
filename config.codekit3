@@ -18569,6 +18569,107 @@
 		"oAP": "/2019/08_02/publica.ro-2019_08_02-dist.html",
 		"oF": 0
 		},
+	"/2019/08_20/img/publica.ro-book_hero-kim_clijsters.jpg": {
+		"ft": 16384,
+		"iS": 4063494,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_20/img/publica.ro-book_hero-kim_clijsters.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_20/img/publica.ro-book_small-justine_henin.jpg": {
+		"ft": 16384,
+		"iS": 169303,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_20/img/publica.ro-book_small-justine_henin.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_20/img/publica.ro-book_small-monica_seles.jpg": {
+		"ft": 16384,
+		"iS": 185801,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_20/img/publica.ro-book_small-monica_seles.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_20/img/publica.ro-book_small-serena_williams.jpg": {
+		"ft": 16384,
+		"iS": 171571,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_20/img/publica.ro-book_small-serena_williams.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_20/img/publica.ro-book_small-steffi.jpg": {
+		"ft": 16384,
+		"iS": 208977,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_20/img/publica.ro-book_small-steffi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_20/img/publica.ro-event-viata_secreta_a_copacilor.jpg": {
+		"ft": 16384,
+		"iS": 533873,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_20/img/publica.ro-event-viata_secreta_a_copacilor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_20/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 18162,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_20/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_20/publica.ro-2019_08_20-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_20/publica.ro-2019_08_20-dev.html",
+		"oF": 0
+		},
+	"/2019/08_20/publica.ro-2019_08_20-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_20/publica.ro-2019_08_20-gold.html",
+		"oF": 0
+		},
+	"/2019/08_20/publica.ro-2019_08_20-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_20/publica.ro-2019_08_20-regular.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
