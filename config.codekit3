@@ -18670,6 +18670,107 @@
 		"oAP": "/2019/08_20/publica.ro-2019_08_20-regular.html",
 		"oF": 0
 		},
+	"/2019/08_22/img/publica.ro-book_hero-lichid.jpg": {
+		"ft": 16384,
+		"iS": 1126256,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_22/img/publica.ro-book_hero-lichid.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_22/img/publica.ro-book_small-botanistul_euforic.jpg": {
+		"ft": 16384,
+		"iS": 297085,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_22/img/publica.ro-book_small-botanistul_euforic.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_22/img/publica.ro-book_small-cum_am_ajuns_aici.jpg": {
+		"ft": 16384,
+		"iS": 212584,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_22/img/publica.ro-book_small-cum_am_ajuns_aici.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_22/img/publica.ro-book_small-lingura_care_dispare.jpg": {
+		"ft": 16384,
+		"iS": 222271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_22/img/publica.ro-book_small-lingura_care_dispare.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_22/img/publica.ro-book_small-zece_materiale_minune.jpg": {
+		"ft": 16384,
+		"iS": 54959,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_22/img/publica.ro-book_small-zece_materiale_minune.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_22/img/publica.ro-event-viata_secreta_a_copacilor.jpg": {
+		"ft": 16384,
+		"iS": 533873,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_22/img/publica.ro-event-viata_secreta_a_copacilor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_22/img/publica.ro-logo_tagline_2x.jpg": {
+		"ft": 16384,
+		"iS": 10255,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_22/img/publica.ro-logo_tagline_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_22/publica.ro-2019_08_22-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_22/publica.ro-2019_08_22-dev.html",
+		"oF": 0
+		},
+	"/2019/08_22/publica.ro-2019_08_22-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_22/publica.ro-2019_08_22-gold.html",
+		"oF": 0
+		},
+	"/2019/08_22/publica.ro-2019_08_22-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_22/publica.ro-2019_08_22-regular.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
