@@ -18771,6 +18771,118 @@
 		"oAP": "/2019/08_22/publica.ro-2019_08_22-regular.html",
 		"oF": 0
 		},
+	"/2019/08_27/img/publica.ro-book_hero-metoda_bullet_journal.jpg": {
+		"ft": 16384,
+		"iS": 764494,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_27/img/publica.ro-book_hero-metoda_bullet_journal.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_27/img/publica.ro-book_small-deep_work.jpg": {
+		"ft": 16384,
+		"iS": 291150,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_27/img/publica.ro-book_small-deep_work.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_27/img/publica.ro-book_small-designing_your_life.jpg": {
+		"ft": 16384,
+		"iS": 257126,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_27/img/publica.ro-book_small-designing_your_life.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_27/img/publica.ro-book_small-mintea_organizata.jpg": {
+		"ft": 16384,
+		"iS": 484938,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_27/img/publica.ro-book_small-mintea_organizata.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_27/img/publica.ro-book_small-musai_list.jpg": {
+		"ft": 16384,
+		"iS": 227871,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_27/img/publica.ro-book_small-musai_list.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_27/img/publica.ro-event-viata_secreta_a_copacilor.jpg": {
+		"ft": 16384,
+		"iS": 533873,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_27/img/publica.ro-event-viata_secreta_a_copacilor.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_27/img/publica.ro-hero-wohlleben_in_romania-trees.jpg": {
+		"ft": 16384,
+		"iS": 920907,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_27/img/publica.ro-hero-wohlleben_in_romania-trees.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_27/img/publica.ro-logo_tagline_2x.jpg": {
+		"ft": 16384,
+		"iS": 10255,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_27/img/publica.ro-logo_tagline_2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_27/publica.ro-2019_08_27-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_27/publica.ro-2019_08_27-dev.html",
+		"oF": 0
+		},
+	"/2019/08_27/publica.ro-2019_08_27-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_27/publica.ro-2019_08_27-gold.html",
+		"oF": 0
+		},
+	"/2019/08_27/publica.ro-2019_08_27-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_27/publica.ro-2019_08_27-regular.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
