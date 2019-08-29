@@ -18872,6 +18872,107 @@
 		"oAP": "/2019/08_27/publica.ro-2019_08_27-regular.html",
 		"oF": 0
 		},
+	"/2019/08_29/img/publica.ro-codul_culturii-book_small.jpg": {
+		"ft": 16384,
+		"iS": 197498,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_29/img/publica.ro-codul_culturii-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_29/img/publica.ro-exceptionalii-book_small.jpg": {
+		"ft": 16384,
+		"iS": 139876,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_29/img/publica.ro-exceptionalii-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_29/img/publica.ro-logo_tagline-2x.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_29/img/publica.ro-logo_tagline-2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_29/img/publica.ro-mai_inteligent_mai_repede_mai_bine-book_small.jpg": {
+		"ft": 16384,
+		"iS": 214664,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_29/img/publica.ro-mai_inteligent_mai_repede_mai_bine-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_29/img/publica.ro-micul_ghid_al_talentului-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 535870,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_29/img/publica.ro-micul_ghid_al_talentului-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/08_29/img/publica.ro-puterea_obisnuintei-book_small.jpg": {
+		"ft": 16384,
+		"iS": 192608,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_29/img/publica.ro-puterea_obisnuintei-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_29/img/publica.ro-wohlleben-cancel.jpg": {
+		"ft": 16384,
+		"iS": 278389,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/08_29/img/publica.ro-wohlleben-cancel.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/08_29/publica.ro-2019_08_29-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_29/publica.ro-2019_08_29-dev.html",
+		"oF": 0
+		},
+	"/2019/08_29/publica.ro-2019_08_29-regular copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_29/publica.ro-2019_08_29-regular copy.html",
+		"oF": 0
+		},
+	"/2019/08_29/publica.ro-2019_08_29-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/08_29/publica.ro-2019_08_29-regular.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
