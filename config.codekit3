@@ -18957,12 +18957,12 @@
 		"oAP": "/2019/08_29/publica.ro-2019_08_29-dev.html",
 		"oF": 0
 		},
-	"/2019/08_29/publica.ro-2019_08_29-regular copy.html": {
+	"/2019/08_29/publica.ro-2019_08_29-gold.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/2019/08_29/publica.ro-2019_08_29-regular copy.html",
+		"oAP": "/2019/08_29/publica.ro-2019_08_29-gold.html",
 		"oF": 0
 		},
 	"/2019/08_29/publica.ro-2019_08_29-regular.html": {
@@ -18971,6 +18971,107 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2019/08_29/publica.ro-2019_08_29-regular.html",
+		"oF": 0
+		},
+	"/2019/09_05/img/power_of_storytelling-10_18_2019.jpg": {
+		"ft": 16384,
+		"iS": 303072,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_05/img/power_of_storytelling-10_18_2019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_05/img/publica.ro-cei_mai_buni-book_small.jpg": {
+		"ft": 16384,
+		"iS": 160471,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_05/img/publica.ro-cei_mai_buni-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/09_05/img/publica.ro-gandire_rapida_gandire_lenta-book_small.jpg": {
+		"ft": 16384,
+		"iS": 188024,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_05/img/publica.ro-gandire_rapida_gandire_lenta-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_05/img/publica.ro-grit-book_small.jpg": {
+		"ft": 16384,
+		"iS": 145071,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_05/img/publica.ro-grit-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_05/img/publica.ro-logo_tagline-2x.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_05/img/publica.ro-logo_tagline-2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_05/img/publica.ro-micul_ghid_al_talentului-book_small.jpg": {
+		"ft": 16384,
+		"iS": 144676,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_05/img/publica.ro-micul_ghid_al_talentului-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_05/img/publica.ro-paradoxul_cimpanzeului-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 1157964,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_05/img/publica.ro-paradoxul_cimpanzeului-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_05/publica.ro-2019_09_05-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/09_05/publica.ro-2019_09_05-dev.html",
+		"oF": 0
+		},
+	"/2019/09_05/publica.ro-2019_09_05-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/09_05/publica.ro-2019_09_05-gold.html",
+		"oF": 0
+		},
+	"/2019/09_05/publica.ro-2019_09_05-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/09_05/publica.ro-2019_09_05-regular.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
