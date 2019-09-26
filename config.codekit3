@@ -19236,6 +19236,112 @@
 		"oAP": "/2019/09_24/publica.ro-2019_09_24-dev.html",
 		"oF": 0
 		},
+	"/2019/09_24/publica.ro-2019_09_24-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/09_24/publica.ro-2019_09_24-gold.html",
+		"oF": 0
+		},
+	"/2019/09_24/publica.ro-2019_09_24-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/09_24/publica.ro-2019_09_24-regular.html",
+		"oF": 0
+		},
+	"/2019/09_26/img/publica.ro-factfulness-book_small-flat.jpg": {
+		"ft": 16384,
+		"iS": 994574,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_26/img/publica.ro-factfulness-book_small-flat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_26/img/publica.ro-gandire_rapida_gandire_lenta-book_small-flat.jpg": {
+		"ft": 16384,
+		"iS": 702310,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_26/img/publica.ro-gandire_rapida_gandire_lenta-book_small-flat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_26/img/publica.ro-gena_egoista-book_small-flat.jpg": {
+		"ft": 16384,
+		"iS": 317133,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_26/img/publica.ro-gena_egoista-book_small-flat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/09_26/img/publica.ro-ingerii_mai_buni_ai_naturii_noastre-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 345469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_26/img/publica.ro-ingerii_mai_buni_ai_naturii_noastre-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_26/img/publica.ro-logo_tagline-2x.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_26/img/publica.ro-logo_tagline-2x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_26/img/publica.ro-simtul_stilului-book_small-flat.jpg": {
+		"ft": 16384,
+		"iS": 1395356,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/09_26/img/publica.ro-simtul_stilului-book_small-flat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/09_26/publica.ro-2019_09_26-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/09_26/publica.ro-2019_09_26-dev.html",
+		"oF": 0
+		},
+	"/2019/09_26/publica.ro-2019_09_26-gold.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/09_26/publica.ro-2019_09_26-gold.html",
+		"oF": 0
+		},
+	"/2019/09_26/publica.ro-2019_09_26-regular.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/09_26/publica.ro-2019_09_26-regular.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
