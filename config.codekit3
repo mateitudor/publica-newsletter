@@ -19344,7 +19344,7 @@
 		},
 	"/2019/10_07/img/publica.ro-behave-book_small.jpg": {
 		"ft": 16384,
-		"iS": 355646,
+		"iS": 134617,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2019/10_07/img/publica.ro-behave-book_small.jpg",
@@ -19355,7 +19355,7 @@
 		},
 	"/2019/10_07/img/publica.ro-cum_sa_te_inventezi-book_small.jpg": {
 		"ft": 16384,
-		"iS": 350872,
+		"iS": 150095,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2019/10_07/img/publica.ro-cum_sa_te_inventezi-book_small.jpg",
@@ -19414,6 +19414,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2019/10_07/publica.ro-2019_10_07-dev.html",
+		"oF": 0
+		},
+	"/2019/10_07/publica.ro-2019_10_07-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/10_07/publica.ro-2019_10_07-g.html",
+		"oF": 0
+		},
+	"/2019/10_07/publica.ro-2019_10_07-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/10_07/publica.ro-2019_10_07-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
