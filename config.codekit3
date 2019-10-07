@@ -19342,6 +19342,80 @@
 		"oAP": "/2019/09_26/publica.ro-2019_09_26-regular.html",
 		"oF": 0
 		},
+	"/2019/10_07/img/publica.ro-behave-book_small.jpg": {
+		"ft": 16384,
+		"iS": 355646,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_07/img/publica.ro-behave-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_07/img/publica.ro-cum_sa_te_inventezi-book_small.jpg": {
+		"ft": 16384,
+		"iS": 350872,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_07/img/publica.ro-cum_sa_te_inventezi-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_07/img/publica.ro-de_ce_nu_fac_zebrele_ulcer-book_small.jpg": {
+		"ft": 16384,
+		"iS": 162557,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_07/img/publica.ro-de_ce_nu_fac_zebrele_ulcer-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_07/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_07/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_07/img/publica.ro-orhideea_si_papadia-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 440271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_07/img/publica.ro-orhideea_si_papadia-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_07/img/publica.ro-quiet-book_small.jpg": {
+		"ft": 16384,
+		"iS": 70125,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_07/img/publica.ro-quiet-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_07/publica.ro-2019_10_07-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/10_07/publica.ro-2019_10_07-dev.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
