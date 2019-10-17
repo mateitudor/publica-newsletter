@@ -19432,6 +19432,91 @@
 		"oAP": "/2019/10_07/publica.ro-2019_10_07-r.html",
 		"oF": 0
 		},
+	"/2019/10_17/img/power_of_storytelling-10_18_2019.jpg": {
+		"ft": 16384,
+		"iS": 303072,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_17/img/power_of_storytelling-10_18_2019.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/10_17/img/publica.ro-camera_de_povestit-book_small.jpg": {
+		"ft": 16384,
+		"iS": 70638,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_17/img/publica.ro-camera_de_povestit-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_17/img/publica.ro-invatare-book_small.jpg": {
+		"ft": 16384,
+		"iS": 240382,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_17/img/publica.ro-invatare-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/10_17/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 22109,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_17/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_17/img/publica.ro-portocaliul_este_noul_negru-book_small.jpg": {
+		"ft": 16384,
+		"iS": 36702,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_17/img/publica.ro-portocaliul_este_noul_negru-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_17/img/publica.ro-recuperarea-book_small.jpg": {
+		"ft": 16384,
+		"iS": 368290,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_17/img/publica.ro-recuperarea-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/10_17/img/publica.ro-the_mastermind-hero.jpg": {
+		"ft": 16384,
+		"iS": 413223,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_17/img/publica.ro-the_mastermind-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/10_17/publica.ro-2019_10_17-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/10_17/publica.ro-2019_10_17-dev.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
