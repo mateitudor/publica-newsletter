@@ -19599,12 +19599,39 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/2019/10_24/img/publica.ro-upcoming-2019_10_24.jpg": {
+		"ft": 16384,
+		"iS": 810199,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_24/img/publica.ro-upcoming-2019_10_24.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/2019/10_24/publica.ro-2019_10_24-dev.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2019/10_24/publica.ro-2019_10_24-dev.html",
+		"oF": 0
+		},
+	"/2019/10_24/publica.ro-2019_10_24-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/10_24/publica.ro-2019_10_24-g.html",
+		"oF": 0
+		},
+	"/2019/10_24/publica.ro-2019_10_24-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/10_24/publica.ro-2019_10_24-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
