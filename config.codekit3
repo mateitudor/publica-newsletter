@@ -19634,6 +19634,107 @@
 		"oAP": "/2019/10_24/publica.ro-2019_10_24-r.html",
 		"oF": 0
 		},
+	"/2019/10_29/img/publica.ro-cum_functioneaza_google-book_small.jpg": {
+		"ft": 16384,
+		"iS": 62209,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_29/img/publica.ro-cum_functioneaza_google-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_29/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 19662,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_29/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/10_29/img/publica.ro-masoara_ce_conteaza-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 412178,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_29/img/publica.ro-masoara_ce_conteaza-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/10_29/img/publica.ro-metoda_bullet_journal-book_small.jpg": {
+		"ft": 16384,
+		"iS": 138020,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_29/img/publica.ro-metoda_bullet_journal-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_29/img/publica.ro-mini_obiceiuri-book_small.jpg": {
+		"ft": 16384,
+		"iS": 46824,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_29/img/publica.ro-mini_obiceiuri-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_29/img/publica.ro-sinceritate_radicala-book_small.jpg": {
+		"ft": 16384,
+		"iS": 90823,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_29/img/publica.ro-sinceritate_radicala-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/10_29/img/publica.ro-upcoming-2019_10_29.jpg": {
+		"ft": 16384,
+		"iS": 465520,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/10_29/img/publica.ro-upcoming-2019_10_29.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/10_29/publica.ro-2019_10_29-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/10_29/publica.ro-2019_10_29-dev.html",
+		"oF": 0
+		},
+	"/2019/10_29/publica.ro-2019_10_29-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/10_29/publica.ro-2019_10_29-g.html",
+		"oF": 0
+		},
+	"/2019/10_29/publica.ro-2019_10_29-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/10_29/publica.ro-2019_10_29-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
