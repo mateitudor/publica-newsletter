@@ -19836,6 +19836,96 @@
 		"oAP": "/2019/11_04/publica.ro-2019_11_04-r.html",
 		"oF": 0
 		},
+	"/2019/11_07/img/publica.ro-david_si_goliat-book_small.jpg": {
+		"ft": 16384,
+		"iS": 74653,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_07/img/publica.ro-david_si_goliat-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_07/img/publica.ro-gandire_rapida_gandire_lenta-book_small.jpg": {
+		"ft": 16384,
+		"iS": 91931,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_07/img/publica.ro-gandire_rapida_gandire_lenta-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_07/img/publica.ro-gandirea_de_tip_cutie_neagra-book_small.jpg": {
+		"ft": 16384,
+		"iS": 95403,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_07/img/publica.ro-gandirea_de_tip_cutie_neagra-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_07/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 9799,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_07/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/11_07/img/publica.ro-loonshots-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 573933,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_07/img/publica.ro-loonshots-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/11_07/img/publica.ro-originalii-book_small.jpg": {
+		"ft": 16384,
+		"iS": 100804,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_07/img/publica.ro-originalii-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_07/publica.ro-2019_11_07-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_07/publica.ro-2019_11_07-dev.html",
+		"oF": 0
+		},
+	"/2019/11_07/publica.ro-2019_11_07-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_07/publica.ro-2019_11_07-g.html",
+		"oF": 0
+		},
+	"/2019/11_07/publica.ro-2019_11_07-s.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_07/publica.ro-2019_11_07-s.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
