@@ -19926,6 +19926,107 @@
 		"oAP": "/2019/11_07/publica.ro-2019_11_07-r.html",
 		"oF": 0
 		},
+	"/2019/11_11/img/publica.ro-dark_cockpit-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 414270,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_11/img/publica.ro-dark_cockpit-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_11/img/publica.ro-dark_cockpit-event_hero.jpg": {
+		"ft": 16384,
+		"iS": 387011,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_11/img/publica.ro-dark_cockpit-event_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_11/img/publica.ro-gandirea_de_tip_cutie_neagra-book_small.jpg": {
+		"ft": 16384,
+		"iS": 88294,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_11/img/publica.ro-gandirea_de_tip_cutie_neagra-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_11/img/publica.ro-lichid-book_small.jpg": {
+		"ft": 16384,
+		"iS": 120791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_11/img/publica.ro-lichid-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_11/img/publica.ro-liderii_mananca_ultimii-book_small.jpg": {
+		"ft": 16384,
+		"iS": 86524,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_11/img/publica.ro-liderii_mananca_ultimii-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_11/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 9273,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_11/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_11/img/publica.ro-musai_list-book_small.jpg": {
+		"ft": 16384,
+		"iS": 56783,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_11/img/publica.ro-musai_list-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_11/publica.ro-2019_11_11-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_11/publica.ro-2019_11_11-dev.html",
+		"oF": 0
+		},
+	"/2019/11_11/publica.ro-2019_11_11-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_11/publica.ro-2019_11_11-g.html",
+		"oF": 0
+		},
+	"/2019/11_11/publica.ro-2019_11_11-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_11/publica.ro-2019_11_11-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
