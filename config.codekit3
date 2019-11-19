@@ -20128,6 +20128,129 @@
 		"oAP": "/2019/11_14/publica.ro-2019_11_14-r.html",
 		"oF": 0
 		},
+	"/2019/11_19/img/publica.ro-algebra_fericirii-book_small.jpg": {
+		"ft": 16384,
+		"iS": 104228,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_19/img/publica.ro-algebra_fericirii-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_19/img/publica.ro-aventurile_unui_tanar_naturalist-book_small.jpg": {
+		"ft": 16384,
+		"iS": 112175,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_19/img/publica.ro-aventurile_unui_tanar_naturalist-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_19/img/publica.ro-dark_cockpit-gaudeamus_event_hero.jpg": {
+		"ft": 16384,
+		"iS": 277309,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_19/img/publica.ro-dark_cockpit-gaudeamus_event_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_19/img/publica.ro-gaudeamus_2019-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 1384428,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_19/img/publica.ro-gaudeamus_2019-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/11_19/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 11251,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_19/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/11_19/img/publica.ro-loonshots-book_small.jpg": {
+		"ft": 16384,
+		"iS": 117286,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_19/img/publica.ro-loonshots-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_19/img/publica.ro-masoara_de_ce-book_small.jpg": {
+		"ft": 16384,
+		"iS": 74339,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_19/img/publica.ro-masoara_de_ce-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_19/img/publica.ro-minimalism_digital-book_small.jpg": {
+		"ft": 16384,
+		"iS": 81751,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_19/img/publica.ro-minimalism_digital-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/11_19/img/publica.ro-the_mastermind-book_small.jpg": {
+		"ft": 16384,
+		"iS": 1896587,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_19/img/publica.ro-the_mastermind-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/11_19/publica.ro-2019_11_19-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_19/publica.ro-2019_11_19-dev.html",
+		"oF": 0
+		},
+	"/2019/11_19/publica.ro-2019_11_19-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_19/publica.ro-2019_11_19-g.html",
+		"oF": 0
+		},
+	"/2019/11_19/publica.ro-2019_11_19-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_19/publica.ro-2019_11_19-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
