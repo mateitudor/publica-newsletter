@@ -20251,6 +20251,63 @@
 		"oAP": "/2019/11_19/publica.ro-2019_11_19-r.html",
 		"oF": 0
 		},
+	"/2019/11_22/img/publica.ro-dark_cockpit-gaudeamus_event_hero.jpg": {
+		"ft": 16384,
+		"iS": 251108,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_22/img/publica.ro-dark_cockpit-gaudeamus_event_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/11_22/img/publica.ro-gaudeamus_2019-presents-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 592531,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_22/img/publica.ro-gaudeamus_2019-presents-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2019/11_22/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 11251,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/11_22/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/11_22/publica.ro-2019_11_22-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_22/publica.ro-2019_11_22-dev.html",
+		"oF": 0
+		},
+	"/2019/11_22/publica.ro-2019_11_22-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_22/publica.ro-2019_11_22-g.html",
+		"oF": 0
+		},
+	"/2019/11_22/publica.ro-2019_11_22-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/11_22/publica.ro-2019_11_22-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
@@ -20962,6 +21019,14 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/index.html",
+		"oF": 0
+		},
+	"/publica.ro-2019_11_22-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/publica.ro-2019_11_22-r.html",
 		"oF": 0
 		}
 	},
