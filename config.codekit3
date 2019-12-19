@@ -20368,6 +20368,69 @@
 		"oAP": "/2019/12_17/publica.ro-2019_12_17-g.html",
 		"oF": 0
 		},
+	"/2019/12_19/img/publica.ro-cum_sa_devii_capitalist_cand_nu_ai_niciun_capital-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 466554,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/12_19/img/publica.ro-cum_sa_devii_capitalist_cand_nu_ai_niciun_capital-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/12_19/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 12850,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/12_19/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/12_19/img/publica.ro-opreste_timpul-nl_hero-01.jpg": {
+		"ft": 16384,
+		"iS": 272869,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/12_19/img/publica.ro-opreste_timpul-nl_hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/12_19/img/publica.ro-opreste_timpul-nl_hero-02.jpg": {
+		"ft": 16384,
+		"iS": 138462,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/12_19/img/publica.ro-opreste_timpul-nl_hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/12_19/img/publica.ro-vizionar-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 407733,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2019/12_19/img/publica.ro-vizionar-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2019/12_19/publica.ro-2019_12_19-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2019/12_19/publica.ro-2019_12_19-dev.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
