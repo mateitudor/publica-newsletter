@@ -7,7 +7,7 @@
 		"uuidString": "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
 		}
 	],
-"creatorBuild": "31927",
+"creatorBuild": "31934",
 "files": {
 	"/2016/06-01/img-orig/publica-book-cand-sa-jefuiesti-o-banca.jpg": {
 		"ft": 16384,
@@ -20447,6 +20447,145 @@
 		"oAP": "/2019/12_19/publica.ro-2019_12_19-r.html",
 		"oF": 0
 		},
+	"/2020/01_14/img/publica.ro-01_14-carti_in_pregatire-nl_hero-02.jpg": {
+		"ft": 16384,
+		"iS": 767804,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_14/img/publica.ro-01_14-carti_in_pregatire-nl_hero-02.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_14/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8822,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_14/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_14/publica.ro-2020_01_14-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/01_14/publica.ro-2020_01_14-dev.html",
+		"oF": 0
+		},
+	"/2020/01_14/publica.ro-2020_01_14.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/01_14/publica.ro-2020_01_14.html",
+		"oF": 0
+		},
+	"/2020/01_22/img/publica.ro-cum_iti_vei_masura_viata-book_small.jpg": {
+		"ft": 16384,
+		"iS": 89131,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_22/img/publica.ro-cum_iti_vei_masura_viata-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_22/img/publica.ro-dincolo_de_frumusetea_perena-book_small.jpg": {
+		"ft": 16384,
+		"iS": 95961,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_22/img/publica.ro-dincolo_de_frumusetea_perena-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_22/img/publica.ro-in_competitie_cu_norocul-book_small.jpg": {
+		"ft": 16384,
+		"iS": 100336,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_22/img/publica.ro-in_competitie_cu_norocul-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_22/img/publica.ro-lansare_cockpit_iasi.jpg": {
+		"ft": 16384,
+		"iS": 871305,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_22/img/publica.ro-lansare_cockpit_iasi.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_22/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 11558,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_22/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_22/img/publica.ro-paradoxul_prosperitatii-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 539491,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_22/img/publica.ro-paradoxul_prosperitatii-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/01_22/img/publica.ro-sete-book_small.jpg": {
+		"ft": 16384,
+		"iS": 61036,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_22/img/publica.ro-sete-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_22/publica.ro-2020_01_22-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/01_22/publica.ro-2020_01_22-dev.html",
+		"oF": 0
+		},
+	"/2020/01_22/publica.ro-2020_01_22-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/01_22/publica.ro-2020_01_22-g.html",
+		"oF": 0
+		},
+	"/2020/01_22/publica.ro-2020_01_22-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/01_22/publica.ro-2020_01_22-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
@@ -23110,7 +23249,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
