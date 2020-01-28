@@ -20586,6 +20586,96 @@
 		"oAP": "/2020/01_22/publica.ro-2020_01_22-r.html",
 		"oF": 0
 		},
+	"/2020/01_28/img/publica.ro-ce_ti_pasa_tie_de_parerile_altora-book_small.jpg": {
+		"ft": 16384,
+		"iS": 142651,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_28/img/publica.ro-ce_ti_pasa_tie_de_parerile_altora-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/01_28/img/publica.ro-cum_sa_ti_schimbi_mintea-book_small.jpg": {
+		"ft": 16384,
+		"iS": 106767,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_28/img/publica.ro-cum_sa_ti_schimbi_mintea-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/01_28/img/publica.ro-lichid-book_small.jpg": {
+		"ft": 16384,
+		"iS": 120291,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_28/img/publica.ro-lichid-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/01_28/img/publica.ro-lingura_care_dispare-book_small.jpg": {
+		"ft": 16384,
+		"iS": 118991,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_28/img/publica.ro-lingura_care_dispare-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/01_28/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 9383,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_28/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_28/img/publica.ro-o_sa_razi_totul_e_chimie-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 539222,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/01_28/img/publica.ro-o_sa_razi_totul_e_chimie-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/01_28/publica.ro-2020_01_28-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/01_28/publica.ro-2020_01_28-dev.html",
+		"oF": 0
+		},
+	"/2020/01_28/publica.ro-2020_01_28-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/01_28/publica.ro-2020_01_28-g.html",
+		"oF": 0
+		},
+	"/2020/01_28/publica.ro-2020_01_28-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/01_28/publica.ro-2020_01_28-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
