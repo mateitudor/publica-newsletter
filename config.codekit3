@@ -20801,6 +20801,107 @@
 		"oAP": "/2020/02_05/publica.ro-2020_02_05-r.html",
 		"oF": 0
 		},
+	"/2020/02_19/img/publica.ro-asta_inseamna_marketing-book_small.jpg": {
+		"ft": 16384,
+		"iS": 116179,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/02_19/img/publica.ro-asta_inseamna_marketing-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/02_19/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 12071,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/02_19/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/02_19/img/publica.ro-minimalism_digital-book_small.jpg": {
+		"ft": 16384,
+		"iS": 82569,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/02_19/img/publica.ro-minimalism_digital-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/02_19/img/publica.ro-powered_by_storytelling-book_small.jpg": {
+		"ft": 16384,
+		"iS": 105965,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/02_19/img/publica.ro-powered_by_storytelling-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/02_19/img/publica.ro-presentation_zen_2-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 476979,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/02_19/img/publica.ro-presentation_zen_2-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/02_19/img/publica.ro-recent-hero.jpg": {
+		"ft": 16384,
+		"iS": 365248,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/02_19/img/publica.ro-recent-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/02_19/img/publica.ro-wise_guy-book_small.jpg": {
+		"ft": 16384,
+		"iS": 81419,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/02_19/img/publica.ro-wise_guy-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/02_19/publica.ro-2020_02_19-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/02_19/publica.ro-2020_02_19-dev.html",
+		"oF": 0
+		},
+	"/2020/02_19/publica.ro-2020_02_19-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/02_19/publica.ro-2020_02_19-g.html",
+		"oF": 0
+		},
+	"/2020/02_19/publica.ro-2020_02_19-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/02_19/publica.ro-2020_02_19-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
