@@ -20932,12 +20932,12 @@
 		"oAP": "/2020/02_28/publica.ro-2020_02_28-dev.html",
 		"oF": 0
 		},
-	"/2020/02_28/publica.ro-2020_02_28-r copy.html": {
+	"/2020/02_28/publica.ro-2020_02_28-g.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/2020/02_28/publica.ro-2020_02_28-r copy.html",
+		"oAP": "/2020/02_28/publica.ro-2020_02_28-g.html",
 		"oF": 0
 		},
 	"/2020/02_28/publica.ro-2020_02_28-r.html": {
@@ -20946,6 +20946,55 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/02_28/publica.ro-2020_02_28-r.html",
+		"oF": 0
+		},
+	"/2020/03_04/img/publica.ro-haos-sase_secrete_ale_inteligentei-supergandire-hero.jpg": {
+		"ft": 16384,
+		"iS": 375314,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_04/img/publica.ro-haos-sase_secrete_ale_inteligentei-supergandire-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/03_04/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 14045,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_04/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_04/img/publica.ro-sediu_nou-hero.jpg": {
+		"ft": 16384,
+		"iS": 4836549,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_04/img/publica.ro-sediu_nou-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/03_04/publica.ro-2020_03_04-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/03_04/publica.ro-2020_03_04-dev.html",
+		"oF": 0
+		},
+	"/2020/03_04/publica.ro-2020_03_04-dist.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/03_04/publica.ro-2020_03_04-dist.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
