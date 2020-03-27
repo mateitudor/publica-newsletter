@@ -21109,20 +21109,121 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/2020/03_19/publica.ro-2020_03_19-dev copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/2020/03_19/publica.ro-2020_03_19-dev copy.html",
-		"oF": 0
-		},
 	"/2020/03_19/publica.ro-2020_03_19-dev.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/03_19/publica.ro-2020_03_19-dev.html",
+		"oF": 0
+		},
+	"/2020/03_19/publica.ro-2020_03_19-dist.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/03_19/publica.ro-2020_03_19-dist.html",
+		"oF": 0
+		},
+	"/2020/03_27/img/publica.ro-cele_sase_secrete_ale_inteligentei-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 437363,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_27/img/publica.ro-cele_sase_secrete_ale_inteligentei-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_27/img/publica.ro-einstein-book_small.jpg": {
+		"ft": 16384,
+		"iS": 123181,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_27/img/publica.ro-einstein-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_27/img/publica.ro-filosofie_pentru_viata-book_small.jpg": {
+		"ft": 16384,
+		"iS": 81654,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_27/img/publica.ro-filosofie_pentru_viata-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_27/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 12325,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_27/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_27/img/publica.ro-nascuti_pentru_a_invata-book_small.jpg": {
+		"ft": 16384,
+		"iS": 112573,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_27/img/publica.ro-nascuti_pentru_a_invata-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_27/img/publica.ro-publica_youngster-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 827251,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_27/img/publica.ro-publica_youngster-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_27/img/publica.ro-superficialii-book_small.jpg": {
+		"ft": 16384,
+		"iS": 91063,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_27/img/publica.ro-superficialii-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_27/publica.ro-2020_03_27-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/03_27/publica.ro-2020_03_27-dev.html",
+		"oF": 0
+		},
+	"/2020/03_27/publica.ro-2020_03_27-r copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/03_27/publica.ro-2020_03_27-r copy.html",
+		"oF": 0
+		},
+	"/2020/03_27/publica.ro-2020_03_27-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/03_27/publica.ro-2020_03_27-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
