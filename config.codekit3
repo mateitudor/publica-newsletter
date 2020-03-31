@@ -21210,12 +21210,12 @@
 		"oAP": "/2020/03_27/publica.ro-2020_03_27-dev.html",
 		"oF": 0
 		},
-	"/2020/03_27/publica.ro-2020_03_27-r copy.html": {
+	"/2020/03_27/publica.ro-2020_03_27-g.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/2020/03_27/publica.ro-2020_03_27-r copy.html",
+		"oAP": "/2020/03_27/publica.ro-2020_03_27-g.html",
 		"oF": 0
 		},
 	"/2020/03_27/publica.ro-2020_03_27-r.html": {
@@ -21224,6 +21224,107 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/03_27/publica.ro-2020_03_27-r.html",
+		"oF": 0
+		},
+	"/2020/03_31/img/publica.ro-business_model_generation-book_small.jpg": {
+		"ft": 16384,
+		"iS": 100372,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_31/img/publica.ro-business_model_generation-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/03_31/img/publica.ro-cele_sase_secrete_ale_inteligentei-book_small.jpg": {
+		"ft": 16384,
+		"iS": 71044,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_31/img/publica.ro-cele_sase_secrete_ale_inteligentei-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/03_31/img/publica.ro-gandire_rapida_gandire_lenta-book_small.jpg": {
+		"ft": 16384,
+		"iS": 93315,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_31/img/publica.ro-gandire_rapida_gandire_lenta-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/03_31/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 10176,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_31/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_31/img/publica.ro-nudge-book_small.jpg": {
+		"ft": 16384,
+		"iS": 77131,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_31/img/publica.ro-nudge-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/03_31/img/publica.ro-publica_youngster-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 827251,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_31/img/publica.ro-publica_youngster-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/03_31/img/publica.ro-supergandire-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 524639,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/03_31/img/publica.ro-supergandire-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/03_31/publica.ro-2020_03_31-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/03_31/publica.ro-2020_03_31-dev.html",
+		"oF": 0
+		},
+	"/2020/03_31/publica.ro-2020_03_31-r copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/03_31/publica.ro-2020_03_31-r copy.html",
+		"oF": 0
+		},
+	"/2020/03_31/publica.ro-2020_03_31-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/03_31/publica.ro-2020_03_31-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
