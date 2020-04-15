@@ -21384,6 +21384,129 @@
 		"oAP": "/2020/04_07/publica.ro-2020_04_07-r.html",
 		"oF": 0
 		},
+	"/2020/04_15/img/publica.ro-2020_04_15-crestem_impreuna.jpg": {
+		"ft": 16384,
+		"iS": 178350,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_15/img/publica.ro-2020_04_15-crestem_impreuna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_15/img/publica.ro-2020_04_15-pachet_antreprenor_constructiv.jpg": {
+		"ft": 16384,
+		"iS": 225920,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_15/img/publica.ro-2020_04_15-pachet_antreprenor_constructiv.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_15/img/publica.ro-2020_04_15-pachet_autor_gladwell.jpg": {
+		"ft": 16384,
+		"iS": 173404,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_15/img/publica.ro-2020_04_15-pachet_autor_gladwell.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_15/img/publica.ro-2020_04_15-pachet_autor_sinek.jpg": {
+		"ft": 16384,
+		"iS": 224322,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_15/img/publica.ro-2020_04_15-pachet_autor_sinek.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_15/img/publica.ro-2020_04_15-pachet_care_binedispune.jpg": {
+		"ft": 16384,
+		"iS": 230782,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_15/img/publica.ro-2020_04_15-pachet_care_binedispune.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_15/img/publica.ro-2020_04_15-pachet_lucreaza_eficient.jpg": {
+		"ft": 16384,
+		"iS": 201277,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_15/img/publica.ro-2020_04_15-pachet_lucreaza_eficient.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_15/img/publica.ro-2020_04_15-pachet_raftul_inteligent.jpg": {
+		"ft": 16384,
+		"iS": 181077,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_15/img/publica.ro-2020_04_15-pachet_raftul_inteligent.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_15/img/publica.ro-2020_04_15-pachete-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 129939,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_15/img/publica.ro-2020_04_15-pachete-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_15/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 6407,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_15/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_15/publica.ro-2020_04_15-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/04_15/publica.ro-2020_04_15-dev.html",
+		"oF": 0
+		},
+	"/2020/04_15/publica.ro-2020_04_15-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/04_15/publica.ro-2020_04_15-g.html",
+		"oF": 0
+		},
+	"/2020/04_15/publica.ro-2020_04_15-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/04_15/publica.ro-2020_04_15-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
