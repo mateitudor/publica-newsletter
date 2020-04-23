@@ -21518,6 +21518,107 @@
 		"oAP": "/2020/04_15/publica.ro-2020_04_15-r.html",
 		"oF": 0
 		},
+	"/2020/04_23/img/publica.ro-2020_04_23-crestem_impreuna.jpg": {
+		"ft": 16384,
+		"iS": 178350,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_23/img/publica.ro-2020_04_23-crestem_impreuna.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_23/img/publica.ro-2020_04_23-pachet_importanta_educatiei.jpg": {
+		"ft": 16384,
+		"iS": 598960,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_23/img/publica.ro-2020_04_23-pachet_importanta_educatiei.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_23/img/publica.ro-2020_04_23-pachet_narator_de_neuitat.jpg": {
+		"ft": 16384,
+		"iS": 493010,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_23/img/publica.ro-2020_04_23-pachet_narator_de_neuitat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_23/img/publica.ro-2020_04_23-pachet_naturalist.jpg": {
+		"ft": 16384,
+		"iS": 558726,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_23/img/publica.ro-2020_04_23-pachet_naturalist.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_23/img/publica.ro-2020_04_23-pachet_sportivii_pe_hartie.jpg": {
+		"ft": 16384,
+		"iS": 491818,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_23/img/publica.ro-2020_04_23-pachet_sportivii_pe_hartie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_23/img/publica.ro-2020_04_23-pachete-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 207707,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_23/img/publica.ro-2020_04_23-pachete-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_23/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/04_23/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/04_23/publica.ro-2020_04_23-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/04_23/publica.ro-2020_04_23-dev.html",
+		"oF": 0
+		},
+	"/2020/04_23/publica.ro-2020_04_23-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/04_23/publica.ro-2020_04_23-g.html",
+		"oF": 0
+		},
+	"/2020/04_23/publica.ro-2020_04_23-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/04_23/publica.ro-2020_04_23-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
