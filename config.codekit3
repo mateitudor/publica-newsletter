@@ -7,7 +7,7 @@
 		"uuidString": "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
 		}
 	],
-"creatorBuild": "32001",
+"creatorBuild": "32137",
 "files": {
 	"/2016/06-01/img-orig/publica-book-cand-sa-jefuiesti-o-banca.jpg": {
 		"ft": 16384,
@@ -21619,6 +21619,107 @@
 		"oAP": "/2020/04_23/publica.ro-2020_04_23-r.html",
 		"oF": 0
 		},
+	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg": {
+		"ft": 16384,
+		"iS": 330298,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-02.jpg": {
+		"ft": 16384,
+		"iS": 345624,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_04/img/.publica.ro-2020_05_04-autori_brandminds-nl_hero-02~imageoptim.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds_gladwell-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 411960,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds_gladwell-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds_lindstrom-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 308026,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds_lindstrom-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds_vaynerchuk-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 349427,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds_vaynerchuk-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds_westover-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 301164,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds_westover-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_04/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_04/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_04/publica.ro-2020_05_04-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_04/publica.ro-2020_05_04-dev.html",
+		"oF": 0
+		},
+	"/2020/05_04/publica.ro-2020_05_04-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_04/publica.ro-2020_05_04-g.html",
+		"oF": 0
+		},
+	"/2020/05_04/publica.ro-2020_05_04-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_04/publica.ro-2020_05_04-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
@@ -22251,14 +22352,14 @@
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 2,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/forms/new/assets/sass/main.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/forms/new/signup-form.html": {
 		"cB": 0,
@@ -24362,13 +24463,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
+		"compilerType": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,
