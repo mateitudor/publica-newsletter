@@ -21632,7 +21632,7 @@
 		},
 	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-02.jpg": {
 		"ft": 16384,
-		"iS": 351559,
+		"iS": 345624,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-02.jpg",
@@ -21709,7 +21709,7 @@
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/2020/05_04/publica.ro-2020_05_04-r copy.html",
+		"oAP": "/2020/05_04/publica.ro-2020_05_04-g.html",
 		"oF": 0
 		},
 	"/2020/05_04/publica.ro-2020_05_04-r.html": {
@@ -21718,6 +21718,85 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/05_04/publica.ro-2020_05_04-r.html",
+		"oF": 0
+		},
+	"/2020/05_08/img/publica.ro-2020_05_08-pachete-hero.jpg": {
+		"ft": 16384,
+		"iS": 60796,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_08/img/publica.ro-2020_05_08-pachete-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_08/img/publica.ro-2020_05_08-promo_20-hero.jpg": {
+		"ft": 16384,
+		"iS": 39805,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_08/img/publica.ro-2020_05_08-promo_20-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_08/img/publica.ro-2020_05_08-promo_25-hero.jpg": {
+		"ft": 16384,
+		"iS": 39422,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_08/img/publica.ro-2020_05_08-promo_25-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_08/img/publica.ro-economia_in_vremea_coronavirusului-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 511847,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_08/img/publica.ro-economia_in_vremea_coronavirusului-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_08/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_08/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_08/publica.ro-2020_05_08-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_08/publica.ro-2020_05_08-dev.html",
+		"oF": 0
+		},
+	"/2020/05_08/publica.ro-2020_05_08-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_08/publica.ro-2020_05_08-g.html",
+		"oF": 0
+		},
+	"/2020/05_08/publica.ro-2020_05_08-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_08/publica.ro-2020_05_08-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
