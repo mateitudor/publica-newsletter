@@ -7,7 +7,7 @@
 		"uuidString": "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
 		}
 	],
-"creatorBuild": "32137",
+"creatorBuild": "32147",
 "files": {
 	"/2016/06-01/img-orig/publica-book-cand-sa-jefuiesti-o-banca.jpg": {
 		"ft": 16384,
@@ -21621,7 +21621,7 @@
 		},
 	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg": {
 		"ft": 16384,
-		"iS": 330298,
+		"iS": 323919,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg",
@@ -21797,6 +21797,107 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/05_08/publica.ro-2020_05_08-r.html",
+		"oF": 0
+		},
+	"/2020/05_21/img/publica.ro-2020_05_08-pachete-hero.jpg": {
+		"ft": 16384,
+		"iS": 56445,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-2020_05_08-pachete-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/img/publica.ro-2020_05_08-promo_20-hero.jpg": {
+		"ft": 16384,
+		"iS": 34476,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-2020_05_08-promo_20-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/img/publica.ro-2020_05_08-promo_25-hero.jpg": {
+		"ft": 16384,
+		"iS": 34057,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-2020_05_08-promo_25-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/img/publica.ro-2020_05_21-pachet_biografii_remarcabile.jpg": {
+		"ft": 16384,
+		"iS": 606548,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-2020_05_21-pachet_biografii_remarcabile.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/img/publica.ro-2020_05_21-pachet_comportamente_bune.jpg": {
+		"ft": 16384,
+		"iS": 466791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-2020_05_21-pachet_comportamente_bune.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/img/publica.ro-2020_05_21-pachet_rework.jpg": {
+		"ft": 16384,
+		"iS": 396449,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-2020_05_21-pachet_rework.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/publica.ro-2020_05_21-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_21/publica.ro-2020_05_21-dev.html",
+		"oF": 0
+		},
+	"/2020/05_21/publica.ro-2020_05_21-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_21/publica.ro-2020_05_21-g.html",
+		"oF": 0
+		},
+	"/2020/05_21/publica.ro-2020_05_21-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_21/publica.ro-2020_05_21-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
