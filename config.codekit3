@@ -21621,7 +21621,7 @@
 		},
 	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg": {
 		"ft": 16384,
-		"iS": 323919,
+		"iS": 330298,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg",
@@ -21799,39 +21799,6 @@
 		"oAP": "/2020/05_08/publica.ro-2020_05_08-r.html",
 		"oF": 0
 		},
-	"/2020/05_21/img/publica.ro-2020_05_08-pachete-hero.jpg": {
-		"ft": 16384,
-		"iS": 56445,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/2020/05_21/img/publica.ro-2020_05_08-pachete-hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/2020/05_21/img/publica.ro-2020_05_08-promo_20-hero.jpg": {
-		"ft": 16384,
-		"iS": 34476,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/2020/05_21/img/publica.ro-2020_05_08-promo_20-hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/2020/05_21/img/publica.ro-2020_05_08-promo_25-hero.jpg": {
-		"ft": 16384,
-		"iS": 34057,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/2020/05_21/img/publica.ro-2020_05_08-promo_25-hero.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"/2020/05_21/img/publica.ro-2020_05_21-pachet_biografii_remarcabile.jpg": {
 		"ft": 16384,
 		"iS": 606548,
@@ -21860,6 +21827,39 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_21/img/publica.ro-2020_05_21-pachet_rework.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/img/publica.ro-2020_05_21-pachete-hero.jpg": {
+		"ft": 16384,
+		"iS": 56445,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-2020_05_21-pachete-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/img/publica.ro-2020_05_21-promo_20-hero.jpg": {
+		"ft": 16384,
+		"iS": 34476,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-2020_05_21-promo_20-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_21/img/publica.ro-2020_05_21-promo_25-hero.jpg": {
+		"ft": 16384,
+		"iS": 34057,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_21/img/publica.ro-2020_05_21-promo_25-hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
