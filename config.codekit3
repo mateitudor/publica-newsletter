@@ -7,7 +7,7 @@
 		"uuidString": "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
 		}
 	],
-"creatorBuild": "32147",
+"creatorBuild": "32186",
 "files": {
 	"/2016/06-01/img-orig/publica-book-cand-sa-jefuiesti-o-banca.jpg": {
 		"ft": 16384,
@@ -21621,7 +21621,7 @@
 		},
 	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg": {
 		"ft": 16384,
-		"iS": 323919,
+		"iS": 330298,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg",
@@ -21632,7 +21632,7 @@
 		},
 	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-02.jpg": {
 		"ft": 16384,
-		"iS": 345624,
+		"iS": 351559,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-02.jpg",
@@ -21898,6 +21898,91 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/05_21/publica.ro-2020_05_21-r.html",
+		"oF": 0
+		},
+	"/2020/05_27/img/publica.ro-2+1-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 100806,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_27/img/publica.ro-2+1-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_27/img/publica.ro-2020_05_21-pachete-hero.jpg": {
+		"ft": 16384,
+		"iS": 56445,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_27/img/publica.ro-2020_05_21-pachete-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_27/img/publica.ro-cartea_oamenilor-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 635197,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_27/img/publica.ro-cartea_oamenilor-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_27/img/publica.ro-coach_de_trilioane_de_dolari-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 864693,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_27/img/publica.ro-coach_de_trilioane_de_dolari-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_27/img/publica.ro-economia_in_vremea_coronavirusului-book_launch.jpg": {
+		"ft": 16384,
+		"iS": 978954,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_27/img/publica.ro-economia_in_vremea_coronavirusului-book_launch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_27/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_27/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_27/img/publica.ro-personal_mba-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 665662,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/05_27/img/publica.ro-personal_mba-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/05_27/publica.ro-2020_05_27-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_27/publica.ro-2020_05_27-dev.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
@@ -23163,6 +23248,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-case-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"default-param-last": {
 			"active": 0,
 			"optionString": ""
@@ -23575,6 +23664,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-loss-of-precision": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-magic-numbers": {
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
@@ -23690,6 +23783,10 @@
 		"no-regex-spaces": {
 			"active": 1,
 			"optionString": ""
+			},
+		"no-restricted-exports": {
+			"active": 0,
+			"optionString": "{'restrictedNamedExports': []}"
 			},
 		"no-restricted-globals": {
 			"active": 0,
@@ -23834,6 +23931,10 @@
 		"no-use-before-define": {
 			"active": 0,
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-backreference": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-useless-call": {
 			"active": 0,
