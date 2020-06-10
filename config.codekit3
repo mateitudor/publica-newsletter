@@ -22001,6 +22001,17 @@
 		"oAP": "/2020/06_10/img/publica.ro-2020_06_10-20_la_toate.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/06_10/img/publica.ro-2020_06_10-25_la_toate.jpg": {
+		"ft": 16384,
+		"iS": 55456,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_10/img/publica.ro-2020_06_10-25_la_toate.jpg",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
@@ -22054,6 +22065,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/06_10/publica.ro-2020_06_10-dev.html",
+		"oF": 0
+		},
+	"/2020/06_10/publica.ro-2020_06_10-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/06_10/publica.ro-2020_06_10-g.html",
+		"oF": 0
+		},
+	"/2020/06_10/publica.ro-2020_06_10-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/06_10/publica.ro-2020_06_10-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
