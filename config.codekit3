@@ -21621,7 +21621,7 @@
 		},
 	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg": {
 		"ft": 16384,
-		"iS": 330298,
+		"iS": 323919,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg",
@@ -21983,6 +21983,77 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/05_27/publica.ro-2020_05_27-dev.html",
+		"oF": 0
+		},
+	"/2020/05_27/publica.ro-2020_05_27-dist.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/05_27/publica.ro-2020_05_27-dist.html",
+		"oF": 0
+		},
+	"/2020/06_10/img/publica.ro-2020_06_10-20_la_toate.jpg": {
+		"ft": 16384,
+		"iS": 157655,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_10/img/publica.ro-2020_06_10-20_la_toate.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_10/img/publica.ro-2020_06_10-omul_viitorului.jpg": {
+		"ft": 16384,
+		"iS": 500669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_10/img/publica.ro-2020_06_10-omul_viitorului.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_10/img/publica.ro-2020_06_10-pachet_de_economie.jpg": {
+		"ft": 16384,
+		"iS": 449217,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_10/img/publica.ro-2020_06_10-pachet_de_economie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_10/img/publica.ro-2020_06_10-pachet_pentru_cunoscatori.jpg": {
+		"ft": 16384,
+		"iS": 745066,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_10/img/publica.ro-2020_06_10-pachet_pentru_cunoscatori.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_10/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_10/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_10/publica.ro-2020_06_10-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/06_10/publica.ro-2020_06_10-dev.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
