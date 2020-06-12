@@ -21621,7 +21621,7 @@
 		},
 	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg": {
 		"ft": 16384,
-		"iS": 323919,
+		"iS": 330298,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg",
@@ -22081,6 +22081,88 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/06_10/publica.ro-2020_06_10-r.html",
+		"oF": 0
+		},
+	"/2020/06_12/img/publica.ro-incepe_cu_de_ce-book_small.jpg": {
+		"ft": 16384,
+		"iS": 63858,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_12/img/publica.ro-incepe_cu_de_ce-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/06_12/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_12/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_12/img/publica.ro-medicina_lenta-book_small.jpg": {
+		"ft": 16384,
+		"iS": 27193,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_12/img/publica.ro-medicina_lenta-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_12/img/publica.ro-sunt_aici_acum-book_small.jpg": {
+		"ft": 16384,
+		"iS": 242345,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_12/img/publica.ro-sunt_aici_acum-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/06_12/img/publica.ro-supergandire-book_small.jpg": {
+		"ft": 16384,
+		"iS": 110717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_12/img/publica.ro-supergandire-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/06_12/img/publica.ro-sursa-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 829660,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_12/img/publica.ro-sursa-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_12/publica.ro-2020_06_12-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/06_12/publica.ro-2020_06_12-dev.html",
+		"oF": 0
+		},
+	"/2020/06_12/publica.ro-2020_06_12-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/06_12/publica.ro-2020_06_12-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
