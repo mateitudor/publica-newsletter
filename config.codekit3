@@ -21621,7 +21621,7 @@
 		},
 	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg": {
 		"ft": 16384,
-		"iS": 323919,
+		"iS": 330298,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-01.jpg",
@@ -21632,7 +21632,7 @@
 		},
 	"/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-02.jpg": {
 		"ft": 16384,
-		"iS": 351559,
+		"iS": 345624,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/05_04/img/publica.ro-2020_05_04-autori_brandminds-nl_hero-02.jpg",
@@ -22283,6 +22283,99 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/06_17/publica.ro-2020_06_17-r.html",
+		"oF": 0
+		},
+	"/2020/06_23/img/publica.ro-20_discount-hero.jpg": {
+		"ft": 16384,
+		"iS": 63271,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_23/img/publica.ro-20_discount-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_23/img/publica.ro-federer-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 825444,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_23/img/publica.ro-federer-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/06_23/img/publica.ro-in_culisele_tenisului-book_small.jpg": {
+		"ft": 16384,
+		"iS": 92116,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_23/img/publica.ro-in_culisele_tenisului-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_23/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_23/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_23/img/publica.ro-lovituri_de_geniu-book_small.jpg": {
+		"ft": 16384,
+		"iS": 126937,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_23/img/publica.ro-lovituri_de_geniu-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_23/img/publica.ro-rafael_nadal-book_small.jpg": {
+		"ft": 16384,
+		"iS": 87418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_23/img/publica.ro-rafael_nadal-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_23/img/publica.ro-rod_laver-book_small.jpg": {
+		"ft": 16384,
+		"iS": 82669,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/06_23/img/publica.ro-rod_laver-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/06_23/publica.ro-2020_06_23-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/06_23/publica.ro-2020_06_23-dev.html",
+		"oF": 0
+		},
+	"/2020/06_23/publica.ro-2020_06_23-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/06_23/publica.ro-2020_06_23-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
