@@ -22746,6 +22746,28 @@
 		"oAP": "/2020/07_15/publica.ro-2020_07_15-r.html",
 		"oF": 0
 		},
+	"/2020/07_28/img/publica.ro-20_discount-hero.jpg": {
+		"ft": 16384,
+		"iS": 16440,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_28/img/publica.ro-20_discount-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/07_28/img/publica.ro-25_discount-hero.jpg": {
+		"ft": 16384,
+		"iS": 16005,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_28/img/publica.ro-25_discount-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/2020/07_28/img/publica.ro-jocul_infinit-book_small.jpg": {
 		"ft": 16384,
 		"iS": 71808,
@@ -22755,6 +22777,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"/2020/07_28/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_28/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/2020/07_28/img/publica.ro-paradoxul_prosperitatii-book_small.jpg": {
@@ -22785,6 +22818,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/07_28/img/publica.ro-sursa-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/07_28/img/publica.ro-thrive-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 287287,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_28/img/publica.ro-thrive-book_hero.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
