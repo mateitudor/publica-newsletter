@@ -22858,6 +22858,39 @@
 		"oAP": "/2020/07_28/publica.ro-2020_07_28-r.html",
 		"oF": 0
 		},
+	"/2020/07_30/img/publica.ro-aventurile_unui_tanar_naturalist-book_small.jpg": {
+		"ft": 16384,
+		"iS": 136131,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_30/img/publica.ro-aventurile_unui_tanar_naturalist-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/07_30/img/publica.ro-celelalte_minti-book_small.jpg": {
+		"ft": 16384,
+		"iS": 130286,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_30/img/publica.ro-celelalte_minti-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/07_30/img/publica.ro-geniul_pasarilor-book_small.jpg": {
+		"ft": 16384,
+		"iS": 96981,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_30/img/publica.ro-geniul_pasarilor-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/2020/07_30/img/publica.ro-logo_tagline.jpg": {
 		"ft": 16384,
 		"iS": 8033,
@@ -22866,7 +22899,51 @@
 		"oAP": "/2020/07_30/img/publica.ro-logo_tagline.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/07_30/img/publica.ro-terra_insecta-20_discount-badge.jpg": {
+		"ft": 16384,
+		"iS": 28625,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_30/img/publica.ro-terra_insecta-20_discount-badge.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/07_30/img/publica.ro-terra_insecta-25_discount-badge.jpg": {
+		"ft": 16384,
+		"iS": 27867,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_30/img/publica.ro-terra_insecta-25_discount-badge.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/07_30/img/publica.ro-terra_insecta-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 325604,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_30/img/publica.ro-terra_insecta-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/07_30/img/publica.ro-viata_secreta_a_copacilor-book_small.jpg": {
+		"ft": 16384,
+		"iS": 114971,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/07_30/img/publica.ro-viata_secreta_a_copacilor-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/2020/07_30/publica.ro-2020_07_30-dev.html": {
@@ -22875,6 +22952,22 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/07_30/publica.ro-2020_07_30-dev.html",
+		"oF": 0
+		},
+	"/2020/07_30/publica.ro-2020_07_30-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/07_30/publica.ro-2020_07_30-g.html",
+		"oF": 0
+		},
+	"/2020/07_30/publica.ro-2020_07_30-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/07_30/publica.ro-2020_07_30-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
