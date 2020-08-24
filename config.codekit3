@@ -23200,12 +23200,12 @@
 		"oAP": "/2020/08_21/publica.ro-2020_08_21-dev.html",
 		"oF": 0
 		},
-	"/2020/08_21/publica.ro-2020_08_21-g2.html": {
+	"/2020/08_21/publica.ro-2020_08_21-g.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/2020/08_21/publica.ro-2020_08_21-g2.html",
+		"oAP": "/2020/08_21/publica.ro-2020_08_21-g.html",
 		"oF": 0
 		},
 	"/2020/08_21/publica.ro-2020_08_21-r.html": {
@@ -23214,6 +23214,85 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/08_21/publica.ro-2020_08_21-r.html",
+		"oF": 0
+		},
+	"/2020/08_24/img/publica.ro-eu_elton_john-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 505613,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/08_24/img/publica.ro-eu_elton_john-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/08_24/img/publica.ro-hope_you_dont_mind-hero.jpg": {
+		"ft": 16384,
+		"iS": 413389,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/08_24/img/publica.ro-hope_you_dont_mind-hero-03.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/08_24/img/publica.ro-ken_robinson-hero.jpg": {
+		"ft": 16384,
+		"iS": 375005,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/08_24/img/publica.ro-ken_robinson-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/08_24/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/08_24/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/08_24/img/publica.ro-victoria_books-hero.jpg": {
+		"ft": 16384,
+		"iS": 532237,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/08_24/img/publica.ro-victoria_books-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/08_24/publica.ro-2020_08_24-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/08_24/publica.ro-2020_08_24-dev.html",
+		"oF": 0
+		},
+	"/2020/08_24/publica.ro-2020_08_24-r copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/08_24/publica.ro-2020_08_24-r copy.html",
+		"oF": 0
+		},
+	"/2020/08_24/publica.ro-2020_08_24-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/08_24/publica.ro-2020_08_24-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
