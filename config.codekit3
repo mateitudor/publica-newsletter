@@ -23229,13 +23229,13 @@
 		},
 	"/2020/08_24/img/publica.ro-hope_you_dont_mind-hero.jpg": {
 		"ft": 16384,
-		"iS": 413389,
+		"iS": 413507,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/2020/08_24/img/publica.ro-hope_you_dont_mind-hero-03.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/2020/08_24/img/publica.ro-ken_robinson-hero.jpg": {
@@ -23279,12 +23279,12 @@
 		"oAP": "/2020/08_24/publica.ro-2020_08_24-dev.html",
 		"oF": 0
 		},
-	"/2020/08_24/publica.ro-2020_08_24-r copy.html": {
+	"/2020/08_24/publica.ro-2020_08_24-g.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/2020/08_24/publica.ro-2020_08_24-r copy.html",
+		"oAP": "/2020/08_24/publica.ro-2020_08_24-g.html",
 		"oF": 0
 		},
 	"/2020/08_24/publica.ro-2020_08_24-r.html": {
@@ -23293,6 +23293,118 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/08_24/publica.ro-2020_08_24-r.html",
+		"oF": 0
+		},
+	"/2020/09_03/img/publica.ro-cand-book_small.jpg": {
+		"ft": 16384,
+		"iS": 104341,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/09_03/img/publica.ro-cand-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/09_03/img/publica.ro-catalizatorul-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 380200,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/09_03/img/publica.ro-catalizatorul-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/09_03/img/publica.ro-catalizatorul-discount_badge-20.jpg": {
+		"ft": 16384,
+		"iS": 26279,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/09_03/img/publica.ro-catalizatorul-discount_badge-20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/09_03/img/publica.ro-catalizatorul-discount_badge-25.jpg": {
+		"ft": 16384,
+		"iS": 25477,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/09_03/img/publica.ro-catalizatorul-discount_badge-25.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/09_03/img/publica.ro-contagios-book_small.jpg": {
+		"ft": 16384,
+		"iS": 99106,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/09_03/img/publica.ro-contagios-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/09_03/img/publica.ro-cum_sa_dai_lovitura-book_small.jpg": {
+		"ft": 16384,
+		"iS": 129698,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/09_03/img/publica.ro-cum_sa_dai_lovitura-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/09_03/img/publica.ro-influenta_invizibila-book_small.jpg": {
+		"ft": 16384,
+		"iS": 76413,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/09_03/img/publica.ro-influenta_invizibila-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/09_03/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/09_03/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/09_03/publica.ro-2020_09_03-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/09_03/publica.ro-2020_09_03-dev.html",
+		"oF": 0
+		},
+	"/2020/09_03/publica.ro-2020_09_03-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/09_03/publica.ro-2020_09_03-g.html",
+		"oF": 0
+		},
+	"/2020/09_03/publica.ro-2020_09_03-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/09_03/publica.ro-2020_09_03-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
