@@ -23570,12 +23570,12 @@
 		"oAP": "/2020/09_17/publica.ro-2020_09_17-dev.html",
 		"oF": 0
 		},
-	"/2020/09_17/publica.ro-2020_09_17-r copy.html": {
+	"/2020/09_17/publica.ro-2020_09_17-g.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
-		"oAP": "/2020/09_17/publica.ro-2020_09_17-r copy.html",
+		"oAP": "/2020/09_17/publica.ro-2020_09_17-g.html",
 		"oF": 0
 		},
 	"/2020/09_17/publica.ro-2020_09_17-r.html": {
@@ -23584,6 +23584,118 @@
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/09_17/publica.ro-2020_09_17-r.html",
+		"oF": 0
+		},
+	"/2020/10_06/img/publica.ro-de_ce_mancam_animale-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 131233,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_06/img/publica.ro-de_ce_mancam_animale-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_06/img/publica.ro-dincolo_de_frumusetea_perena-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 123400,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_06/img/publica.ro-dincolo_de_frumusetea_perena-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_06/img/publica.ro-jocul_infinit-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 78721,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_06/img/publica.ro-jocul_infinit-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_06/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_06/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/10_06/img/publica.ro-noi_suntem_vremea-nl-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 270513,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_06/img/publica.ro-noi_suntem_vremea-nl-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_06/img/publica.ro-noi_suntem_vremea-nl-discount_badge-20.jpg": {
+		"ft": 16384,
+		"iS": 32700,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_06/img/publica.ro-noi_suntem_vremea-nl-discount_badge-20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/10_06/img/publica.ro-noi_suntem_vremea-nl-discount_badge-25.jpg": {
+		"ft": 16384,
+		"iS": 31805,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_06/img/publica.ro-noi_suntem_vremea-nl-discount_badge-25.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/10_06/img/publica.ro-terra_insecta-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 109101,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_06/img/publica.ro-terra_insecta-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_06/publica.ro-2020_10_06-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_06/publica.ro-2020_10_06-dev.html",
+		"oF": 0
+		},
+	"/2020/10_06/publica.ro-2020_10_06-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_06/publica.ro-2020_10_06-g.html",
+		"oF": 0
+		},
+	"/2020/10_06/publica.ro-2020_10_06-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_06/publica.ro-2020_10_06-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
