@@ -23810,20 +23810,132 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/2020/10_14/publica.ro-2020_10_14-dev copy.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 2,
-		"oAP": "/2020/10_14/publica.ro-2020_10_14-dev copy.html",
-		"oF": 0
-		},
 	"/2020/10_14/publica.ro-2020_10_14-dev.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/2020/10_14/publica.ro-2020_10_14-dev.html",
+		"oF": 0
+		},
+	"/2020/10_14/publica.ro-2020_10_14-dist.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_14/publica.ro-2020_10_14-dist.html",
+		"oF": 0
+		},
+	"/2020/10_21/img/publica.ro-cum_sa_livrezi_fericire-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 62886,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_21/img/publica.ro-cum_sa_livrezi_fericire-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_21/img/publica.ro-echipe_de_vis-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 91911,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_21/img/publica.ro-echipe_de_vis-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_21/img/publica.ro-incepe_cu_de_ce-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 58446,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_21/img/publica.ro-incepe_cu_de_ce-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_21/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_21/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/10_21/img/publica.ro-nu_trebuie_sa_fie_nebunie_la_birou-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 76643,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_21/img/publica.ro-nu_trebuie_sa_fie_nebunie_la_birou-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_21/img/publica.ro-the_power_of_wow-nl-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 593200,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_21/img/publica.ro-the_power_of_wow-nl-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_21/img/publica.ro-the_power_of_wow-nl-discount_badge-20.jpg": {
+		"ft": 16384,
+		"iS": 28421,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_21/img/publica.ro-the_power_of_wow-nl-discount_badge-20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_21/img/publica.ro-the_power_of_wow-nl-discount_badge-25.jpg": {
+		"ft": 16384,
+		"iS": 27847,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_21/img/publica.ro-the_power_of_wow-nl-discount_badge-25.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_21/publica.ro-2020_10_21-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_21/publica.ro-2020_10_21-dev.html",
+		"oF": 0
+		},
+	"/2020/10_21/publica.ro-2020_10_21-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_21/publica.ro-2020_10_21-g.html",
+		"oF": 0
+		},
+	"/2020/10_21/publica.ro-2020_10_21-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_21/publica.ro-2020_10_21-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
