@@ -23938,6 +23938,129 @@
 		"oAP": "/2020/10_21/publica.ro-2020_10_21-r.html",
 		"oF": 0
 		},
+	"/2020/10_29/img/publica.ro-aventurile_unui_tanar_naturalist-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 173380,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_29/img/publica.ro-aventurile_unui_tanar_naturalist-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_29/img/publica.ro-intelepciunea_lupilor-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 132515,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_29/img/publica.ro-intelepciunea_lupilor-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_29/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_29/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/2020/10_29/img/publica.ro-noi_suntem_vremea-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 155853,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_29/img/publica.ro-noi_suntem_vremea-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_29/img/publica.ro-o_viata_pe_planeta_noastra-nl-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 569549,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_29/img/publica.ro-o_viata_pe_planeta_noastra-nl-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_29/img/publica.ro-o_viata_pe_planeta_noastra-nl-discount_badge-20.jpg": {
+		"ft": 16384,
+		"iS": 46668,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_29/img/publica.ro-o_viata_pe_planeta_noastra-nl-discount_badge-20.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_29/img/publica.ro-o_viata_pe_planeta_noastra-nl-discount_badge-25.jpg": {
+		"ft": 16384,
+		"iS": 46451,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_29/img/publica.ro-o_viata_pe_planeta_noastra-nl-discount_badge-25.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_29/img/publica.ro-o_viata_pe_planeta_noastra-nl_hero-wwf.jpg": {
+		"ft": 16384,
+		"iS": 517523,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_29/img/publica.ro-o_viata_pe_planeta_noastra-nl_hero-wwf.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_29/img/publica.ro-terra_insecta-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 143087,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/10_29/img/publica.ro-terra_insecta-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/2020/10_29/publica.ro-2020_10_29-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_29/publica.ro-2020_10_29-dev.html",
+		"oF": 0
+		},
+	"/2020/10_29/publica.ro-2020_10_29-r copy.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_29/publica.ro-2020_10_29-r copy.html",
+		"oF": 0
+		},
+	"/2020/10_29/publica.ro-2020_10_29-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 2,
+		"oAP": "/2020/10_29/publica.ro-2020_10_29-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
