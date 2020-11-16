@@ -27710,6 +27710,50 @@
 		"oAP": "/2020/11_09/publica.ro-2020_11_09-r.html",
 		"oF": 0
 		},
+	"/2020/11_16/img/publica.ro-2020_11_15-gaudeamus-nl-hero.gif": {
+		"ft": 4194304,
+		"iS": 227403,
+		"oA": 0,
+		"oAP": "/2020/11_16/img/publica.ro-2020_11_15-gaudeamus-nl-hero.gif",
+		"oF": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
+		},
+	"/2020/11_16/img/publica.ro-decizii_extraordinare-nl-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 296234,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/11_16/img/publica.ro-decizii_extraordinare-nl-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/11_16/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/11_16/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/11_16/publica.ro-2020_11_16-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/11_16/publica.ro-2020_11_16-dev.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
