@@ -27720,6 +27720,19 @@
 		"ou": "lpckwebp-none",
 		"rq": 75
 		},
+	"/2020/11_16/img/publica.ro-2020_11_15-gaudeamus-nl-recommendations.jpg": {
+		"ft": 16384,
+		"iS": 1451304,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/11_16/img/publica.ro-2020_11_15-gaudeamus-nl-recommendations.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/2020/11_16/img/publica.ro-decizii_extraordinare-nl-book_hero.jpg": {
 		"ft": 16384,
 		"iS": 296234,
@@ -27752,6 +27765,92 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/2020/11_16/publica.ro-2020_11_16-dev.html",
+		"oF": 0
+		},
+	"/2020/11_26/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/11_26/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/11_26/img/publica.ro-nl-book_small-degetul_mare_al_violonistului.jpg": {
+		"ft": 16384,
+		"iS": 79125,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/11_26/img/publica.ro-nl-book_small-degetul_mare_al_violonistului.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/11_26/img/publica.ro-nl-book_small-haos.jpg": {
+		"ft": 16384,
+		"iS": 106309,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/11_26/img/publica.ro-nl-book_small-haos.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/11_26/img/publica.ro-nl-book_small-ingerii_mai_buni_ai_naturii_noastre.jpg": {
+		"ft": 16384,
+		"iS": 54339,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/11_26/img/publica.ro-nl-book_small-ingerii_mai_buni_ai_naturii_noastre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/11_26/img/publica.ro-nl-book_small-terra_insecta.jpg": {
+		"ft": 16384,
+		"iS": 79968,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/11_26/img/publica.ro-nl-book_small-terra_insecta.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/11_26/img/publica.ro-tantarul-nl-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 325647,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/11_26/img/publica.ro-tantarul-nl-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/11_26/publica.ro-2020_11_26-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/11_26/publica.ro-2020_11_26-dev.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
