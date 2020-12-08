@@ -28005,12 +28005,122 @@
 		"oAP": "/2020/12_03/publica.ro-2020_12_03-dev.html",
 		"oF": 0
 		},
+	"/2020/12_03/publica.ro-2020_12_03-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_03/publica.ro-2020_12_03-g.html",
+		"oF": 0
+		},
 	"/2020/12_03/publica.ro-2020_12_03-r.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/2020/12_03/publica.ro-2020_12_03-r.html",
+		"oF": 0
+		},
+	"/2020/12_08/img/publica.ro-cine_l_a_ucis_pe_john_lennon-nl-book_hero.jpg": {
+		"ft": 16384,
+		"iS": 228175,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/img/publica.ro-cine_l_a_ucis_pe_john_lennon-nl-book_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_08/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_08/img/publica.ro-nl-book_small-david_bowie.jpg": {
+		"ft": 16384,
+		"iS": 135690,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/img/publica.ro-nl-book_small-david_bowie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_08/img/publica.ro-nl-book_small-eu_elton_john.jpg": {
+		"ft": 16384,
+		"iS": 89345,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/img/publica.ro-nl-book_small-eu_elton_john.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_08/img/publica.ro-nl-book_small-freddie_mercury.jpg": {
+		"ft": 16384,
+		"iS": 93036,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/img/publica.ro-nl-book_small-freddie_mercury.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_08/img/publica.ro-nl-book_small-steve_jobs.jpg": {
+		"ft": 16384,
+		"iS": 69191,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/img/publica.ro-nl-book_small-steve_jobs.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_08/publica.ro-2020_11_27-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/publica.ro-2020_11_27-g.html",
+		"oF": 0
+		},
+	"/2020/12_08/publica.ro-2020_11_27-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/publica.ro-2020_11_27-r.html",
+		"oF": 0
+		},
+	"/2020/12_08/publica.ro-2020_12_08-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/publica.ro-2020_12_08-dev.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
