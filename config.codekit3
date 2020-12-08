@@ -28099,28 +28099,28 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/2020/12_08/publica.ro-2020_11_27-g.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/2020/12_08/publica.ro-2020_11_27-g.html",
-		"oF": 0
-		},
-	"/2020/12_08/publica.ro-2020_11_27-r.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/2020/12_08/publica.ro-2020_11_27-r.html",
-		"oF": 0
-		},
 	"/2020/12_08/publica.ro-2020_12_08-dev.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/2020/12_08/publica.ro-2020_12_08-dev.html",
+		"oF": 0
+		},
+	"/2020/12_08/publica.ro-2020_12_08-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/publica.ro-2020_12_08-g.html",
+		"oF": 0
+		},
+	"/2020/12_08/publica.ro-2020_12_08-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_08/publica.ro-2020_12_08-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
