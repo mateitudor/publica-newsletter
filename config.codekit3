@@ -28123,6 +28123,69 @@
 		"oAP": "/2020/12_08/publica.ro-2020_12_08-r.html",
 		"oF": 0
 		},
+	"/2020/12_11/img/publica.ro-2020_12_11-2+1-nl-hero.jpg": {
+		"ft": 16384,
+		"iS": 112096,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_11/img/publica.ro-2020_12_11-2+1-nl-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_11/img/publica.ro-de_garda_n_noaptea_de_craciun-nl-hero.jpg": {
+		"ft": 16384,
+		"iS": 283925,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_11/img/publica.ro-de_garda_n_noaptea_de_craciun-nl-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_11/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_11/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_11/publica.ro-2020_12_11-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_11/publica.ro-2020_12_11-dev.html",
+		"oF": 0
+		},
+	"/2020/12_11/publica.ro-2020_12_11-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_11/publica.ro-2020_12_11-g.html",
+		"oF": 0
+		},
+	"/2020/12_11/publica.ro-2020_12_11-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_11/publica.ro-2020_12_11-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
