@@ -28186,6 +28186,108 @@
 		"oAP": "/2020/12_11/publica.ro-2020_12_11-r.html",
 		"oF": 0
 		},
+	"/2020/12_16/img/publica.ro-2020_12_16-2+1-nl-hero.jpg": {
+		"ft": 16384,
+		"iS": 223180,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_16/img/publica.ro-2020_12_16-2+1-nl-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_16/img/publica.ro-invata_cu_inima-nl-hero.jpg": {
+		"ft": 16384,
+		"iS": 470406,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_16/img/publica.ro-invata_cu_inima-nl-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_16/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 7851,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_16/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_16/img/publica.ro-nl-book_small-invatare.jpg": {
+		"ft": 16384,
+		"iS": 67092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_16/img/publica.ro-nl-book_small-invatare.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_16/img/publica.ro-nl-book_small-orhideea_si_papadia.jpg": {
+		"ft": 16384,
+		"iS": 90050,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_16/img/publica.ro-nl-book_small-orhideea_si_papadia.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_16/img/publica.ro-nl-book_small-study_abroad.jpg": {
+		"ft": 16384,
+		"iS": 92056,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_16/img/publica.ro-nl-book_small-study_abroad.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_16/publica.ro-2020_12_16-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_16/publica.ro-2020_12_16-dev.html",
+		"oF": 0
+		},
+	"/2020/12_16/publica.ro-2020_12_16-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_16/publica.ro-2020_12_16-g.html",
+		"oF": 0
+		},
+	"/2020/12_16/publica.ro-2020_12_16-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_16/publica.ro-2020_12_16-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
