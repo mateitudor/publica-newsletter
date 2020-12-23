@@ -28403,6 +28403,61 @@
 		"oAP": "/2020/12_21/publica.ro-2020_12_21-r.html",
 		"oF": 0
 		},
+	"/2020/12_23/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 10729,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_23/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_23/img/publica.ro-niksen-nl-hero.jpg": {
+		"ft": 16384,
+		"iS": 232484,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_23/img/publica.ro-niksen-nl-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_23/img/publica.ro-vouchers-nl-hero.jpg": {
+		"ft": 16384,
+		"iS": 651419,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2020/12_23/img/publica.ro-vouchers-nl-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2020/12_23/publica.ro-2020_12_23-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_23/publica.ro-2020_12_23-dev.html",
+		"oF": 0
+		},
+	"/2020/12_23/publica.ro-2020_12_23-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2020/12_23/publica.ro-2020_12_23-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
