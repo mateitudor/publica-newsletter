@@ -28544,28 +28544,28 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/2021/01_13/publica.ro-2020_01_13-dev.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/2021/01_13/publica.ro-2020_01_13-dev.html",
-		"oF": 0
-		},
-	"/2021/01_13/publica.ro-2020_01_13-g.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/2021/01_13/publica.ro-2020_01_13-g.html",
-		"oF": 0
-		},
 	"/2021/01_13/publica.ro-2020_01_13-r.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/2021/01_13/publica.ro-2020_01_13-r.html",
+		"oF": 0
+		},
+	"/2021/01_13/publica.ro-2021_01_13-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/01_13/publica.ro-2021_01_13-dev.html",
+		"oF": 0
+		},
+	"/2021/01_13/publica.ro-2021_01_13-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/01_13/publica.ro-2021_01_13-g.html",
 		"oF": 0
 		},
 	"/2021/01_21/img/publica.ro-calauzele_tacute-nl-hero.jpg": {
@@ -28696,28 +28696,28 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/2021/01_29/publica.ro-2020_01_29-dev.html": {
+	"/2021/01_29/publica.ro-2021_01_29-dev.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/2021/01_29/publica.ro-2020_01_29-dev.html",
+		"oAP": "/2021/01_29/publica.ro-2021_01_29-dev.html",
 		"oF": 0
 		},
-	"/2021/01_29/publica.ro-2020_01_29-g.html": {
+	"/2021/01_29/publica.ro-2021_01_29-g.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/2021/01_29/publica.ro-2020_01_29-g.html",
+		"oAP": "/2021/01_29/publica.ro-2021_01_29-g.html",
 		"oF": 0
 		},
-	"/2021/01_29/publica.ro-2020_01_29-r.html": {
+	"/2021/01_29/publica.ro-2021_01_29-r.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/2021/01_29/publica.ro-2020_01_29-r.html",
+		"oAP": "/2021/01_29/publica.ro-2021_01_29-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
