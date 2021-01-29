@@ -28631,6 +28631,95 @@
 		"oAP": "/2021/01_21/publica.ro-2021_01_21-r.html",
 		"oF": 0
 		},
+	"/2021/01_29/img/publica.ro-2021_01_29-pachet_stiinta_e_cool-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 623345,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/01_29/img/publica.ro-2021_01_29-pachet_stiinta_e_cool-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/01_29/img/publica.ro-calauzele_tacute-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 129600,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/01_29/img/publica.ro-calauzele_tacute-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/01_29/img/publica.ro-in_cautarea_vindecarii-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 112029,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/01_29/img/publica.ro-in_cautarea_vindecarii-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/01_29/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/01_29/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/01_29/img/publica.ro-niksen-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 84314,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/01_29/img/publica.ro-niksen-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/01_29/publica.ro-2020_01_29-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/01_29/publica.ro-2020_01_29-dev.html",
+		"oF": 0
+		},
+	"/2021/01_29/publica.ro-2020_01_29-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/01_29/publica.ro-2020_01_29-g.html",
+		"oF": 0
+		},
+	"/2021/01_29/publica.ro-2020_01_29-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/01_29/publica.ro-2020_01_29-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
