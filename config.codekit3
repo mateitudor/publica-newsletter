@@ -28696,14 +28696,6 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/2021/01_29/publica.ro-2020_01_29-g.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/2021/01_29/publica.ro-2020_01_29-g.html",
-		"oF": 0
-		},
 	"/2021/01_29/publica.ro-2021_01_29-dev.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -28712,12 +28704,70 @@
 		"oAP": "/2021/01_29/publica.ro-2021_01_29-dev.html",
 		"oF": 0
 		},
+	"/2021/01_29/publica.ro-2021_01_29-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/01_29/publica.ro-2021_01_29-g.html",
+		"oF": 0
+		},
 	"/2021/01_29/publica.ro-2021_01_29-r.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/2021/01_29/publica.ro-2021_01_29-r.html",
+		"oF": 0
+		},
+	"/2021/02_02/img/publica.ro-2021_02_02-pachet_design_for_life-nl_hero.jpg": {
+		"ft": 16384,
+		"iS": 609279,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_02/img/publica.ro-2021_02_02-pachet_design_for_life-nl_hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_02/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_02/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_02/publica.ro-2021_02_02-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_02/publica.ro-2021_02_02-dev.html",
+		"oF": 0
+		},
+	"/2021/02_02/publica.ro-2021_02_02-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_02/publica.ro-2021_02_02-g.html",
+		"oF": 0
+		},
+	"/2021/02_02/publica.ro-2021_02_02-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_02/publica.ro-2021_02_02-r.html",
 		"oF": 0
 		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
