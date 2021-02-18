@@ -28922,6 +28922,95 @@
 		"oAP": "/2021/02_11/publica.ro-2021_02_11-r.html",
 		"oF": 0
 		},
+	"/2021/02_18/img/publica.ro-cultura_serviciilor_superioare-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 96086,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_18/img/publica.ro-cultura_serviciilor_superioare-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_18/img/publica.ro-jocul_infinit-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 63914,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_18/img/publica.ro-jocul_infinit-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_18/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_18/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_18/img/publica.ro-profit_din_excelenta-nl-hero.jpg": {
+		"ft": 16384,
+		"iS": 197634,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_18/img/publica.ro-profit_din_excelenta-nl-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_18/img/publica.ro-the_power_of_wow-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 103499,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_18/img/publica.ro-the_power_of_wow-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_18/publica.ro-2021_02_18-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_18/publica.ro-2021_02_18-dev.html",
+		"oF": 0
+		},
+	"/2021/02_18/publica.ro-2021_02_18-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_18/publica.ro-2021_02_18-g.html",
+		"oF": 0
+		},
+	"/2021/02_18/publica.ro-2021_02_18-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_18/publica.ro-2021_02_18-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
