@@ -29011,6 +29011,103 @@
 		"oAP": "/2021/02_18/publica.ro-2021_02_18-r.html",
 		"oF": 0
 		},
+	"/2021/02_23/img/publica.ro-gena_sportiva-nl-hero.jpg": {
+		"ft": 16384,
+		"iS": 430806,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_23/img/publica.ro-gena_sportiva-nl-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_23/img/publica.ro-grit-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 55579,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_23/img/publica.ro-grit-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_23/img/publica.ro-logo_tagline.jpg": {
+		"ft": 16384,
+		"iS": 8033,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_23/img/publica.ro-logo_tagline.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_23/img/publica.ro-peak-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 66694,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_23/img/publica.ro-peak-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_23/img/publica.ro-range-nl-book_small.jpg": {
+		"ft": 16384,
+		"iS": 52846,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/2021/02_23/img/publica.ro-range-nl-book_small.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/2021/02_23/publica.ro-2021_02_18-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_23/publica.ro-2021_02_18-g.html",
+		"oF": 0
+		},
+	"/2021/02_23/publica.ro-2021_02_23-dev.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_23/publica.ro-2021_02_23-dev.html",
+		"oF": 0
+		},
+	"/2021/02_23/publica.ro-2021_02_23-g.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_23/publica.ro-2021_02_23-g.html",
+		"oF": 0
+		},
+	"/2021/02_23/publica.ro-2021_02_23-r.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/02_23/publica.ro-2021_02_23-r.html",
+		"oF": 0
+		},
 	"/assets/bootstrap/css/bootstrap-theme.css": {
 		"aP": 1,
 		"bl": 0,
