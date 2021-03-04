@@ -29234,6 +29234,61 @@
       "oAP" : "\/2021\/03_02\/publica.ro-2021_03_02-r.html",
       "oF" : 0
     },
+    "\/2021\/03_04\/img\/publica.ro-2021_03_04-gaudeamus-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 241518,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_04\/img\/publica.ro-2021_03_04-gaudeamus-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_04\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_04\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_04\/img\/publica.ro-pachet_aniversar_sir_ken_robinson-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 697880,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_04\/img\/publica.ro-pachet_aniversar_sir_ken_robinson-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_04\/publica.ro-2021_03_04-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_04\/publica.ro-2021_03_04-dev.html",
+      "oF" : 0
+    },
+    "\/2021\/03_04\/publica.ro-2021_03_04-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_04\/publica.ro-2021_03_04-prod.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
