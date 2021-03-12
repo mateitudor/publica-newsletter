@@ -29344,12 +29344,25 @@
       "oAP" : "\/2021\/03_09\/publica.ro-2021_03_09-prod.html",
       "oF" : 0
     },
-    "\/2021\/03_12\/img\/publica.ro-gaudeamus-nl_hero.jpg" : {
+    "\/2021\/03_12\/img\/publica.ro-2021_03_12-gaudeamus-nl_hero-01.jpg" : {
       "ft" : 16384,
-      "iS" : 29598,
+      "iS" : 56708,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/03_12\/img\/publica.ro-gaudeamus-nl_hero.jpg",
+      "oAP" : "\/2021\/03_12\/img\/publica.ro-2021_03_12-gaudeamus-nl_hero-01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_12\/img\/publica.ro-2021_03_12-gaudeamus-nl_hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 912695,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_12\/img\/publica.ro-2021_03_12-gaudeamus-nl_hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
