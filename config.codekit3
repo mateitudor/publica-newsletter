@@ -29412,6 +29412,103 @@
       "oAP" : "\/2021\/03_12\/publica.ro-2021_03_12-prod.html",
       "oF" : 0
     },
+    "\/2021\/03_18\/img\/publica.ro-2021_03_18-gaudeamus-nl_hero-01.jpg" : {
+      "ft" : 16384,
+      "iS" : 216906,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_18\/img\/publica.ro-2021_03_18-gaudeamus-nl_hero-01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_18\/img\/publica.ro-2021_03_18-gaudeamus-nl_hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 175231,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_18\/img\/publica.ro-2021_03_18-gaudeamus-nl_hero-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_18\/img\/publica.ro-2021_03_18-gaudeamus-nl_hero-03.jpg" : {
+      "ft" : 16384,
+      "iS" : 192603,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_18\/img\/publica.ro-2021_03_18-gaudeamus-nl_hero-03.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_18\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_18\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_18\/img\/publica.ro-nu_asculti-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 522751,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_18\/img\/publica.ro-nu_asculti-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_18\/publica.ro-2021_03_18-P_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_18\/publica.ro-2021_03_18-P_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/03_18\/publica.ro-2021_03_18-P_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_18\/publica.ro-2021_03_18-P_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/03_18\/publica.ro-2021_03_18-r_dev.html" : {
+      "cB" : 1,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_18\/publica.ro-2021_03_18-R_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/03_18\/publica.ro-2021_03_18-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_18\/publica.ro-2021_03_18-R_prod.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -29422,7 +29519,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/bootstrap\/css\/bootstrap-theme-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css.map" : {
       "cB" : 0,
@@ -29442,7 +29539,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/bootstrap\/css\/bootstrap-theme.min-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.min.css.map" : {
       "cB" : 0,
@@ -29462,7 +29559,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/bootstrap\/css\/bootstrap-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/bootstrap\/css\/bootstrap.css.map" : {
       "cB" : 0,
@@ -29482,7 +29579,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/bootstrap\/css\/bootstrap.min-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/bootstrap\/css\/bootstrap.min.css.map" : {
       "cB" : 0,
@@ -29577,7 +29674,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/css\/magnific-popup-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/css\/parallax-hero.css" : {
       "aP" : 1,
@@ -29589,7 +29686,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/css\/parallax-hero-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/css\/reset.css" : {
       "aP" : 1,
@@ -29601,7 +29698,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/css\/reset-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/css\/style.css" : {
       "aP" : 1,
@@ -29613,7 +29710,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/css\/style-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/css\/user.css" : {
       "aP" : 1,
@@ -29625,7 +29722,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/css\/user-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/css\/vegas.min.css" : {
       "aP" : 1,
@@ -29637,7 +29734,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/css\/vegas.min-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/fonts\/font-awesome.css" : {
       "aP" : 1,
@@ -29649,7 +29746,7 @@
       "oA" : 0,
       "oAP" : "\/assets\/fonts\/font-awesome-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/assets\/fonts\/fontawesome-webfont.eot" : {
       "cB" : 0,
@@ -30042,7 +30139,7 @@
       "oA" : 0,
       "oAP" : "\/forms\/new\/assets\/css\/main-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/forms\/new\/assets\/css\/main.css.map" : {
       "cB" : 0,
@@ -30062,7 +30159,7 @@
       "oA" : 0,
       "oAP" : "\/forms\/new\/assets\/css\/normalize-min.css",
       "oF" : 0,
-      "pg" : 0
+      "pg" : 2
     },
     "\/forms\/new\/assets\/sass\/.sass-cache\/3411f95dd82920c39882bf322b730612950f2d94\/main.sassc" : {
       "cB" : 0,
@@ -30157,6 +30254,22 @@
       "oA" : 2,
       "oAP" : "\/index.html",
       "oF" : 0
+    },
+    "\/package-lock.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/package-lock-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/package.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/package-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
     }
   },
   "hooks" : [
@@ -31962,7 +32075,7 @@
       "autoOutputPathStyle" : 0,
       "combineImports" : 0,
       "cssoStyle" : 0,
-      "purgeCSSStyle" : 0,
+      "purgeCSSStyle" : 2,
       "shouldRunAutoprefixer" : 1,
       "shouldRunBless" : 0,
       "sourceMapStyle" : 0
@@ -32194,7 +32307,7 @@
     "npmCreatePackageLock" : 1,
     "npmInstallOptionalDependencies" : 0,
     "npmSaveExactVersion" : 0,
-    "npmTargetDependencyListType" : 1,
+    "npmTargetDependencyListType" : 2,
     "overrideExternalServerCSS" : 0,
     "previewPathAddition" : "",
     "purgeCSS" : {
