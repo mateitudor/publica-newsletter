@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34081",
+  "creatorBuild" : "34127",
   "files" : {
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
@@ -29493,13 +29493,13 @@
       "oAP" : "\/2021\/03_18\/publica.ro-2021_03_18-P_prod.html",
       "oF" : 0
     },
-    "\/2021\/03_18\/publica.ro-2021_03_18-r_dev.html" : {
-      "cB" : 1,
+    "\/2021\/03_18\/publica.ro-2021_03_18-R_dev.html" : {
+      "cB" : 0,
       "ft" : 8192,
-      "hM" : 2,
+      "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/03_18\/publica.ro-2021_03_18-R_prod.html",
-      "oF" : 2
+      "oAP" : "\/2021\/03_18\/publica.ro-2021_03_18-R_dev.html",
+      "oF" : 0
     },
     "\/2021\/03_18\/publica.ro-2021_03_18-R_prod.html" : {
       "cB" : 0,
@@ -29643,6 +29643,103 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2021\/03_24\/publica.ro-2021_03_24-R_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/03_31\/img\/publica.ro-company_of_one-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 377706,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_31\/img\/publica.ro-company_of_one-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_31\/img\/publica.ro-deep_work-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 73530,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_31\/img\/publica.ro-deep_work-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_31\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_31\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_31\/img\/publica.ro-rework-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 39096,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_31\/img\/publica.ro-rework-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_31\/img\/publica.ro-startup_de_100-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 60596,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_31\/img\/publica.ro-startup_de_100-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/03_31\/publica.ro-2021_03_31-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_31\/publica.ro-2021_03_31-G_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/03_31\/publica.ro-2021_03_31-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_31\/publica.ro-2021_03_31-G_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/03_31\/publica.ro-2021_03_31-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_31\/publica.ro-2021_03_31-R_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/03_31\/publica.ro-2021_03_31-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/03_31\/publica.ro-2021_03_31-R_prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
@@ -32472,6 +32569,9 @@
       "removeVariables" : 0,
       "safelistEntries" : [
 
+      ],
+      "skippedEntries" : [
+        "node_modules\/**"
       ]
     },
     "rollupContext" : "",
@@ -32506,6 +32606,7 @@
     "tsNoImplicitThis" : 0,
     "tsNoImplicitUseStrict" : 0,
     "tsNoLib" : 0,
+    "tsNoPropertyAccessFromIndexSignature" : 0,
     "tsNoResolve" : 0,
     "tsNoStrictGenericChecks" : 0,
     "tsNoUncheckedIndexAccess" : 0,
