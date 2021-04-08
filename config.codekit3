@@ -29815,6 +29815,14 @@
       "oAP" : "\/2021\/04_05\/publica.ro-2021_04_05-G_prod.html",
       "oF" : 2
     },
+    "\/2021\/04_05\/publica.ro-2021_04_05-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_05\/publica.ro-2021_04_05-G_prod.html",
+      "oF" : 0
+    },
     "\/2021\/04_05\/publica.ro-2021_04_05-R_dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -29829,6 +29837,95 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2021\/04_05\/publica.ro-2021_04_05-R_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/04_08\/img\/publica.ro-adevar-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 417291,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_08\/img\/publica.ro-adevar-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/04_08\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_08\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/04_08\/img\/publica.ro-nudge-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 54339,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_08\/img\/publica.ro-nudge-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/04_08\/img\/publica.ro-pana_sa_ti_dai_seama-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 62587,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_08\/img\/publica.ro-pana_sa_ti_dai_seama-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/04_08\/img\/publica.ro-supergandire-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 79530,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_08\/img\/publica.ro-supergandire-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/04_08\/publica.ro-2021_04_08-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_08\/publica.ro-2021_04_08-G_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/04_08\/publica.ro-2021_04_08-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_08\/publica.ro-2021_04_08-R_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/04_08\/publica.ro-2021_04_08-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_08\/publica.ro-2021_04_08-R_prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
