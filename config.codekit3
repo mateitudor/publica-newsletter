@@ -30033,6 +30033,53 @@
       "oAP" : "\/2021\/04_13\/publica.ro-2021_04_13-R_prod.html",
       "oF" : 0
     },
+    "\/2021\/04_22\/img\/publica.ro-2021_04_22-promo-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 394979,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_22\/img\/publica.ro-2021_04_22-promo-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/04_22\/img\/publica.ro-cea_mai_mare_cacealma-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 885622,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_22\/img\/publica.ro-cea_mai_mare_cacealma-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/04_22\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_22\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/04_22\/publica.ro-2021_04_22-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_22\/publica.ro-2021_04_22-prod.html",
+      "oF" : 2
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
