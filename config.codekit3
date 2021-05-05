@@ -30161,6 +30161,14 @@
       "oAP" : "\/2021\/04_28\/publica.ro-2021_04_28-G_prod.html",
       "oF" : 2
     },
+    "\/2021\/04_28\/publica.ro-2021_04_28-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/04_28\/publica.ro-2021_04_28-G_prod.html",
+      "oF" : 0
+    },
     "\/2021\/04_28\/publica.ro-2021_04_28-R_dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -30175,6 +30183,103 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2021\/04_28\/publica.ro-2021_04_28-R_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/05_05\/img\/publica.ro-brief-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 73493,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_05\/img\/publica.ro-brief-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_05\/img\/publica.ro-catalizatorul-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 56465,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_05\/img\/publica.ro-catalizatorul-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_05\/img\/publica.ro-linchpin-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 57152,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_05\/img\/publica.ro-linchpin-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_05\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_05\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_05\/img\/publica.ro-practica-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 391836,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_05\/img\/publica.ro-practica-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_05\/publica.ro-2021_05_05-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_05\/publica.ro-2021_05_05-G_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/05_05\/publica.ro-2021_05_05-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_05\/publica.ro-2021_05_05-G_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/05_05\/publica.ro-2021_05_05-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_05\/publica.ro-2021_05_05-R_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/05_05\/publica.ro-2021_05_05-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_05\/publica.ro-2021_05_05-R_prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
