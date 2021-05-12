@@ -30282,6 +30282,56 @@
       "oAP" : "\/2021\/05_05\/publica.ro-2021_05_05-R_prod.html",
       "oF" : 0
     },
+    "\/2021\/05_12\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_12\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_12\/img\/publica.ro-ministerul_bunului_simt-pack-nl-hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 1650506,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_12\/img\/publica.ro-ministerul_bunului_simt-pack-nl-hero-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_12\/publica.ro-2021_05_12-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_12\/publica.ro-2021_05_12-G_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/05_12\/publica.ro-2021_05_12-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_12\/publica.ro-2021_05_12-R_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/05_12\/publica.ro-2021_05_12-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_12\/publica.ro-2021_05_12-R_prod.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
