@@ -30698,6 +30698,14 @@
       "oAP" : "\/2021\/05_26\/publica.ro-2021_05_26-G_prod.html",
       "oF" : 2
     },
+    "\/2021\/05_26\/publica.ro-2021_05_26-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_26\/publica.ro-2021_05_26-G_prod.html",
+      "oF" : 0
+    },
     "\/2021\/05_26\/publica.ro-2021_05_26-R_dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -30705,6 +30713,77 @@
       "oA" : 0,
       "oAP" : "\/2021\/05_26\/publica.ro-2021_05_26-R_prod.html",
       "oF" : 2
+    },
+    "\/2021\/05_26\/publica.ro-2021_05_26-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_26\/publica.ro-2021_05_26-R_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/05_28\/img\/publica.ro-2021_05_28-bookfest-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 264289,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_28\/img\/publica.ro-2021_05_28-bookfest-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_28\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_28\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_28\/img\/publica.ro-regandeste-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 737734,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_28\/img\/publica.ro-regandeste-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/05_28\/publica.ro-2021_05_28-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_28\/publica.ro-2021_05_28-G_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/05_28\/publica.ro-2021_05_28-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_28\/publica.ro-2021_05_28-R_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/05_28\/publica.ro-2021_05_28-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/05_28\/publica.ro-2021_05_28-R_prod.html",
+      "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
