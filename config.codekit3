@@ -30900,6 +30900,14 @@
       "oAP" : "\/2021\/06_03\/publica.ro-2021_06_03-G_prod.html",
       "oF" : 2
     },
+    "\/2021\/06_03\/publica.ro-2021_06_03-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_03\/publica.ro-2021_06_03-G_prod.html",
+      "oF" : 0
+    },
     "\/2021\/06_03\/publica.ro-2021_06_03-R_dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -30907,6 +30915,111 @@
       "oA" : 0,
       "oAP" : "\/2021\/06_03\/publica.ro-2021_06_03-R_prod.html",
       "oF" : 2
+    },
+    "\/2021\/06_03\/publica.ro-2021_06_03-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_03\/publica.ro-2021_06_03-R_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/06_16\/img\/publica.ro-bucurati_va_de_fericirea_voastra-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 53144,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_16\/img\/publica.ro-bucurati_va_de_fericirea_voastra-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_16\/img\/publica.ro-dark_cockpit-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 62479,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_16\/img\/publica.ro-dark_cockpit-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_16\/img\/publica.ro-de_vorba_cu_necunoscuti-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 54544,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_16\/img\/publica.ro-de_vorba_cu_necunoscuti-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_16\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_16\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_16\/img\/publica.ro-mafia_bomb-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 450000,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_16\/img\/publica.ro-mafia_bomb-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_16\/publica.ro-2021_06_16-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_16\/publica.ro-2021_06_16-G_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/06_16\/publica.ro-2021_06_16-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_16\/publica.ro-2021_06_16-G_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/06_16\/publica.ro-2021_06_16-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_16\/publica.ro-2021_06_16-R_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/06_16\/publica.ro-2021_06_16-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_16\/publica.ro-2021_06_16-R_prod.html",
+      "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
