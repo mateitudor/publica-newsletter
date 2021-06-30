@@ -31120,6 +31120,14 @@
       "oAP" : "\/2021\/06_23\/publica.ro-2021_06_16-G_prod.html",
       "oF" : 2
     },
+    "\/2021\/06_23\/publica.ro-2021_06_16-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_23\/publica.ro-2021_06_16-G_prod.html",
+      "oF" : 0
+    },
     "\/2021\/06_23\/publica.ro-2021_06_23-R_dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -31127,6 +31135,108 @@
       "oA" : 0,
       "oAP" : "\/2021\/06_23\/publica.ro-2021_06_23-R_prod.html",
       "oF" : 2
+    },
+    "\/2021\/06_23\/publica.ro-2021_06_23-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_23\/publica.ro-2021_06_23-R_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/06_30\/img\/publica.ro-2021_06_30-wohlleben_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 527053,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_30\/img\/publica.ro-2021_06_30-wohlleben_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_30\/img\/publica.ro-adevar-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 51744,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_30\/img\/publica.ro-adevar-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_30\/img\/publica.ro-irational_in_mod_previzibil-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 47747,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_30\/img\/publica.ro-irational_in_mod_previzibil-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_30\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_30\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_30\/img\/publica.ro-mentalitatea_de_cercetas-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 38419,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_30\/img\/publica.ro-mentalitatea_de_cercetas-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_30\/img\/publica.ro-regandeste-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 54216,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_30\/img\/publica.ro-regandeste-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/06_30\/publica.ro-2021_06_30-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_30\/publica.ro-2021_06_30-G_dev.html",
+      "oF" : 0
+    },
+    "\/2021\/06_30\/publica.ro-2021_06_30-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/06_30\/publica.ro-2021_06_30-R_dev.html",
+      "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
