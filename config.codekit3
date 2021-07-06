@@ -31238,6 +31238,87 @@
       "oAP" : "\/2021\/06_30\/publica.ro-2021_06_30-R_dev.html",
       "oF" : 0
     },
+    "\/2021\/07_06\/img\/publica.ro-cartea_oamenilor-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 79975,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_06\/img\/publica.ro-cartea_oamenilor-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_06\/img\/publica.ro-cum_sa_combati_un_rasist-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 368433,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_06\/img\/publica.ro-cum_sa_combati_un_rasist-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_06\/img\/publica.ro-gena_sportiva-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 68506,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_06\/img\/publica.ro-gena_sportiva-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_06\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_06\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_06\/img\/publica.ro-scurta_istorie_a_tuturor-nl-book_small.jpg" : {
+      "ft" : 16384,
+      "iS" : 53737,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_06\/img\/publica.ro-scurta_istorie_a_tuturor-nl-book_small.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_06\/publica.ro-2021_07_06-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_06\/publica.ro-2021_07_06-G_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/07_06\/publica.ro-2021_07_06-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_06\/publica.ro-2021_07_06-R_prod.html",
+      "oF" : 2
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
