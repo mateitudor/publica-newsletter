@@ -31311,12 +31311,125 @@
       "oAP" : "\/2021\/07_06\/publica.ro-2021_07_06-G_prod.html",
       "oF" : 2
     },
+    "\/2021\/07_06\/publica.ro-2021_07_06-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_06\/publica.ro-2021_07_06-G_prod.html",
+      "oF" : 0
+    },
     "\/2021\/07_06\/publica.ro-2021_07_06-R_dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
       "oA" : 0,
       "oAP" : "\/2021\/07_06\/publica.ro-2021_07_06-R_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/07_06\/publica.ro-2021_07_06-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_06\/publica.ro-2021_07_06-R_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/07_13\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_13\/img\/publica.ro-modele_de_scalare-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 455705,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13\/img\/publica.ro-modele_de_scalare-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_13\/img\/publica.ro-nl-book_small-bk_white-design_pentru_lumea_reala.jpg" : {
+      "ft" : 16384,
+      "iS" : 65600,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13\/img\/publica.ro-nl-book_small-bk_white-design_pentru_lumea_reala.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_13\/img\/publica.ro-nl-book_small-bk_white-factfulness.jpg" : {
+      "ft" : 16384,
+      "iS" : 59028,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13\/img\/publica.ro-nl-book_small-bk_white-factfulness.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_13\/img\/publica.ro-nl-book_small-bk_white-paradoxul_prosperitatii.jpg" : {
+      "ft" : 16384,
+      "iS" : 69760,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13\/img\/publica.ro-nl-book_small-bk_white-paradoxul_prosperitatii.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/07_13\/publica.ro-2021_07_06-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13\/publica.ro-2021_07_06-G_dev.html",
+      "oF" : 0
+    },
+    "\/2021\/07_13\/publica.ro-2021_07_13-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13\/publica.ro-2021_07_13-G_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/07_13\/publica.ro-2021_07_13-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13\/publica.ro-2021_07_13-G_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/07_13\/publica.ro-2021_07_13-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13\/publica.ro-2021_07_13-R_prod.html",
       "oF" : 2
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
