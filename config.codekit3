@@ -30530,7 +30530,7 @@
     },
     "\/2021\/05_24\/img\/publica.ro-2021_05_24-bookfest-book_small-02.jpg" : {
       "ft" : 16384,
-      "iS" : 57653,
+      "iS" : 93518,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/2021\/05_24\/img\/publica.ro-2021_05_24-bookfest-book_small-02.jpg",
@@ -31335,6 +31335,14 @@
       "oAP" : "\/2021\/07_06\/publica.ro-2021_07_06-R_prod.html",
       "oF" : 0
     },
+    "\/2021\/07_13 copy\/publica.ro-2021_07_13-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13 copy\/publica.ro-2021_07_13-R_dev.html",
+      "oF" : 0
+    },
     "\/2021\/07_13\/img\/publica.ro-logo_tagline.jpg" : {
       "ft" : 16384,
       "iS" : 8033,
@@ -31492,7 +31500,7 @@
       "oAP" : "\/2021\/07_28\/img\/publica.ro-nl-book_small-bk_white-cum_sa_combati_un_rasist.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31549,6 +31557,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/2021\/07_28\/publica.ro-2021_07_13-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_28\/publica.ro-2021_07_13-R_prod.html",
+      "oF" : 0
+    },
     "\/2021\/07_28\/publica.ro-2021_07_28-G_dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -31556,6 +31572,14 @@
       "oA" : 0,
       "oAP" : "\/2021\/07_28\/publica.ro-2021_07_28-G_prod.html",
       "oF" : 2
+    },
+    "\/2021\/07_28\/publica.ro-2021_07_28-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_28\/publica.ro-2021_07_28-G_prod.html",
+      "oF" : 0
     },
     "\/2021\/07_28\/publica.ro-2021_07_28-R_dev.html" : {
       "cB" : 0,
