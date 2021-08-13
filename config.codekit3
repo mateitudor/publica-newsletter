@@ -31738,12 +31738,109 @@
       "oAP" : "\/2021\/08_04\/publica.ro-2021_08_04-G_prod.html",
       "oF" : 2
     },
+    "\/2021\/08_04\/publica.ro-2021_08_04-G_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_04\/publica.ro-2021_08_04-G_prod.html",
+      "oF" : 0
+    },
     "\/2021\/08_04\/publica.ro-2021_08_04-R_dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
       "oA" : 0,
       "oAP" : "\/2021\/08_04\/publica.ro-2021_08_04-R_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/08_04\/publica.ro-2021_08_04-R_prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_04\/publica.ro-2021_08_04-R_prod.html",
+      "oF" : 0
+    },
+    "\/2021\/08_13\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_13\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_13\/img\/publica.ro-munca-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 2232590,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_13\/img\/publica.ro-munca-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_13\/img\/publica.ro-nl-book_small-bk_white-coridorul_ingust.jpg" : {
+      "ft" : 16384,
+      "iS" : 60828,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_13\/img\/publica.ro-nl-book_small-bk_white-coridorul_ingust.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_13\/img\/publica.ro-nl-book_small-bk_white-jocul_infinit.jpg" : {
+      "ft" : 16384,
+      "iS" : 42054,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_13\/img\/publica.ro-nl-book_small-bk_white-jocul_infinit.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_13\/img\/publica.ro-nl-book_small-bk_white-omul_universal.jpg" : {
+      "ft" : 16384,
+      "iS" : 50350,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_13\/img\/publica.ro-nl-book_small-bk_white-omul_universal.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_13\/publica.ro-2021_08_13-G_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_13\/publica.ro-2021_08_13-G_prod.html",
+      "oF" : 2
+    },
+    "\/2021\/08_13\/publica.ro-2021_08_13-R_dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_13\/publica.ro-2021_08_13-R_prod.html",
       "oF" : 2
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
