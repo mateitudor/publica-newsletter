@@ -31924,14 +31924,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2021\/08_20\/publica.ro-2021_08_13-G_dev.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/2021\/08_20\/publica.ro-2021_08_13-G_dev.html",
-      "oF" : 0
-    },
     "\/2021\/08_20\/publica.ro-2021_08_20-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -31940,12 +31932,145 @@
       "oAP" : "\/2021\/08_20\/publica.ro-2021_08_20-prod.html",
       "oF" : 2
     },
-    "\/2021\/08_20\/publica.ro-2021_08_20-R_prod.html" : {
+    "\/2021\/08_20\/publica.ro-2021_08_20-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/08_20\/publica.ro-2021_08_20-R_prod.html",
+      "oAP" : "\/2021\/08_20\/publica.ro-2021_08_20-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/08_26\/img\/publica.ro-2021_08_25-echo_ios-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 204340,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/img\/publica.ro-2021_08_25-echo_ios-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/img\/publica.ro-audiobook_cover-incepe_cu_de_ce.jpg" : {
+      "ft" : 16384,
+      "iS" : 30260,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/img\/publica.ro-audiobook_cover-incepe_cu_de_ce.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/img\/publica.ro-audiobook_cover-o_viata_pe_planeta_noastra.jpg" : {
+      "ft" : 16384,
+      "iS" : 66546,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/img\/publica.ro-audiobook_cover-o_viata_pe_planeta_noastra.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/img\/publica.ro-audiobook_cover-open.jpg" : {
+      "ft" : 16384,
+      "iS" : 60472,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/img\/publica.ro-audiobook_cover-open.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/img\/publica.ro-nl-book_small-bk_white-cea_mai_mare_cacealma.jpg" : {
+      "ft" : 16384,
+      "iS" : 14922,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/img\/publica.ro-nl-book_small-bk_white-cea_mai_mare_cacealma.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/img\/publica.ro-nl-book_small-bk_white-marea_divizare.jpg" : {
+      "ft" : 16384,
+      "iS" : 9609,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/img\/publica.ro-nl-book_small-bk_white-marea_divizare.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/img\/publica.ro-nl-book_small-bk_white-sete.jpg" : {
+      "ft" : 16384,
+      "iS" : 41654,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/img\/publica.ro-nl-book_small-bk_white-sete.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/img\/publica.ro-omul_care_a_rezolvat_piata-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 594643,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/img\/publica.ro-omul_care_a_rezolvat_piata-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/publica.ro-2021_08_26-R-dev copy.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-2021_08_26-R-dev copy.html",
+      "oF" : 0
+    },
+    "\/2021\/08_26\/publica.ro-2021_08_26-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-2021_08_26-R-dev.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
