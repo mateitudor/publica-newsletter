@@ -32065,6 +32065,14 @@
       "oAP" : "\/2021\/08_26\/publica.ro-2021_08_26-G-prod.html",
       "oF" : 2
     },
+    "\/2021\/08_26\/publica.ro-2021_08_26-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-2021_08_26-G-prod.html",
+      "oF" : 0
+    },
     "\/2021\/08_26\/publica.ro-2021_08_26-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -32072,6 +32080,92 @@
       "oA" : 0,
       "oAP" : "\/2021\/08_26\/publica.ro-2021_08_26-R-prod.html",
       "oF" : 2
+    },
+    "\/2021\/08_26\/publica.ro-2021_08_26-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-2021_08_26-R-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-01.jpg" : {
+      "ft" : 16384,
+      "iS" : 1140295,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 1632419,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-03.jpg" : {
+      "ft" : 16384,
+      "iS" : 1423828,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-03.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-04.jpg" : {
+      "ft" : 16384,
+      "iS" : 1280383,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-04.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-05.jpg" : {
+      "ft" : 16384,
+      "iS" : 1100236,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-05.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-06.jpg" : {
+      "ft" : 16384,
+      "iS" : 1134996,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/08_26\/publica.ro-omul_care_a_rezolvat_piata-insta_story-06.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
