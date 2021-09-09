@@ -32251,6 +32251,82 @@
       "oAP" : "\/2021\/08_31\/publica.ro-2021_08_31-R-prod.html",
       "oF" : 0
     },
+    "\/2021\/09_09\/img\/publica.ro-2021_09_09-echo-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 222644,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_09\/img\/publica.ro-2021_09_09-echo-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_09\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_09\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_09\/img\/publica.ro-nu_te_gasesc_pe_nicaieri-event-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 40056,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_09\/img\/publica.ro-nu_te_gasesc_pe_nicaieri-event-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_09\/img\/publica.ro-nu_te_gasesc_pe_nicaieri-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 227580,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_09\/img\/publica.ro-nu_te_gasesc_pe_nicaieri-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_09\/publica.ro-2021_09_09-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_09\/publica.ro-2021_09_09-G-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/09_09\/publica.ro-2021_09_09-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_09\/publica.ro-2021_09_09-R-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/09_09\/publica.ro-2021_09_09-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_09\/publica.ro-2021_09_09-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
