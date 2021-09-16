@@ -32311,6 +32311,14 @@
       "oAP" : "\/2021\/09_09\/publica.ro-2021_09_09-G-prod.html",
       "oF" : 2
     },
+    "\/2021\/09_09\/publica.ro-2021_09_09-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_09\/publica.ro-2021_09_09-G-prod.html",
+      "oF" : 0
+    },
     "\/2021\/09_09\/publica.ro-2021_09_09-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -32325,6 +32333,121 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2021\/09_09\/publica.ro-2021_09_09-R-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/09_16\/img\/publica.ro-2021_09_16-echo-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 187932,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/img\/publica.ro-2021_09_16-echo-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_16\/img\/publica.ro-2021_09_16-legatura_secreta-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 228005,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/img\/publica.ro-2021_09_16-legatura_secreta-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_16\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-fata_de_laborator.jpg" : {
+      "ft" : 16384,
+      "iS" : 69234,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-fata_de_laborator.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-nu_te_gasesc_pe_nicaieri.jpg" : {
+      "ft" : 16384,
+      "iS" : 46824,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-nu_te_gasesc_pe_nicaieri.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-terra_insecta.jpg" : {
+      "ft" : 16384,
+      "iS" : 60339,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-terra_insecta.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-viata_secreta_a_copacilor.jpg" : {
+      "ft" : 16384,
+      "iS" : 69114,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-viata_secreta_a_copacilor.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_16\/publica.ro-2021_09_16-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/publica.ro-2021_09_16-G-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/09_16\/publica.ro-2021_09_16-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/publica.ro-2021_09_16-R-prod.html",
+      "oF" : 3
+    },
+    "\/2021\/09_16\/publica.ro-2021_09_16-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_16\/publica.ro-2021_09_16-R-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
