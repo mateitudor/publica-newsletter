@@ -32458,6 +32458,19 @@
       "oAP" : "\/2021\/09_16\/publica.ro-2021_09_16-R-prod.html",
       "oF" : 0
     },
+    "\/2021\/09_22\/img\/publica.ro-2021_09_22-copacul_cu_bani-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 467681,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_22\/img\/publica.ro-2021_09_22-copacul_cu_bani-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/2021\/09_22\/img\/publica.ro-2021_09_22-echo-nl-hero.jpg" : {
       "ft" : 16384,
       "iS" : 187932,
@@ -32523,12 +32536,20 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2021\/09_22\/publica.ro-2021_09_16-G-dev.html" : {
+    "\/2021\/09_22\/publica.ro-2021_09_22-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_22\/publica.ro-2021_09_22-G-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/09_22\/publica.ro-2021_09_22-G-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/09_22\/publica.ro-2021_09_16-G-dev.html",
+      "oAP" : "\/2021\/09_22\/publica.ro-2021_09_22-G-prod.html",
       "oF" : 0
     },
     "\/2021\/09_22\/publica.ro-2021_09_22-R-dev.html" : {
