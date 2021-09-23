@@ -32458,6 +32458,32 @@
       "oAP" : "\/2021\/09_16\/publica.ro-2021_09_16-R-prod.html",
       "oF" : 0
     },
+    "\/2021\/09_23\/img\/publica.ro-2021_09_23-event-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 42186,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_23\/img\/publica.ro-2021_09_23-event-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/09_23\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_23\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/2021\/09_23\/img\/publica.ro-nu_te_gasesc_pe_nicaieri-nl-hero.jpg" : {
       "ft" : 16384,
       "iS" : 227580,
@@ -32479,12 +32505,12 @@
       "oAP" : "\/2021\/09_23\/publica.ro-2021_09_23-prod.html",
       "oF" : 2
     },
-    "\/2021\/09_23\/publica.ro-2021_09_23-R-prod.html" : {
+    "\/2021\/09_23\/publica.ro-2021_09_23-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/09_23\/publica.ro-2021_09_23-R-prod.html",
+      "oAP" : "\/2021\/09_23\/publica.ro-2021_09_23-prod.html",
       "oF" : 0
     },
     "\/2021\/09_24\/img\/publica.ro-2021_09_24-copacul_cu_bani-nl-hero.jpg" : {
