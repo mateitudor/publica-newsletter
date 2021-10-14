@@ -32746,19 +32746,6 @@
       "oAP" : "\/2021\/09_30\/publica.ro-2021_09_30-R-prod.html",
       "oF" : 0
     },
-    "\/2021\/10_14\/img\/publica.ro-2021_09_30-echo-nl-hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 91288,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/2021\/10_14\/img\/publica.ro-2021_09_30-echo-nl-hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/2021\/10_14\/img\/publica.ro-2021_10_14-capcana_sfaturilor-nl-hero.jpg" : {
       "ft" : 16384,
       "iS" : 67871,
@@ -32768,6 +32755,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_14\/img\/publica.ro-2021_10_14-echo-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 91288,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/img\/publica.ro-2021_10_14-echo-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32827,9 +32827,17 @@
     "\/2021\/10_14\/publica.ro-2021_10_14-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/publica.ro-2021_10_14-G-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/10_14\/publica.ro-2021_10_14-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/10_14\/publica.ro-2021_10_14-G-dev.html",
+      "oAP" : "\/2021\/10_14\/publica.ro-2021_10_14-G-prod.html",
       "oF" : 0
     },
     "\/2021\/10_14\/publica.ro-2021_10_14-R-dev.html" : {
