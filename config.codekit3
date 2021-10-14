@@ -32722,6 +32722,14 @@
       "oAP" : "\/2021\/09_30\/publica.ro-2021_09_30-G-prod.html",
       "oF" : 2
     },
+    "\/2021\/09_30\/publica.ro-2021_09_30-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/09_30\/publica.ro-2021_09_30-G-prod.html",
+      "oF" : 0
+    },
     "\/2021\/09_30\/publica.ro-2021_09_30-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -32736,6 +32744,108 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2021\/09_30\/publica.ro-2021_09_30-R-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/10_14\/img\/publica.ro-2021_09_30-echo-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 91288,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/img\/publica.ro-2021_09_30-echo-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_14\/img\/publica.ro-2021_10_14-capcana_sfaturilor-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 67871,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/img\/publica.ro-2021_10_14-capcana_sfaturilor-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_14\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_14\/img\/publica.ro-nl-book_small-bk_white-coaching_zi_de_zi.jpg" : {
+      "ft" : 16384,
+      "iS" : 61134,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/img\/publica.ro-nl-book_small-bk_white-coaching_zi_de_zi.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_14\/img\/publica.ro-nl-book_small-bk_white-drive.jpg" : {
+      "ft" : 16384,
+      "iS" : 55292,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/img\/publica.ro-nl-book_small-bk_white-drive.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_14\/img\/publica.ro-nl-book_small-bk_white-nu_asculti.jpg" : {
+      "ft" : 16384,
+      "iS" : 75004,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/img\/publica.ro-nl-book_small-bk_white-nu_asculti.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_14\/publica.ro-2021_10_14-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/publica.ro-2021_10_14-G-dev.html",
+      "oF" : 0
+    },
+    "\/2021\/10_14\/publica.ro-2021_10_14-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/publica.ro-2021_10_14-R-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/10_14\/publica.ro-2021_10_14-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_14\/publica.ro-2021_10_14-R-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
