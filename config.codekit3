@@ -32903,6 +32903,116 @@
       "oAP" : "\/2021\/10_15\/publica.ro-2021_10_15-prod.html",
       "oF" : 2
     },
+    "\/2021\/10_15\/publica.ro-2021_10_15-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_15\/publica.ro-2021_10_15-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/10_19\/img\/publica.ro-2021_10_19-cautatorii_de_tipare-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 80672,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/img\/publica.ro-2021_10_19-cautatorii_de_tipare-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_19\/img\/publica.ro-2021_10_19-echo-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 91288,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/img\/publica.ro-2021_10_19-echo-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_19\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_19\/img\/publica.ro-nl-book_small-bk_white-calauzele_tacute.jpg" : {
+      "ft" : 16384,
+      "iS" : 15694,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/img\/publica.ro-nl-book_small-bk_white-calauzele_tacute.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_19\/img\/publica.ro-nl-book_small-bk_white-scurta_istorie_a_tuturor.jpg" : {
+      "ft" : 16384,
+      "iS" : 10036,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/img\/publica.ro-nl-book_small-bk_white-scurta_istorie_a_tuturor.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_19\/img\/publica.ro-nl-book_small-bk_white-the_undoing_project.jpg" : {
+      "ft" : 16384,
+      "iS" : 14035,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/img\/publica.ro-nl-book_small-bk_white-the_undoing_project.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_19\/publica.ro-2021_10_19-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/publica.ro-2021_10_19-G-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/10_19\/publica.ro-2021_10_19-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/publica.ro-2021_10_19-R-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/10_19\/publica.ro-2021_10_19-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/publica.ro-2021_10_19-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
