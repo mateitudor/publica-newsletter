@@ -32997,6 +32997,14 @@
       "oAP" : "\/2021\/10_19\/publica.ro-2021_10_19-G-prod.html",
       "oF" : 2
     },
+    "\/2021\/10_19\/publica.ro-2021_10_19-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_19\/publica.ro-2021_10_19-G-prod.html",
+      "oF" : 0
+    },
     "\/2021\/10_19\/publica.ro-2021_10_19-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -33011,6 +33019,116 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2021\/10_19\/publica.ro-2021_10_19-R-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/10_21\/img\/publica.ro-2021_10_21-echo-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 91288,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/img\/publica.ro-2021_10_21-echo-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_21\/img\/publica.ro-2021_10_21-idei_rebele-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 133070,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/img\/publica.ro-2021_10_21-idei_rebele-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_21\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_21\/img\/publica.ro-nl-book_small-bk_white-cum_sa_combati_un_rasist.jpg" : {
+      "ft" : 16384,
+      "iS" : 11962,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/img\/publica.ro-nl-book_small-bk_white-cum_sa_combati_un_rasist.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_21\/img\/publica.ro-nl-book_small-bk_white-gandirea_de_tip_cutie_neagra.jpg" : {
+      "ft" : 16384,
+      "iS" : 59169,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/img\/publica.ro-nl-book_small-bk_white-gandirea_de_tip_cutie_neagra.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_21\/img\/publica.ro-nl-book_small-bk_white-regandeste.jpg" : {
+      "ft" : 16384,
+      "iS" : 58627,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/img\/publica.ro-nl-book_small-bk_white-regandeste.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/10_21\/publica.ro-2021_10_21-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/publica.ro-2021_10_21-G-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/10_21\/publica.ro-2021_10_21-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/publica.ro-2021_10_21-G-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/10_21\/publica.ro-2021_10_21-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/publica.ro-2021_10_21-R-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/10_21\/publica.ro-2021_10_21-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/10_21\/publica.ro-2021_10_21-R-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
