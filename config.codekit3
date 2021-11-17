@@ -33601,6 +33601,53 @@
       "oAP" : "\/2021\/11_08\/publica.ro-2021_11_08-R-prod.html",
       "oF" : 0
     },
+    "\/2021\/11_17\/img\/publica.ro-2021_11_17-gaudeamus-nl_hero-01.jpg" : {
+      "ft" : 16384,
+      "iS" : 136419,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_17\/img\/publica.ro-2021_11_17-gaudeamus-nl_hero-01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/11_17\/img\/publica.ro-2021_11_17-gaudeamus-nl_hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 232487,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_17\/img\/publica.ro-2021_11_17-gaudeamus-nl_hero-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/11_17\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_17\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/11_17\/publica.ro-2021_11_17-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_17\/publica.ro-2021_11_17-prod.html",
+      "oF" : 2
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
