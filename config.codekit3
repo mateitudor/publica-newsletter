@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34214",
+  "creatorBuild" : "34264",
   "files" : {
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
@@ -33732,6 +33732,48 @@
       "oAP" : "\/2021\/11_19\/publica.ro-2021_11_19-prod.html",
       "oF" : 2
     },
+    "\/2021\/11_19\/publica.ro-2021_11_19-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_19\/publica.ro-2021_11_19-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/11_25\/img\/publica.ro-2021_11_25-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 184449,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_25\/img\/publica.ro-2021_11_25-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/11_25\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_25\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/11_25\/publica.ro-2021_11_25-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_25\/publica.ro-2021_11_25-prod.html",
+      "oF" : 2
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -35654,6 +35696,9 @@
       },
       "no-unused-labels" : {
         "active" : 1
+      },
+      "no-unused-private-class-members" : {
+        "active" : 0
       },
       "no-unused-vars" : {
         "active" : 1,
