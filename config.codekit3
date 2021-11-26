@@ -33774,6 +33774,61 @@
       "oAP" : "\/2021\/11_25\/publica.ro-2021_11_25-prod.html",
       "oF" : 2
     },
+    "\/2021\/11_25\/publica.ro-2021_11_25-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_25\/publica.ro-2021_11_25-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/11_26\/img\/publica.ro-2021_11_26-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 165103,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_26\/img\/publica.ro-2021_11_26-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/11_26\/img\/publica.ro-2021_11_26-spargatoarea_de_coduri-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 64528,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_26\/img\/publica.ro-2021_11_26-spargatoarea_de_coduri-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/11_26\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 8033,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_26\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/11_26\/publica.ro-2021_11_26-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_26\/publica.ro-2021_11_26-prod.html",
+      "oF" : 2
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
