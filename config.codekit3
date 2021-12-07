@@ -33829,6 +33829,95 @@
       "oAP" : "\/2021\/11_26\/publica.ro-2021_11_26-prod.html",
       "oF" : 2
     },
+    "\/2021\/11_26\/publica.ro-2021_11_26-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/11_26\/publica.ro-2021_11_26-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/12_06\/img\/publica.ro-2021_12_07-spargatoarea_de_coduri-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 534082,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_06\/img\/publica.ro-2021_12_07-spargatoarea_de_coduri-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/12_06\/img\/publica.ro-nl-book_small-bk_white-cel_dintai_mister.jpg" : {
+      "ft" : 16384,
+      "iS" : 65612,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_06\/img\/publica.ro-nl-book_small-bk_white-cel_dintai_mister.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/12_06\/img\/publica.ro-nl-book_small-bk_white-degetul_mare_al_violonistului.jpg" : {
+      "ft" : 16384,
+      "iS" : 62012,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_06\/img\/publica.ro-nl-book_small-bk_white-degetul_mare_al_violonistului.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/12_06\/img\/publica.ro-nl-book_small-bk_white-viata_nemuritoare_a_henriettei_lacks.jpg" : {
+      "ft" : 16384,
+      "iS" : 88317,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_06\/img\/publica.ro-nl-book_small-bk_white-viata_nemuritoare_a_henriettei_lacks.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/12_06\/img\/publica.ro-nl-logo.png" : {
+      "ft" : 32768,
+      "iS" : 3953,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_06\/img\/publica.ro-nl-logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/12_06\/publica.ro-2021_12_06-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_06\/publica.ro-2021_12_06-G-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/12_06\/publica.ro-2021_12_06-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_06\/publica.ro-2021_12_06-R-prod.html",
+      "oF" : 2
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
