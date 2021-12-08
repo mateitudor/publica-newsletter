@@ -33837,12 +33837,20 @@
       "oAP" : "\/2021\/11_26\/publica.ro-2021_11_26-prod.html",
       "oF" : 0
     },
-    "\/2021\/12_07\/img\/publica.ro-2021_12_07-spargatoarea_de_coduri-nl_hero.jpg" : {
+    "\/2021\/12_06\/publica.ro-2021_12_06-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_06\/publica.ro-2021_12_06-G-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/12_08\/img\/publica.ro-2021_12_07-spargatoarea_de_coduri-nl_hero.jpg" : {
       "ft" : 16384,
       "iS" : 534082,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/12_07\/img\/publica.ro-2021_12_07-spargatoarea_de_coduri-nl_hero.jpg",
+      "oAP" : "\/2021\/12_08\/img\/publica.ro-2021_12_07-spargatoarea_de_coduri-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -33850,12 +33858,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2021\/12_07\/img\/publica.ro-nl-book_small-bk_white-cel_dintai_mister.jpg" : {
+    "\/2021\/12_08\/img\/publica.ro-nl-book_small-bk_white-cel_dintai_mister.jpg" : {
       "ft" : 16384,
       "iS" : 65612,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/12_07\/img\/publica.ro-nl-book_small-bk_white-cel_dintai_mister.jpg",
+      "oAP" : "\/2021\/12_08\/img\/publica.ro-nl-book_small-bk_white-cel_dintai_mister.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -33863,12 +33871,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2021\/12_07\/img\/publica.ro-nl-book_small-bk_white-degetul_mare_al_violonistului.jpg" : {
+    "\/2021\/12_08\/img\/publica.ro-nl-book_small-bk_white-degetul_mare_al_violonistului.jpg" : {
       "ft" : 16384,
       "iS" : 62012,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/12_07\/img\/publica.ro-nl-book_small-bk_white-degetul_mare_al_violonistului.jpg",
+      "oAP" : "\/2021\/12_08\/img\/publica.ro-nl-book_small-bk_white-degetul_mare_al_violonistului.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -33876,12 +33884,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2021\/12_07\/img\/publica.ro-nl-book_small-bk_white-viata_nemuritoare_a_henriettei_lacks.jpg" : {
+    "\/2021\/12_08\/img\/publica.ro-nl-book_small-bk_white-viata_nemuritoare_a_henriettei_lacks.jpg" : {
       "ft" : 16384,
       "iS" : 88317,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/12_07\/img\/publica.ro-nl-book_small-bk_white-viata_nemuritoare_a_henriettei_lacks.jpg",
+      "oAP" : "\/2021\/12_08\/img\/publica.ro-nl-book_small-bk_white-viata_nemuritoare_a_henriettei_lacks.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -33889,11 +33897,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2021\/12_07\/img\/publica.ro-nl-logo.png" : {
+    "\/2021\/12_08\/img\/publica.ro-nl-logo.png" : {
       "ft" : 32768,
       "iS" : 3953,
       "oA" : 0,
-      "oAP" : "\/2021\/12_07\/img\/publica.ro-nl-logo.png",
+      "oAP" : "\/2021\/12_08\/img\/publica.ro-nl-logo.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -33902,7 +33910,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2021\/12_07\/publica.ro-2021_12_07-G-dev.html" : {
+    "\/2021\/12_08\/publica.ro-2021_12_08-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
@@ -33910,15 +33918,15 @@
       "oAP" : "\/2021\/12_06\/publica.ro-2021_12_06-G-prod.html",
       "oF" : 2
     },
-    "\/2021\/12_07\/publica.ro-2021_12_07-G-prod.html" : {
+    "\/2021\/12_08\/publica.ro-2021_12_08-G-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/12_07\/publica.ro-2021_12_07-G-prod.html",
+      "oAP" : "\/2021\/12_08\/publica.ro-2021_12_08-G-prod.html",
       "oF" : 0
     },
-    "\/2021\/12_07\/publica.ro-2021_12_07-R-dev.html" : {
+    "\/2021\/12_08\/publica.ro-2021_12_08-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
@@ -33926,12 +33934,12 @@
       "oAP" : "\/2021\/12_06\/publica.ro-2021_12_06-R-prod.html",
       "oF" : 2
     },
-    "\/2021\/12_07\/publica.ro-2021_12_07-R-prod.html" : {
+    "\/2021\/12_08\/publica.ro-2021_12_08-R-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2021\/12_07\/publica.ro-2021_12_07-R-prod.html",
+      "oAP" : "\/2021\/12_08\/publica.ro-2021_12_08-R-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
