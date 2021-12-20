@@ -34117,6 +34117,14 @@
       "oAP" : "\/2021\/12_16\/publica.ro-2021_12_16-G-prod.html",
       "oF" : 2
     },
+    "\/2021\/12_16\/publica.ro-2021_12_16-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_16\/publica.ro-2021_12_16-G-prod.html",
+      "oF" : 0
+    },
     "\/2021\/12_16\/publica.ro-2021_12_16-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -34131,6 +34139,61 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2021\/12_16\/publica.ro-2021_12_16-R-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/12_20\/img\/publica.ro-2021_12_20-2+1-nl-hero.gif" : {
+      "ft" : 4194304,
+      "iS" : 2164814,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_20\/img\/publica.ro-2021_12_20-2+1-nl-hero.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/2021\/12_20\/img\/publica.ro-nl-logo.png" : {
+      "ft" : 32768,
+      "iS" : 3953,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_20\/img\/publica.ro-nl-logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/12_20\/publica.ro-2021_12_20-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_20\/publica.ro-2021_12_20-G-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/12_20\/publica.ro-2021_12_20-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_20\/publica.ro-2021_12_20-G-prod.html",
+      "oF" : 0
+    },
+    "\/2021\/12_20\/publica.ro-2021_12_20-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_20\/publica.ro-2021_12_20-R-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/12_20\/publica.ro-2021_12_20-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_20\/publica.ro-2021_12_20-R-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
