@@ -34235,6 +34235,48 @@
       "oAP" : "\/2021\/12_23\/publica.ro-2021_12_23-prod.html",
       "oF" : 0
     },
+    "\/2021\/12_28\/img\/publica.ro-2021_12_28-orice_viata_arde-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 60530,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_28\/img\/publica.ro-2021_12_28-orice_viata_arde-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/12_28\/img\/publica.ro-nl-logo.png" : {
+      "ft" : 32768,
+      "iS" : 3953,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_28\/img\/publica.ro-nl-logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2021\/12_28\/publica.ro-2021_12_28-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 3,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_28\/publica.ro-2021_12_28-prod.html",
+      "oF" : 2
+    },
+    "\/2021\/12_28\/publica.ro-2021_12_28-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/12_28\/publica.ro-2021_12_28-prod.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
