@@ -34298,17 +34298,33 @@
       "oAP" : "\/2022\/01_04\/img\/publica.ro-2021_01_04-al_meu-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
+    "\/2022\/01_04\/publica.ro-2022_01_04-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 3,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_04\/publica.ro-2022_01_04-G-prod.html",
+      "oF" : 2
+    },
     "\/2022\/01_04\/publica.ro-2022_01_04-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 3,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_04\/publica.ro-2022_01_04-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/01_04\/publica.ro-2022_01_04-R-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2022\/01_04\/publica.ro-2022_01_04-R-dev.html",
+      "oAP" : "\/2022\/01_04\/publica.ro-2022_01_04-R-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
