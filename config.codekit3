@@ -34311,6 +34311,14 @@
       "oAP" : "\/2022\/01_04\/publica.ro-2022_01_04-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/01_04\/publica.ro-2022_01_04-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_04\/publica.ro-2022_01_04-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/01_04\/publica.ro-2022_01_04-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -34325,6 +34333,64 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/01_04\/publica.ro-2022_01_04-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/01_11\/img\/publica.ro-2021_01_11-food_mood-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 194080,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_11\/img\/publica.ro-2021_01_11-food_mood-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/01_11\/img\/publica.ro-2022_01_11-all_books-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 525505,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_11\/img\/publica.ro-2022_01_11-all_books-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/01_11\/publica.ro-2022_01_04-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_11\/publica.ro-2022_01_04-G-dev.html",
+      "oF" : 0
+    },
+    "\/2022\/01_11\/publica.ro-2022_01_11-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_11\/publica.ro-2022_01_11-G-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/01_11\/publica.ro-2022_01_11-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_11\/publica.ro-2022_01_11-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/01_11\/publica.ro-2022_01_11-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_11\/publica.ro-2022_01_11-R-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
@@ -35344,6 +35410,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-sursa.jpg" : {
+      "ft" : 16384,
+      "iS" : 31582,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-sursa.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-terra_insecta.jpg" : {
       "ft" : 16384,
       "iS" : 60339,
@@ -35376,6 +35455,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-the_undoing_project.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-thrive.jpg" : {
+      "ft" : 16384,
+      "iS" : 13842,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-thrive.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
