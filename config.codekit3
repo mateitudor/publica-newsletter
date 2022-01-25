@@ -34393,15 +34393,28 @@
       "oAP" : "\/2022\/01_11\/publica.ro-2022_01_11-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/01_25\/img\/publica.ro-2022_01_25-books-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 240146,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_25\/img\/publica.ro-2022_01_25-books-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/2022\/01_25\/img\/publica.ro-2022_01_25-promo-nl_hero.jpg" : {
       "ft" : 16384,
-      "iS" : 367554,
+      "iS" : 2887525,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/01_25\/img\/publica.ro-2022_01_25-promo-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
