@@ -34393,6 +34393,35 @@
       "oAP" : "\/2022\/01_11\/publica.ro-2022_01_11-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/01_25\/img\/publica.ro-2022_01_25-promo-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 367554,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_25\/img\/publica.ro-2022_01_25-promo-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/01_25\/publica.ro-2022_01_11-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_25\/publica.ro-2022_01_11-G-dev.html",
+      "oF" : 0
+    },
+    "\/2022\/01_25\/publica.ro-2022_01_25-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/01_25\/publica.ro-2022_01_25-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -36049,10 +36078,10 @@
   },
   "projectAttributes" : {
     "creationDate" : 520886444,
-    "displayValue" : "publica-nl",
+    "displayValue" : "Publica Newsletters",
     "displayValueWasSetByUser" : 1,
-    "iconImageName" : "brackets_magenta",
-    "iconImageWasSetByUser" : 0
+    "iconImageName" : "brackets-verd",
+    "iconImageWasSetByUser" : 1
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
