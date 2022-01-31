@@ -34451,6 +34451,19 @@
       "oAP" : "\/2022\/01_25\/publica.ro-2022_01_25-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/02_01\/img\/publica.ro-2021_02_01-decodificarea_excelentei-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 189394,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/02_01\/img\/publica.ro-2021_02_01-decodificarea_excelentei-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/2022\/02_01\/publica.ro-2022_02_01-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -34995,6 +35008,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-deep_work.jpg" : {
+      "ft" : 16384,
+      "iS" : 76392,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-deep_work.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-degetul_mare_al_violonistului.jpg" : {
       "ft" : 16384,
       "iS" : 11442,
@@ -35144,6 +35170,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-how_to.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-ia_o_piersica.jpg" : {
+      "ft" : 16384,
+      "iS" : 57046,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-ia_o_piersica.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -35378,6 +35417,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-omul_universal.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-originalii.jpg" : {
+      "ft" : 16384,
+      "iS" : 71754,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-originalii.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
