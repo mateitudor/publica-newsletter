@@ -35061,6 +35061,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-de_ce_pestii_nu_exista.jpg" : {
+      "ft" : 16384,
+      "iS" : 17355,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-de_ce_pestii_nu_exista.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-deep_work.jpg" : {
       "ft" : 16384,
       "iS" : 76392,
@@ -35069,7 +35082,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-deep_work.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35238,7 +35251,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-ia_o_piersica.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35485,7 +35498,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-originalii.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35589,7 +35602,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-sursa.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35628,7 +35641,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-the_undoing_project.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35641,7 +35654,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-thrive.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35680,7 +35693,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-viata_secreta_a_copacilor.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
