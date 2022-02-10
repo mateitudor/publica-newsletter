@@ -34554,6 +34554,48 @@
       "oAP" : "\/2022\/02_08\/publica.ro-2022_02_08-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/02_10\/img\/publica.ro-2021_02_08-chirurgul_si_cutitul_de_gheata-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 156614,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/02_10\/img\/publica.ro-2021_02_08-chirurgul_si_cutitul_de_gheata-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/02_10\/img\/publica.ro-2021_02_08-pachet_sam_kean-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 198540,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/02_10\/img\/publica.ro-2021_02_08-pachet_sam_kean-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/02_10\/publica.ro-2022_02_08-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/02_10\/publica.ro-2022_02_08-G-dev.html",
+      "oF" : 0
+    },
+    "\/2022\/02_10\/publica.ro-2022_02_10-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/02_10\/publica.ro-2022_02_10-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -35239,6 +35281,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-gandirea_de_tip_cutie_neagra.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-gena_egoista.jpg" : {
+      "ft" : 16384,
+      "iS" : 39254,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-gena_egoista.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
