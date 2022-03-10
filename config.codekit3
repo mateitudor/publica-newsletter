@@ -34736,10 +34736,18 @@
       "oAP" : "\/2022\/03_10\/publica.ro-2022_03_02-G-dev.html",
       "oF" : 0
     },
+    "\/2022\/03_10\/publica.ro-2022_03_10-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 3,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_10\/publica.ro-2022_03_10-G-prod.html",
+      "oF" : 2
+    },
     "\/2022\/03_10\/publica.ro-2022_03_10-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
-      "hM" : 0,
+      "hM" : 3,
       "oA" : 0,
       "oAP" : "\/2022\/03_10\/publica.ro-2022_03_10-R-prod.html",
       "oF" : 2
