@@ -34702,6 +34702,43 @@
       "oAP" : "\/2022\/03_02\/publica.ro-2022_03_02-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/03_10\/img\/publica.ro-2021_03_10-brandminds-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 539486,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_10\/img\/publica.ro-2021_03_10-brandminds-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/03_10\/publica.ro-2022_03_02-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_10\/publica.ro-2022_03_02-G-dev.html",
+      "oF" : 0
+    },
+    "\/2022\/03_10\/publica.ro-2022_03_10-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_10\/publica.ro-2022_03_10-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/03_10\/publica.ro-2022_03_10-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_10\/publica.ro-2022_03_10-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -35402,7 +35439,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-gena_egoista.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35753,7 +35790,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-remarcabila_viata_a_pielii.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35793,6 +35830,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-supergandire.jpg" : {
+      "ft" : 16384,
+      "iS" : 83116,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-supergandire.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
