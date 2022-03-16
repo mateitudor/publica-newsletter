@@ -34760,25 +34760,12 @@
       "oAP" : "\/2022\/03_10\/publica.ro-2022_03_10-R-prod.html",
       "oF" : 0
     },
-    "\/2022\/03_16\/img\/publica.ro-2021_03_10-brandminds-nl-hero.jpg" : {
+    "\/2022\/03_16\/img\/publica.ro-2021_03_16-este_elementar-nl-hero.jpg" : {
       "ft" : 16384,
-      "iS" : 207652,
+      "iS" : 632448,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2022\/03_16\/img\/publica.ro-2021_03_10-brandminds-nl-hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/2022\/03_16\/img\/publica.ro-2021_03_10-mintea_extinsa-nl-hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 124081,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/2022\/03_16\/img\/publica.ro-2021_03_10-mintea_extinsa-nl-hero.jpg",
+      "oAP" : "\/2022\/03_16\/img\/publica.ro-2021_03_16-este_elementar-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -35782,7 +35769,7 @@
     },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-o_sa_razi_totul_e_chimie.jpg" : {
       "ft" : 16384,
-      "iS" : 0,
+      "iS" : 31100,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-o_sa_razi_totul_e_chimie.jpg",
