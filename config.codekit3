@@ -34760,6 +34760,48 @@
       "oAP" : "\/2022\/03_10\/publica.ro-2022_03_10-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/03_16\/img\/publica.ro-2021_03_10-brandminds-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 207652,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_16\/img\/publica.ro-2021_03_10-brandminds-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/03_16\/img\/publica.ro-2021_03_10-mintea_extinsa-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 124081,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_16\/img\/publica.ro-2021_03_10-mintea_extinsa-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/03_16\/publica.ro-2022_03_10-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_16\/publica.ro-2022_03_10-G-dev.html",
+      "oF" : 0
+    },
+    "\/2022\/03_16\/publica.ro-2022_03_16-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_16\/publica.ro-2022_03_16-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -35582,6 +35624,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-lingura_care_dispare.jpg" : {
+      "ft" : 16384,
+      "iS" : 83732,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-lingura_care_dispare.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-marea_divizare.jpg" : {
       "ft" : 16384,
       "iS" : 9350,
@@ -35721,6 +35776,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-o_sa_razi_totul_e_chimie.jpg" : {
+      "ft" : 16384,
+      "iS" : 0,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-o_sa_razi_totul_e_chimie.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
