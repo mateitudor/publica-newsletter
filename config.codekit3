@@ -34852,6 +34852,14 @@
       "oAP" : "\/2022\/03_22\/publica.ro-2022_03_22-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/03_22\/publica.ro-2022_03_22-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_22\/publica.ro-2022_03_22-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/03_22\/publica.ro-2022_03_22-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -34859,6 +34867,51 @@
       "oA" : 0,
       "oAP" : "\/2022\/03_22\/publica.ro-2022_03_22-R-prod.html",
       "oF" : 2
+    },
+    "\/2022\/03_22\/publica.ro-2022_03_22-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_22\/publica.ro-2022_03_22-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/03_24\/img\/publica.ro-2022_03_24-douasprazece_si_jumatate-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 838663,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_24\/img\/publica.ro-2022_03_24-douasprazece_si_jumatate-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/03_24\/publica.ro-2022_03_24-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_24\/publica.ro-2022_03_24-G-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/03_24\/publica.ro-2022_03_24-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_24\/publica.ro-2022_03_24-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/03_24\/publica.ro-2022_03_24-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/03_24\/publica.ro-2022_03_24-R-prod.html",
+      "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
@@ -36185,6 +36238,19 @@
       "oIPL" : 0,
       "opt" : 0,
       "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/logos\/logo-unicredit_bank.jpg" : {
+      "ft" : 16384,
+      "iS" : 11054,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/logos\/logo-unicredit_bank.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
