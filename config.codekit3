@@ -35021,6 +35021,48 @@
       "oAP" : "\/2022\/04_06\/publica.ro-2022_04_06-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/04_12\/img\/publica.ro-2022_04_12-brandminds-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 121507,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/04_12\/img\/publica.ro-2022_04_12-brandminds-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/04_12\/img\/publica.ro-2022_04_12-pe_umerii_naturii-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 889850,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/04_12\/img\/publica.ro-2022_04_12-pe_umerii_naturii-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/04_12\/publica.ro-2022_04_12-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/04_12\/publica.ro-2022_04_12-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/04_12\/publica.ro-2022_04_12-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/04_12\/publica.ro-2022_04_12-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -36038,6 +36080,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-o_viata_pe_planeta_noastra.jpg" : {
+      "ft" : 16384,
+      "iS" : 77847,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-o_viata_pe_planeta_noastra.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-omul_universal.jpg" : {
       "ft" : 16384,
       "iS" : 50350,
@@ -36278,6 +36333,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-viata_secreta_a_copacilor.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-vieti_intretesute.jpg" : {
+      "ft" : 16384,
+      "iS" : 77677,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-vieti_intretesute.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
