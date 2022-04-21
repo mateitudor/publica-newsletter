@@ -35113,6 +35113,14 @@
       "oAP" : "\/2022\/04_19\/publica.ro-2022_04_19-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/04_19\/publica.ro-2022_04_19-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/04_19\/publica.ro-2022_04_19-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/04_19\/publica.ro-2022_04_19-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -35127,6 +35135,48 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/04_19\/publica.ro-2022_04_19-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/04_21\/img\/publica.ro-2022_04_21-2+1-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 41506,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/04_21\/img\/publica.ro-2022_04_21-2+1-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/04_21\/img\/publica.ro-2022_04_21-omul_din_viitor-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 429442,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/04_21\/img\/publica.ro-2022_04_21-omul_din_viitor-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/04_21\/publica.ro-2022_04_21-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/04_21\/publica.ro-2022_04_21-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/04_21\/publica.ro-2022_04_21-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/04_21\/publica.ro-2022_04_21-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
