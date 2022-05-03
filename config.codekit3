@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
+    "\/.gitignore" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/.gitignore",
+      "oF" : 0
+    },
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
       "iS" : 85618,
@@ -35179,6 +35187,27 @@
       "oAP" : "\/2022\/04_21\/publica.ro-2022_04_21-prod.html",
       "oF" : 0
     },
+    "\/2022\/05_03\/img\/publica.ro-2022_05_03-intrebari_frecvente_despre_univers-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 623205,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/05_03\/img\/publica.ro-2022_05_03-intrebari_frecvente_despre_univers-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/05_03\/publica.ro-2022_05_03-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/05_03\/publica.ro-2022_05_03-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -35476,7 +35505,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-a_da_si_a_lua.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35671,7 +35700,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-contagios.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36248,6 +36277,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-povestea_originilor.jpg" : {
+      "ft" : 16384,
+      "iS" : 22769,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-povestea_originilor.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-practica.jpg" : {
       "ft" : 16384,
       "iS" : 24145,
@@ -36386,7 +36428,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-the_lean_startup.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
