@@ -35200,13 +35200,21 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/2022\/05_03\/publica.ro-2022_05_03-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/05_03\/publica.ro-2022_05_03-G-prod.html",
+      "oF" : 2
+    },
     "\/2022\/05_03\/publica.ro-2022_05_03-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
-      "hM" : 0,
+      "hM" : 2,
       "oA" : 0,
-      "oAP" : "\/2022\/05_03\/publica.ro-2022_05_03-R-dev.html",
-      "oF" : 0
+      "oAP" : "\/2022\/05_03\/publica.ro-2022_05_03-R-prod.html",
+      "oF" : 2
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
