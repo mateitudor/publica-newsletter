@@ -35208,6 +35208,14 @@
       "oAP" : "\/2022\/05_03\/publica.ro-2022_05_03-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/05_03\/publica.ro-2022_05_03-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/05_03\/publica.ro-2022_05_03-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/05_03\/publica.ro-2022_05_03-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -35215,6 +35223,35 @@
       "oA" : 0,
       "oAP" : "\/2022\/05_03\/publica.ro-2022_05_03-R-prod.html",
       "oF" : 2
+    },
+    "\/2022\/05_03\/publica.ro-2022_05_03-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/05_03\/publica.ro-2022_05_03-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/05_11\/img\/publica.ro-2022_05_03-1000_de_creieri-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 436240,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/05_11\/img\/publica.ro-2022_05_03-1000_de_creieri-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/05_11\/publica.ro-2022_05_11-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/05_11\/publica.ro-2022_05_11-R-dev.html",
+      "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
@@ -35882,6 +35919,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-fara_varsta.jpg" : {
+      "ft" : 16384,
+      "iS" : 55733,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-fara_varsta.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-fata_de_laborator.jpg" : {
       "ft" : 16384,
       "iS" : 69234,
@@ -36372,6 +36422,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-spargatoarea_de_coduri.jpg" : {
+      "ft" : 16384,
+      "iS" : 88683,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-spargatoarea_de_coduri.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
