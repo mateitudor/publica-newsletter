@@ -35418,6 +35418,35 @@
       "oAP" : "\/2022\/06_01\/publica.ro-2022_06_01-prod.html",
       "oF" : 2
     },
+    "\/2022\/06_01\/publica.ro-2022_06_01-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/06_01\/publica.ro-2022_06_01-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/06_03\/img\/publica.ro-2022_06_03-bookfest-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 530415,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/06_03\/img\/publica.ro-2022_06_03-bookfest-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/06_03\/publica.ro-2022_06_03-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/06_03\/publica.ro-2022_06_03-prod.html",
+      "oF" : 2
+    },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
       "aP" : 1,
       "bl" : 0,
