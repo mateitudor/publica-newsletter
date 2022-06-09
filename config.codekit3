@@ -36389,19 +36389,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-legatura_secreta_dintre_om_si_natura 2.jpg" : {
-      "ft" : 16384,
-      "iS" : 28912,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-legatura_secreta_dintre_om_si_natura 2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-legatura_secreta_dintre_om_si_natura.jpg" : {
       "ft" : 16384,
       "iS" : 25060,
@@ -36927,6 +36914,32 @@
       "iS" : 100312,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-food_mood_connection.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-gust.png" : {
+      "ft" : 32768,
+      "iS" : 123474,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-gust.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-viata_secreta_a_copacilor.png" : {
+      "ft" : 32768,
+      "iS" : 117085,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-viata_secreta_a_copacilor.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
