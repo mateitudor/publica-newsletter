@@ -35583,6 +35583,14 @@
       "oAP" : "\/2022\/06_15\/publica.ro-2022_06_15-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/06_15\/publica.ro-2022_06_15-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/06_15\/publica.ro-2022_06_15-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/06_15\/publica.ro-2022_06_15-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -35597,6 +35605,30 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/06_15\/publica.ro-2022_06_15-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/07_05\/publica.ro-2022_07_05-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/07_05\/publica.ro-2022_07_05-R-dev.html",
+      "oF" : 0
+    },
+    "\/2022\/07_06\/publica.ro-2022_07_06-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 3,
+      "oA" : 0,
+      "oAP" : "\/2022\/07_06\/publica.ro-2022_07_06-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/07_06\/publica.ro-2022_07_06-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/07_06\/publica.ro-2022_07_06-R-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
@@ -35887,6 +35919,19 @@
       "oA" : 2,
       "oAP" : "\/assets\/fonts\/FontAwesome.otf",
       "oF" : 0
+    },
+    "\/assets\/img\/audiobooks\/small\/publica.ro-audiobook_cover-small-o_viata_pe_planeta_noastra.png" : {
+      "ft" : 32768,
+      "iS" : 236704,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/audiobooks\/small\/publica.ro-audiobook_cover-small-o_viata_pe_planeta_noastra.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-a_da_si_a_lua.jpg" : {
       "ft" : 16384,
@@ -37504,7 +37549,7 @@
     "creationDate" : 520886444,
     "displayValue" : "Publica Newsletters",
     "displayValueWasSetByUser" : 1,
-    "iconImageName" : "brackets-verd",
+    "iconImageName" : "brackets_teal",
     "iconImageWasSetByUser" : 1
   },
   "projectSettings" : {
