@@ -35615,20 +35615,20 @@
       "oAP" : "\/2022\/07_06\/img\/publica.ro-2022_07_06-nl_hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/2022\/07_06\/img\/publica.ro-2022_07_06-nl_hero-01.png" : {
-      "ft" : 32768,
-      "iS" : 624735,
+    "\/2022\/07_06\/img\/publica.ro-2022_07_06-nl_hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 344210,
+      "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2022\/07_06\/img\/publica.ro-2022_07_06-nl_hero-01.png",
+      "oAP" : "\/2022\/07_06\/img\/publica.ro-2022_07_06-nl_hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35937,6 +35937,19 @@
       "oA" : 2,
       "oAP" : "\/assets\/fonts\/FontAwesome.otf",
       "oF" : 0
+    },
+    "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
+      "ft" : 16384,
+      "iS" : 46856,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/assets\/img\/audiobooks\/small\/publica.ro-audiobook_cover-small-o_viata_pe_planeta_noastra.png" : {
       "ft" : 32768,
