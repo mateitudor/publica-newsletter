@@ -35641,12 +35641,28 @@
       "oAP" : "\/2022\/07_06\/publica.ro-2022_07_06-prod.html",
       "oF" : 2
     },
-    "\/2022\/07_06\/publica.ro-2022_07_06-R-prod.html" : {
+    "\/2022\/07_06\/publica.ro-2022_07_06-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2022\/07_06\/publica.ro-2022_07_06-R-prod.html",
+      "oAP" : "\/2022\/07_06\/publica.ro-2022_07_06-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/07_12\/publica.ro-2022_07_12-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/07_12\/publica.ro-2022_07_12-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/07_12\/publica.ro-2022_07_12-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/07_12\/publica.ro-2022_07_12-R-prod.html",
       "oF" : 0
     },
     "\/assets\/bootstrap\/css\/bootstrap-theme.css" : {
@@ -37030,6 +37046,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-de_ce_nu_fac_zebrele_ulcer.png" : {
+      "ft" : 32768,
+      "iS" : 126494,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-de_ce_nu_fac_zebrele_ulcer.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-food_mood_connection.png" : {
       "ft" : 32768,
       "iS" : 100312,
@@ -37051,6 +37080,32 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-in_cautarea_vindecarii.png" : {
+      "ft" : 32768,
+      "iS" : 109672,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-in_cautarea_vindecarii.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-remarcabila_viata_a_pielii.png" : {
+      "ft" : 32768,
+      "iS" : 134536,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-remarcabila_viata_a_pielii.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
