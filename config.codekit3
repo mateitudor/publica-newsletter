@@ -35694,12 +35694,12 @@
       "oAP" : "\/2022\/07_12\/publica.ro-2022_07_12-R-prod.html",
       "oF" : 0
     },
-    "\/2022\/07_27\/img\/publica.ro-2022_07_26-limbajul_corporal_digital-nl_hero.jpg" : {
+    "\/2022\/07_27\/img\/publica.ro-2022_07_27-limbajul_corporal_digital-nl_hero.jpg" : {
       "ft" : 16384,
       "iS" : 529710,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2022\/07_27\/img\/publica.ro-2022_07_26-limbajul_corporal_digital-nl_hero.jpg",
+      "oAP" : "\/2022\/07_27\/img\/publica.ro-2022_07_27-limbajul_corporal_digital-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -35714,6 +35714,14 @@
       "oA" : 0,
       "oAP" : "\/2022\/07_27\/publica.ro-2022_07_27-G-prod.html",
       "oF" : 2
+    },
+    "\/2022\/07_27\/publica.ro-2022_07_27-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/07_27\/publica.ro-2022_07_27-G-prod.html",
+      "oF" : 0
     },
     "\/2022\/07_27\/publica.ro-2022_07_27-R-dev.html" : {
       "cB" : 0,
@@ -37131,8 +37139,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-douasprezece_si_jumatate.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -37183,8 +37191,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-munca_echitabila.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -37196,8 +37204,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_lume_fara_e_mail.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
