@@ -35823,6 +35823,32 @@
       "oAP" : "\/2022\/08_03\/publica.ro-2022_08_03-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/08_25\/img\/publica.ro-2022_08_25-banii_intr_o_singura_lectie-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 324746,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/08_25\/img\/publica.ro-2022_08_25-banii_intr_o_singura_lectie-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/08_25\/img\/publica.ro-p2_wallet-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 797871,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/08_25\/img\/publica.ro-p2_wallet-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/2022\/08_25\/publica.ro-2022_08_25-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
