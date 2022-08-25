@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34365",
+  "creatorBuild" : "34408",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -337,7 +337,7 @@
       "oAP" : "\/2016\/06-01\/img\/publica-book-small-diavolul-din-orasul-alb.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -350,7 +350,7 @@
       "oAP" : "\/2016\/06-01\/img\/publica-book-small-dragostea-moderna.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -441,7 +441,7 @@
       "oAP" : "\/2016\/06-01\/img\/publica-newsletter-logo.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2581,7 +2581,7 @@
       "oAP" : "\/2016\/07-06\/final\/img\/kraken\/publica-logo-tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2659,7 +2659,7 @@
       "oAP" : "\/2016\/07-06\/final\/img\/original\/publica-logo-tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2753,7 +2753,7 @@
       "oAP" : "\/2016\/07-06\/img\/original\/publica-logo-tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -2852,7 +2852,7 @@
       "oAP" : "\/2016\/07-07\/final\/img\/publica-logo-tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -5893,7 +5893,7 @@
       "oAP" : "\/2017\/01-01\/img\/publica-2017-01-01-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -5906,7 +5906,7 @@
       "oAP" : "\/2017\/01-01\/img\/publica-2017-01-01-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -5919,7 +5919,7 @@
       "oAP" : "\/2017\/01-01\/img\/publica-2017-01-01-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -5967,8 +5967,8 @@
       "oA" : 0,
       "oAP" : "\/2017\/01-02\/img\/publica-2017-01-02-asterisk.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -5982,7 +5982,7 @@
       "oAP" : "\/2017\/01-02\/img\/publica-2017-01-02-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -5995,7 +5995,7 @@
       "oAP" : "\/2017\/01-02\/img\/publica-2017-01-02-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6008,7 +6008,7 @@
       "oAP" : "\/2017\/01-02\/img\/publica-2017-01-02-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6021,7 +6021,7 @@
       "oAP" : "\/2017\/01-02\/img\/publica-2017-01-02-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6034,7 +6034,7 @@
       "oAP" : "\/2017\/01-02\/img\/publica-2017-01-02-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6047,7 +6047,7 @@
       "oAP" : "\/2017\/01-02\/img\/publica-2017-01-02-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6097,7 +6097,7 @@
       "oAP" : "\/2017\/01-03\/img\/publica-2017-01-03-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6110,7 +6110,7 @@
       "oAP" : "\/2017\/01-03\/img\/publica-2017-01-03-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6123,7 +6123,7 @@
       "oAP" : "\/2017\/01-03\/img\/publica-2017-01-03-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6136,7 +6136,7 @@
       "oAP" : "\/2017\/01-03\/img\/publica-2017-01-03-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6149,7 +6149,7 @@
       "oAP" : "\/2017\/01-03\/img\/publica-2017-01-03-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6162,7 +6162,7 @@
       "oAP" : "\/2017\/01-03\/img\/publica-2017-01-03-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6308,7 +6308,7 @@
       "oAP" : "\/2017\/01-05\/img\/publica-2017-01-05-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6321,7 +6321,7 @@
       "oAP" : "\/2017\/01-05\/img\/publica-2017-01-05-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6334,7 +6334,7 @@
       "oAP" : "\/2017\/01-05\/img\/publica-2017-01-05-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6384,7 +6384,7 @@
       "oAP" : "\/2017\/02-01\/img\/publica-2017-02-01-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6397,7 +6397,7 @@
       "oAP" : "\/2017\/02-01\/img\/publica-2017-02-01-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6410,7 +6410,7 @@
       "oAP" : "\/2017\/02-01\/img\/publica-2017-02-01-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6423,7 +6423,7 @@
       "oAP" : "\/2017\/02-01\/img\/publica-2017-02-01-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6436,7 +6436,7 @@
       "oAP" : "\/2017\/02-01\/img\/publica-2017-02-01-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6449,7 +6449,7 @@
       "oAP" : "\/2017\/02-01\/img\/publica-2017-02-01-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6486,7 +6486,7 @@
       "oAP" : "\/2017\/02-02\/img\/publica-2017-02-02-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6499,7 +6499,7 @@
       "oAP" : "\/2017\/02-02\/img\/publica-2017-02-02-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6512,7 +6512,7 @@
       "oAP" : "\/2017\/02-02\/img\/publica-2017-02-02-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6562,7 +6562,7 @@
       "oAP" : "\/2017\/02-03\/img\/publica-2017-02-03-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6575,7 +6575,7 @@
       "oAP" : "\/2017\/02-03\/img\/publica-2017-02-03-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6588,7 +6588,7 @@
       "oAP" : "\/2017\/02-03\/img\/publica-2017-02-03-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6601,7 +6601,7 @@
       "oAP" : "\/2017\/02-03\/img\/publica-2017-02-03-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6614,7 +6614,7 @@
       "oAP" : "\/2017\/02-03\/img\/publica-2017-02-03-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6627,7 +6627,7 @@
       "oAP" : "\/2017\/02-03\/img\/publica-2017-02-03-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6677,7 +6677,7 @@
       "oAP" : "\/2017\/02-04\/img\/publica-2017-02-04-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6690,7 +6690,7 @@
       "oAP" : "\/2017\/02-04\/img\/publica-2017-02-04-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6703,7 +6703,7 @@
       "oAP" : "\/2017\/02-04\/img\/publica-2017-02-04-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6716,7 +6716,7 @@
       "oAP" : "\/2017\/02-04\/img\/publica-2017-02-04-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6729,7 +6729,7 @@
       "oAP" : "\/2017\/02-04\/img\/publica-2017-02-04-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6742,7 +6742,7 @@
       "oAP" : "\/2017\/02-04\/img\/publica-2017-02-04-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6755,7 +6755,7 @@
       "oAP" : "\/2017\/02-04\/img\/publica-2017-02-04-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6805,7 +6805,7 @@
       "oAP" : "\/2017\/02-05\/img\/publica-2017-02-05-bundle-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6818,7 +6818,7 @@
       "oAP" : "\/2017\/02-05\/img\/publica-2017-02-05-bundle-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6831,7 +6831,7 @@
       "oAP" : "\/2017\/02-05\/img\/publica-2017-02-05-bundle-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6844,7 +6844,7 @@
       "oAP" : "\/2017\/02-05\/img\/publica-2017-02-05-bundle-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6857,7 +6857,7 @@
       "oAP" : "\/2017\/02-05\/img\/publica-2017-02-05-bundle-05.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6870,7 +6870,7 @@
       "oAP" : "\/2017\/02-05\/img\/publica-2017-02-05-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6883,7 +6883,7 @@
       "oAP" : "\/2017\/02-05\/img\/publica-2017-02-05-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6912,7 +6912,7 @@
       "oAP" : "\/2017\/03-01\/img\/publica-2017-03-01-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6925,7 +6925,7 @@
       "oAP" : "\/2017\/03-01\/img\/publica-2017-03-01-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6938,7 +6938,7 @@
       "oAP" : "\/2017\/03-01\/img\/publica-2017-03-01-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6951,7 +6951,7 @@
       "oAP" : "\/2017\/03-01\/img\/publica-2017-03-01-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -6964,7 +6964,7 @@
       "oAP" : "\/2017\/03-01\/img\/publica-2017-03-01-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7014,7 +7014,7 @@
       "oAP" : "\/2017\/03-02\/img\/publica-2017-03-02-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7027,7 +7027,7 @@
       "oAP" : "\/2017\/03-02\/img\/publica-2017-03-02-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7040,7 +7040,7 @@
       "oAP" : "\/2017\/03-02\/img\/publica-2017-03-02-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7053,7 +7053,7 @@
       "oAP" : "\/2017\/03-02\/img\/publica-2017-03-02-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7066,7 +7066,7 @@
       "oAP" : "\/2017\/03-02\/img\/publica-2017-03-02-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7079,7 +7079,7 @@
       "oAP" : "\/2017\/03-02\/img\/publica-2017-03-02-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7116,7 +7116,7 @@
       "oAP" : "\/2017\/03-03\/img original\/publica-2017-03-03-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7142,7 +7142,7 @@
       "oAP" : "\/2017\/03-03\/img original\/publica-2017-03-03-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7178,7 +7178,7 @@
       "oAP" : "\/2017\/03-03\/img original\/publica-2017-03-03-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7191,7 +7191,7 @@
       "oAP" : "\/2017\/03-03\/img original\/publica-2017-03-03-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7217,7 +7217,7 @@
       "oAP" : "\/2017\/03-03\/img\/publica-2017-03-03-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7230,7 +7230,7 @@
       "oAP" : "\/2017\/03-03\/img\/publica-2017-03-03-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7243,7 +7243,7 @@
       "oAP" : "\/2017\/03-03\/img\/publica-2017-03-03-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7256,7 +7256,7 @@
       "oAP" : "\/2017\/03-03\/img\/publica-2017-03-03-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7279,7 +7279,7 @@
       "oAP" : "\/2017\/03-03\/img\/publica-2017-03-03-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7292,7 +7292,7 @@
       "oAP" : "\/2017\/03-03\/img\/publica-2017-03-03-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7342,7 +7342,7 @@
       "oAP" : "\/2017\/03-04\/img\/publica-2017-03-04-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7355,7 +7355,7 @@
       "oAP" : "\/2017\/03-04\/img\/publica-2017-03-04-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7405,7 +7405,7 @@
       "oAP" : "\/2017\/04-01\/img\/publica-2017-04-01-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7418,7 +7418,7 @@
       "oAP" : "\/2017\/04-01\/img\/publica-2017-04-01-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7431,7 +7431,7 @@
       "oAP" : "\/2017\/04-01\/img\/publica-2017-04-01-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7444,7 +7444,7 @@
       "oAP" : "\/2017\/04-01\/img\/publica-2017-04-01-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7457,7 +7457,7 @@
       "oAP" : "\/2017\/04-01\/img\/publica-2017-04-01-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7546,7 +7546,7 @@
       "oAP" : "\/2017\/04-02\/img original\/publica-2017-04-02-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7559,7 +7559,7 @@
       "oAP" : "\/2017\/04-02\/img original\/publica-2017-04-02-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7572,7 +7572,7 @@
       "oAP" : "\/2017\/04-02\/img original\/publica-2017-04-02-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7598,7 +7598,7 @@
       "oAP" : "\/2017\/04-02\/img\/publica-2017-04-02-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7611,7 +7611,7 @@
       "oAP" : "\/2017\/04-02\/img\/publica-2017-04-02-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7624,7 +7624,7 @@
       "oAP" : "\/2017\/04-02\/img\/publica-2017-04-02-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7637,7 +7637,7 @@
       "oAP" : "\/2017\/04-02\/img\/publica-2017-04-02-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7650,7 +7650,7 @@
       "oAP" : "\/2017\/04-02\/img\/publica-2017-04-02-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7663,7 +7663,7 @@
       "oAP" : "\/2017\/04-02\/img\/publica-2017-04-02-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7713,7 +7713,7 @@
       "oAP" : "\/2017\/04-03\/img original\/publica-2017-04-03-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7726,7 +7726,7 @@
       "oAP" : "\/2017\/04-03\/img original\/publica-2017-04-03-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7752,7 +7752,7 @@
       "oAP" : "\/2017\/04-03\/img original\/publica-2017-04-03-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7765,7 +7765,7 @@
       "oAP" : "\/2017\/04-03\/img original\/publica-2017-04-03-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7778,7 +7778,7 @@
       "oAP" : "\/2017\/04-03\/img original\/publica-2017-04-03-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7804,7 +7804,7 @@
       "oAP" : "\/2017\/04-03\/img\/publica-2017-04-03-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7817,7 +7817,7 @@
       "oAP" : "\/2017\/04-03\/img\/publica-2017-04-03-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7830,7 +7830,7 @@
       "oAP" : "\/2017\/04-03\/img\/publica-2017-04-03-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7843,7 +7843,7 @@
       "oAP" : "\/2017\/04-03\/img\/publica-2017-04-03-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7856,7 +7856,7 @@
       "oAP" : "\/2017\/04-03\/img\/publica-2017-04-03-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7869,7 +7869,7 @@
       "oAP" : "\/2017\/04-03\/img\/publica-2017-04-03-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7971,7 +7971,7 @@
       "oAP" : "\/2017\/04-04\/img\/publica-2017-04-04-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -7984,7 +7984,7 @@
       "oAP" : "\/2017\/04-04\/img\/publica-2017-04-04-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8034,7 +8034,7 @@
       "oAP" : "\/2017\/04-05\/img\/publica-2017-04-05-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8047,7 +8047,7 @@
       "oAP" : "\/2017\/04-05\/img\/publica-2017-04-05-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8073,7 +8073,7 @@
       "oAP" : "\/2017\/04-05\/img\/publica-2017-04-05-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8086,7 +8086,7 @@
       "oAP" : "\/2017\/04-05\/img\/publica-2017-04-05-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8099,7 +8099,7 @@
       "oAP" : "\/2017\/04-05\/img\/publica-2017-04-05-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8149,7 +8149,7 @@
       "oAP" : "\/2017\/04-06\/img\/publica-2017-04-06-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8162,7 +8162,7 @@
       "oAP" : "\/2017\/04-06\/img\/publica-2017-04-06-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8175,7 +8175,7 @@
       "oAP" : "\/2017\/04-06\/img\/publica-2017-04-06-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8188,7 +8188,7 @@
       "oAP" : "\/2017\/04-06\/img\/publica-2017-04-06-hero-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8201,7 +8201,7 @@
       "oAP" : "\/2017\/04-06\/img\/publica-2017-04-06-hero-05.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8251,7 +8251,7 @@
       "oAP" : "\/2017\/04-07\/img original\/publica-2017-04-07-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8264,7 +8264,7 @@
       "oAP" : "\/2017\/04-07\/img original\/publica-2017-04-07-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8277,7 +8277,7 @@
       "oAP" : "\/2017\/04-07\/img original\/publica-2017-04-07-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8290,7 +8290,7 @@
       "oAP" : "\/2017\/04-07\/img original\/publica-2017-04-07-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8303,7 +8303,7 @@
       "oAP" : "\/2017\/04-07\/img original\/publica-2017-04-07-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8316,7 +8316,7 @@
       "oAP" : "\/2017\/04-07\/img original\/publica-2017-04-07-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8329,7 +8329,7 @@
       "oAP" : "\/2017\/04-07\/img original\/publica-2017-04-07-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8355,7 +8355,7 @@
       "oAP" : "\/2017\/04-07\/img\/publica-2017-04-07-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8368,7 +8368,7 @@
       "oAP" : "\/2017\/04-07\/img\/publica-2017-04-07-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8381,7 +8381,7 @@
       "oAP" : "\/2017\/04-07\/img\/publica-2017-04-07-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8433,7 +8433,7 @@
       "oAP" : "\/2017\/04-07\/img\/publica-2017-04-07-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8483,7 +8483,7 @@
       "oAP" : "\/2017\/05-01\/img original\/publica-2017-05-01-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8496,7 +8496,7 @@
       "oAP" : "\/2017\/05-01\/img original\/publica-2017-05-01-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8509,7 +8509,7 @@
       "oAP" : "\/2017\/05-01\/img original\/publica-2017-05-01-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8522,7 +8522,7 @@
       "oAP" : "\/2017\/05-01\/img original\/publica-2017-05-01-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8545,7 +8545,7 @@
       "oAP" : "\/2017\/05-01\/img original\/publica-2017-05-01-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8558,7 +8558,7 @@
       "oAP" : "\/2017\/05-01\/img original\/publica-2017-05-01-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8571,7 +8571,7 @@
       "oAP" : "\/2017\/05-01\/img\/publica-2017-05-01-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8584,7 +8584,7 @@
       "oAP" : "\/2017\/05-01\/img\/publica-2017-05-01-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8597,7 +8597,7 @@
       "oAP" : "\/2017\/05-01\/img\/publica-2017-05-01-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8610,7 +8610,7 @@
       "oAP" : "\/2017\/05-01\/img\/publica-2017-05-01-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8646,7 +8646,7 @@
       "oAP" : "\/2017\/05-01\/img\/publica-2017-05-01-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8659,7 +8659,7 @@
       "oAP" : "\/2017\/05-01\/img\/sensidev-keynote-2.0.0-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8696,7 +8696,7 @@
       "oAP" : "\/2017\/05-02\/img\/publica-2017-05-02-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8709,7 +8709,7 @@
       "oAP" : "\/2017\/05-02\/img\/publica-2017-05-02-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8722,7 +8722,7 @@
       "oAP" : "\/2017\/05-02\/img\/publica-2017-05-02-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8735,7 +8735,7 @@
       "oAP" : "\/2017\/05-02\/img\/publica-2017-05-02-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8748,7 +8748,7 @@
       "oAP" : "\/2017\/05-02\/img\/publica-2017-05-02-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8761,7 +8761,7 @@
       "oAP" : "\/2017\/05-02\/img\/publica-2017-05-02-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8774,7 +8774,7 @@
       "oAP" : "\/2017\/05-02\/img\/publica-2017-05-02-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8824,7 +8824,7 @@
       "oAP" : "\/2017\/05-03\/img copy\/publica-2017-05-03-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8837,7 +8837,7 @@
       "oAP" : "\/2017\/05-03\/img copy\/publica-2017-05-03-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8850,7 +8850,7 @@
       "oAP" : "\/2017\/05-03\/img copy\/publica-2017-05-03-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8863,7 +8863,7 @@
       "oAP" : "\/2017\/05-03\/img copy\/publica-2017-05-03-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8876,7 +8876,7 @@
       "oAP" : "\/2017\/05-03\/img copy\/publica-2017-05-03-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8889,7 +8889,7 @@
       "oAP" : "\/2017\/05-03\/img copy\/publica-2017-05-03-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8915,7 +8915,7 @@
       "oAP" : "\/2017\/05-03\/img\/publica-2017-05-03-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8928,7 +8928,7 @@
       "oAP" : "\/2017\/05-03\/img\/publica-2017-05-03-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8941,7 +8941,7 @@
       "oAP" : "\/2017\/05-03\/img\/publica-2017-05-03-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8954,7 +8954,7 @@
       "oAP" : "\/2017\/05-03\/img\/publica-2017-05-03-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8967,7 +8967,7 @@
       "oAP" : "\/2017\/05-03\/img\/publica-2017-05-03-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -8980,7 +8980,7 @@
       "oAP" : "\/2017\/05-03\/img\/publica-2017-05-03-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -9043,7 +9043,7 @@
       "oAP" : "\/2017\/05-04\/img\/publica-2017-05-04-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -9056,7 +9056,7 @@
       "oAP" : "\/2017\/05-04\/img\/publica-2017-05-04-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -9069,7 +9069,7 @@
       "oAP" : "\/2017\/05-04\/img\/publica-2017-05-04-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -9119,7 +9119,7 @@
       "oAP" : "\/2017\/05-05\/img original\/publica-2017-05-02-hero-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -9171,7 +9171,7 @@
       "oAP" : "\/2017\/05-05\/img original\/publica-2017-05-05-hero-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -9197,7 +9197,7 @@
       "oAP" : "\/2017\/05-05\/img original\/publica-2017-05-05-hero-06.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -9210,7 +9210,7 @@
       "oAP" : "\/2017\/05-05\/img original\/publica-2017-05-05-hero-07.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -9223,7 +9223,7 @@
       "oAP" : "\/2017\/05-05\/img original\/publica-2017-05-05-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -9379,7 +9379,7 @@
       "oAP" : "\/2017\/05-06\/img\/publica-2017-05-06-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10673,7 +10673,7 @@
       "oAP" : "\/2017\/08-01\/img original\/publica-2017-08-01-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10699,7 +10699,7 @@
       "oAP" : "\/2017\/08-01\/img\/publica-2017-08-01-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10725,7 +10725,7 @@
       "oAP" : "\/2017\/08-01\/img\/publica-2017-08-01-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10801,7 +10801,7 @@
       "oAP" : "\/2017\/08-04\/img\/publica-2017-08-04-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10814,7 +10814,7 @@
       "oAP" : "\/2017\/08-04\/img\/publica-2017-08-04-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10840,7 +10840,7 @@
       "oAP" : "\/2017\/08-04\/img\/publica-2017-08-04-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10926,7 +10926,7 @@
       "oAP" : "\/2017\/08-06\/img original\/publica-2017-08-06-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10965,7 +10965,7 @@
       "oAP" : "\/2017\/08-06\/img original\/publica-2017-08-06-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -10991,7 +10991,7 @@
       "oAP" : "\/2017\/08-06\/img original\/publica-2017-08-06-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -11197,7 +11197,7 @@
       "oAP" : "\/2017\/08-07\/img original\/publica-author-david-sedaris.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -11210,7 +11210,7 @@
       "oAP" : "\/2017\/08-07\/img\/publica-2017-08-07-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -11286,7 +11286,7 @@
       "oAP" : "\/2017\/09-01\/img\/publica-2017-09-01-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -11299,7 +11299,7 @@
       "oAP" : "\/2017\/09-01\/img\/publica-2017-09-01-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -11312,7 +11312,7 @@
       "oAP" : "\/2017\/09-01\/img\/publica-2017-09-01-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -11609,7 +11609,7 @@
       "oAP" : "\/2017\/09-02\/img\/publica-author-bill-burnett-dave-evans.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -12016,7 +12016,7 @@
       "oAP" : "\/2017\/10-01\/img original\/publica-2017-10-01-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -13955,7 +13955,7 @@
       "oAP" : "\/2018\/01-03\/img\/publica-2018-01-03-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -13968,7 +13968,7 @@
       "oAP" : "\/2018\/01-03\/img\/publica-2018-01-03-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -13981,7 +13981,7 @@
       "oAP" : "\/2018\/01-03\/img\/publica-2018-01-03-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -13994,7 +13994,7 @@
       "oAP" : "\/2018\/01-03\/img\/publica-2018-01-03-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14007,7 +14007,7 @@
       "oAP" : "\/2018\/01-03\/img\/publica-2018-01-03-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14020,7 +14020,7 @@
       "oAP" : "\/2018\/01-03\/img\/publica-author-seth-godin.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14057,7 +14057,7 @@
       "oAP" : "\/2018\/01-04\/img\/publica-2018-01-04-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14096,7 +14096,7 @@
       "oAP" : "\/2018\/01-04\/img\/publica-2018-01-04-hero-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14109,7 +14109,7 @@
       "oAP" : "\/2018\/01-04\/img\/publica-2018-01-04-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14138,7 +14138,7 @@
       "oAP" : "\/2018\/02-01\/img\/publica-2018-02-01-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14151,7 +14151,7 @@
       "oAP" : "\/2018\/02-01\/img\/publica-2018-02-01-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14164,7 +14164,7 @@
       "oAP" : "\/2018\/02-01\/img\/publica-2018-02-01-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14177,7 +14177,7 @@
       "oAP" : "\/2018\/02-01\/img\/publica-2018-02-01-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14522,7 +14522,7 @@
       "oAP" : "\/2018\/03-03\/img\/publica-2018-03-03-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14535,7 +14535,7 @@
       "oAP" : "\/2018\/03-03\/img\/publica-2018-03-03-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14548,7 +14548,7 @@
       "oAP" : "\/2018\/03-03\/img\/publica-2018-03-03-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14561,7 +14561,7 @@
       "oAP" : "\/2018\/03-03\/img\/publica-2018-03-03-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14736,7 +14736,7 @@
       "oAP" : "\/2018\/03-04\/img\/publica-author-josh-kaufman.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -14799,7 +14799,7 @@
       "oAP" : "\/2018\/03-05\/img\/publica-2018-03-05-hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15168,7 +15168,7 @@
       "oAP" : "\/2018\/04-03\/img\/publica-2018-04-03-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15210,7 +15210,7 @@
       "oAP" : "\/2018\/04-04\/img\/publica-2018-04-04-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15223,7 +15223,7 @@
       "oAP" : "\/2018\/04-04\/img\/publica-2018-04-04-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15236,7 +15236,7 @@
       "oAP" : "\/2018\/04-04\/img\/publica-2018-04-04-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15249,7 +15249,7 @@
       "oAP" : "\/2018\/04-04\/img\/publica-2018-04-04-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15275,7 +15275,7 @@
       "oAP" : "\/2018\/04-04\/img\/publica-2018-04-04-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15474,7 +15474,7 @@
       "oAP" : "\/2018\/05-02\/img\/publica-2018-05-02-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15487,7 +15487,7 @@
       "oAP" : "\/2018\/05-02\/img\/publica-2018-05-02-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15500,7 +15500,7 @@
       "oAP" : "\/2018\/05-02\/img\/publica-2018-05-02-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15513,7 +15513,7 @@
       "oAP" : "\/2018\/05-02\/img\/publica-2018-05-02-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15641,7 +15641,7 @@
       "oAP" : "\/2018\/05-03\/img\/publica-2018-05-03-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15670,7 +15670,7 @@
       "oAP" : "\/2018\/05-04\/img\/publica-2018-05-04-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15683,7 +15683,7 @@
       "oAP" : "\/2018\/05-04\/img\/publica-2018-05-04-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15696,7 +15696,7 @@
       "oAP" : "\/2018\/05-04\/img\/publica-2018-05-04-book-small-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15709,7 +15709,7 @@
       "oAP" : "\/2018\/05-04\/img\/publica-2018-05-04-book-small-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15761,7 +15761,7 @@
       "oAP" : "\/2018\/05-04\/img\/publica-authors-rebecca-skloot.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15798,7 +15798,7 @@
       "oAP" : "\/2018\/05-05\/img\/publica-2018-05-05-hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -15811,7 +15811,7 @@
       "oAP" : "\/2018\/05-05\/img\/publica-2018-05-05-logo+tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -16504,7 +16504,7 @@
       "oAP" : "\/2018\/07-02\/img\/publica-2018-07-02-book-small-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -16517,7 +16517,7 @@
       "oAP" : "\/2018\/07-02\/img\/publica-2018-07-02-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -16629,7 +16629,7 @@
       "oAP" : "\/2018\/08-01\/img\/publica-2018-08-01-book-small-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -17326,7 +17326,7 @@
       "oAP" : "\/2018\/09-28\/img\/publica.ro-20180928-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -18042,7 +18042,7 @@
       "oAP" : "\/2018\/11-14\/img\/publica.ro-20181114-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -18256,7 +18256,7 @@
       "oAP" : "\/2018\/12-14\/img\/publica.ro-2018-12-14-logo-tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -18887,7 +18887,7 @@
       "oAP" : "\/2019\/02_19\/img\/publica.ro-2019_02_19-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -19002,7 +19002,7 @@
       "oAP" : "\/2019\/02_26\/img\/publica.ro-hero-2019_02_26-2+1.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -19015,7 +19015,7 @@
       "oAP" : "\/2019\/02_26\/img\/publica.ro-reminder-2019_02_26-2+1.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -19065,7 +19065,7 @@
       "oAP" : "\/2019\/02_28\/img\/publica.ro-hero-2019_02_28-2+1.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -19614,7 +19614,7 @@
       "oAP" : "\/2019\/04_16\/img\/publica.ro-book_hero-invatare.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -19716,7 +19716,7 @@
       "oAP" : "\/2019\/04_25\/img\/publica.ro-2019_04_25-hero-discount.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -19771,7 +19771,7 @@
       "oAP" : "\/2019\/05_08\/img\/publica.ro-2019_05_08-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -19949,7 +19949,7 @@
       "oAP" : "\/2019\/05_14\/img\/publica-book_small-andy_murray.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -20203,7 +20203,7 @@
       "oAP" : "\/2019\/05_23\/img\/publica.ro-2019_05_23-logo_tagline-@2x.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -20352,7 +20352,7 @@
       "oAP" : "\/2019\/05_31\/img\/publica.ro-2019_05_31-logo_tagline-@2x.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -20420,7 +20420,7 @@
       "oAP" : "\/2019\/06_21\/img\/publica.ro-2019_05_31-logo_tagline-@2x.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -20433,7 +20433,7 @@
       "oAP" : "\/2019\/06_21\/img\/publica.ro-nl_hero-bodyofknowledge.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -20459,7 +20459,7 @@
       "oAP" : "\/2019\/06_21\/img\/publica.ro-nl_hero-concerte.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -20472,7 +20472,7 @@
       "oAP" : "\/2019\/06_21\/img\/publica.ro-nl_hero-copiisfatosi.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -20485,7 +20485,7 @@
       "oAP" : "\/2019\/06_21\/img\/publica.ro-nl_hero-mustread.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -20498,7 +20498,7 @@
       "oAP" : "\/2019\/06_21\/img\/publica.ro-nl_hero-stiintaecool.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -20770,7 +20770,7 @@
       "oAP" : "\/2019\/07_11\/img\/publica.ro-2019_07_11-logo_tagline-@2x.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -21115,7 +21115,7 @@
       "oAP" : "\/2019\/08_02\/img\/power_of_storytelling-10_18_2019.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -21575,7 +21575,7 @@
       "oAP" : "\/2019\/08_29\/img\/publica.ro-mai_inteligent_mai_repede_mai_bine-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -21651,7 +21651,7 @@
       "oAP" : "\/2019\/09_05\/img\/power_of_storytelling-10_18_2019.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -21677,7 +21677,7 @@
       "oAP" : "\/2019\/09_05\/img\/publica.ro-gandire_rapida_gandire_lenta-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -21690,7 +21690,7 @@
       "oAP" : "\/2019\/09_05\/img\/publica.ro-grit-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -21716,7 +21716,7 @@
       "oAP" : "\/2019\/09_05\/img\/publica.ro-micul_ghid_al_talentului-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -21729,7 +21729,7 @@
       "oAP" : "\/2019\/09_05\/img\/publica.ro-paradoxul_cimpanzeului-book_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -22011,7 +22011,7 @@
       "oAP" : "\/2019\/09_26\/img\/publica.ro-ingerii_mai_buni_ai_naturii_noastre-book_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -22343,7 +22343,7 @@
       "oAP" : "\/2019\/10_24\/img\/publica.ro-minimalism_digital-book_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -22356,7 +22356,7 @@
       "oAP" : "\/2019\/10_24\/img\/publica.ro-superficialii-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -22688,7 +22688,7 @@
       "oAP" : "\/2019\/11_07\/img\/publica.ro-loonshots-book_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23135,7 +23135,7 @@
       "oAP" : "\/2019\/11_22\/img\/publica.ro-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23172,7 +23172,7 @@
       "oAP" : "\/2019\/12_17\/img\/publica.ro-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23185,7 +23185,7 @@
       "oAP" : "\/2019\/12_17\/img\/publica.ro-opreste_timpul-nl_hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23198,7 +23198,7 @@
       "oAP" : "\/2019\/12_17\/img\/publica.ro-opreste_timpul-nl_hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23211,7 +23211,7 @@
       "oAP" : "\/2019\/12_17\/img\/publica.ro-opreste_timpul-nl_hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23240,7 +23240,7 @@
       "oAP" : "\/2019\/12_19\/img\/publica.ro-cum_sa_devii_capitalist_cand_nu_ai_niciun_capital-book_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23253,7 +23253,7 @@
       "oAP" : "\/2019\/12_19\/img\/publica.ro-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23266,7 +23266,7 @@
       "oAP" : "\/2019\/12_19\/img\/publica.ro-opreste_timpul-nl_hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23279,7 +23279,7 @@
       "oAP" : "\/2019\/12_19\/img\/publica.ro-opreste_timpul-nl_hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23292,7 +23292,7 @@
       "oAP" : "\/2019\/12_19\/img\/publica.ro-vizionar-book_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23384,7 +23384,7 @@
       "oAP" : "\/2020\/01_22\/img\/publica.ro-dincolo_de_frumusetea_perena-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23397,7 +23397,7 @@
       "oAP" : "\/2020\/01_22\/img\/publica.ro-in_competitie_cu_norocul-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23410,7 +23410,7 @@
       "oAP" : "\/2020\/01_22\/img\/publica.ro-lansare_cockpit_iasi.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23588,7 +23588,7 @@
       "oAP" : "\/2020\/01_31\/img\/publica.ro-allez_allez_allez-book_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23614,7 +23614,7 @@
       "oAP" : "\/2020\/01_31\/img\/publica.ro-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23651,7 +23651,7 @@
       "oAP" : "\/2020\/02_05\/img\/publica.ro-allez_allez_allez-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23690,7 +23690,7 @@
       "oAP" : "\/2020\/02_05\/img\/publica.ro-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23740,7 +23740,7 @@
       "oAP" : "\/2020\/02_19\/img\/publica.ro-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -23805,7 +23805,7 @@
       "oAP" : "\/2020\/02_19\/img\/publica.ro-wise_guy-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24321,7 +24321,7 @@
       "oAP" : "\/2020\/04_07\/img\/publica.ro-2020_04_07-2+1-nl_hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24334,7 +24334,7 @@
       "oAP" : "\/2020\/04_07\/img\/publica.ro-2020_04_07-2+1-nl_hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24410,7 +24410,7 @@
       "oAP" : "\/2020\/04_15\/img\/publica.ro-2020_04_15-pachet_autor_gladwell.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24449,7 +24449,7 @@
       "oAP" : "\/2020\/04_15\/img\/publica.ro-2020_04_15-pachet_lucreaza_eficient.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24462,7 +24462,7 @@
       "oAP" : "\/2020\/04_15\/img\/publica.ro-2020_04_15-pachet_raftul_inteligent.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24475,7 +24475,7 @@
       "oAP" : "\/2020\/04_15\/img\/publica.ro-2020_04_15-pachete-nl_hero-gold.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24768,7 +24768,7 @@
       "oAP" : "\/2020\/05_08\/img\/publica.ro-2020_05_08-pachete-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24781,7 +24781,7 @@
       "oAP" : "\/2020\/05_08\/img\/publica.ro-2020_05_08-promo_20-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24794,7 +24794,7 @@
       "oAP" : "\/2020\/05_08\/img\/publica.ro-2020_05_08-promo_25-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -24807,7 +24807,7 @@
       "oAP" : "\/2020\/05_08\/img\/publica.ro-economia_in_vremea_coronavirusului-book_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25283,7 +25283,7 @@
       "oAP" : "\/2020\/06_17\/img\/publica.ro-flux-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25296,7 +25296,7 @@
       "oAP" : "\/2020\/06_17\/img\/publica.ro-gold_discount-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25309,7 +25309,7 @@
       "oAP" : "\/2020\/06_17\/img\/publica.ro-grit-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25322,7 +25322,7 @@
       "oAP" : "\/2020\/06_17\/img\/publica.ro-irationalitatea_benefica-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25348,7 +25348,7 @@
       "oAP" : "\/2020\/06_17\/img\/publica.ro-nudge-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25374,7 +25374,7 @@
       "oAP" : "\/2020\/06_17\/img\/publica.ro-obiceiuri+sursa-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25411,7 +25411,7 @@
       "oAP" : "\/2020\/06_23\/img\/publica.ro-20_discount-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25424,7 +25424,7 @@
       "oAP" : "\/2020\/06_23\/img\/publica.ro-25_discount-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25667,7 +25667,7 @@
       "oAP" : "\/2020\/07_07\/img\/publica.ro-2020_07_07-vitamina_d_carte-newsletter_hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25680,7 +25680,7 @@
       "oAP" : "\/2020\/07_07\/img\/publica.ro-2020_07_07-vitamina_d_carte-newsletter_hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25693,7 +25693,7 @@
       "oAP" : "\/2020\/07_07\/img\/publica.ro-2020_07_07-vitamina_d_carte-newsletter_hero-03.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -25706,7 +25706,7 @@
       "oAP" : "\/2020\/07_07\/img\/publica.ro-2020_07_07-vitamina_d_carte-newsletter_hero-04.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -26485,7 +26485,7 @@
       "oAP" : "\/2020\/08_24\/img\/publica.ro-hope_you_dont_mind-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -26574,7 +26574,7 @@
       "oAP" : "\/2020\/09_03\/img\/publica.ro-catalizatorul-book_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -26814,7 +26814,7 @@
       "oAP" : "\/2020\/09_17\/img\/publica.ro-2020_09-17-pachet_dilema_online-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -26827,7 +26827,7 @@
       "oAP" : "\/2020\/09_17\/img\/publica.ro-2020_09-17-pachet_youngster-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -27018,7 +27018,7 @@
       "oAP" : "\/2020\/10_12\/img\/publica.ro-2020_10_12-2+1-nl-promo_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -27044,7 +27044,7 @@
       "oAP" : "\/2020\/10_12\/img\/publica.ro-ghid_de_design_interior-nl-discount_badge-2+1.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -27120,7 +27120,7 @@
       "oAP" : "\/2020\/10_14\/img\/publica.ro-2020_10_14-power_of_storytelling-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28202,7 +28202,7 @@
       "oAP" : "\/2020\/12_16\/img\/publica.ro-2020_12_16-2+1-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28241,7 +28241,7 @@
       "oAP" : "\/2020\/12_16\/img\/publica.ro-nl-book_small-invatare.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28254,7 +28254,7 @@
       "oAP" : "\/2020\/12_16\/img\/publica.ro-nl-book_small-orhideea_si_papadia.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28267,7 +28267,7 @@
       "oAP" : "\/2020\/12_16\/img\/publica.ro-nl-book_small-study_abroad.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28482,7 +28482,7 @@
       "oAP" : "\/2021\/01_13\/img\/publica.ro-editorial_plan_2021-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28495,7 +28495,7 @@
       "oAP" : "\/2021\/01_13\/img\/publica.ro-in_cautarea_vindecarii-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28508,7 +28508,7 @@
       "oAP" : "\/2021\/01_13\/img\/publica.ro-juniper-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28534,7 +28534,7 @@
       "oAP" : "\/2021\/01_13\/img\/publica.ro-medicina_lenta-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28547,7 +28547,7 @@
       "oAP" : "\/2021\/01_13\/img\/publica.ro-o_sa_va_cam_usture-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28584,7 +28584,7 @@
       "oAP" : "\/2021\/01_21\/img\/publica.ro-calauzele_tacute-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -28597,7 +28597,7 @@
       "oAP" : "\/2021\/01_21\/img\/publica.ro-cimpanzeul_meu_ascuns-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -29467,7 +29467,7 @@
       "oAP" : "\/2021\/03_18\/img\/publica.ro-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -29525,7 +29525,7 @@
       "oAP" : "\/2021\/03_24\/img\/publica.ro-2021_03_24-gaudeamus-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -29538,7 +29538,7 @@
       "oAP" : "\/2021\/03_24\/img\/publica.ro-calauzele_tacute-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -29551,7 +29551,7 @@
       "oAP" : "\/2021\/03_24\/img\/publica.ro-cum_am_ajuns_aici-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -29564,7 +29564,7 @@
       "oAP" : "\/2021\/03_24\/img\/publica.ro-dilema_omnivorului-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -29603,7 +29603,7 @@
       "oAP" : "\/2021\/03_24\/img\/publica.ro-shoe_dog-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -29616,7 +29616,7 @@
       "oAP" : "\/2021\/03_24\/img\/publica.ro-viata_secreta_a_copacilor-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -29758,7 +29758,7 @@
       "oAP" : "\/2021\/04_05\/img\/publica.ro-ascendent-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30201,7 +30201,7 @@
       "oAP" : "\/2021\/05_05\/img\/publica.ro-brief-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30214,7 +30214,7 @@
       "oAP" : "\/2021\/05_05\/img\/publica.ro-catalizatorul-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30227,7 +30227,7 @@
       "oAP" : "\/2021\/05_05\/img\/publica.ro-linchpin-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30253,7 +30253,7 @@
       "oAP" : "\/2021\/05_05\/img\/publica.ro-practica-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30311,7 +30311,7 @@
       "oAP" : "\/2021\/05_12\/img\/publica.ro-ministerul_bunului_simt-pack-nl-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30369,7 +30369,7 @@
       "oAP" : "\/2021\/05_19\/img\/publica.ro-ascendent-book_small-special_bk-5ca1d2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30382,7 +30382,7 @@
       "oAP" : "\/2021\/05_19\/img\/publica.ro-cea_mai_mare_cacealma-book_small-special_bk-156064.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30408,7 +30408,7 @@
       "oAP" : "\/2021\/05_19\/img\/publica.ro-medicina_sentimentelor-book_small-special_bk-156064.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30421,7 +30421,7 @@
       "oAP" : "\/2021\/05_19\/img\/publica.ro-minimalism_digital-book_small-special_bk-5ca1d2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30434,7 +30434,7 @@
       "oAP" : "\/2021\/05_19\/img\/publica.ro-o_viata_pe_planeta_noastra-book_small-special_bk-519965.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30447,7 +30447,7 @@
       "oAP" : "\/2021\/05_19\/img\/publica.ro-practica-book_small-special_bk-5ca1d2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30460,7 +30460,7 @@
       "oAP" : "\/2021\/05_19\/img\/publica.ro-terra_insecta-book_small-special_bk-519965.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30473,7 +30473,7 @@
       "oAP" : "\/2021\/05_19\/img\/publica.ro-umilul_pi-book_small-special_bk-156064.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30486,7 +30486,7 @@
       "oAP" : "\/2021\/05_19\/img\/publica.ro-viata_secreta_a_copacilor-book_small-special_bk-519965.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30809,7 +30809,7 @@
       "oAP" : "\/2021\/06_02\/img\/publica.ro-dark_cockpit_en-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30856,7 +30856,7 @@
       "oAP" : "\/2021\/06_03\/img\/publica.ro-ministerul_bunului_simt-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30882,7 +30882,7 @@
       "oAP" : "\/2021\/06_03\/img\/publica.ro-regandeste-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -30895,7 +30895,7 @@
       "oAP" : "\/2021\/06_03\/img\/publica.ro-the_four-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31037,7 +31037,7 @@
       "oAP" : "\/2021\/06_23\/img\/publica.ro-arta_macelaritului-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31050,7 +31050,7 @@
       "oAP" : "\/2021\/06_23\/img\/publica.ro-cum_am_invatat_sa_inteleg_lumea-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31115,7 +31115,7 @@
       "oAP" : "\/2021\/06_23\/img\/publica.ro-post_corona-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31173,7 +31173,7 @@
       "oAP" : "\/2021\/06_30\/img\/publica.ro-adevar-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31186,7 +31186,7 @@
       "oAP" : "\/2021\/06_30\/img\/publica.ro-irational_in_mod_previzibil-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31225,7 +31225,7 @@
       "oAP" : "\/2021\/06_30\/img\/publica.ro-regandeste-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31254,7 +31254,7 @@
       "oAP" : "\/2021\/07_06\/img\/publica.ro-cartea_oamenilor-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31280,7 +31280,7 @@
       "oAP" : "\/2021\/07_06\/img\/publica.ro-gena_sportiva-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31306,7 +31306,7 @@
       "oAP" : "\/2021\/07_06\/img\/publica.ro-scurta_istorie_a_tuturor-nl-book_small.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31342,6 +31342,19 @@
       "oA" : 0,
       "oAP" : "\/2021\/07_06\/publica.ro-2021_07_06-R_prod.html",
       "oF" : 0
+    },
+    "\/2021\/07_13 copy\/img\/publica.ro-logo_tagline.jpg" : {
+      "ft" : 16384,
+      "iS" : 3516,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2021\/07_13 copy\/img\/publica.ro-logo_tagline.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/2021\/07_13\/img\/publica.ro-logo_tagline.jpg" : {
       "ft" : 16384,
@@ -31461,7 +31474,7 @@
       "oAP" : "\/2021\/07_28\/img\/publica.ro-2021_07-27-noutati-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31474,7 +31487,7 @@
       "oAP" : "\/2021\/07_13 copy\/img\/publica.ro-logo_tagline.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31500,7 +31513,7 @@
       "oAP" : "\/2021\/07_28\/img\/publica.ro-nl-book_small-bk_white-cum_sa_combati_un_rasist.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31526,7 +31539,7 @@
       "oAP" : "\/2021\/07_28\/img\/publica.ro-nl-book_small-bk_white-mentalitatea_de_cercetas.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31552,7 +31565,7 @@
       "oAP" : "\/2021\/07_28\/img\/publica.ro-nl-book_small-bk_white-regandeste.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31597,7 +31610,7 @@
       "oAP" : "\/2021\/07_30\/img\/publica.ro-2021_07_30-2+1-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31804,7 +31817,7 @@
       "oAP" : "\/2021\/08_13\/img\/publica.ro-nl-book_small-bk_white-coridorul_ingust.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31817,7 +31830,7 @@
       "oAP" : "\/2021\/08_13\/img\/publica.ro-nl-book_small-bk_white-jocul_infinit.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -31830,7 +31843,7 @@
       "oAP" : "\/2021\/08_13\/img\/publica.ro-nl-book_small-bk_white-omul_universal.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32351,7 +32364,7 @@
       "oAP" : "\/2021\/09_16\/img\/publica.ro-2021_09_16-echo-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32364,7 +32377,7 @@
       "oAP" : "\/2021\/09_16\/img\/publica.ro-2021_09_16-legatura_secreta-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32390,7 +32403,7 @@
       "oAP" : "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-fata_de_laborator.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32403,7 +32416,7 @@
       "oAP" : "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-nu_te_gasesc_pe_nicaieri.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32416,7 +32429,7 @@
       "oAP" : "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-terra_insecta.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32429,7 +32442,7 @@
       "oAP" : "\/2021\/09_16\/img\/publica.ro-nl-book_small-bk_white-viata_secreta_a_copacilor.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32474,7 +32487,7 @@
       "oAP" : "\/2021\/09_23\/img\/publica.ro-2021_09_23-event-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32639,7 +32652,7 @@
       "oAP" : "\/2021\/09_30\/img\/publica.ro-2021_09_30-care_e_problema_ta-nl-hero_02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32652,7 +32665,7 @@
       "oAP" : "\/2021\/09_30\/img\/publica.ro-2021_09_30-care_e_problema_ta-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32665,7 +32678,7 @@
       "oAP" : "\/2021\/09_30\/img\/publica.ro-2021_09_30-echo-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32691,7 +32704,7 @@
       "oAP" : "\/2021\/09_30\/img\/publica.ro-nl-book_small-bk_white-regandeste.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32704,7 +32717,7 @@
       "oAP" : "\/2021\/09_30\/img\/publica.ro-nl-book_small-bk_white-sprint.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32717,7 +32730,7 @@
       "oAP" : "\/2021\/09_30\/img\/publica.ro-nl-book_small-bk_white-the_lean_startup.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32775,7 +32788,7 @@
       "oAP" : "\/2021\/10_14\/img\/publica.ro-2021_10_14-echo-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32872,7 +32885,7 @@
       "oAP" : "\/2021\/10_15\/img\/publica.ro-2021_10_15-echo-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32927,7 +32940,7 @@
       "oAP" : "\/2021\/10_19\/img\/publica.ro-2021_10_19-cautatorii_de_tipare-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32940,7 +32953,7 @@
       "oAP" : "\/2021\/10_19\/img\/publica.ro-2021_10_19-echo-nl-hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32966,7 +32979,7 @@
       "oAP" : "\/2021\/10_19\/img\/publica.ro-nl-book_small-bk_white-calauzele_tacute.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -32992,7 +33005,7 @@
       "oAP" : "\/2021\/10_19\/img\/publica.ro-nl-book_small-bk_white-the_undoing_project.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33186,7 +33199,7 @@
       "oAP" : "\/2021\/10_26\/img\/publica.ro-nl-book_small-bk_white-care_e_problema_ta.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33225,7 +33238,7 @@
       "oAP" : "\/2021\/10_26\/img\/publica.ro-nl-book_small-bk_white-copacul_cu_bani.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33251,7 +33264,7 @@
       "oAP" : "\/2021\/10_26\/img\/publica.ro-nl-book_small-bk_white-how_to.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33316,7 +33329,7 @@
       "oAP" : "\/2021\/10_26\/img\/publica.ro-nl-book_small-bk_white-nu_te_gasesc_pe_nicaieri.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33672,7 +33685,7 @@
       "oAP" : "\/2021\/11_18\/img\/publica.ro-2021_11_18-gaudeamus-nl_hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33714,7 +33727,7 @@
       "oAP" : "\/2021\/11_19\/img\/publica.ro-2021_11_19-gaudeamus-nl_hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33798,7 +33811,7 @@
       "oAP" : "\/2021\/11_26\/img\/publica.ro-2021_11_26-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33963,7 +33976,7 @@
       "oAP" : "\/2021\/12_14\/img\/publica.ro-nl-book_small-bk_white-cum_sa_ti_schimbi_mintea.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33976,7 +33989,7 @@
       "oAP" : "\/2021\/12_14\/img\/publica.ro-nl-book_small-bk_white-cuprind_multimi.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -33989,7 +34002,7 @@
       "oAP" : "\/2021\/12_14\/img\/publica.ro-nl-book_small-bk_white-legatura_secreta_dintre_om_si_natura.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -34110,8 +34123,8 @@
       "oA" : 0,
       "oAP" : "\/2021\/12_16\/img\/publica.ro-nl-logo.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -34165,8 +34178,8 @@
       "oA" : 0,
       "oAP" : "\/2021\/12_20\/img\/publica.ro-nl-logo.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -34275,8 +34288,8 @@
       "oA" : 0,
       "oAP" : "\/2021\/12_28\/img\/publica.ro-nl-logo.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -35785,6 +35798,14 @@
       "oA" : 0,
       "oAP" : "\/2022\/08_03\/publica.ro-2022_08_03-G-prod.html",
       "oF" : 2
+    },
+    "\/2022\/08_03\/publica.ro-2022_08_03-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/08_03\/publica.ro-2022_08_03-G-prod.html",
+      "oF" : 0
     },
     "\/2022\/08_03\/publica.ro-2022_08_03-R-dev.html" : {
       "cB" : 0,
@@ -38720,7 +38741,8 @@
         "optionString" : "'event', 'fdescribe'"
       },
       "no-restricted-imports" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : ""
       },
       "no-restricted-properties" : {
         "active" : 0,
@@ -39348,6 +39370,7 @@
       "createDeclarationFile" : 0,
       "jsxMode" : 0,
       "minifierStyle" : 0,
+      "moduleDetectionType" : 0,
       "moduleResolutionType" : 0,
       "moduleType" : 2,
       "removeComments" : 0,
