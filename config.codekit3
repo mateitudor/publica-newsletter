@@ -35836,6 +35836,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/2022\/08_25\/img\/publica.ro-2022_08_25-in_curand-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 593890,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/08_25\/img\/publica.ro-2022_08_25-in_curand-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/2022\/08_25\/img\/publica.ro-p2_wallet-nl_hero.jpg" : {
       "ft" : 16384,
       "iS" : 797871,
@@ -35848,6 +35861,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/2022\/08_25\/publica.ro-2022_08_25-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 3,
+      "oA" : 0,
+      "oAP" : "\/2022\/08_25\/publica.ro-2022_08_25-G-prod.html",
+      "oF" : 2
     },
     "\/2022\/08_25\/publica.ro-2022_08_25-R-dev.html" : {
       "cB" : 0,
@@ -37268,7 +37289,7 @@
       "oA" : 0,
       "oAP" : "\/forms\/new\/assets\/sass\/main.css",
       "oF" : 0,
-      "oS" : 0,
+      "oS" : 3,
       "pg" : 0,
       "sct" : 1
     },
@@ -38789,7 +38810,7 @@
       "cssoStyle" : 0,
       "decimalPrecision" : 10,
       "emitCharset" : 1,
-      "outputStyle" : 0,
+      "outputStyle" : 3,
       "purgeCSSStyle" : 0,
       "shouldRunAutoprefixer" : 0,
       "shouldRunBless" : 0,
