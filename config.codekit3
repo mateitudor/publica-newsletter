@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34408",
+  "creatorBuild" : "34418",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -35915,6 +35915,14 @@
       "oAP" : "\/2022\/08_30\/publica.ro-2022_08_30-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/08_30\/publica.ro-2022_08_30-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/08_30\/publica.ro-2022_08_30-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/08_30\/publica.ro-2022_08_30-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -35929,6 +35937,64 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/08_30\/publica.ro-2022_08_30-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/09_06\/img\/publica.ro-2022_09_06-anders_hansen-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 924832,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_06\/img\/publica.ro-2022_09_06-anders_hansen-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/09_06\/img\/publica.ro-2022_09_06-creierul_deprimat-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 674614,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_06\/img\/publica.ro-2022_09_06-creierul_deprimat-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/09_06\/publica.ro-2022_08_30-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_06\/publica.ro-2022_08_30-G-dev.html",
+      "oF" : 0
+    },
+    "\/2022\/09_06\/publica.ro-2022_09_06-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_06\/publica.ro-2022_09_06-G-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/09_06\/publica.ro-2022_09_06-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_06\/publica.ro-2022_09_06-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/09_06\/publica.ro-2022_09_06-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_06\/publica.ro-2022_09_06-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
