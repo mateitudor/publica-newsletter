@@ -35947,7 +35947,7 @@
       "oAP" : "\/2022\/09_06\/img\/publica.ro-2022_09_06-anders_hansen-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -35960,18 +35960,10 @@
       "oAP" : "\/2022\/09_06\/img\/publica.ro-2022_09_06-creierul_deprimat-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
-    },
-    "\/2022\/09_06\/publica.ro-2022_08_30-G-dev.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/2022\/09_06\/publica.ro-2022_08_30-G-dev.html",
-      "oF" : 0
     },
     "\/2022\/09_06\/publica.ro-2022_09_06-G-dev.html" : {
       "cB" : 0,
@@ -35980,6 +35972,14 @@
       "oA" : 0,
       "oAP" : "\/2022\/09_06\/publica.ro-2022_09_06-G-prod.html",
       "oF" : 2
+    },
+    "\/2022\/09_06\/publica.ro-2022_09_06-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_06\/publica.ro-2022_09_06-G-prod.html",
+      "oF" : 0
     },
     "\/2022\/09_06\/publica.ro-2022_09_06-R-dev.html" : {
       "cB" : 0,
@@ -35995,6 +35995,77 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/09_06\/publica.ro-2022_09_06-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/09_09\/img\/publica.ro-2022_09_09-creierul_deprimat-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 647742,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_09\/img\/publica.ro-2022_09_09-creierul_deprimat-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/09_09\/img\/publica.ro-2022_09_09-in_curand-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 589482,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_09\/img\/publica.ro-2022_09_09-in_curand-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/09_09\/img\/publica.ro-2022_09_09-recomandari-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 203943,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_09\/img\/publica.ro-2022_09_09-recomandari-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/09_09\/publica.ro-2022_09_09-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_09\/publica.ro-2022_09_09-G-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/09_09\/publica.ro-2022_09_09-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_09\/publica.ro-2022_09_09-G-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/09_09\/publica.ro-2022_09_09-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_09\/publica.ro-2022_09_09-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/09_09\/publica.ro-2022_09_09-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_09\/publica.ro-2022_09_09-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
