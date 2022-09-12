@@ -36068,6 +36068,51 @@
       "oAP" : "\/2022\/09_09\/publica.ro-2022_09_09-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/09_13\/img\/publica.ro-2022_09_13-adrenalina-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 341372,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_13\/img\/publica.ro-2022_09_13-adrenalina-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/09_13\/publica.ro-2022_09_13-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_13\/publica.ro-2022_09_13-G-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/09_13\/publica.ro-2022_09_13-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_13\/publica.ro-2022_09_13-G-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/09_13\/publica.ro-2022_09_13-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_13\/publica.ro-2022_09_13-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/09_13\/publica.ro-2022_09_13-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_13\/publica.ro-2022_09_13-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
