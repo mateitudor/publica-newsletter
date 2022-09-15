@@ -36113,6 +36113,35 @@
       "oAP" : "\/2022\/09_13\/publica.ro-2022_09_13-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/09_15\/img\/publica.ro-2022_09_15-conflict_distructiv-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 508174,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_15\/img\/publica.ro-2022_09_15-conflict_distructiv-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/09_15\/publica.ro-2022_09_15-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_15\/publica.ro-2022_09_15-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/09_15\/publica.ro-2022_09_15-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_15\/publica.ro-2022_09_15-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -36131,6 +36160,19 @@
       "iS" : 236704,
       "oA" : 0,
       "oAP" : "\/assets\/img\/audiobooks\/small\/publica.ro-audiobook_cover-small-o_viata_pe_planeta_noastra.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-adrenalina.png" : {
+      "ft" : 32768,
+      "iS" : 100066,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-adrenalina.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -37205,6 +37247,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-capcana_sfaturilor.png" : {
+      "ft" : 32768,
+      "iS" : 91251,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-capcana_sfaturilor.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-coridorul_ingust.png" : {
       "ft" : 32768,
       "iS" : 100343,
@@ -37348,6 +37403,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nu_asculti.png" : {
+      "ft" : 32768,
+      "iS" : 110109,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nu_asculti.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_lume_fara_e_mail.png" : {
       "ft" : 32768,
       "iS" : 90428,
@@ -37392,6 +37460,19 @@
       "iS" : 65527,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-quiet.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-regandeste.png" : {
+      "ft" : 32768,
+      "iS" : 81257,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-regandeste.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
