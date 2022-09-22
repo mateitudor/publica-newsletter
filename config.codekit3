@@ -36158,6 +36158,43 @@
       "oAP" : "\/2022\/09_15\/publica.ro-2022_09_15-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/09_22\/img\/publica.ro-2022_09_22-termina_ce_ai_inceput-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 427052,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_22\/img\/publica.ro-2022_09_22-termina_ce_ai_inceput-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/09_22\/publica.ro-2022_09_22-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_22\/publica.ro-2022_09_22-G-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/09_22\/publica.ro-2022_09_22-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_22\/publica.ro-2022_09_22-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/09_22\/publica.ro-2022_09_22-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_22\/publica.ro-2022_09_22-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -37276,6 +37313,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-comportament_inadecvat.png" : {
+      "ft" : 32768,
+      "iS" : 101129,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-comportament_inadecvat.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-coridorul_ingust.png" : {
       "ft" : 32768,
       "iS" : 100343,
@@ -37323,6 +37373,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-decodificarea_excelentei.png" : {
+      "ft" : 32768,
+      "iS" : 110303,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-decodificarea_excelentei.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -37453,6 +37516,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-obiceiuri_bune_obiceiuri_rele.png" : {
+      "ft" : 32768,
+      "iS" : 101094,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-obiceiuri_bune_obiceiuri_rele.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
