@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34418",
+  "creatorBuild" : "34434",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -36179,6 +36179,14 @@
       "oAP" : "\/2022\/09_22\/publica.ro-2022_09_22-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/09_22\/publica.ro-2022_09_22-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/09_22\/publica.ro-2022_09_22-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/09_22\/publica.ro-2022_09_22-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -36193,6 +36201,35 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/09_22\/publica.ro-2022_09_22-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/10_10\/img\/publica.ro-2022_10_10-revolutia_glucozei-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 72321,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_10\/img\/publica.ro-2022_10_10-revolutia_glucozei-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/10_10\/publica.ro-2022_10_10-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_10\/publica.ro-2022_10_10-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/10_10\/publica.ro-2022_10_10-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_10\/publica.ro-2022_10_10-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -38528,7 +38565,8 @@
         "active" : 1
       },
       "no-fallthrough" : {
-        "active" : 1
+        "active" : 1,
+        "optionString" : "{'allowEmptyCase': false}"
       },
       "no-floating-decimal" : {
         "active" : 0
