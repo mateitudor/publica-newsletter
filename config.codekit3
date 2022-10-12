@@ -36216,6 +36216,22 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/2022\/10_10\/publica.ro-2022_10_10-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_10\/publica.ro-2022_10_10-G-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/10_10\/publica.ro-2022_10_10-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_10\/publica.ro-2022_10_10-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/10_10\/publica.ro-2022_10_10-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -36230,6 +36246,43 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/10_10\/publica.ro-2022_10_10-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/10_12\/img\/publica.ro-2022_10_12-wanting-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 406388,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_12\/img\/publica.ro-2022_10_12-wanting-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/10_12\/publica.ro-2022_10_12-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_12\/publica.ro-2022_10_12-G-dev.html",
+      "oF" : 0
+    },
+    "\/2022\/10_12\/publica.ro-2022_10_12-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_12\/publica.ro-2022_10_12-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/10_12\/publica.ro-2022_10_12-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_12\/publica.ro-2022_10_12-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
