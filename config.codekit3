@@ -36295,6 +36295,14 @@
       "oAP" : "\/2022\/10_12\/publica.ro-2022_10_12-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/10_12\/publica.ro-2022_10_12-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_12\/publica.ro-2022_10_12-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/10_12\/publica.ro-2022_10_12-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -36309,6 +36317,69 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/10_12\/publica.ro-2022_10_12-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/10_25\/img\/publica.ro-2022_10_25-2+1-nl_hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 665967,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_25\/img\/publica.ro-2022_10_25-2+1-nl_hero-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/10_25\/img\/publica.ro-2022_10_25-2+1-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 276842,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_25\/img\/publica.ro-2022_10_25-2+1-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/10_25\/img\/publica.ro-2022_10_25-brandminds_renee_mauborgne.jpg" : {
+      "ft" : 16384,
+      "iS" : 569907,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_25\/img\/publica.ro-2022_10_25-brandminds_renee_mauborgne.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/10_25\/publica.ro-2022_10_25-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_25\/publica.ro-2022_10_25-G-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/10_25\/publica.ro-2022_10_25-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_25\/publica.ro-2022_10_25-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/10_25\/publica.ro-2022_10_25-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_25\/publica.ro-2022_10_25-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
