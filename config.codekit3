@@ -36392,13 +36392,13 @@
     },
     "\/2022\/10_27\/img\/publica.ro-2022_10_27-amazon_descatusat-nl_hero.jpg" : {
       "ft" : 16384,
-      "iS" : 359313,
+      "iS" : 359951,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/10_27\/img\/publica.ro-2022_10_27-amazon_descatusat-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36410,6 +36410,14 @@
       "oA" : 0,
       "oAP" : "\/2022\/10_27\/publica.ro-2022_10_27-G-prod.html",
       "oF" : 2
+    },
+    "\/2022\/10_27\/publica.ro-2022_10_27-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/10_27\/publica.ro-2022_10_27-G-prod.html",
+      "oF" : 0
     },
     "\/2022\/10_27\/publica.ro-2022_10_27-R-dev.html" : {
       "cB" : 0,
