@@ -36398,7 +36398,7 @@
       "oAP" : "\/2022\/10_27\/img\/publica.ro-2022_10_27-amazon_descatusat-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36435,6 +36435,35 @@
       "oAP" : "\/2022\/10_27\/publica.ro-2022_10_27-R-prod.html",
       "oF" : 0
     },
+    "\/2022\/11_02\/img\/publica.ro-2022_11_02-povestitorul-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 574817,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_02\/img\/publica.ro-2022_11_02-povestitorul-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/11_02\/publica.ro-2022_11_02-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_02\/publica.ro-2022_11_02-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/11_02\/publica.ro-2022_11_02-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_02\/publica.ro-2022_11_02-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -36466,6 +36495,19 @@
       "iS" : 94351,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-a_da_si_a_lua.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-acid_pentru_copii.png" : {
+      "ft" : 32768,
+      "iS" : 198563,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-acid_pentru_copii.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -37688,6 +37730,19 @@
       "iS" : 86113,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-douasprezece_si_jumatate.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-eu_elton_john.png" : {
+      "ft" : 32768,
+      "iS" : 135004,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-eu_elton_john.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
