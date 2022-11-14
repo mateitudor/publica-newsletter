@@ -36456,6 +36456,14 @@
       "oAP" : "\/2022\/11_02\/publica.ro-2022_11_02-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/11_02\/publica.ro-2022_11_02-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_02\/publica.ro-2022_11_02-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/11_02\/publica.ro-2022_11_02-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -36470,6 +36478,35 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/11_02\/publica.ro-2022_11_02-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/11_15\/img\/publica.ro-2022_11_15-taramuri-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 519075,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_15\/img\/publica.ro-2022_11_15-taramuri-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/11_15\/publica.ro-2022_11_15-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_15\/publica.ro-2022_11_15-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/11_15\/publica.ro-2022_11_15-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_15\/publica.ro-2022_11_15-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -37655,6 +37692,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cum_sa_ti_schimbi_mintea.png" : {
+      "ft" : 32768,
+      "iS" : 110689,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cum_sa_ti_schimbi_mintea.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-de_ce_nu_fac_zebrele_ulcer.png" : {
       "ft" : 32768,
       "iS" : 126494,
@@ -37850,6 +37900,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_viata_pe_planeta_noastra.png" : {
+      "ft" : 32768,
+      "iS" : 145158,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_viata_pe_planeta_noastra.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-obiceiuri_bune_obiceiuri_rele.png" : {
       "ft" : 32768,
       "iS" : 101094,
@@ -37949,6 +38012,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-vieti_intretesute.png" : {
+      "ft" : 32768,
+      "iS" : 121065,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-vieti_intretesute.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
