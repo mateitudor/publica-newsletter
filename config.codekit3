@@ -36488,7 +36488,7 @@
       "oAP" : "\/2022\/11_15\/img\/publica.ro-2022_11_15-in_curand-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36501,10 +36501,18 @@
       "oAP" : "\/2022\/11_15\/img\/publica.ro-2022_11_15-taramuri-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/2022\/11_15\/publica.ro-2022_11_15-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_15\/publica.ro-2022_11_15-G-prod.html",
+      "oF" : 2
     },
     "\/2022\/11_15\/publica.ro-2022_11_15-R-dev.html" : {
       "cB" : 0,
