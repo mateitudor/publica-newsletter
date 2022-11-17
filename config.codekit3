@@ -36514,6 +36514,14 @@
       "oAP" : "\/2022\/11_15\/publica.ro-2022_11_15-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/11_15\/publica.ro-2022_11_15-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_15\/publica.ro-2022_11_15-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/11_15\/publica.ro-2022_11_15-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -36528,6 +36536,27 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/11_15\/publica.ro-2022_11_15-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/11_17\/img\/publica.ro-2022_11_17-imagine_if-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 432614,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_17\/img\/publica.ro-2022_11_17-imagine_if-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/11_17\/publica.ro-2022_11_17-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_17\/publica.ro-2022_11_17-R-dev.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -36642,7 +36671,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-auzi_cum_vorbesc_copacii.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36694,7 +36723,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-care_e_problema_ta.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36759,7 +36788,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-chimie_sociala.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36772,7 +36801,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-coaching_zi_de_zi.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36811,7 +36840,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-copacul_cu_bani.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36824,7 +36853,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-coridorul_ingust.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36863,7 +36892,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-cuprind_multimi.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36915,7 +36944,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-design_pentru_lumea_reala.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36928,7 +36957,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-disconfort_residence.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36941,7 +36970,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-drive.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36954,7 +36983,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-explicatorul_de_lucruri.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36967,7 +36996,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-factfulness.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -36993,7 +37022,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-fata_de_laborator.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37006,7 +37035,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-flux.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37032,7 +37061,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-gandirea_de_tip_cutie_neagra.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37071,7 +37100,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-how_to.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37123,7 +37152,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-irational_in_mod_previzibil.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37136,7 +37165,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-jocul_infinit.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37188,7 +37217,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-mentalitatea_de_cercetas.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37227,7 +37256,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-modele_de_scalare 2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37240,7 +37269,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-modele_de_scalare.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37253,7 +37282,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-munca.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37266,7 +37295,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-nu_asculti.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37279,7 +37308,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-nu_te_gasesc_pe_nicaieri 2.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37292,7 +37321,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-nu_te_gasesc_pe_nicaieri.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37344,7 +37373,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-omul_universal.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37370,7 +37399,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-paradoxul_prosperitatii.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37396,7 +37425,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-practica.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37422,7 +37451,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-regandeste.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37487,7 +37516,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-sprint.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37526,7 +37555,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-terra_insecta.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37578,7 +37607,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-umilul_pi.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37630,7 +37659,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-what_if.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37656,7 +37685,7 @@
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-bk_white-youngster-cum_am_ajuns_aici.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37791,6 +37820,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-descopera_ti_elementul.png" : {
+      "ft" : 32768,
+      "iS" : 154965,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-descopera_ti_elementul.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-dolari_si_ratiune.png" : {
       "ft" : 32768,
       "iS" : 92436,
@@ -37882,6 +37924,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nascuti_pentru_a_invata.png" : {
+      "ft" : 32768,
+      "iS" : 120928,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nascuti_pentru_a_invata.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nu_asculti.png" : {
       "ft" : 32768,
       "iS" : 110109,
@@ -37903,6 +37958,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_lume_iesita_din_minti.png" : {
+      "ft" : 32768,
+      "iS" : 143788,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_lume_iesita_din_minti.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -38244,7 +38312,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 520886444,
-    "displayValue" : "Publica Newsletters",
+    "displayValue" : "Publica - Newsletters",
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets_teal",
     "iconImageWasSetByUser" : 1
