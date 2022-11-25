@@ -36617,6 +36617,14 @@
       "oAP" : "\/2022\/11_24\/publica.ro-2022_11_24-G-prod.html",
       "oF" : 2
     },
+    "\/2022\/11_24\/publica.ro-2022_11_24-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_24\/publica.ro-2022_11_24-G-prod.html",
+      "oF" : 0
+    },
     "\/2022\/11_24\/publica.ro-2022_11_24-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -36631,6 +36639,74 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2022\/11_24\/publica.ro-2022_11_24-R-prod.html",
+      "oF" : 0
+    },
+    "\/2022\/11_25\/img\/publica.ro-2022_11_25-cum_sa_incepi-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 398360,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_25\/img\/publica.ro-2022_11_25-cum_sa_incepi-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/11_25\/img\/publica.ro-2022_11_25-thumb-biografii_care_inspira.jpg" : {
+      "ft" : 16384,
+      "iS" : 50593,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_25\/img\/publica.ro-2022_11_25-thumb-biografii_care_inspira.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/11_25\/img\/publica.ro-2022_11_25-thumb-cele_mai_noi.jpg" : {
+      "ft" : 16384,
+      "iS" : 43063,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_25\/img\/publica.ro-2022_11_25-thumb-cele_mai_noi.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/11_25\/img\/publica.ro-2022_11_25-thumb-recomandarile_editorului.jpg" : {
+      "ft" : 16384,
+      "iS" : 46123,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_25\/img\/publica.ro-2022_11_25-thumb-recomandarile_editorului.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2022\/11_25\/publica.ro-2022_11_25-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_25\/publica.ro-2022_11_25-R-prod.html",
+      "oF" : 2
+    },
+    "\/2022\/11_25\/publica.ro-2022_11_25-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/11_25\/publica.ro-2022_11_25-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
