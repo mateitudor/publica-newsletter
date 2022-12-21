@@ -36819,6 +36819,19 @@
       "oAP" : "\/2022\/12_09\/publica.ro-2022_12_09-prod.html",
       "oF" : 0
     },
+    "\/2022\/12_21\/img\/publica.ro-2022_12_21-nl-hero-gold.jpg" : {
+      "ft" : 16384,
+      "iS" : 135842,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/12_21\/img\/publica.ro-2022_12_21-nl-hero-gold.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/2022\/12_21\/img\/publica.ro-2022_12_21-nl-hero.jpg" : {
       "ft" : 16384,
       "iS" : 136404,
@@ -36839,6 +36852,14 @@
       "oA" : 0,
       "oAP" : "\/2022\/12_21\/publica.ro-2022_12_21-G-prod.html",
       "oF" : 2
+    },
+    "\/2022\/12_21\/publica.ro-2022_12_21-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2022\/12_21\/publica.ro-2022_12_21-G-prod.html",
+      "oF" : 0
     },
     "\/2022\/12_21\/publica.ro-2022_12_21-R-dev.html" : {
       "cB" : 0,
