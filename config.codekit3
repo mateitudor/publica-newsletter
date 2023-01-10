@@ -36877,6 +36877,40 @@
       "oAP" : "\/2022\/12_21\/publica.ro-2022_12_21-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/01_10\/img\/publica.ro-2023_01_10-blog-meta-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 367471,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/01_10\/img\/publica.ro-2023_01_10-blog-meta-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/01_10\/img\/publica.ro-2023_01_10-elementele_alegerii-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 509176,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/01_10\/img\/publica.ro-2023_01_10-elementele_alegerii-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/01_10\/publica.ro-2023_01_10-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/01_10\/publica.ro-2023_01_10-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -38268,6 +38302,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nudge.png" : {
+      "ft" : 32768,
+      "iS" : 111766,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nudge.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_lume_fara_e_mail.png" : {
       "ft" : 32768,
       "iS" : 90428,
@@ -38406,6 +38453,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-supergandire.png" : {
+      "ft" : 32768,
+      "iS" : 116763,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-supergandire.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
