@@ -36911,6 +36911,14 @@
       "oAP" : "\/2023\/01_10\/publica.ro-2023_01_10-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/01_10\/publica.ro-2023_01_10-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/01_10\/publica.ro-2023_01_10-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/01_10\/publica.ro-2023_01_10-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -36925,6 +36933,35 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/01_10\/publica.ro-2023_01_10-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/01_17\/img\/publica.ro-2023_01_17-metazoare-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 412290,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/01_17\/img\/publica.ro-2023_01_17-metazoare-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/01_17\/publica.ro-2023_01_17-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/01_17\/publica.ro-2023_01_17-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/01_17\/publica.ro-2023_01_17-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/01_17\/publica.ro-2023_01_17-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -38123,6 +38160,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cuprind_multimi.png" : {
+      "ft" : 32768,
+      "iS" : 130218,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cuprind_multimi.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-de_ce_nu_fac_zebrele_ulcer.png" : {
       "ft" : 32768,
       "iS" : 126494,
@@ -38391,6 +38441,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-orice_viata_arde.png" : {
+      "ft" : 32768,
+      "iS" : 98585,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-orice_viata_arde.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
