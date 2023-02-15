@@ -36956,6 +36956,14 @@
       "oAP" : "\/2023\/01_17\/publica.ro-2023_01_17-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/01_17\/publica.ro-2023_01_17-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/01_17\/publica.ro-2023_01_17-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/01_17\/publica.ro-2023_01_17-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -36970,6 +36978,40 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/01_17\/publica.ro-2023_01_17-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/02_15\/img\/brandminds_2023-discount_code.jpg" : {
+      "ft" : 16384,
+      "iS" : 968273,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/02_15\/img\/brandminds_2023-discount_code.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/02_15\/img\/publica.ro-2023_02_15-2+1-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 213263,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/02_15\/img\/publica.ro-2023_02_15-2+1-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/02_15\/publica.ro-2023_02_15-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/02_15\/publica.ro-2023_02_15-R-dev.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -38777,7 +38819,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 520886444,
-    "displayValue" : "Publica - Newsletters",
+    "displayValue" : "Publica · Newsletters",
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets_teal",
     "iconImageWasSetByUser" : 1
