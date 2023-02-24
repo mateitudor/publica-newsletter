@@ -37141,15 +37141,15 @@
       "oAP" : "\/2023\/02_21\/publica.ro-2023_02_21-R-prod.html",
       "oF" : 0
     },
-    "\/2023\/02_24\/img\/publica.ro-2023_02_24-daca_nietzsche_ar_fi_fost_un_narval-nl_hero.jpg" : {
+    "\/2023\/02_24\/img\/publica.ro-2023_02_24-daca_nietzsche_ar_fi_fost_un_narval-nl_hero-02.jpg" : {
       "ft" : 16384,
-      "iS" : 383689,
+      "iS" : 416567,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2023\/02_24\/img\/publica.ro-2023_02_24-daca_nietzsche_ar_fi_fost_un_narval-nl_hero.jpg",
+      "oAP" : "\/2023\/02_24\/img\/publica.ro-2023_02_24-daca_nietzsche_ar_fi_fost_un_narval-nl_hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37161,6 +37161,14 @@
       "oA" : 0,
       "oAP" : "\/2023\/02_24\/publica.ro-2023_02_24-G-prod.html",
       "oF" : 2
+    },
+    "\/2023\/02_24\/publica.ro-2023_02_24-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/02_24\/publica.ro-2023_02_24-G-prod.html",
+      "oF" : 0
     },
     "\/2023\/02_24\/publica.ro-2023_02_24-R-dev.html" : {
       "cB" : 0,
