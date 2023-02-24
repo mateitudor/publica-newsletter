@@ -37099,9 +37099,17 @@
     "\/2023\/02_21\/publica.ro-2023_02_21-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/02_21\/publica.ro-2023_02_21-G-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/02_21\/publica.ro-2023_02_21-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2023\/02_21\/publica.ro-2023_02_21-G-dev.html",
+      "oAP" : "\/2023\/02_21\/publica.ro-2023_02_21-G-prod.html",
       "oF" : 0
     },
     "\/2023\/02_21\/publica.ro-2023_02_21-R-dev.html" : {
@@ -37118,6 +37126,48 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/02_21\/publica.ro-2023_02_21-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/02_24\/img\/publica.ro-2023_02_24-daca_nietzsche_ar_fi_fost_un_narval-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 383689,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/02_24\/img\/publica.ro-2023_02_24-daca_nietzsche_ar_fi_fost_un_narval-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/02_24\/publica.ro-2023_02_21-creierul_puternic-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 140704,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/02_24\/publica.ro-2023_02_21-creierul_puternic-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/02_24\/publica.ro-2023_02_24-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/02_24\/publica.ro-2023_02_24-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/02_24\/publica.ro-2023_02_24-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/02_24\/publica.ro-2023_02_24-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
