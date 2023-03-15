@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34434",
+  "creatorBuild" : "34448",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -37186,6 +37186,69 @@
       "oAP" : "\/2023\/02_24\/publica.ro-2023_02_24-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/03_15\/img\/publica.ro-2023_03_15-audiobooks.png" : {
+      "ft" : 32768,
+      "iS" : 187790,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_15\/img\/publica.ro-2023_03_15-audiobooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/03_15\/img\/publica.ro-2023_03_15-calea_lactee-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 390909,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_15\/img\/publica.ro-2023_03_15-calea_lactee-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/03_15\/img\/publica.ro-2023_03_15-ebooks.png" : {
+      "ft" : 32768,
+      "iS" : 157248,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_15\/img\/publica.ro-2023_03_15-ebooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/03_15\/publica.ro-2023_02_24-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_15\/publica.ro-2023_02_24-G-dev.html",
+      "oF" : 0
+    },
+    "\/2023\/03_15\/publica.ro-2023_03_15-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_15\/publica.ro-2023_03_15-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/03_15\/publica.ro-2023_03_15-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_15\/publica.ro-2023_03_15-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -38577,6 +38640,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-intrebari_frecvente_despre_univers.png" : {
+      "ft" : 32768,
+      "iS" : 165474,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-intrebari_frecvente_despre_univers.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-limbajul_corporal_digital.png" : {
       "ft" : 32768,
       "iS" : 99915,
@@ -38881,6 +38957,19 @@
       "iS" : 116763,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-supergandire.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-taramuri.png" : {
+      "ft" : 32768,
+      "iS" : 135606,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-taramuri.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -39653,6 +39742,10 @@
         "active" : 0,
         "optionString" : "'always', {exceptAfterSingleLine: false}"
       },
+      "logical-assignment-operators" : {
+        "active" : 0,
+        "optionString" : "'always',  {'enforceForIfStatements': false}"
+      },
       "max-classes-per-file" : {
         "active" : 0,
         "optionString" : "1"
@@ -39813,6 +39906,9 @@
       "no-empty-pattern" : {
         "active" : 1
       },
+      "no-empty-static-block" : {
+        "active" : 0
+      },
       "no-eq-null" : {
         "active" : 0
       },
@@ -39951,6 +40047,9 @@
         "active" : 0
       },
       "no-new-func" : {
+        "active" : 0
+      },
+      "no-new-native-nonconstructor" : {
         "active" : 0
       },
       "no-new-object" : {
@@ -40767,7 +40866,7 @@
       },
       "comments" : {
         "active" : 0,
-        "flagValue" : -1
+        "flagValue" : 1
       },
       "comparisons" : {
         "active" : 1,
