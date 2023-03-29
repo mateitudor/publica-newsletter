@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34448",
+  "creatorBuild" : "34472",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -37257,6 +37257,61 @@
       "oAP" : "\/2023\/03_15\/publica.ro-2023_03_15-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/03_29\/img\/publica.ro-2023_03_29-audiobooks.png" : {
+      "ft" : 32768,
+      "iS" : 39923,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_29\/img\/publica.ro-2023_03_29-audiobooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/03_29\/img\/publica.ro-2023_03_29-ebooks.png" : {
+      "ft" : 32768,
+      "iS" : 38994,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_29\/img\/publica.ro-2023_03_29-ebooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/03_29\/img\/publica.ro-2023_03_29-povestiri_despre_viitor-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 1101355,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_29\/img\/publica.ro-2023_03_29-povestiri_despre_viitor-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/03_29\/publica.ro-2023_03_15-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_29\/publica.ro-2023_03_15-G-dev.html",
+      "oF" : 0
+    },
+    "\/2023\/03_29\/publica.ro-2023_03_29-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_29\/publica.ro-2023_03_29-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -38635,6 +38690,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-imagine_if.png" : {
+      "ft" : 32768,
+      "iS" : 116348,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-imagine_if.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-in_cautarea_vindecarii.png" : {
       "ft" : 32768,
       "iS" : 109672,
@@ -38643,6 +38711,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-ingerii_mai_buni_ai_naturii_noastre.png" : {
+      "ft" : 32768,
+      "iS" : 97435,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-ingerii_mai_buni_ai_naturii_noastre.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -40800,6 +40881,7 @@
       "ENVIRONMENT:::$NODE_ENV"
     ],
     "rollupTreeshakingEnabled" : 1,
+    "rollupTreeshakingModuleSideEffects" : 1,
     "skippedFoldersString" : "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
     "sourceFolderName" : "source",
     "susyVersion" : 3,

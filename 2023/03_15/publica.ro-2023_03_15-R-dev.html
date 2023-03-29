@@ -51,9 +51,14 @@
 
 		/* Add styles for the main container */
 		.container {
-			max-width: 700px;
-			margin: 0 auto;
-			padding: 20px;
+			display: flex;
+			flex-direction: row;
+		}
+		@media screen and (max-width: 767px) {
+			.container {
+				width: 100%;
+				flex-direction: column;
+			}
 		}
 		
 		/* Add styles for the columns */
@@ -61,18 +66,6 @@
 			vertical-align: top;
 			box-sizing: border-box;
 			width: 100%;
-			display: inline-block;
-			margin-right: -4px;
-		}
-		
-		/* Add styles for the left column */
-		.left-column {
-			background-color: #ffffff;
-		}
-		
-		/* Add styles for the right column */
-		.right-column {
-			background-color: #f2f2f2;
 		}
 		
 		/* Add media query for responsive design */
@@ -153,7 +146,7 @@
 							</p>
 							<div class="card" style="background-color: #ffffff; border: 1px solid #e3e3e8; margin-top: 40px; padding: 32px; border-radius: 12px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.025), 0px 0px 80px rgba(0, 0, 0, 0.05);">
 								<blockquote class="blockquote" style="padding: 0; margin: 0;">
-									<p class="paragraph" style="font-family: 'Piazzolla', serif; font-size: 20px; font-weight: 400; line-height: 32px; color: #000000;">„Combinând într-un stil minunat astrofizica și mitologia, McTier a reușit o biografie galactică la propriu și la figurat. Calea Lactee este o contribuție literară impresionantă în canonul cărților de astrofizică, pentru că reușește să ne schimbe perspectiva despre spațiul cosmic și locul nostru în această vastitate. Distractivă și educațională deopotrivă, această carte este esențială pentru pământenii care vor să-și înțeleagă mai bine casa și cartierul cosmic.”</p>
+									<p class="paragraph" style="font-family: 'Piazzolla', serif; font-size: 20px; font-weight: 400; line-height: 32px; color: #000000;">„Combinând într-un stil minunat astrofizica și mitologia, McTier a reușit o biografie galactică la propriu și la figurat. <em>Calea Lactee</em> este o contribuție literară impresionantă în canonul cărților de astrofizică, pentru că reușește să ne schimbe perspectiva despre spațiul cosmic și locul nostru în această vastitate. Distractivă și educațională deopotrivă, această carte este esențială pentru pământenii care vor să-și înțeleagă mai bine casa și cartierul cosmic.”</p>
 									<footer><cite style="color: #a2a2bb; display: block; margin-top: 12px; font-family: 'Piazzolla', serif; font-size: 20px; font-weight: 400; line-height: 1.6; font-style: normal !important; text-decoration: none;">— Stephon Alexander, autorul cărții <em>Fear of a Black Universe</em></cite></footer>
 								</blockquote>
 							</div>
@@ -243,7 +236,7 @@
 					</table>
 					<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
 
-					<article role="container">
+					<article class="container">
 							<!-- Left column -->
 							<div class="column columnLeft border_radius-toggle" style="background-color: #E5FCEB; border-radius: 24px 0px 0px 24px; padding: 0px;">
 								<div style="padding: 32px 32px 0 32px;">
