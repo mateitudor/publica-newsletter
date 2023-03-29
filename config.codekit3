@@ -37285,13 +37285,13 @@
     },
     "\/2023\/03_29\/img\/publica.ro-2023_03_29-povestiri_despre_viitor-nl_hero.jpg" : {
       "ft" : 16384,
-      "iS" : 1101355,
+      "iS" : 1072519,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/03_29\/img\/publica.ro-2023_03_29-povestiri_despre_viitor-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -37304,6 +37304,14 @@
       "oAP" : "\/2023\/03_29\/publica.ro-2023_03_29-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/03_29\/publica.ro-2023_03_29-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_29\/publica.ro-2023_03_29-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/03_29\/publica.ro-2023_03_29-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -37311,6 +37319,14 @@
       "oA" : 0,
       "oAP" : "\/2023\/03_29\/publica.ro-2023_03_29-R-prod.html",
       "oF" : 2
+    },
+    "\/2023\/03_29\/publica.ro-2023_03_29-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_29\/publica.ro-2023_03_29-R-prod.html",
+      "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
