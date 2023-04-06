@@ -37375,6 +37375,14 @@
       "oAP" : "\/2023\/03_31\/publica.ro-2023_03_31-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/03_31\/publica.ro-2023_03_31-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/03_31\/publica.ro-2023_03_31-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/03_31\/publica.ro-2023_03_31-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -37389,6 +37397,61 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/03_31\/publica.ro-2023_03_31-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/04_06\/img\/publica.ro-2023_04_06-audiobooks.png" : {
+      "ft" : 32768,
+      "iS" : 39923,
+      "oA" : 0,
+      "oAP" : "\/2023\/04_06\/img\/publica.ro-2023_04_06-audiobooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/04_06\/img\/publica.ro-2023_04_06-creierul_puternic_pentru_tinerii_cititori-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 809714,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/04_06\/img\/publica.ro-2023_04_06-creierul_puternic_pentru_tinerii_cititori-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/04_06\/img\/publica.ro-2023_04_06-ebooks.png" : {
+      "ft" : 32768,
+      "iS" : 38994,
+      "oA" : 0,
+      "oAP" : "\/2023\/04_06\/img\/publica.ro-2023_04_06-ebooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/04_06\/publica.ro-2023_04_06-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/04_06\/publica.ro-2023_04_06-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/04_06\/publica.ro-2023_04_06-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/04_06\/publica.ro-2023_04_06-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
