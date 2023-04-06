@@ -37438,6 +37438,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/2023\/04_06\/publica.ro-2023_04_06-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/04_06\/publica.ro-2023_04_06-G-prod.html",
+      "oF" : 2
+    },
     "\/2023\/04_06\/publica.ro-2023_04_06-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -37511,6 +37519,19 @@
       "iS" : 100066,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-adrenalina.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-anatomia_lui_kay.png" : {
+      "ft" : 32768,
+      "iS" : 169682,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-anatomia_lui_kay.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -38637,6 +38658,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_ecranului_pentru_tinerii_cititori.png" : {
+      "ft" : 32768,
+      "iS" : 125296,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_ecranului_pentru_tinerii_cititori.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_ecranului.png" : {
       "ft" : 32768,
       "iS" : 99070,
@@ -38645,6 +38679,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_puternic.png" : {
+      "ft" : 32768,
+      "iS" : 114714,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_puternic.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
