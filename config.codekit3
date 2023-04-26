@@ -37575,6 +37575,14 @@
       "oAP" : "\/2023\/04_26\/publica.ro-2023_04_26-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/04_26\/publica.ro-2023_04_26-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/04_26\/publica.ro-2023_04_26-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/04_26\/publica.ro-2023_04_26-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -38774,11 +38782,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cine_i_a_pregatit_cina_lui_adam_smith.png" : {
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cine_i_a_gatit_cina_lui_adam_smith.png" : {
       "ft" : 32768,
       "iS" : 88778,
       "oA" : 0,
-      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cine_i_a_pregatit_cina_lui_adam_smith.png",
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cine_i_a_gatit_cina_lui_adam_smith.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -39463,11 +39471,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-un_veac_de_singuratate.png" : {
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-un_veac_de_sinceritate.png" : {
       "ft" : 32768,
       "iS" : 93888,
       "oA" : 0,
-      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-un_veac_de_singuratate.png",
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-un_veac_de_sinceritate.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
