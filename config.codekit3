@@ -37599,6 +37599,69 @@
       "oAP" : "\/2023\/04_26\/publica.ro-2023_04_26-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/05_04\/img\/publica.ro-2023_04_26-audiobooks.png" : {
+      "ft" : 32768,
+      "iS" : 39923,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_04\/img\/publica.ro-2023_04_26-audiobooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/05_04\/img\/publica.ro-2023_04_26-ebooks.png" : {
+      "ft" : 32768,
+      "iS" : 38994,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_04\/img\/publica.ro-2023_04_26-ebooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/05_04\/img\/publica.ro-2023_05_04-cum_se_fac_lucrurile_mari-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 459410,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_04\/img\/publica.ro-2023_05_04-cum_se_fac_lucrurile_mari-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/05_04\/publica.ro-2023_05_04-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_04\/publica.ro-2023_05_04-G-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/05_04\/publica.ro-2023_05_04-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_04\/publica.ro-2023_05_04-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/05_04\/publica.ro-2023_05_04-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_04\/publica.ro-2023_05_04-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -38977,6 +39040,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-design_pentru_lumea_reala.png" : {
+      "ft" : 32768,
+      "iS" : 108308,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-design_pentru_lumea_reala.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-dolari_si_ratiune.png" : {
       "ft" : 32768,
       "iS" : 92436,
@@ -38995,6 +39071,19 @@
       "iS" : 86113,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-douasprezece_si_jumatate.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-elementele_alegerii.png" : {
+      "ft" : 32768,
+      "iS" : 99492,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-elementele_alegerii.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
