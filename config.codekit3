@@ -17,6 +17,14 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
+    "\/.vscode\/settings.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/.vscode\/settings-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
       "iS" : 85618,
@@ -37646,6 +37654,14 @@
       "oAP" : "\/2023\/05_04\/publica.ro-2023_05_04-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/05_04\/publica.ro-2023_05_04-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_04\/publica.ro-2023_05_04-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/05_04\/publica.ro-2023_05_04-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -37660,6 +37676,53 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/05_04\/publica.ro-2023_05_04-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/05_10\/img\/publica.ro-2023_05_10-audiobooks.png" : {
+      "ft" : 32768,
+      "iS" : 39923,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_10\/img\/publica.ro-2023_05_10-audiobooks.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/05_10\/img\/publica.ro-2023_05_10-creatorul_de_fete-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 380864,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_10\/img\/publica.ro-2023_05_10-creatorul_de_fete-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/05_10\/img\/publica.ro-2023_05_10-ebooks.png" : {
+      "ft" : 32768,
+      "iS" : 38994,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_10\/img\/publica.ro-2023_05_10-ebooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/05_10\/publica.ro-2023_05_10-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_10\/publica.ro-2023_05_10-R-dev.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -37714,6 +37777,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-adevarul_despre_durere.png" : {
+      "ft" : 32768,
+      "iS" : 96612,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-adevarul_despre_durere.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-adrenalina.png" : {
       "ft" : 32768,
       "iS" : 100066,
@@ -37732,6 +37808,19 @@
       "iS" : 169682,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-anatomia_lui_kay.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-arta_macelaritului.png" : {
+      "ft" : 32768,
+      "iS" : 165231,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-arta_macelaritului.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -39230,6 +39319,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-minunata_medicina_a_lui_kay.png" : {
+      "ft" : 32768,
+      "iS" : 167178,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-minunata_medicina_a_lui_kay.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
