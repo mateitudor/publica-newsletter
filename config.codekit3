@@ -37885,6 +37885,35 @@
       "oAP" : "\/2023\/05_24\/publica.ro-2023_05_24-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/05_26\/img\/publica.ro-2023_05_26-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 167567,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_26\/img\/publica.ro-2023_05_26-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/05_26\/publica.ro-2023_05_26-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_26\/publica.ro-2023_05_26-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/05_26\/publica.ro-2023_05_26-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/05_26\/publica.ro-2023_05_26-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -37997,6 +38026,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-beyond_disruption.png" : {
+      "ft" : 32768,
+      "iS" : 147238,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-beyond_disruption.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -39341,6 +39383,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-era_capitalismului_de_supraveghere.png" : {
+      "ft" : 32768,
+      "iS" : 100498,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-era_capitalismului_de_supraveghere.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-eu_elton_john.png" : {
       "ft" : 32768,
       "iS" : 135004,
@@ -39484,6 +39539,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-metoda_glucose_goddess.png" : {
+      "ft" : 32768,
+      "iS" : 132647,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-metoda_glucose_goddess.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-minunata_medicina_a_lui_kay.png" : {
       "ft" : 32768,
       "iS" : 167178,
@@ -39601,6 +39669,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_lume_imensa.png" : {
+      "ft" : 32768,
+      "iS" : 116015,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_lume_imensa.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_pereche_de_pantofi.png" : {
       "ft" : 32768,
       "iS" : 116866,
@@ -39648,6 +39729,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-paul_newman.png" : {
+      "ft" : 32768,
+      "iS" : 146999,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-paul_newman.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
