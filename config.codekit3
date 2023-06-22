@@ -37914,6 +37914,40 @@
       "oAP" : "\/2023\/05_26\/publica.ro-2023_05_26-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/06_22\/img\/publica.ro-2023_05_10-audiobooks.png" : {
+      "ft" : 32768,
+      "iS" : 35754,
+      "oA" : 0,
+      "oAP" : "\/2023\/06_22\/img\/publica.ro-2023_05_10-audiobooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/06_22\/img\/publica.ro-2023_05_10-ebooks.png" : {
+      "ft" : 32768,
+      "iS" : 38994,
+      "oA" : 0,
+      "oAP" : "\/2023\/06_22\/img\/publica.ro-2023_05_10-ebooks.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/06_22\/publica.ro-2023_06_22-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/06_22\/publica.ro-2023_06_22-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
