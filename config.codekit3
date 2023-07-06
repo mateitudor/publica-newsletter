@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34484",
+  "creatorBuild" : "34510",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -37948,6 +37948,14 @@
       "oAP" : "\/2023\/06_22\/publica.ro-2023_06_22-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/06_22\/publica.ro-2023_06_22-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/06_22\/publica.ro-2023_06_22-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/06_22\/publica.ro-2023_06_22-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -37962,6 +37970,56 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/06_22\/publica.ro-2023_06_22-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/07_06\/img\/publica.ro-2023_07_06-nl-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 859426,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_06\/img\/publica.ro-2023_07_06-nl-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/07_06\/img\/publica.ro-2023_07_06-triumful-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 444925,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_06\/img\/publica.ro-2023_07_06-triumful-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/07_06\/publica.ro-2023_06_22-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_06\/publica.ro-2023_06_22-R-dev.html",
+      "oF" : 0
+    },
+    "\/2023\/07_06\/publica.ro-2023_07_06-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_06\/publica.ro-2023_07_06-G-dev.html",
+      "oF" : 0
+    },
+    "\/2023\/07_06\/publica.ro-2023_07_06-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_06\/publica.ro-2023_06_22-R-dev.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -38034,6 +38092,19 @@
       "iS" : 100066,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-adrenalina.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-al_meu.png" : {
+      "ft" : 32768,
+      "iS" : 97494,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-al_meu.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -39399,6 +39470,32 @@
       "iS" : 108308,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-design_pentru_lumea_reala.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-dilema_omnivorului.png" : {
+      "ft" : 32768,
+      "iS" : 107716,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-dilema_omnivorului.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-disconfort_residence.png" : {
+      "ft" : 32768,
+      "iS" : 107158,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-disconfort_residence.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
