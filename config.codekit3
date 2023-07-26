@@ -38043,6 +38043,14 @@
       "oAP" : "\/2023\/07_13\/publica.ro-2023_07_13-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/07_13\/publica.ro-2023_07_13-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_13\/publica.ro-2023_07_13-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/07_13\/publica.ro-2023_07_13-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -38057,6 +38065,35 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/07_13\/publica.ro-2023_07_13-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/07_26\/img\/publica.ro-2023_07_26-fluxul_de_idei-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 372369,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_26\/img\/publica.ro-2023_07_26-fluxul_de_idei-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/07_26\/publica.ro-2023_07_26-R-dev.html" : {
+      "cB" : 1,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_26\/publica.ro-2023_07_26-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/07_26\/publica.ro-2023_07_26-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_26\/publica.ro-2023_07_26-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -39391,8 +39428,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cum_sa_nu_gresesti.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -39950,8 +39987,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-omul_din_viitor.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -40027,6 +40064,19 @@
       "iS" : 65527,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-quiet.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-quit.png" : {
+      "ft" : 32768,
+      "iS" : 79249,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-quit.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
