@@ -40306,9 +40306,22 @@
     },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-what_if_2.png" : {
       "ft" : 32768,
-      "iS" : 133294,
+      "iS" : 144092,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-what_if_2.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-what_if.png" : {
+      "ft" : 32768,
+      "iS" : 133294,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-what_if.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
