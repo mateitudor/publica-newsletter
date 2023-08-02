@@ -38088,6 +38088,14 @@
       "oAP" : "\/2023\/07_26\/publica.ro-2023_07_26-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/07_26\/publica.ro-2023_07_26-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/07_26\/publica.ro-2023_07_26-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/07_26\/publica.ro-2023_07_26-R-dev.html" : {
       "cB" : 1,
       "ft" : 8192,
@@ -38102,6 +38110,27 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/07_26\/publica.ro-2023_07_26-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/08_01\/img\/publica.ro-2023_08_01-what_if_2-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 432528,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/08_01\/img\/publica.ro-2023_08_01-what_if_2-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/08_01\/publica.ro-2023_08_01-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/08_01\/publica.ro-2023_08_01-R-dev.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -39313,6 +39342,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-calea_lactee.png" : {
+      "ft" : 32768,
+      "iS" : 132812,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-calea_lactee.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-capcana_sfaturilor.png" : {
       "ft" : 32768,
       "iS" : 91251,
@@ -39477,6 +39519,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-daca_nietzsche_ar_fi_fost_un_narval.png" : {
+      "ft" : 32768,
+      "iS" : 140354,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-daca_nietzsche_ar_fi_fost_un_narval.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -40241,6 +40296,19 @@
       "iS" : 121065,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-vieti_intretesute.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-what_if_2.png" : {
+      "ft" : 32768,
+      "iS" : 133294,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-what_if_2.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
