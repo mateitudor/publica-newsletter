@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34510",
+  "creatorBuild" : "34513",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -38170,6 +38170,51 @@
       "oAP" : "\/2023\/08_02\/publica.ro-2023_08_02-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/08_25\/img\/publica.ro-2023_08_25-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 378472,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/08_25\/img\/publica.ro-2023_08_25-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/08_25\/publica.ro-2023_08_25-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/08_25\/publica.ro-2023_08_25-G-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/08_25\/publica.ro-2023_08_25-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/08_25\/publica.ro-2023_08_25-G-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/08_25\/publica.ro-2023_08_25-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/08_25\/publica.ro-2023_08_25-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/08_25\/publica.ro-2023_08_25-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/08_25\/publica.ro-2023_08_25-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -41457,9 +41502,6 @@
       "no-return-assign" : {
         "active" : 0,
         "optionString" : "'except-parens'"
-      },
-      "no-return-await" : {
-        "active" : 0
       },
       "no-script-url" : {
         "active" : 0
