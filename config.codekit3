@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34513",
+  "creatorBuild" : "34518",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -38236,6 +38236,14 @@
       "oAP" : "\/2023\/09_04\/publica.ro-2023_09_04-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/09_04\/publica.ro-2023_09_04-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_04\/publica.ro-2023_09_04-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/09_04\/publica.ro-2023_09_04-R-dev.html" : {
       "cB" : 1,
       "ft" : 8192,
@@ -38250,6 +38258,48 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/09_04\/publica.ro-2023_09_04-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/09_07\/img\/publica.ro-2023_09_04-stellr-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 75416,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_07\/img\/publica.ro-2023_09_04-stellr-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/09_07\/img\/publica.ro-2023_09_07-linistea_de_dinainte-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 84157,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_07\/img\/publica.ro-2023_09_07-linistea_de_dinainte-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/09_07\/publica.ro-2023_09_07-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_07\/publica.ro-2023_09_07-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/09_07\/publica.ro-2023_09_07-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_07\/publica.ro-2023_09_07-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -40389,6 +40439,19 @@
       "iS" : 93888,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-un_veac_de_sinceritate.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-vaccinul.png" : {
+      "ft" : 32768,
+      "iS" : 98505,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-vaccinul.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
