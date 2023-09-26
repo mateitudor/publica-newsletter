@@ -38376,6 +38376,27 @@
       "oAP" : "\/2023\/09_15\/publica.ro-2023_09_15-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/09_26\/img\/publica.ro-2023_09_26-creierele_geniale_ale_lui_kay-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 429392,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_26\/img\/publica.ro-2023_09_26-creierele_geniale_ale_lui_kay-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/09_26\/publica.ro-2023_09_26-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_26\/publica.ro-2023_09_26-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -39689,6 +39710,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_puternic_youngster.png" : {
+      "ft" : 32768,
+      "iS" : 115782,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_puternic_youngster.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_puternic.png" : {
       "ft" : 32768,
       "iS" : 114714,
@@ -40462,8 +40496,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-stellr.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
