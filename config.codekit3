@@ -38397,6 +38397,14 @@
       "oAP" : "\/2023\/09_26\/publica.ro-2023_09_26-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/09_26\/publica.ro-2023_09_26-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_26\/publica.ro-2023_09_26-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/09_26\/publica.ro-2023_09_26-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -38411,6 +38419,43 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/09_26\/publica.ro-2023_09_26-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/09_28\/img\/publica.ro-2023_09_28-cea_mai_mica_realitate_comuna-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 399283,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_28\/img\/publica.ro-2023_09_28-cea_mai_mica_realitate_comuna-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/09_28\/publica.ro-2023_09_28-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_28\/publica.ro-2023_09_28-G-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/09_28\/publica.ro-2023_09_28-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_28\/publica.ro-2023_09_28-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/09_28\/publica.ro-2023_09_28-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/09_28\/publica.ro-2023_09_28-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -39687,6 +39732,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-conflict_distructiv.png" : {
+      "ft" : 32768,
+      "iS" : 103772,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-conflict_distructiv.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-coridorul_ingust.png" : {
       "ft" : 32768,
       "iS" : 100343,
@@ -40012,6 +40070,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-factfulness.png" : {
+      "ft" : 32768,
+      "iS" : 99828,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-factfulness.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-food_mood_connection.png" : {
       "ft" : 32768,
       "iS" : 100312,
@@ -40303,6 +40374,19 @@
       "iS" : 116866,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_pereche_de_pantofi.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_sa_razi_totul_e_chimie.png" : {
+      "ft" : 32768,
+      "iS" : 117073,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_sa_razi_totul_e_chimie.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
