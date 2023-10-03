@@ -38466,6 +38466,51 @@
       "oAP" : "\/2023\/09_28\/publica.ro-2023_09_28-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/10_03\/img\/publica.ro-2023_10_03-cuvinte_magice-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 372451,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_03\/img\/publica.ro-2023_10_03-cuvinte_magice-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/10_03\/publica.ro-2023_09_28-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_03\/publica.ro-2023_09_28-G-dev.html",
+      "oF" : 0
+    },
+    "\/2023\/10_03\/publica.ro-2023_09_28-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_03\/publica.ro-2023_09_28-G-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/10_03\/publica.ro-2023_10_03-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_03\/publica.ro-2023_10_03-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/10_03\/publica.ro-2023_10_03-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_03\/publica.ro-2023_10_03-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -38575,6 +38620,19 @@
       "iS" : 165231,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-arta_macelaritului.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-asta_inseamna_marketing.png" : {
+      "ft" : 32768,
+      "iS" : 114925,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-asta_inseamna_marketing.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -39753,6 +39811,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-contagios.png" : {
+      "ft" : 32768,
+      "iS" : 94125,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-contagios.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-coridorul_ingust.png" : {
       "ft" : 32768,
       "iS" : 100343,
@@ -40175,8 +40246,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-ingerii_mai_buni_ai_naturii_noastre.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -40682,8 +40753,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-vaccinul.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
