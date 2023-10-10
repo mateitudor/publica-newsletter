@@ -38511,6 +38511,40 @@
       "oAP" : "\/2023\/10_03\/publica.ro-2023_10_03-R-prod.html",
       "oF" : 0
     },
+    "\/2023\/10_10\/img\/publica-2023_10_10-cum_sa_decizi-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 364566,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_10\/img\/publica-2023_10_10-cum_sa_decizi-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/10_10\/img\/publica-2023_10_10-gpec-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 239324,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_10\/img\/publica-2023_10_10-gpec-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/10_10\/publica.ro-2023_10_10-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_10\/publica.ro-2023_10_10-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
