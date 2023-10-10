@@ -38537,13 +38537,21 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/2023\/10_10\/publica.ro-2023_10_10-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_10\/publica.ro-2023_10_10-G-prod.html",
+      "oF" : 2
+    },
     "\/2023\/10_10\/publica.ro-2023_10_10-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
-      "hM" : 0,
+      "hM" : 2,
       "oA" : 0,
-      "oAP" : "\/2023\/10_10\/publica.ro-2023_10_10-R-dev.html",
-      "oF" : 0
+      "oAP" : "\/2023\/10_10\/publica.ro-2023_10_10-R-prod.html",
+      "oF" : 2
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
@@ -39942,8 +39950,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cum_sa_incepi.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
