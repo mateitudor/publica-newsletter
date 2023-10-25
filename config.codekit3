@@ -38590,6 +38590,14 @@
       "oAP" : "\/2023\/10_20\/publica.ro-2023_10_20-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/10_20\/publica.ro-2023_10_20-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_20\/publica.ro-2023_10_20-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/10_20\/publica.ro-2023_10_20-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -38604,6 +38612,48 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/10_20\/publica.ro-2023_10_20-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/10_26\/img\/publica-2023_10_26-hinn-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 583806,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_26\/img\/publica-2023_10_26-hinn-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/10_26\/img\/publica.ro-2023_10_26-fii_mai_destept_decat_creierul_tau-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 449136,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_26\/img\/publica.ro-2023_10_26-fii_mai_destept_decat_creierul_tau-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/10_26\/publica.ro-2023_10_26-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_26\/publica.ro-2023_10_26-G-dev.html",
+      "oF" : 0
+    },
+    "\/2023\/10_26\/publica.ro-2023_10_26-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/10_26\/publica.ro-2023_10_26-R-dev.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -38630,6 +38680,16 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-anders_hansen.gif" : {
+      "ft" : 4194304,
+      "iS" : 166458,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-anders_hansen.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
       "rq" : 75
     },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-a_da_si_a_lua.png" : {
@@ -39932,6 +39992,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_deprimat.png" : {
+      "ft" : 32768,
+      "iS" : 103972,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_deprimat.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-creierul_ecranului_pentru_tinerii_cititori.png" : {
       "ft" : 32768,
       "iS" : 125296,
@@ -40366,6 +40439,19 @@
       "iS" : 165474,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-intrebari_frecvente_despre_univers.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-invatare.png" : {
+      "ft" : 32768,
+      "iS" : 97306,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-invatare.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
