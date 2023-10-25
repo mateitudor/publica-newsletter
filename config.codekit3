@@ -38643,18 +38643,18 @@
     "\/2023\/10_26\/publica.ro-2023_10_26-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
-      "hM" : 0,
+      "hM" : 2,
       "oA" : 0,
-      "oAP" : "\/2023\/10_26\/publica.ro-2023_10_26-G-dev.html",
-      "oF" : 0
+      "oAP" : "\/2023\/10_26\/publica.ro-2023_10_26-G-prod.html",
+      "oF" : 2
     },
     "\/2023\/10_26\/publica.ro-2023_10_26-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
-      "hM" : 0,
+      "hM" : 2,
       "oA" : 0,
-      "oAP" : "\/2023\/10_26\/publica.ro-2023_10_26-R-dev.html",
-      "oF" : 0
+      "oAP" : "\/2023\/10_26\/publica.ro-2023_10_26-R-prod.html",
+      "oF" : 2
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
@@ -38684,7 +38684,7 @@
     },
     "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-anders_hansen.gif" : {
       "ft" : 4194304,
-      "iS" : 166458,
+      "iS" : 143327,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-anders_hansen.gif",
       "oF" : 0,
