@@ -17,14 +17,6 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
-    "\/.vscode\/settings.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/.vscode\/settings-min.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
       "iS" : 85618,
@@ -38701,10 +38693,18 @@
     "\/2023\/11_02\/publica.ro-2023_11_02-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
-      "hM" : 3,
+      "hM" : 2,
       "oA" : 0,
       "oAP" : "\/2023\/11_02\/publica.ro-2023_11_02-G-prod.html",
       "oF" : 2
+    },
+    "\/2023\/11_02\/publica.ro-2023_11_02-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_02\/publica.ro-2023_11_02-G-prod.html",
+      "oF" : 0
     },
     "\/2023\/11_02\/publica.ro-2023_11_02-R-dev.html" : {
       "cB" : 0,
@@ -38720,6 +38720,116 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/11_02\/publica.ro-2023_11_02-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/11_08\/.vscode\/settings.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/2023\/11_08\/.vscode\/settings-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
+    "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-01.jpg" : {
+      "ft" : 16384,
+      "iS" : 187466,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 301408,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-03.jpg" : {
+      "ft" : 16384,
+      "iS" : 647605,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-03.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-04.jpg" : {
+      "ft" : 16384,
+      "iS" : 518326,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-04.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-05.jpg" : {
+      "ft" : 16384,
+      "iS" : 453273,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-05.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-06.jpg" : {
+      "ft" : 16384,
+      "iS" : 408381,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-06.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/11_08\/publica.ro-2023_11_08-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/publica.ro-2023_11_08-G-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/11_08\/publica.ro-2023_11_08-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/publica.ro-2023_11_08-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/11_08\/publica.ro-2023_11_08-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/publica.ro-2023_11_08-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
