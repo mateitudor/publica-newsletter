@@ -38745,13 +38745,13 @@
     },
     "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-02.jpg" : {
       "ft" : 16384,
-      "iS" : 301408,
+      "iS" : 302171,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/11_08\/img\/publica.ro-2023_11_08-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -38815,6 +38815,14 @@
       "oA" : 0,
       "oAP" : "\/2023\/11_08\/publica.ro-2023_11_08-G-prod.html",
       "oF" : 2
+    },
+    "\/2023\/11_08\/publica.ro-2023_11_08-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/11_08\/publica.ro-2023_11_08-G-prod.html",
+      "oF" : 0
     },
     "\/2023\/11_08\/publica.ro-2023_11_08-R-dev.html" : {
       "cB" : 0,
