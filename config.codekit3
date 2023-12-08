@@ -39099,13 +39099,21 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2023\/12_08\/publica.ro-2023_11_08-R-dev.html" : {
+    "\/2023\/12_08\/publica.ro-2023_12_08-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
-      "hM" : 0,
+      "hM" : 2,
       "oA" : 0,
-      "oAP" : "\/2023\/12_08\/publica.ro-2023_11_08-R-dev.html",
-      "oF" : 0
+      "oAP" : "\/2023\/12_08\/publica.ro-2023_12_08-G-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/12_08\/publica.ro-2023_12_08-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_08\/publica.ro-2023_12_08-R-prod.html",
+      "oF" : 2
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
