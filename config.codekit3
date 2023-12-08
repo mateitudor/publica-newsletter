@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34518",
+  "creatorBuild" : "34564",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -39005,19 +39005,6 @@
       "oAP" : "\/2023\/11_22\/publica.ro-2023_11_22-R-prod.html",
       "oF" : 0
     },
-    "\/2023\/11_24\/img\/publica.ro-2023_11_22-nl_hero-01.jpg" : {
-      "ft" : 16384,
-      "iS" : 173894,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/2023\/11_24\/img\/publica.ro-2023_11_22-nl_hero-01.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/2023\/11_24\/img\/publica.ro-2023_11_24-nl_hero-01.jpg" : {
       "ft" : 16384,
       "iS" : 583405,
@@ -39071,6 +39058,53 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/11_24\/publica.ro-2023_11_24-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/12_08\/img\/publica.ro-2023_12_08-anatomia_unei_reusite-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 485459,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_08\/img\/publica.ro-2023_12_08-anatomia_unei_reusite-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/12_08\/img\/publica.ro-2023_12_08-in_curand-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 413824,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_08\/img\/publica.ro-2023_12_08-in_curand-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/12_08\/img\/publica.ro-2023_12_08-top_gaudeamus-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 1903310,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_08\/img\/publica.ro-2023_12_08-top_gaudeamus-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/12_08\/publica.ro-2023_11_08-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_08\/publica.ro-2023_11_08-R-dev.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -40773,6 +40807,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-fii_mai_destept_decat_creierul_tau.png" : {
+      "ft" : 32768,
+      "iS" : 108187,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-fii_mai_destept_decat_creierul_tau.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-fluxul_de_idei.png" : {
+      "ft" : 32768,
+      "iS" : 101391,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-fluxul_de_idei.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-food_mood_connection.png" : {
       "ft" : 32768,
       "iS" : 100312,
@@ -42458,9 +42518,6 @@
       "no-new-native-nonconstructor" : {
         "active" : 0
       },
-      "no-new-object" : {
-        "active" : 0
-      },
       "no-new-symbol" : {
         "active" : 1
       },
@@ -42472,6 +42529,9 @@
       },
       "no-obj-calls" : {
         "active" : 1
+      },
+      "no-object-constructor" : {
+        "active" : 0
       },
       "no-octal" : {
         "active" : 1
