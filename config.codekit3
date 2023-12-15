@@ -39107,12 +39107,80 @@
       "oAP" : "\/2023\/12_08\/publica.ro-2023_12_08-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/12_08\/publica.ro-2023_12_08-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_08\/publica.ro-2023_12_08-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/12_08\/publica.ro-2023_12_08-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
       "oA" : 0,
       "oAP" : "\/2023\/12_08\/publica.ro-2023_12_08-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/12_08\/publica.ro-2023_12_08-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_08\/publica.ro-2023_12_08-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/12_15\/img\/publica.ro-2023_12_15-carti_cu_autograf-nl_hero.gif" : {
+      "ft" : 4194304,
+      "iS" : 1050713,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_15\/img\/publica.ro-2023_12_15-carti_cu_autograf-nl_hero.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/2023\/12_15\/img\/publica.ro-2023_12_15-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 262172,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_15\/img\/publica.ro-2023_12_15-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/12_15\/img\/publica.ro-2023_12_15-o_istorie_morala-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 390555,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_15\/img\/publica.ro-2023_12_15-o_istorie_morala-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/12_15\/publica.ro-2023_12_15-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_15\/publica.ro-2023_12_15-G-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/12_15\/publica.ro-2023_12_15-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_15\/publica.ro-2023_12_15-R-prod.html",
       "oF" : 2
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
