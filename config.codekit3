@@ -17,14 +17,6 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
-    "\/.vscode\/settings.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/.vscode\/settings-min.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
       "iS" : 85618,
@@ -39175,6 +39167,14 @@
       "oAP" : "\/2023\/12_15\/publica.ro-2023_12_15-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/12_15\/publica.ro-2023_12_15-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_15\/publica.ro-2023_12_15-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/12_15\/publica.ro-2023_12_15-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -39182,6 +39182,51 @@
       "oA" : 0,
       "oAP" : "\/2023\/12_15\/publica.ro-2023_12_15-R-prod.html",
       "oF" : 2
+    },
+    "\/2023\/12_15\/publica.ro-2023_12_15-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_15\/publica.ro-2023_12_15-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/12_21\/img\/publica.ro-2023_12_21-razboaiele_oscarului-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 1129130,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_21\/img\/publica.ro-2023_12_21-razboaiele_oscarului-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/12_21\/publica.ro-2023_12_21-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_21\/publica.ro-2023_12_21-G-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/12_21\/publica.ro-2023_12_21-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_21\/publica.ro-2023_12_21-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/12_21\/publica.ro-2023_12_21-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_21\/publica.ro-2023_12_21-R-prod.html",
+      "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
@@ -41044,6 +41089,19 @@
       "iS" : 106696,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-meduza_fara_varsta.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-meryl_streep.png" : {
+      "ft" : 32768,
+      "iS" : 146020,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-meryl_streep.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
