@@ -39212,6 +39212,14 @@
       "oAP" : "\/2023\/12_21\/publica.ro-2023_12_21-G-prod.html",
       "oF" : 2
     },
+    "\/2023\/12_21\/publica.ro-2023_12_21-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_21\/publica.ro-2023_12_21-G-prod.html",
+      "oF" : 0
+    },
     "\/2023\/12_21\/publica.ro-2023_12_21-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -39226,6 +39234,43 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2023\/12_21\/publica.ro-2023_12_21-R-prod.html",
+      "oF" : 0
+    },
+    "\/2023\/12_29\/img\/publica.ro-2023_12_28-putere_si_progres-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 375225,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_29\/img\/publica.ro-2023_12_28-putere_si_progres-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2023\/12_29\/publica.ro-2023_12_29-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_29\/publica.ro-2023_12_29-G-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/12_29\/publica.ro-2023_12_29-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_29\/publica.ro-2023_12_29-R-prod.html",
+      "oF" : 2
+    },
+    "\/2023\/12_29\/publica.ro-2023_12_29-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2023\/12_29\/publica.ro-2023_12_29-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
