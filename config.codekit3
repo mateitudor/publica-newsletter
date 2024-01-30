@@ -39349,31 +39349,39 @@
     },
     "\/2024\/01_31\/img\/publica.ro-2024_01_31-suruburi_si_piulite-nl_hero.jpg" : {
       "ft" : 16384,
-      "iS" : 566894,
+      "iS" : 337151,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/01_31\/img\/publica.ro-2024_01_31-suruburi_si_piulite-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
     },
-    "\/2024\/01_31\/publica.ro-20224_01_09-G-dev.html" : {
+    "\/2024\/01_31\/publica.ro-20224_01_31-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
-      "hM" : 0,
+      "hM" : 2,
       "oA" : 0,
-      "oAP" : "\/2024\/01_31\/publica.ro-20224_01_09-G-dev.html",
-      "oF" : 0
+      "oAP" : "\/2024\/01_31\/publica.ro-20224_01_31-G-prod.html",
+      "oF" : 2
     },
     "\/2024\/01_31\/publica.ro-20224_01_31-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/01_31\/publica.ro-20224_01_31-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/01_31\/publica.ro-20224_01_31-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2024\/01_31\/publica.ro-20224_01_31-R-dev.html",
+      "oAP" : "\/2024\/01_31\/publica.ro-20224_01_31-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
