@@ -17,6 +17,14 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
+    "\/.vscode\/settings.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/.vscode\/settings-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
       "iS" : 85618,
@@ -39281,14 +39289,6 @@
       "oAP" : "\/2023\/12_29\/publica.ro-2023_12_29-R-prod.html",
       "oF" : 0
     },
-    "\/2024\/01_09\/.vscode\/settings.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/2024\/01_09\/.vscode\/settings-min.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
     "\/2024\/01_09\/img\/publica.ro-2024_01_09-nl_hero.jpg" : {
       "ft" : 16384,
       "iS" : 642230,
@@ -39323,6 +39323,14 @@
       "oAP" : "\/2024\/01_09\/publica.ro-20224_01_09-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/01_09\/publica.ro-20224_01_09-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/01_09\/publica.ro-20224_01_09-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/01_09\/publica.ro-20224_01_09-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -39337,6 +39345,35 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/01_09\/publica.ro-20224_01_09-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/01_31\/img\/publica.ro-2024_01_31-suruburi_si_piulite-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 566894,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/01_31\/img\/publica.ro-2024_01_31-suruburi_si_piulite-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/01_31\/publica.ro-20224_01_09-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/01_31\/publica.ro-20224_01_09-G-dev.html",
+      "oF" : 0
+    },
+    "\/2024\/01_31\/publica.ro-20224_01_31-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/01_31\/publica.ro-20224_01_31-R-dev.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -41772,6 +41809,19 @@
       "iS" : 133294,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-what_if.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-zece_materiale_minune.png" : {
+      "ft" : 32768,
+      "iS" : 111463,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-zece_materiale_minune.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
