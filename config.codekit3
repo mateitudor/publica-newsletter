@@ -17,6 +17,14 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
+    "\/.vscode\/settings.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/.vscode\/settings-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
       "iS" : 85618,
@@ -39307,7 +39315,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2024\/01_09\/publica.ro-20224_01_09-G-dev.html" : {
+    "\/2024\/01_09\/publica.ro-2024_01_09-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
@@ -39315,15 +39323,15 @@
       "oAP" : "\/2024\/01_09\/publica.ro-20224_01_09-G-prod.html",
       "oF" : 2
     },
-    "\/2024\/01_09\/publica.ro-20224_01_09-G-prod.html" : {
+    "\/2024\/01_09\/publica.ro-2024_01_09-G-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2024\/01_09\/publica.ro-20224_01_09-G-prod.html",
+      "oAP" : "\/2024\/01_09\/publica.ro-2024_01_09-G-prod.html",
       "oF" : 0
     },
-    "\/2024\/01_09\/publica.ro-20224_01_09-R-dev.html" : {
+    "\/2024\/01_09\/publica.ro-2024_01_09-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
@@ -39331,12 +39339,12 @@
       "oAP" : "\/2024\/01_09\/publica.ro-20224_01_09-R-prod.html",
       "oF" : 2
     },
-    "\/2024\/01_09\/publica.ro-20224_01_09-R-prod.html" : {
+    "\/2024\/01_09\/publica.ro-2024_01_09-R-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2024\/01_09\/publica.ro-20224_01_09-R-prod.html",
+      "oAP" : "\/2024\/01_09\/publica.ro-2024_01_09-R-prod.html",
       "oF" : 0
     },
     "\/2024\/01_31\/img\/publica.ro-2024_01_31-suruburi_si_piulite-nl_hero.jpg" : {
@@ -39352,7 +39360,7 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2024\/01_31\/publica.ro-20224_01_31-G-dev.html" : {
+    "\/2024\/01_31\/publica.ro-2024_01_31-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
@@ -39360,15 +39368,15 @@
       "oAP" : "\/2024\/01_31\/publica.ro-20224_01_31-G-prod.html",
       "oF" : 2
     },
-    "\/2024\/01_31\/publica.ro-20224_01_31-G-prod.html" : {
+    "\/2024\/01_31\/publica.ro-2024_01_31-G-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2024\/01_31\/publica.ro-20224_01_31-G-prod.html",
+      "oAP" : "\/2024\/01_31\/publica.ro-2024_01_31-G-prod.html",
       "oF" : 0
     },
-    "\/2024\/01_31\/publica.ro-20224_01_31-R-dev.html" : {
+    "\/2024\/01_31\/publica.ro-2024_01_31-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
@@ -39376,12 +39384,67 @@
       "oAP" : "\/2024\/01_31\/publica.ro-20224_01_31-R-prod.html",
       "oF" : 2
     },
-    "\/2024\/01_31\/publica.ro-20224_01_31-R-prod.html" : {
+    "\/2024\/01_31\/publica.ro-2024_01_31-R-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2024\/01_31\/publica.ro-20224_01_31-R-prod.html",
+      "oAP" : "\/2024\/01_31\/publica.ro-2024_01_31-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/02_09\/img\/publica.ro-2024_02_09-audiotribe-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 156900,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_09\/img\/publica.ro-2024_02_09-audiotribe-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/02_09\/img\/publica.ro-2024_02_09-promo-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 200709,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_09\/img\/publica.ro-2024_02_09-promo-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/02_09\/img\/publica.ro-2024_02_09-speculatie_cinematografica-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 933012,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_09\/img\/publica.ro-2024_02_09-speculatie_cinematografica-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/02_09\/publica.ro-2024_02_09-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_09\/publica.ro-2024_02_09-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/02_09\/publica.ro-2024_02_09-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_09\/publica.ro-2024_02_09-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
