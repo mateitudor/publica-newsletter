@@ -39518,12 +39518,36 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2024\/02_22\/publica.ro-2024_02_22-R-dev.html" : {
+    "\/2024\/02_22\/publica.ro-2024_02_22-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_22\/publica.ro-2024_02_22-G-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/02_22\/publica.ro-2024_02_22-G-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2024\/02_22\/publica.ro-2024_02_22-R-dev.html",
+      "oAP" : "\/2024\/02_22\/publica.ro-2024_02_22-G-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/02_22\/publica.ro-2024_02_22-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_22\/publica.ro-2024_02_22-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/02_22\/publica.ro-2024_02_22-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_22\/publica.ro-2024_02_22-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
