@@ -39505,6 +39505,27 @@
       "oAP" : "\/2024\/02_14\/publica.ro-2024_02_14-R-prod.html",
       "oF" : 0
     },
+    "\/2024\/02_22\/img\/publica.ro-2024_02_22-invincibil-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 574656,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_22\/img\/publica.ro-2024_02_22-invincibil-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/02_22\/publica.ro-2024_02_22-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/02_22\/publica.ro-2024_02_22-R-dev.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -41634,6 +41655,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-paradoxul_cimpanzeului.png" : {
+      "ft" : 32768,
+      "iS" : 110634,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-paradoxul_cimpanzeului.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-paul_newman.png" : {
       "ft" : 32768,
       "iS" : 146999,
@@ -41655,6 +41689,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-peak.png" : {
+      "ft" : 32768,
+      "iS" : 103225,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-peak.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
