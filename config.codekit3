@@ -39571,6 +39571,14 @@
       "oAP" : "\/2024\/03_01\/publica.ro-2024_03_01-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/03_01\/publica.ro-2024_03_01-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_01\/publica.ro-2024_03_01-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/03_01\/publica.ro-2024_03_01-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -39585,6 +39593,43 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/03_01\/publica.ro-2024_03_01-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/03_06\/img\/publica.ro-2024_03_06-cea_mai_delicioasa_otrava-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 549714,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_06\/img\/publica.ro-2024_03_06-cea_mai_delicioasa_otrava-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/03_06\/publica.ro-2024_03_06-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_06\/publica.ro-2024_03_06-G-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/03_06\/publica.ro-2024_03_06-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_06\/publica.ro-2024_03_06-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/03_06\/publica.ro-2024_03_06-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_06\/publica.ro-2024_03_06-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
