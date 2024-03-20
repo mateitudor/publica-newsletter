@@ -17,14 +17,6 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
-    "\/.vscode\/settings.json" : {
-      "ft" : 524288,
-      "oA" : 1,
-      "oAP" : "\/.vscode\/settings-min.json",
-      "oF" : 0,
-      "oO" : 0,
-      "oS" : 1
-    },
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
       "iS" : 85618,
@@ -39616,6 +39608,14 @@
       "oAP" : "\/2024\/03_06\/publica.ro-2024_03_06-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/03_06\/publica.ro-2024_03_06-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_06\/publica.ro-2024_03_06-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/03_06\/publica.ro-2024_03_06-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -39630,6 +39630,56 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/03_06\/publica.ro-2024_03_06-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/03_20\/img\/publica.ro-2024_03_20-adam_grant_brandminds_2024-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 209256,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_20\/img\/publica.ro-2024_03_20-adam_grant_brandminds_2024-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/03_20\/img\/publica.ro-2024_03_20-potential_ascuns-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 648878,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_20\/img\/publica.ro-2024_03_20-potential_ascuns-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/03_20\/publica.ro-2024_03_20-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_20\/publica.ro-2024_03_20-G-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/03_20\/publica.ro-2024_03_20-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_20\/publica.ro-2024_03_20-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/03_20\/publica.ro-2024_03_20-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_20\/publica.ro-2024_03_20-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
