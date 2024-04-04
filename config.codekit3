@@ -17,6 +17,14 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
+    "\/.vscode\/settings.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/.vscode\/settings-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
       "iS" : 85618,
@@ -39666,6 +39674,14 @@
       "oAP" : "\/2024\/03_20\/publica.ro-2024_03_20-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/03_20\/publica.ro-2024_03_20-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/03_20\/publica.ro-2024_03_20-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/03_20\/publica.ro-2024_03_20-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -39680,6 +39696,48 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/03_20\/publica.ro-2024_03_20-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/04_04\/img\/publica.ro-2024_04_04-brand_minds-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 914863,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_04\/img\/publica.ro-2024_04_04-brand_minds-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_04\/img\/publica.ro-2024_04_04-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 2455815,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_04\/img\/publica.ro-2024_04_04-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_04\/publica.ro-2024_04_04-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_04\/publica.ro-2024_04_04-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/04_04\/publica.ro-2024_04_04-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_04\/publica.ro-2024_04_04-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -41356,6 +41414,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-elon_musk.png" : {
+      "ft" : 32768,
+      "iS" : 159045,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-elon_musk.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-era_capitalismului_de_supraveghere.png" : {
       "ft" : 32768,
       "iS" : 100498,
@@ -41557,8 +41628,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-linistea_de_dinainte.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -41876,6 +41947,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-potential_ascuns.png" : {
+      "ft" : 32768,
+      "iS" : 103931,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-potential_ascuns.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-povestitorul.png" : {
       "ft" : 32768,
       "iS" : 174469,
@@ -42011,6 +42095,19 @@
       "iS" : 138312,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-spargatoarea_de_coduri.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-speculatie_cinematografica.png" : {
+      "ft" : 32768,
+      "iS" : 104861,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-speculatie_cinematografica.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
