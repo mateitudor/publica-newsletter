@@ -39740,6 +39740,61 @@
       "oAP" : "\/2024\/04_04\/publica.ro-2024_04_04-R-prod.html",
       "oF" : 0
     },
+    "\/2024\/04_16\/img\/publica.ro-2024_04_16-brandminds_2024-hero_01.jpg" : {
+      "ft" : 16384,
+      "iS" : 918821,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_16\/img\/publica.ro-2024_04_16-brandminds_2024-hero_01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_16\/img\/publica.ro-2024_04_16-brandminds_2024-hero_02.jpg" : {
+      "ft" : 16384,
+      "iS" : 592951,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_16\/img\/publica.ro-2024_04_16-brandminds_2024-hero_02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_16\/img\/publica.ro-2024_04_16-in_curand-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 505926,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_16\/img\/publica.ro-2024_04_16-in_curand-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_16\/publica.ro-2024_04_16-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_16\/publica.ro-2024_04_16-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/04_16\/publica.ro-2024_04_16-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_16\/publica.ro-2024_04_16-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
