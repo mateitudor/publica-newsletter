@@ -39795,12 +39795,33 @@
       "oAP" : "\/2024\/04_16\/publica.ro-2024_04_16-R-prod.html",
       "oF" : 0
     },
-    "\/2024\/04_19\/publica.ro-2024_03_06-G-dev.html" : {
+    "\/2024\/04_19\/img\/publica.ro-2024_04_19-gandeste_mai_repede_vorbeste_mai_inteligent-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 541568,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_19\/img\/publica.ro-2024_04_19-gandeste_mai_repede_vorbeste_mai_inteligent-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_19\/publica.ro-2024_04_19-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_19\/publica.ro-2024_04_19-G-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/04_19\/publica.ro-2024_04_19-G-prod.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2024\/04_19\/publica.ro-2024_03_06-G-dev.html",
+      "oAP" : "\/2024\/04_19\/publica.ro-2024_04_19-G-prod.html",
       "oF" : 0
     },
     "\/2024\/04_19\/publica.ro-2024_04_19-R-dev.html" : {
