@@ -39840,6 +39840,48 @@
       "oAP" : "\/2024\/04_19\/publica.ro-2024_04_19-R-prod.html",
       "oF" : 0
     },
+    "\/2024\/04_23\/img\/publica.ro-2024_04_23-cand_cerurile_au_fost_scoase_la_vanzare-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 700847,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_23\/img\/publica.ro-2024_04_23-cand_cerurile_au_fost_scoase_la_vanzare-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_23\/img\/publica.ro-2024_04_23-nl_hero-01.jpg" : {
+      "ft" : 16384,
+      "iS" : 292960,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_23\/img\/publica.ro-2024_04_23-nl_hero-01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_23\/publica.ro-2024_04_23-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_23\/publica.ro-2024_04_23-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/04_23\/publica.ro-2024_04_23-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_23\/publica.ro-2024_04_23-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
