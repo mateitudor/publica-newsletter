@@ -7,7 +7,7 @@
       "uuidString" : "C96ADC3A-7471-460E-ADA7-CBCFAEA341B6"
     }
   ],
-  "creatorBuild" : "34564",
+  "creatorBuild" : "34576",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -39848,7 +39848,7 @@
       "oAP" : "\/2024\/04_23\/img\/publica.ro-2024_04_23-cand_cerurile_au_fost_scoase_la_vanzare-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -39861,7 +39861,7 @@
       "oAP" : "\/2024\/04_23\/img\/publica.ro-2024_04_23-nl_hero-01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -39880,6 +39880,56 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/04_23\/publica.ro-2024_04_23-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/04_30\/img\/publica.ro-2024_04_30-audiobooks-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 611392,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_30\/img\/publica.ro-2024_04_30-audiobooks-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_30\/img\/publica.ro-2024_04_30-promo-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 989328,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_30\/img\/publica.ro-2024_04_30-promo-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/04_30\/publica.ro-2024_04_30-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_30\/publica.ro-2024_04_30-G-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/04_30\/publica.ro-2024_04_30-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_30\/publica.ro-2024_04_30-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/04_30\/publica.ro-2024_04_30-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/04_30\/publica.ro-2024_04_30-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
