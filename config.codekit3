@@ -17,6 +17,14 @@
       "oAP" : "\/.gitignore",
       "oF" : 0
     },
+    "\/.vscode\/settings.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/.vscode\/settings-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
     "\/2016\/06-01\/img-orig\/publica-book-cand-sa-jefuiesti-o-banca.jpg" : {
       "ft" : 16384,
       "iS" : 85618,
@@ -39975,6 +39983,87 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/05_14\/publica.ro-2024_05_14-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/05_21\/img\/publica.ro-2024_05_21-alergic-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 433376,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/05_21\/img\/publica.ro-2024_05_21-alergic-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/05_21\/img\/publica.ro-2024_05_21-flip_thinking-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 370773,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/05_21\/img\/publica.ro-2024_05_21-flip_thinking-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/05_21\/img\/publica.ro-2024_05_21-incredibilele_inventii_ale_lui_kay-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 492227,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/05_21\/img\/publica.ro-2024_05_21-incredibilele_inventii_ale_lui_kay-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/05_21\/img\/publica.ro-2024_05_21-lansare_nerezonabil-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 1500299,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/05_21\/img\/publica.ro-2024_05_21-lansare_nerezonabil-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/05_21\/img\/publica.ro-2024_05_21-nerezonabil-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 412271,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/05_21\/img\/publica.ro-2024_05_21-nerezonabil-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/05_21\/publica.ro-2024_05_21-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/05_21\/publica.ro-2024_05_21-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/05_21\/publica.ro-2024_05_21-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/05_21\/publica.ro-2024_05_21-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
