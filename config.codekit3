@@ -40108,32 +40108,6 @@
       "oAP" : "\/2024\/05_29\/publica.ro-2024_05_29-R-prod.html",
       "oF" : 0
     },
-    "\/2024\/05_31\/img\/publica.ro-2024_05_29-bookfest-nl_hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 133893,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/2024\/05_31\/img\/publica.ro-2024_05_29-bookfest-nl_hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/2024\/05_31\/img\/publica.ro-2024_05_29-meet_greet_nerezonabil-nl_hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 116833,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/2024\/05_31\/img\/publica.ro-2024_05_29-meet_greet_nerezonabil-nl_hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/2024\/05_31\/publica.ro-2024_05_31-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -40148,6 +40122,35 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/05_31\/publica.ro-2024_05_31-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/06_05\/img\/publica-2024_06_05-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 237346,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/06_05\/img\/publica-2024_06_05-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/06_05\/publica.ro-2024_06_05-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/06_05\/publica.ro-2024_06_05-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/06_05\/publica.ro-2024_06_05-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/06_05\/publica.ro-2024_06_05-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
