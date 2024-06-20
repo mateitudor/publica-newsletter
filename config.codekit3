@@ -40153,6 +40153,35 @@
       "oAP" : "\/2024\/06_05\/publica.ro-2024_06_05-R-prod.html",
       "oF" : 0
     },
+    "\/2024\/06_20\/img\/publica-2024_06_20-2+1-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 1228635,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/06_20\/img\/publica-2024_06_20-2+1-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/06_20\/publica.ro-2024_06_20-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/06_20\/publica.ro-2024_06_20-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/06_20\/publica.ro-2024_06_20-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/06_20\/publica.ro-2024_06_20-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 46856,
@@ -42157,6 +42186,19 @@
       "iS" : 107880,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nedoctoricit.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nerezonabil.png" : {
+      "ft" : 32768,
+      "iS" : 74730,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nerezonabil.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
