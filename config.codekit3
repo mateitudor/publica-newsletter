@@ -40261,6 +40261,61 @@
       "oAP" : "\/2024\/06_28\/publica.ro-2024_06_28-R-prod.html",
       "oF" : 0
     },
+    "\/2024\/07_08\/img\/logo-aletheea.gif" : {
+      "ft" : 4194304,
+      "iS" : 119041,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_08\/img\/logo-aletheea.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/2024\/07_08\/img\/publica-supercomunicatori-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 522993,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_08\/img\/publica-supercomunicatori-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/07_08\/publica.ro-2024_07_08-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_08\/publica.ro-2024_07_08-G-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/07_08\/publica.ro-2024_07_08-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_08\/publica.ro-2024_07_08-G-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/07_08\/publica.ro-2024_07_08-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_08\/publica.ro-2024_07_08-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/07_08\/publica.ro-2024_07_08-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_08\/publica.ro-2024_07_08-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 7842,
@@ -43038,8 +43093,8 @@
   },
   "projectAttributes" : {
     "creationDate" : 741251188.45438099,
-    "displayValue" : "Newsletters",
-    "displayValueWasSetByUser" : 0,
+    "displayValue" : "Publica · Newsletters",
+    "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-payne",
     "iconImageWasSetByUser" : 0
   },
