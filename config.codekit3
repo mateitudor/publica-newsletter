@@ -40316,6 +40316,35 @@
       "oAP" : "\/2024\/07_08\/publica.ro-2024_07_08-R-prod.html",
       "oF" : 0
     },
+    "\/2024\/07_11\/img\/publica-tripped-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 452619,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_11\/img\/publica-tripped-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/07_11\/publica.ro-2024_07_11-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_11\/publica.ro-2024_07_11-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/07_11\/publica.ro-2024_07_11-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_11\/publica.ro-2024_07_11-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 7842,
@@ -41600,6 +41629,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cea_mai_delicioasa_otrava.png" : {
+      "ft" : 32768,
+      "iS" : 104572,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cea_mai_delicioasa_otrava.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cea_mai_mare_cacealma.png" : {
       "ft" : 32768,
       "iS" : 114820,
@@ -42115,6 +42157,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-geniul_criminal_din_spatele_silk_road.png" : {
+      "ft" : 32768,
+      "iS" : 122711,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-geniul_criminal_din_spatele_silk_road.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -42752,6 +42807,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-supercomunicatorii.png" : {
+      "ft" : 32768,
+      "iS" : 102042,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-supercomunicatorii.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
