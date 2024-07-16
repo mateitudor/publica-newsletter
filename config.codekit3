@@ -40361,6 +40361,19 @@
       "oAP" : "\/2024\/07_11\/publica.ro-2024_07_11-R-prod.html",
       "oF" : 0
     },
+    "\/2024\/07_17\/img\/publica-2024_07_17-un_veac_de_singuratate-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 249322,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_17\/img\/publica-2024_07_17-un_veac_de_singuratate-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/2024\/07_17\/img\/publica-productivitate_lenta-book_launch-nl_hero.jpg" : {
       "ft" : 16384,
       "iS" : 357013,
@@ -40422,7 +40435,17 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-anders_hansen.gif",
       "oF" : 0,
-      "opt" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-cal_newport.gif" : {
+      "ft" : 4194304,
+      "iS" : 158759,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-cal_newport.gif",
+      "oF" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "rq" : 75
     },
@@ -42722,6 +42745,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-productivitate_lenta.png" : {
+      "ft" : 32768,
+      "iS" : 86593,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-productivitate_lenta.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
