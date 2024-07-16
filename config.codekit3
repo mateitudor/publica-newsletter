@@ -40337,6 +40337,14 @@
       "oAP" : "\/2024\/07_11\/publica.ro-2024_07_11-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/07_11\/publica.ro-2024_07_11-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_11\/publica.ro-2024_07_11-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/07_11\/publica.ro-2024_07_11-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -40351,6 +40359,35 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/07_11\/publica.ro-2024_07_11-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/07_17\/img\/publica-productivitate_lenta-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 357013,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_17\/img\/publica-productivitate_lenta-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/07_17\/publica.ro-2024_07_17-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_17\/publica.ro-2024_07_17-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/07_17\/publica.ro-2024_07_17-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_17\/publica.ro-2024_07_17-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -40387,6 +40424,19 @@
       "oF" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-4000_de_saptamani.png" : {
+      "ft" : 32768,
+      "iS" : 108103,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-4000_de_saptamani.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
       "rq" : 75
     },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-a_da_si_a_lua.png" : {
@@ -41671,6 +41721,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-company_of_one.png" : {
+      "ft" : 32768,
+      "iS" : 96975,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-company_of_one.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
