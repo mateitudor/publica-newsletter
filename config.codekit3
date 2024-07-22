@@ -40395,6 +40395,14 @@
       "oAP" : "\/2024\/07_17\/publica.ro-2024_07_17-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/07_17\/publica.ro-2024_07_17-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_17\/publica.ro-2024_07_17-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/07_17\/publica.ro-2024_07_17-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -40409,6 +40417,48 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/07_17\/publica.ro-2024_07_17-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/07_22\/img\/publica-incredibilele_inventii_ale_lui_kay-book_launch-nl_hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 103958,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_22\/img\/publica-incredibilele_inventii_ale_lui_kay-book_launch-nl_hero-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/07_22\/img\/publica-incredibilele_inventii_ale_lui_kay-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 893291,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_22\/img\/publica-incredibilele_inventii_ale_lui_kay-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/07_22\/publica.ro-2024_07_22-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_22\/publica.ro-2024_07_22-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/07_22\/publica.ro-2024_07_22-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/07_22\/publica.ro-2024_07_22-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -40435,6 +40485,26 @@
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-adam_kay-youngster.gif" : {
+      "ft" : 4194304,
+      "iS" : 253674,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-adam_kay-youngster.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-adam_kay.gif" : {
+      "ft" : 4194304,
+      "iS" : 151890,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-adam_kay.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
       "rq" : 75
     },
     "\/assets\/img\/books\/bundles\/publica.ro-nl-bundle_small-anders_hansen.gif" : {
@@ -40593,8 +40663,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-banii_intr_o_singura_lectie.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -41750,8 +41820,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cine_i_a_gatit_cina_lui_adam_smith.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -41882,6 +41952,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cum_am_ajuns_aici-youngster.png" : {
+      "ft" : 32768,
+      "iS" : 122878,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cum_am_ajuns_aici-youngster.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -42998,8 +43081,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-un_veac_de_sinceritate.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
