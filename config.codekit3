@@ -40642,29 +40642,21 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2024\/09_04\/publica.ro-2024_08_13-G-dev.html" : {
+    "\/2024\/09_04\/publica.ro-2024_09_04-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2024\/09_04\/publica.ro-2024_08_13-G-dev.html",
-      "oF" : 0
-    },
-    "\/2024\/09_04\/publica.ro-2024_08_13-G-prod.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/2024\/09_04\/publica.ro-2024_08_13-G-prod.html",
-      "oF" : 0
+      "oAP" : "\/2024\/09_04\/publica.ro-2024_09_04-G-prod.html",
+      "oF" : 2
     },
     "\/2024\/09_04\/publica.ro-2024_09_04-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
-      "hM" : 0,
+      "hM" : 2,
       "oA" : 0,
-      "oAP" : "\/2024\/09_04\/publica.ro-2024_09_04-R-dev.html",
-      "oF" : 0
+      "oAP" : "\/2024\/09_04\/publica.ro-2024_09_04-R-prod.html",
+      "oF" : 2
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
