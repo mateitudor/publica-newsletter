@@ -40611,7 +40611,7 @@
       "oAP" : "\/2024\/09_04\/img\/publica-2024_09_04-in_curand-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -40624,7 +40624,7 @@
       "oAP" : "\/2024\/09_04\/img\/publica-2024_09_04-promo-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -43061,6 +43061,19 @@
       "iS" : 86593,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-productivitate_lenta.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-pur_si_simplu_continua_sa_cumperi.png" : {
+      "ft" : 32768,
+      "iS" : 85003,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-pur_si_simplu_continua_sa_cumperi.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
