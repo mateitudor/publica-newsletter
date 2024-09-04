@@ -40593,12 +40593,35 @@
       "oAP" : "\/2024\/08_13\/publica.ro-2024_08_13-R-prod.html",
       "oF" : 0
     },
-    "\/2024\/09_04\/img\/publica-2024_08_13-promo-nl_hero.jpg" : {
+    "\/2024\/09_04\/img\/publica-2024_09_04-brand_minds_2024-nl_hero.gif" : {
+      "ft" : 4194304,
+      "iS" : 1352852,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_04\/img\/publica-2024_09_04-brand_minds_2024-nl_hero.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/2024\/09_04\/img\/publica-2024_09_04-in_curand-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 449081,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_04\/img\/publica-2024_09_04-in_curand-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/09_04\/img\/publica-2024_09_04-promo-nl_hero.jpg" : {
       "ft" : 16384,
       "iS" : 60134,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2024\/09_04\/img\/publica-2024_08_13-promo-nl_hero.jpg",
+      "oAP" : "\/2024\/09_04\/img\/publica-2024_09_04-promo-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -40612,19 +40635,6 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/09_04\/img\/publica-calea_stoica_spre_bogatie-book_launch-nl_hero.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/2024\/09_04\/img\/publica.ro-2024_09_04-in_curand-nl_hero.jpg" : {
-      "ft" : 16384,
-      "iS" : 449081,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/2024\/09_04\/img\/publica.ro-2024_09_04-in_curand-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
