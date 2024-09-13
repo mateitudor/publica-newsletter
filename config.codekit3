@@ -40650,6 +40650,14 @@
       "oAP" : "\/2024\/09_04\/publica.ro-2024_09_04-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/09_04\/publica.ro-2024_09_04-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_04\/publica.ro-2024_09_04-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/09_04\/publica.ro-2024_09_04-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -40657,6 +40665,56 @@
       "oA" : 0,
       "oAP" : "\/2024\/09_04\/publica.ro-2024_09_04-R-prod.html",
       "oF" : 2
+    },
+    "\/2024\/09_04\/publica.ro-2024_09_04-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_04\/publica.ro-2024_09_04-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/09_13\/img\/publica-2024_09_13-nl_hero_01.jpg" : {
+      "ft" : 16384,
+      "iS" : 243864,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_13\/img\/publica-2024_09_13-nl_hero_01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/09_13\/img\/publica-coaching_pentru_performanta-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 592064,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_13\/img\/publica-coaching_pentru_performanta-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/09_13\/publica.ro-2024_09_13-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_13\/publica.ro-2024_09_13-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/09_13\/publica.ro-2024_09_13-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_13\/publica.ro-2024_09_13-R-prod.html",
+      "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
@@ -42731,6 +42789,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-ministerul_bunului_simt.png" : {
+      "ft" : 32768,
+      "iS" : 94522,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-ministerul_bunului_simt.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
