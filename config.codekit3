@@ -40682,7 +40682,7 @@
       "oAP" : "\/2024\/09_13\/img\/publica-2024_09_13-nl_hero_01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -40695,10 +40695,18 @@
       "oAP" : "\/2024\/09_13\/img\/publica-coaching_pentru_performanta-book_launch-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/2024\/09_13\/publica.ro-2024_09_13-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_13\/publica.ro-2024_09_13-G-prod.html",
+      "oF" : 2
     },
     "\/2024\/09_13\/publica.ro-2024_09_13-R-dev.html" : {
       "cB" : 0,
