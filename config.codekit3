@@ -7,7 +7,7 @@
       "uuidString" : "F994DB4E-F0E8-4530-A15D-EAA92D3ED987"
     }
   ],
-  "creatorBuild" : "34576",
+  "creatorBuild" : "34590",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -40708,6 +40708,14 @@
       "oAP" : "\/2024\/09_13\/publica.ro-2024_09_13-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/09_13\/publica.ro-2024_09_13-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_13\/publica.ro-2024_09_13-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/09_13\/publica.ro-2024_09_13-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -40723,6 +40731,27 @@
       "oA" : 0,
       "oAP" : "\/2024\/09_13\/publica.ro-2024_09_13-R-prod.html",
       "oF" : 0
+    },
+    "\/2024\/09_23\/img\/publica-determinat-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 623957,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_23\/img\/publica-determinat-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/09_23\/publica.ro-2024_09_23-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_23\/publica.ro-2024_09_23-prod.html",
+      "oF" : 2
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
@@ -44161,10 +44190,6 @@
         "active" : 0,
         "optionString" : "{'before': true, 'after': true, 'overrides': {}}"
       },
-      "line-comment-position" : {
-        "active" : 0,
-        "optionString" : "{'position': 'above'}"
-      },
       "linebreak-style" : {
         "active" : 0,
         "optionString" : "'unix'"
@@ -44216,10 +44241,6 @@
       "max-statements-per-line" : {
         "active" : 0,
         "optionString" : "{'max': 1}"
-      },
-      "multiline-comment-style" : {
-        "active" : 0,
-        "optionString" : "'starred-block'"
       },
       "multiline-ternary" : {
         "active" : 0,
@@ -44362,7 +44383,8 @@
         "active" : 0
       },
       "no-extra-boolean-cast" : {
-        "active" : 1
+        "active" : 1,
+        "optionString" : "{'enforceForInnerExpressions': false}"
       },
       "no-extra-label" : {
         "active" : 0
@@ -44447,7 +44469,8 @@
         "optionString" : "{'ignore': [], 'ignoreArrayIndexes': true, 'ignoreDefaultValues': false, 'ignoreClassFieldInitialValues': false, 'enforceConst': false, 'detectObjects': false}"
       },
       "no-misleading-character-class" : {
-        "active" : 1
+        "active" : 1,
+        "optionString" : "{'allowEscape': false}"
       },
       "no-mixed-operators" : {
         "active" : 0,
@@ -44815,7 +44838,8 @@
         "active" : 0
       },
       "require-unicode-regexp" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'requireFlag': 'u'}"
       },
       "require-yield" : {
         "active" : 1
@@ -45245,6 +45269,7 @@
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",
+    "tsJSXFragmentFactory" : "Fragment",
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
