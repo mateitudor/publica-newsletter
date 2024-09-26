@@ -40785,7 +40785,7 @@
       "oAP" : "\/2024\/09_26\/img\/publica-determinat-presale_reminder-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -40798,10 +40798,18 @@
       "oAP" : "\/2024\/09_26\/img\/publica-priveste_din_nou-book_launch-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/2024\/09_26\/publica.ro-2024_09_26-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_26\/publica.ro-2024_09_26-G-prod.html",
+      "oF" : 2
     },
     "\/2024\/09_26\/publica.ro-2024_09_26-R-dev.html" : {
       "cB" : 0,
@@ -43462,8 +43470,8 @@
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-uimirea.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
