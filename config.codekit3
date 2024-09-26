@@ -40753,6 +40753,14 @@
       "oAP" : "\/2024\/09_23\/publica.ro-2024_09_23-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/09_23\/publica.ro-2024_09_23-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_23\/publica.ro-2024_09_23-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/09_23\/publica.ro-2024_09_23-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -40767,6 +40775,48 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/09_23\/publica.ro-2024_09_23-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/09_26\/img\/publica-determinat-presale_reminder-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 351575,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_26\/img\/publica-determinat-presale_reminder-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/09_26\/img\/publica-priveste_din_nou-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 521487,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_26\/img\/publica-priveste_din_nou-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/09_26\/publica.ro-2024_09_26-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_26\/publica.ro-2024_09_26-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/09_26\/publica.ro-2024_09_26-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_26\/publica.ro-2024_09_26-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -43401,6 +43451,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-uimirea.png" : {
+      "ft" : 32768,
+      "iS" : 86124,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-uimirea.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
