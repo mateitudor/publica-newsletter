@@ -40811,6 +40811,14 @@
       "oAP" : "\/2024\/09_26\/publica.ro-2024_09_26-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/09_26\/publica.ro-2024_09_26-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/09_26\/publica.ro-2024_09_26-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/09_26\/publica.ro-2024_09_26-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -40826,6 +40834,48 @@
       "oA" : 0,
       "oAP" : "\/2024\/09_26\/publica.ro-2024_09_26-R-prod.html",
       "oF" : 0
+    },
+    "\/2024\/10_03\/img\/publica-determinat-presale_reminder-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 76968,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_03\/img\/publica-determinat-presale_reminder-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/10_03\/img\/publica-priveste_din_nou-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 60700,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_03\/img\/publica-priveste_din_nou-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/10_03\/publica.ro-2024_10_03-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_03\/publica.ro-2024_10_03-G-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/10_03\/publica.ro-2024_10_03-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_03\/publica.ro-2024_10_03-R-prod.html",
+      "oF" : 2
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
