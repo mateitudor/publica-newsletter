@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="ro" bgcolor="#DFECFA" style="background-color: #DFECFA;">
+	<head>
+		<title>*|MC:SUBJECT|*</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<!--[if !mso]><!-->
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+			<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Piazzolla:opsz,wght@8..30,400;8..30,700&display=swap" rel="stylesheet">
+		<!--<![endif]-->
+		<style type="text/css">
+			/* Client-specific styles */
+			html,
+			body,
+			div,
+			table,
+			td,
+			a {
+				margin: 0;
+				padding: 0;
+				-webkit-text-size-adjust: 100%;
+				-ms-text-size-adjust: 100%;
+				box-sizing: border-box;
+			}
+
+			table,
+			td {
+				mso-table-lspace: 0pt;
+				mso-table-rspace: 0pt;
+			}
+
+			img {
+				-ms-interpolation-mode: bicubic;
+			}
+
+			/* Resets */
+			body {
+				height: 100% !important;
+				margin: 0 !important;
+				padding: 0 !important;
+				width: 100% !important;
+			}
+
+			table {
+				border-collapse: collapse !important;
+			}
+
+			img {
+				border: 0;
+				height: auto;
+				line-height: 100%;
+				outline: none;
+				text-decoration: none;
+			}
+
+			p {
+				margin-top: 0;
+			}
+
+			p:last-of-type {
+				margin-bottom: 0;
+			}
+
+			/* iOS, Gmail & Samsung blue link override */
+			a[x-apple-data-detectors] {
+				color: inherit !important;
+				text-decoration: none !important;
+				font-size: inherit !important;
+				font-family: inherit !important;
+				font-weight: inherit !important;
+				line-height: inherit !important;
+			}
+
+			u+#body a {
+				color: inherit;
+				text-decoration: none;
+				font-size: inherit;
+				font-family: inherit;
+				font-weight: inherit;
+				line-height: inherit;
+			}
+
+			#MessageViewBody a {
+				color: inherit;
+				text-decoration: none;
+				font-size: inherit;
+				font-family: inherit;
+				font-weight: inherit;
+				line-height: inherit;
+			}
+
+			/* Styles */
+			.textHighlight {
+				background-color: #fff0ad;
+				color: #191718;
+				white-space: nowrap;
+				border-radius: 2px;
+				margin: 0 2px;
+				padding: 0px 8px 2px 8px !important;
+			}
+
+			.textHighlight-secondary {
+				background-color: #4649b8;
+				color: #FFFFFF;
+				white-space: nowrap;
+				border-radius: 2px;
+				margin: 0 2px;
+				padding: 0px 8px 2px 8px !important;
+			}
+
+			.keepTogether {
+				white-space: nowrap;
+			}
+
+			.linkInline,
+			.linkInline-secondary,
+			.linkImage {
+				transition: all 0.2s ease-in-out !important;
+			}
+
+				.linkInline:hover {
+					color: #191718 !important;
+					border-color: #191718 !important;
+				}
+
+				.linkInline-secondary:hover {
+					color: #FFFFFF !important;
+					border-color: #FFFFFF !important;
+				}
+
+				.backgroundDark .linkInline:hover {
+					color: #FFFFFF !important;
+					border-color: #FFFFFF !important;
+				}
+
+				.linkBlock,
+				.linkBlock-secondary,
+				.linkBlock-tertiary {
+					transition: all 0.4s ease-in-out !important;
+				}
+					.linkBlock:hover {
+						background-color: #33c8f6 !important;
+						color: #2d2d2d !important;
+					}
+					.linkBlock-secondary:hover {
+						background-color: #58e3ff !important;
+						color: #2d2d2d !important;
+					}
+					.linkBlock-tertiary:hover {
+						background-color: #5e7078 !important;
+						color: #FFFFFF !important;
+					}
+
+				.linkImage:hover {
+					transform: scale(0.995);
+				}
+
+			.abbreviation {
+				text-decoration: none;
+				border-bottom: 2px dotted #d9dfe3;
+			}
+
+			hr {
+				border: none;
+				height: 1px;
+				color: #D4D8E7;
+				background-color: #D4D8E7;
+				margin-top: 16px;
+				margin-bottom: 16px;
+			}
+
+			/* Mobile specific */
+			@media screen and (max-width: 767px) {
+				.section {
+					padding: 24px !important;
+				}
+
+				.card {
+					padding: 24px !important;
+				}
+
+				.spacer {
+					height: 1px !important;
+					font-size: 1px !important;
+					line-height: 1px !important;
+				}
+
+				.borderRadius {
+					border-radius: 0 !important;
+				}
+
+				p {
+					font-size: 18px !important;
+					line-height: 1.4 !important;
+				}
+
+				p a {
+					font-size: 18px !important;
+					letter-spacing: 0.4px;
+				}
+
+				cite a {
+					font-size: 18px !important;
+					letter-spacing: 0.4px;
+				}
+
+				/* Lecturi complementare */
+				.columnWrapper {
+					display: block !important;
+					width: 100% !important;
+				}
+
+				.column {
+					display: block !important;
+					width: 100% !important;
+					max-width: unset !important;
+				}
+
+				.imageContainer {
+					padding: 0px 0px 0px 12px !important;
+				}
+
+				.imageWidth-50 {
+					max-width: 50% !important;
+				}
+
+				.imageWidth-40 {
+					max-width: 40% !important;
+				}
+
+				.textContainer {
+					padding: 0px 36px 24px 24px !important;
+				}
+			}
+		</style>
+	</head>
+
+	<body bgcolor="#DFECFA" style="background-color: #eff0f2; margin: 0 !important; padding: 0 !important;">
+		<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody>
+				<tr style="display: block;">
+					<td class="spacer" width="100%" height="36" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 36px; line-height: 36px; text-decoration: none !important;"> &#xA0;</td>
+				</tr>
+			</tbody>
+		</table>
+		<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+
+		<div bgcolor="#DFECFA" style="background-color: #eff0f2; margin: 0 !important; padding: 0 !important; width: 100%;">
+			<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+			<div lang="ro" style="max-width: 636px; margin: 0 auto; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+				<main>
+					<div role="div">
+						<div class="section borderRadius" style="background-color: #FFFFFF; border-bottom: 1px solid #ededf7; padding: 48px 48px 24px 48px; border-radius: 28px 28px 0px 0px;">
+							<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+							<table class="col100" align="center" valign="middle" border="0" cellpadding="0" cellspacing="0" width="100%" style="display: block !important; box-sizing: border-box !important; width: 100% !important; max-width: 636px !important;">
+								<tbody align="center" valign="middle" border="0" cellpadding="0" cellspacing="0" width="100%" style="display: block !important; box-sizing: border-box !important;">
+									<tr valign="middle" style="display: block !important; box-sizing: border-box !important;">
+										<td width="350" style="font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34; box-sizing: border-box !important; text-align: left; color: #191718;">
+											<a class="linkImage" href="https://www.publica.ro/" title="Publica aduce idei" target="_blank" rel="noopener" style="display: block;">
+												<img src="https://newsletter.publica.ro/assets/img/id/publica.ro-logo-dark.png" alt="Logo-ul Editurii Publica" style="height: 18px !important; margin: 0; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+											</a>
+										</td>
+										<td width="350" style="font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34; box-sizing: border-box !important; text-align: right;">
+											<p style="color: #58e3ff; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; line-height: 1.34;"> Aduce idei</p>
+										</td>
+									</tr>
+								</tbody>
+							</table>
+							<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+						</div>
+						<div style="background-color: #f8f8f4;">
+							<a href="https://www.publica.ro/reduceri.html" style="display: block; text-align: center; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+								<img alt="-50% reducere în limita stocului disponibil" src="https://newsletter.publica.ro/2024/10_16/img/publica-2024_10_16-nobel_2024-nl_hero.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.34; letter-spacing: 0.2px; text-align: center; color: #191718; margin: 0 auto;">
+							</a>
+						</div>
+						<div class="section borderRadius" style="background-color: #FFFFFF; padding: 48px 48px 48px 48px; border-radius: 0px 0px 28px 28px;">
+							<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+								Ne-am început săptămâna cu o veste bună, așa că o amintim și aici: anul acesta Nobelul pentru economie a fost acordat lui Daron Acemoglu, Simon Johnson și James A. Robinson, autorii cărților <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/daron-acemoglu-simon-johnson-putere-si-progres.html" target="_blank" rel="noopener">Putere și progres</a> și <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/daron-acemoglu-james-robinson-coridorul-ingust.html" target="_blank" rel="noopener">Coridorul îngust</a>. Recomandăm cărțile lor, mai ales în acest an electoral, pentru că explică foarte bine lumea în care trăim și echilibrul fragil necesar pentru a avea societăți care se bucură de libertate și prosperitate.
+							</p>
+						</div>
+					</div>
+
+					<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr style="display: block;">
+								<td class="spacer" width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td>
+							</tr>
+						</tbody>
+					</table>
+					<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+
+					<div role="div">
+						<div class="section borderRadius" style="background-color: #FFFFFF; padding: 48px 48px 32px 48px; border-radius: 28px 28px 0 0;">
+							<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+								Ne bucurăm să anunțăm ediția în limba română a celei mai recente cărți semnate de directorul TED, Chris Anderson: <a class="linkInline keepTogether" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ed3434; color: #ed3434;" href="https://www.publica.ro/chris-anderson-generozitate-infectioasa.html" target="_blank" rel="noopener">Generozitate infecțioasă.</a>
+							</p>
+							<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+								Într-o vreme în care zilnic vedem atât de multe lucruri apăsătoare, inovatorul media ne readuce aminte de unul dintre cele mai definitorii impulsuri ale omenirii: suntem programați să fim generoși, precum și să răspundem la generozitatea altora.
+							</p>
+							<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+								Fără să nege importanța schimbării sistemice, cartea lui Anderson ne arată cum actele de generozitate de toate felurile pot să schimbe viața nu doar a celor implicați, ci și a celor care văd sau citesc despre situații în care bunătatea cuiva emoționează până la lacrimi și umple secțiunea de comentarii cu aprecieri precum „mi-am recăpătat încrederea în umanitate”.
+							</p>
+							<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+								Recomandăm această carte-manifest care ne spune de ce acum e momentul cel mai potrivit pentru generozitatea infecțioasă, pentru că ne ajută să ne întrebăm dacă fiecare dintre noi oferim mai mult decât primim și ce se va întâmpla atunci când majoritatea oamenilor se lasă conduși de această mentalitate.
+							</p><br/>
+							<div class="card" style="background-color: #fff0ad; padding: 40px; border-radius: 8px;">
+								<blockquote class="blockquote" style="padding: 0; margin: 0;">
+									<p class="paragraph" style="font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34; color: #191718;">„Concisă și profundă, această carte cu adevărat excelentă va avea un mare impact asupra problemelor-cheie ale timpurilor noastre.”</p>
+									<footer><cite style="color: #191718; display: block; margin-top: 12px; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 500; font-style: normal !important; line-height: 1.34; text-decoration: none;">— Alain de Botton</cite></footer>
+								</blockquote>
+							</div>
+						</div>
+						<div style="background-color: #ed3434;">
+							<a href="https://www.publica.ro/chris-anderson-generozitate-infectioasa.html" style="display: block; text-align: center; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+								<img alt="Coperta cărții „Generozitate infecțioasă, de Chris Anderson" src="https://newsletter.publica.ro/2024/10_16/img/publica-generozitate_infectioasa-book_launch-nl_hero.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.34; letter-spacing: 0.2px; text-align: center; color: #FFFFFF; margin: 0 auto;">
+							</a>
+						</div>
+						<div style="background-color: #ed3434; border-radius: 0px 0px 28px 28px; padding: 4px 48px 48px 48px;" class="section borderRadius">
+							<a class="linkBlock" href="https://www.publica.ro/chris-anderson-generozitate-infectioasa.html" target="_blank" style="display: block; background-color: #2c2829; color: #FFFFFF; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; line-height: 60px; text-decoration: none; text-align: center; width: 210px; -webkit-text-size-adjust:none; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; transition: background-color 0.4s ease; margin: 0 auto;">Comandă acum</a><br/>
+						</div>
+					</div>
+
+					<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr style="display: block;">
+								<td class="spacer" width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td>
+							</tr>
+						</tbody>
+					</table>
+					<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+
+					<article class="borderRadius" style="border-radius: 28px; background: #FFFFFF;">
+						<div class="section" style="padding: 48px 48px 4px 48px;">
+							<h3 style="color: #ed3434; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; margin: 0; padding: 0;">
+								Ofertă specială:
+							</h3>
+							<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+								Dacă adaugi în coș cartea nouă, împreună cu oricare dintre recomandările de mai jos, beneficiezi de <span class="textHighlight">20% discount</span> și la această carte. Oferta este valabilă în perioada <span class="textHighlight">16→20 octombrie</span>.
+							</p>
+						</div>
+						<div class="columnWrapper" style="display: table; table-layout: fixed; width: 100%; max-width: 636px; margin: 0px auto; padding: 0px;">
+							<div class="column imageContainer" style="display: table-cell; vertical-align: top; width: 30%; max-width: 210px; padding: 4px 4px 4px 32px;">
+								<a class="linkImage imageWidth-40" href="https://www.publica.ro/adam-grant-a-da-si-a-lua.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+									<img alt="Coperta cărții „A da și a lua” de Adam Grant" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-a_da_si_a_lua.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
+								</a>
+							</div>
+							<div class="column textContainer" style="display: table-cell; vertical-align: middle; width: 70%; max-width: 490px; padding: 4px 48px 4px 4px;">
+								<a class="linkInline" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #acadb7; color: #404a52;" href="https://www.publica.ro/adam-grant-a-da-si-a-lua.html" target="_blank" rel="noopener">A da și a lua</a><br/>
+								<p style="font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34; color: #191718;">
+									Adam Grant ne arată de ce, dintre tipologiile donator / profitor / negustor, cei care se bucură de mai mult succes pe termen lung sunt altruiștii.
+								</p>
+							</div>
+						</div>
+						<hr>
+						<div class="columnWrapper" style="display: table; table-layout: fixed; width: 100%; max-width: 636px; margin: 0px auto; padding: 0px;">
+							<div class="column imageContainer" style="display: table-cell; vertical-align: top; width: 30%; max-width: 210px; padding: 4px 4px 4px 32px;">
+								<a class="linkImage imageWidth-40" href="https://www.publica.ro/chris-anderson-ted-talks.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+									<img alt="Coperta cărții „TED Talks” de Adam Grant" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-ted_talks.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
+								</a>
+							</div>
+							<div class="column textContainer" style="display: table-cell; vertical-align: middle; width: 70%; max-width: 490px; padding: 4px 48px 4px 4px;">
+								<a class="linkInline" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #acadb7; color: #404a52;" href="https://www.publica.ro/chris-anderson-ted-talks.html" target="_blank" rel="noopener">TED Talks</a><br/>
+								<p style="font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34; color: #191718;">
+									De la Adam Grant recomandăm o carte care ne invită să avem o mentalitate de învățare continuă: să prețuim flexibilitatea mintală mai mult decât consecvența absurdă.
+								</p>
+							</div>
+						</div>
+						<br/>
+					</article>
+
+					<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr style="display: block;">
+								<td class="spacer" width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td>
+							</tr>
+						</tbody>
+					</table>
+					<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+
+					<div role="div">
+						<div class="borderRadius" style="background-color: #10bda1; border-radius: 28px 28px 0px 0px;">
+							<a href="https://www.publica.ro/reduceri.html" style="display: block; text-align: center; text-decoration: none; border: none !important; border-radius: 28px 28px 0px 0px;" target="_blank" rel="noopener" class="borderRadius">
+								<img alt="Coperțile cărților lui Valentin Lazea" src="https://newsletter.publica.ro/2024/10_03/img/publica-a_moral_history_of_monetary_and_fiscal_policies-book_launch-nl_hero.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.34; letter-spacing: 0.2px; text-align: center; color: #191718; margin: 0 auto;border-radius: 28px 28px 0px 0px;" class="borderRadius">
+							</a>
+						</div>
+						<div class="section borderRadius" style="background-color: #FFFFFF; padding: 48px 48px 48px 48px; border-radius: 0px 0px 28px 28px;">
+							<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+								Iată câteva recomandări de lecturi complementare noutății anunțate în acest newsletter și din lista cărților cu discount de 50%: <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/jamie-wheal-regasirea-sensului.html" target="_blank" rel="noopener">Regăsirea sensului</a> pentru că ne ajută să ne punem întrebările importante pentru noi, <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/daniel-pink-puterea-regretului.html" target="_blank" rel="noopener">Puterea regretului</a> pentru că ne arată cum să învățăm din greșeli și să ducem vieți mai împlinite și <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/amanda-ripley-conflict-distructiv.html" target="_blank" rel="noopener">Conflict distructiv</a> pentru că ne demonstrează că medierea sănătoasă a conflictelor ne ajută să evoluăm în bine.
+							</p><br/>
+							<a class="linkBlock" href="https://www.publica.ro/reduceri.html" target="_blank" style="display: block; background-color: #a4ff2e; color: #2d2d2d; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; line-height: 60px; text-decoration: none; text-align: center; width: 210px; -webkit-text-size-adjust:none; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; transition: background-color 0.4s ease;">Comandă cu -50%</a>
+						</div>
+					</div>
+
+					<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr style="display: block;">
+								<td class="spacer" width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td>
+							</tr>
+						</tbody>
+					</table>
+					<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+
+					<div role="div">
+						<div class="borderRadius" style="background-color: #10bda1; border-radius: 28px 28px 0px 0px;">
+							<a href="https://www.publica.ro/reduceri.html" style="display: block; text-align: center; text-decoration: none; border: none !important; border-radius: 28px 28px 0px 0px;" target="_blank" rel="noopener" class="borderRadius">
+								<img alt="Coperțile cărților lui Valentin Lazea" src="https://newsletter.publica.ro/2024/10_03/img/publica-a_moral_history_of_monetary_and_fiscal_policies-book_launch-nl_hero.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.34; letter-spacing: 0.2px; text-align: center; color: #191718; margin: 0 auto;border-radius: 28px 28px 0px 0px;" class="borderRadius">
+							</a>
+						</div>
+						<div class="section borderRadius" style="background-color: #FFFFFF; padding: 48px 48px 48px 48px; border-radius: 0px 0px 28px 28px;">
+							<h2 style="color: #99e100; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; padding: 0;">În încheiere, iată alte cărți Publica disponibile scrise de laureați Nobel:</h2>
+							<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+								<a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/daniel-kahneman-gandire-rapida-gandire-lenta.html" target="_blank" rel="noopener">Gândire rapidă, gândire lentă</a> de Daniel Kahneman, <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/richard-thaler-cass-sunstein-nudge-editia-finala.html" target="_blank" rel="noopener">Nudge</a> și <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/richard-thaler-comportament-inadecvat.html" target="_blank" rel="noopener">Comportament inadecvat</a> de Richard Thaler, iar din <em>Co-lecția de economie</em>, în limita stocului disponibil: <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/alvin-roth-cine-ce-primeste-si-de-ce.html" target="_blank" rel="noopener">Cine ce primește și de ce</a> de Alvin Roth, <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/paul-krugman-opriti-aceasta-depresiune-acum.html" target="_blank" rel="noopener">Opriți această depresiune acum!</a> de Paul Krugman, <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/akerlof-kranton-economia-identitatii.html" target="_blank" rel="noopener">Economia identității</a> de George Akerlof, <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/joseph-stiglitz-marea-divizare.html" target="_blank" rel="noopener">Marea divizare</a> de Joseph Stiglitz și <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/gary-becker-richard-posner-simtul-iesit-din-comun.html" target="_blank" rel="noopener">Simțul ieșit din comun</a> de Gary Becker.
+							</p>
+							<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+								La aceste cărți, recomandăm două biografii scrise de Walter Isaacson despre doi oameni de știință care au primit și ei Nobelul: <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/walter-isaacson-spargatoarea-de-coduri.html" target="_blank" rel="noopener">Jennifer Doudna</a> și <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/walter-isaacson-einstein.html" target="_blank" rel="noopener">Einstein</a>.
+							</p><br/>
+							<h3 style="color: #99e100; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; margin: 0; padding: 0;">Lecturi bune și învățături înțelepte să avem!</h3>
+						</div>
+					</div>
+
+					<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+					<table border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+							<tr style="display: block;">
+								<td class="spacer" width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td>
+							</tr>
+						</tbody>
+					</table>
+					<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+
+					<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+					<div role="div" class="footer section" aria-label="Detalii despre editura Publica" lang="ro" style=" color: #191718; text-align: left; margin: 0 auto; max-width: 636px; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">
+						<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.34; letter-spacing: 0.2px;">
+							Editura Publica <br/>
+							Ne poți vizita pe <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" title="Adresa pe Google Maps" href="https://goo.gl/maps/4DtyqHU1i3QYEpbs5" target="_blank" rel="noopener">B-dul Pache Protopopescu, nr. 11, etajul 2</a>.<br>
+							Scrie-ne pe <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" title="carte@publica.ro (se deschide într-un tab nou)" href="mailto:carte@publica.ro" target="_blank" rel="noopener">carte@publica.ro</a>
+						</p>
+						<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.34; letter-spacing: 0.2px;"> Urmărește-ne și pe:<br/>
+							<a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.goodreads.com/user/show/56158609-editura-publica" target="_blank" rel="noopener">Goodreads</a> ·
+							<a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.instagram.com/editurapublica" target="_blank" rel="noopener">Instagram</a> ·
+							<a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.facebook.com/editurapublica" target="_blank" rel="noopener">Facebook</a> ·
+							<a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.pinterest.com/editurapublica" target="_blank" rel="noopener">Pinterest</a> ·
+							<a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.youtube.com/user/meetthethinkers" target="_blank" rel="noopener">Youtube</a> ·
+							<a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://twitter.com/edituraPublica" target="_blank" rel="noopener">Twitter</a> ·
+							<a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://blog.publica.ro" target="_blank" rel="noopener">Blog</a>
+						</p>
+						<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.34; letter-spacing: 0.2px;"> *|IF:FNAME|**|TITLE:FNAME|*, primești *|ELSE:|*Primești*|END:IF|* acest newsletter pentru că te-ai abonat la noutățile editurii Publica. Aici poți să <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="*|UPDATE_PROFILE|*" target="_blank" rel="noopener">editezi setările</a> acestui newsletter. Dacă vrei, de aici <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="*|UNSUB|*" target="_blank" rel="noopener">te poți dezabona</a>. </p>
+						<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.34; letter-spacing: 0.2px;"> Citește termenii și condițiile privind <a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.publica.ro/termeni-si-conditii.html" target="_blank" rel="noopener">confidențialitatea datelor</a>.<br/>
+							<a class="linkInline" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="*|ARCHIVE|*" target="_blank" rel="noopener">Vezi în browser</a>
+						</p>
+					</div>
+					<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+				</main>
+			</div>
+			<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+
+			<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody>
+					<tr style="display: block;">
+						<td class="spacer" width="100%" height="36" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 36px; line-height: 36px; text-decoration: none !important;"> &#xA0;</td>
+					</tr>
+				</tbody>
+			</table>
+			<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+		</div>
+	</body>
+</html>
