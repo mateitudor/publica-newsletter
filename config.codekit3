@@ -40979,7 +40979,7 @@
     },
     "\/2024\/10_16\/img\/publica-generozitate_infectioasa-book_launch-nl_hero.jpg" : {
       "ft" : 16384,
-      "iS" : 1288321,
+      "iS" : 830775,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/10_16\/img\/publica-generozitate_infectioasa-book_launch-nl_hero.jpg",
@@ -40997,6 +40997,14 @@
       "oA" : 0,
       "oAP" : "\/2024\/10_16\/publica.ro-2024_10_16-G-prod.html",
       "oF" : 2
+    },
+    "\/2024\/10_16\/publica.ro-2024_10_16-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_16\/publica.ro-2024_10_16-G-prod.html",
+      "oF" : 0
     },
     "\/2024\/10_16\/publica.ro-2024_10_16-R-dev.html" : {
       "cB" : 0,
