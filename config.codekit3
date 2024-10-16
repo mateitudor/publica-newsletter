@@ -40946,7 +40946,7 @@
       "oAP" : "\/2024\/10_16\/img\/publica-2024_10_16-more_nobel_2024-nl_hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 0,
+      "opt" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -40989,6 +40989,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/2024\/10_16\/publica.ro-2024_10_16-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_16\/publica.ro-2024_10_16-G-prod.html",
+      "oF" : 2
     },
     "\/2024\/10_16\/publica.ro-2024_10_16-R-dev.html" : {
       "cB" : 0,
