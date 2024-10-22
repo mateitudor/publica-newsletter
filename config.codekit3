@@ -41022,6 +41022,58 @@
       "oAP" : "\/2024\/10_16\/publica.ro-2024_10_16-R-prod.html",
       "oF" : 0
     },
+    "\/2024\/10_22\/img\/publica-tombabe-hero.gif" : {
+      "ft" : 4194304,
+      "iS" : 1694628,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_22\/img\/publica-tombabe-hero.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/2024\/10_22\/img\/publica.ro-2024_10_22-audiobooks-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 3271811,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_22\/img\/publica.ro-2024_10_22-audiobooks-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/10_22\/img\/publica.ro-2024_10_22-ebooks-hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 190649,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_22\/img\/publica.ro-2024_10_22-ebooks-hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/10_22\/publica.ro-2024_10_22-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_22\/publica.ro-2024_10_22-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/10_22\/publica.ro-2024_10_22-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_22\/publica.ro-2024_10_22-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 7842,
