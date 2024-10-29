@@ -41121,6 +41121,14 @@
       "oAP" : "\/2024\/10_29\/publica.ro-2024_10_29-R-prod.html",
       "oF" : 2
     },
+    "\/2024\/10_29\/publica.ro-2024_10_29-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_29\/publica.ro-2024_10_29-R-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 7842,
@@ -41270,6 +41278,19 @@
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-algebra_fericirii.png" : {
+      "ft" : 32768,
+      "iS" : 108715,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-algebra_fericirii.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 90,
@@ -43490,6 +43511,19 @@
       "iS" : 14461,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-peak.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-post_corona.png" : {
+      "ft" : 32768,
+      "iS" : 109949,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-post_corona.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
