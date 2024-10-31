@@ -41121,6 +41121,14 @@
       "oAP" : "\/2024\/10_29\/publica.ro-2024_10_29-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/10_29\/publica.ro-2024_10_29-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_29\/publica.ro-2024_10_29-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/10_29\/publica.ro-2024_10_29-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -41135,6 +41143,61 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2024\/10_29\/publica.ro-2024_10_29-R-prod.html",
+      "oF" : 0
+    },
+    "\/2024\/10_31\/img\/publica-2024_10_31-lingura_care_dispare-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 542095,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_31\/img\/publica-2024_10_31-lingura_care_dispare-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/10_31\/img\/publica-2024_10_31-promo-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 60134,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_31\/img\/publica-2024_10_31-promo-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/10_31\/img\/publica-cum_sa_devii_faimos-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 1271759,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_31\/img\/publica-cum_sa_devii_faimos-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/10_31\/publica.ro-2024_10_31-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_31\/publica.ro-2024_10_31-R-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/10_31\/publica.ro-2024_10_31-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/10_31\/publica.ro-2024_10_31-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -42864,6 +42927,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-determinat.png" : {
+      "ft" : 32768,
+      "iS" : 105581,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-determinat.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-dilema_omnivorului.png" : {
       "ft" : 32768,
       "iS" : 39934,
@@ -43319,6 +43395,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nudge_editia_finala.png" : {
+      "ft" : 32768,
+      "iS" : 22405,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nudge_editia_finala.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-nudge.png" : {
       "ft" : 32768,
       "iS" : 37449,
@@ -43558,6 +43647,19 @@
       "iS" : 56665,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-povestitorul.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-priveste_din_nou.png" : {
+      "ft" : 32768,
+      "iS" : 104436,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-priveste_din_nou.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
