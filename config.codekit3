@@ -41216,6 +41216,48 @@
       "oAP" : "\/2024\/10_31\/publica.ro-2024_10_31-R-prod.html",
       "oF" : 0
     },
+    "\/2024\/11_05\/img\/publica-black_friday_2024-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 146280,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_05\/img\/publica-black_friday_2024-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/11_05\/img\/publica-dilema_inovatorului-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 210498,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_05\/img\/publica-dilema_inovatorului-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/11_05\/publica.ro-2024_11_05-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_05\/publica.ro-2024_11_05-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/11_05\/publica.ro-2024_11_05-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_05\/publica.ro-2024_11_05-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 7842,
