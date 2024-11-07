@@ -41258,6 +41258,35 @@
       "oAP" : "\/2024\/11_05\/publica.ro-2024_11_05-prod.html",
       "oF" : 0
     },
+    "\/2024\/11_08\/img\/publica-black_friday_2024-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 150686,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_08\/img\/publica-black_friday_2024-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/11_08\/publica.ro-2024_11_08-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_08\/publica.ro-2024_11_08-prod.html",
+      "oF" : 2
+    },
+    "\/2024\/11_08\/publica.ro-2024_11_08-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_08\/publica.ro-2024_11_08-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 7842,
