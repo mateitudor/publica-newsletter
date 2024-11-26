@@ -41355,6 +41355,61 @@
       "oAP" : "\/2024\/11_20\/publica.ro-2024_11_20-prod.html",
       "oF" : 0
     },
+    "\/2024\/11_26\/img\/publica-2024_11_26-audiobooks-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 700476,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_26\/img\/publica-2024_11_26-audiobooks-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/11_26\/img\/publica-2024_11_26-promo-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 60134,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_26\/img\/publica-2024_11_26-promo-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/11_26\/img\/publica-regii_banilor-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 857567,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_26\/img\/publica-regii_banilor-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/11_26\/publica.ro-2024_11_26-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_26\/publica.ro-2024_11_26-prod.html",
+      "oF" : 3
+    },
+    "\/2024\/11_26\/publica.ro-2024_11_26-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_26\/publica.ro-2024_11_26-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 7842,
@@ -43589,6 +43644,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_istorie_morala_a_politicilor_monetare_si_fiscale.png" : {
+      "ft" : 32768,
+      "iS" : 89659,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_istorie_morala_a_politicilor_monetare_si_fiscale.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-o_lume_fara_e_mail.png" : {
       "ft" : 32768,
       "iS" : 38647,
@@ -44179,6 +44247,19 @@
       "iS" : 17181,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-zece_materiale_minune.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/id\/publica.ro-logo-bk_light.png" : {
+      "ft" : 32768,
+      "iS" : 3615,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/id\/publica.ro-logo-bk_light.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
