@@ -296,13 +296,16 @@
 
 			/* Mobile specific */
 			@media screen and (max-width: 767px) {
-				body, html,
+				html,
 				.containerDarkmode,
 				.sectionSpacer {
 					background-color: transparent !important;
 				}
 
 				.section {
+					padding: 24px !important;
+				}
+				.sectionDarkmode {
 					padding: 24px 0 !important;
 				}
 				.sectionHeader {
@@ -357,6 +360,15 @@
 
 			/* Dark mode + Mobile specific */
 			@media (prefers-color-scheme: dark) and (max-width: 767px) {
+				html,
+				.containerDarkmode,
+				.sectionSpacer,
+				.sectionSpacer-inner {
+					background-color: #1a1a1a !important;
+				}
+					.sectionSpacer-line {
+						background-color: #2d2d2d !important;
+					}
 				.sectionDarkmode {
 					background-color: transparent !important;
 				}
