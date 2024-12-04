@@ -41415,12 +41415,20 @@
       "oAP" : "\/2024\/11_27\/publica.ro-2024_11_27-G-prod.html",
       "oF" : 2
     },
+    "\/2024\/11_27\/publica.ro-2024_11_27-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/11_27\/publica.ro-2024_11_27-G-prod.html",
+      "oF" : 0
+    },
     "\/2024\/11_27\/publica.ro-2024_11_27-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 2,
       "oA" : 0,
-      "oAP" : "\/2024\/11_27\/publica.ro-2024_11_27-R-prod.html",
+      "oAP" : "\/2024\/12_04\/publica.ro-2024_11_27-R-prod.html",
       "oF" : 3
     },
     "\/2024\/11_27\/publica.ro-2024_11_27-R-prod.html" : {
@@ -41430,6 +41438,53 @@
       "oA" : 0,
       "oAP" : "\/2024\/11_27\/publica.ro-2024_11_27-R-prod.html",
       "oF" : 0
+    },
+    "\/2024\/12_04\/img\/publica-2024_12_04-dark_cockpit-meet_greet-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 344085,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/12_04\/img\/publica-2024_12_04-dark_cockpit-meet_greet-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/12_04\/img\/publica-2024_12_04-gaudeamus_2024-nl_hero-01.jpg" : {
+      "ft" : 16384,
+      "iS" : 140074,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/12_04\/img\/publica-2024_12_04-gaudeamus_2024-nl_hero-01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/12_04\/img\/publica-2024_12_04-gaudeamus_2024-nl_hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 374336,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2024\/12_04\/img\/publica-2024_12_04-gaudeamus_2024-nl_hero-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2024\/12_04\/publica.ro-2024_12_04-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2024\/12_04\/publica.ro-2024_12_04-prod.html",
+      "oF" : 2
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
