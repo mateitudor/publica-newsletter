@@ -41622,6 +41622,82 @@
       "oAP" : "\/2025\/01_14\/publica.ro-2025_01_14-prod.html",
       "oF" : 2
     },
+    "\/2025\/01_14\/publica.ro-2025_01_14-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/01_14\/publica.ro-2025_01_14-prod.html",
+      "oF" : 0
+    },
+    "\/2025\/02_13\/img\/publica_audio-2025_02_13-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 1041432,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/02_13\/img\/publica_audio-2025_02_13-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2025\/02_13\/img\/publica.ro-2025_02_13-brandminds-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 620274,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/02_13\/img\/publica.ro-2025_02_13-brandminds-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2025\/02_13\/img\/publica.ro-2025_02_13-in_curand-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 414908,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/02_13\/img\/publica.ro-2025_02_13-in_curand-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2025\/02_13\/img\/publica.ro-2025_02_13-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 389708,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/02_13\/img\/publica.ro-2025_02_13-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2025\/02_13\/publica.ro-2025_02_13-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/02_13\/publica.ro-2025_02_13-prod.html",
+      "oF" : 2
+    },
+    "\/2025\/02_13\/publica.ro-2025_02_13-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/02_13\/publica.ro-2025_02_13-prod.html",
+      "oF" : 0
+    },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
       "iS" : 7842,
