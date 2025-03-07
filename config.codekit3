@@ -41859,19 +41859,6 @@
       "oAP" : "\/2025\/03_03\/publica.ro-2025_03_03-R-prod.html",
       "oF" : 0
     },
-    "\/2025\/03_07\/img\/publica-2025_03_03-hero_01.jpg" : {
-      "ft" : 16384,
-      "iS" : 329656,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/2025\/03_07\/img\/publica-2025_03_03-hero_01.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/2025\/03_07\/img\/publica-2025_03_07-hero-02.jpg" : {
       "ft" : 16384,
       "iS" : 524666,
@@ -41885,21 +41872,13 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/2025\/03_07\/publica.ro-2025_03_03-G-dev.html" : {
+    "\/2025\/03_07\/publica.ro-2025_03_07-G-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/2025\/03_07\/publica.ro-2025_03_03-G-dev.html",
-      "oF" : 0
-    },
-    "\/2025\/03_07\/publica.ro-2025_03_03-G-prod.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/2025\/03_07\/publica.ro-2025_03_03-G-prod.html",
-      "oF" : 0
+      "oAP" : "\/2025\/03_07\/publica.ro-2025_03_07-G-prod.html",
+      "oF" : 2
     },
     "\/2025\/03_07\/publica.ro-2025_03_07-R-dev.html" : {
       "cB" : 0,
