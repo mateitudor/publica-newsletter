@@ -41814,15 +41814,15 @@
       "oAP" : "\/2025\/02_26\/publica.ro-2025_02_26-R-prod.html",
       "oF" : 0
     },
-    "\/2025\/03_03\/img\/publica-2025_03_07-hero-02.jpg" : {
+    "\/2025\/03_03\/img\/publica-2025_03_03-hero_01.jpg" : {
       "ft" : 16384,
-      "iS" : 524666,
+      "iS" : 329656,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/2025\/03_03\/img\/publica-2025_03_07-hero-02.jpg",
+      "oAP" : "\/2025\/03_03\/img\/publica-2025_03_03-hero_01.jpg",
       "oF" : 0,
       "oIPL" : 0,
-      "opt" : 1,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -41865,6 +41865,19 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/2025\/03_07\/img\/publica-2025_03_03-hero_01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2025\/03_07\/img\/publica-2025_03_07-hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 524666,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_07\/img\/publica-2025_03_07-hero-02.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
