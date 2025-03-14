@@ -41880,6 +41880,14 @@
       "oAP" : "\/2025\/03_07\/publica.ro-2025_03_07-G-prod.html",
       "oF" : 2
     },
+    "\/2025\/03_07\/publica.ro-2025_03_07-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_07\/publica.ro-2025_03_07-G-prod.html",
+      "oF" : 0
+    },
     "\/2025\/03_07\/publica.ro-2025_03_07-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -41894,6 +41902,48 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/2025\/03_07\/publica.ro-2025_03_07-R-prod.html",
+      "oF" : 0
+    },
+    "\/2025\/03_14\/img\/publica-2025_03_14-hero-01.jpg" : {
+      "ft" : 16384,
+      "iS" : 487087,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_14\/img\/publica-2025_03_14-hero-01.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2025\/03_14\/img\/publica-2025_03_14-hero-02.jpg" : {
+      "ft" : 16384,
+      "iS" : 588733,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_14\/img\/publica-2025_03_14-hero-02.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2025\/03_14\/publica.ro-2025_03_14-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_14\/publica.ro-2025_03_14-R-prod.html",
+      "oF" : 2
+    },
+    "\/2025\/03_14\/publica.ro-2025_03_14-R-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_14\/publica.ro-2025_03_14-R-prod.html",
       "oF" : 0
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
@@ -43844,6 +43894,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-generozitate_infectioasa.png" : {
+      "ft" : 32768,
+      "iS" : 136008,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-generozitate_infectioasa.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-geniul_criminal_din_spatele_silk_road.png" : {
       "ft" : 32768,
       "iS" : 122711,
@@ -44486,6 +44549,19 @@
       "iS" : 47438,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-quit.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-ratiune_pentru_a_fi_fericiti.png" : {
+      "ft" : 32768,
+      "iS" : 87794,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-ratiune_pentru_a_fi_fericiti.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,

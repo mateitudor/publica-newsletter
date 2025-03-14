@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="ro" bgcolor="#DFECFA" style="background-color: #DFECFA;">
+	<head>
+		<title>*|MC:SUBJECT|*</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<!--[if !mso]><!-->
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+			<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+			<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Piazzolla:opsz,wght@8..30,400;8..30,700&display=swap" rel="stylesheet">
+		<!--<![endif]-->
+		<style type="text/css">
+			/* Client-specific styles */
+			html,
+			body,
+			div,
+			table,
+			td,
+			a {
+				margin: 0;
+				padding: 0;
+				-webkit-text-size-adjust: 100%;
+				-ms-text-size-adjust: 100%;
+				box-sizing: border-box;
+			}
+
+			table,
+			td {
+				mso-table-lspace: 0pt;
+				mso-table-rspace: 0pt;
+			}
+
+			img {
+				-ms-interpolation-mode: bicubic;
+			}
+
+			/* Resets */
+			/* ========================================================= */
+
+				html, body {
+					height: 100% !important;
+					margin: 0 !important;
+					padding: 0 !important;
+					width: 100% !important;
+				}
+
+				table {
+					border-collapse: collapse !important;
+				}
+
+				img {
+					border: 0;
+					height: auto;
+					line-height: 100%;
+					outline: none;
+					text-decoration: none;
+				}
+
+				p {
+					color: #191718;
+					margin-top: 0;
+				}
+					p:last-of-type {
+						margin-bottom: 0;
+					}
+
+				/* iOS, Gmail & Samsung blue link override */
+				a[x-apple-data-detectors] {
+					color: inherit !important;
+					text-decoration: none !important;
+					font-size: inherit !important;
+					font-family: inherit !important;
+					font-weight: inherit !important;
+					line-height: inherit !important;
+				}
+				u+#body a {
+					color: inherit;
+					text-decoration: none;
+					font-size: inherit;
+					font-family: inherit;
+					font-weight: inherit;
+					line-height: inherit;
+				}
+				#MessageViewBody a {
+					color: inherit;
+					text-decoration: none;
+					font-size: inherit;
+					font-family: inherit;
+					font-weight: inherit;
+					line-height: inherit;
+				}
+
+			/* Styles */
+			/* ========================================================= */
+
+
+			/* Layout */
+			/* ————————————————————————————————————————————————————————— */
+
+				body, html,
+				.containerDarkmode,
+				.sectionSpacer {
+					background-color: #eff0f2;
+				}
+
+					.sectionSpacer-inner {
+						display: block;
+						border-collapse: collapse;
+						font-size: 40px;
+						line-height: 40px;
+					}
+
+						.sectionSpacer-line {
+							display: block;
+							border-collapse: collapse;
+							background-color: #D4D8E7;
+							font-size: 1px;
+							line-height: 1px;
+						}
+
+				/* Helper classes */
+				/* ————————————————————————————————————————————————————————— */
+
+					.textHighlight {
+						font-family: 'Atkinson Hyperlegible', sans-serif !important;
+						border-radius: 2px;
+						margin: 0 2px;
+						padding: 2px 8px 1px 8px !important;
+						box-decoration-break: clone;
+						-webkit-box-decoration-break: clone;
+						white-space: nowrap;
+					}
+						.textHighlight-primary {
+							background-color: #dceeff;
+							color: #191718;
+						}
+
+						.textHighlight-secondary {
+							background-color: #cfd0cb;
+							color: #191718;
+						}
+
+					.keepTogether {
+						white-space: nowrap;
+					}
+
+					.abbreviation {
+						text-decoration: none;
+						border-bottom: 2px dotted #d9dfe3;
+					}
+
+				/* Links */
+				/* ————————————————————————————————————————————————————————— */
+
+					.linkInline {
+						transition: all 0.2s ease-in-out !important;
+					}
+						.linkInline-primary:hover {
+							color: #db6f41 !important;
+							border-color: #db6f41 !important;
+							text-decoration-color: #db6f41 !important;
+						}
+						.linkInline-secondary:hover {
+							color: #191718 !important;
+							border-color: #191718 !important;
+						}
+						.linkInline-tertiary:hover {
+							color: #369104 !important;
+							border-color: #369104 !important;
+						}
+						.linkInline-quaternary:hover {
+							color: #191718 !important;
+							border-color: #191718 !important;
+						}
+
+				/* Buttons */
+				/* ————————————————————————————————————————————————————————— */
+
+					.linkBlock {
+						transition: all 0.4s ease-in-out !important;
+					}
+
+						.linkBlock-primary:hover {
+							background-color: #0057a5 !important;
+							color: #FFFFFF !important;
+						}
+
+						.linkBlock-secondary:hover {
+							background-color: #00c4b6 !important;
+							color: #FFFFFF !important;
+						}
+
+						.linkBlock-tertiary:hover {
+							background-color: #6d8e99 !important;
+							color: #FFFFFF !important;
+						}
+
+
+
+
+			/* Dark mode */
+			/* ========================================================= */
+
+			@media (prefers-color-scheme: dark) {
+				body, html,
+				.containerDarkmode,
+				.sectionSpacer {
+					background-color: #1a1a1a !important;
+				}
+
+				.sectionHeader {
+					background-color: #FFFFFF !important;
+					border-bottom: 1px solid #FFFFFF !important;
+				}
+					.sectionHeader .tagline {
+						color: #00c4b6 !important;
+					}
+				
+				.sectionDarkmode {
+					background-color: #2d2d2d !important;
+				}
+
+				.sectionFooter p,
+				.sectionFooter li,
+				.sectionFooter .linkInline-quaternary {
+					color: #898989 !important;
+					border-color: #4d4d4d !important;
+				}
+					.sectionFooter .linkInline-quaternary:hover {
+						color: #FFFFFF !important;
+						border-color: #FFFFFF !important;
+					}
+				
+				.sectionSpacer-inner {
+					background-color: #2d2d2d !important;
+				}
+					.sectionSpacer-line {
+						background-color: #1a1a1a !important;
+					}
+
+				/* Text */
+				/* ————————————————————————————————————————————————————————— */
+				.sectionDarkmode h3 {
+					color: #65ce7e !important;
+				}
+				.sectionDarkmode p,
+				.sectionDarkmode li {
+					color: #FFFFFF !important;
+				}
+
+				/* Inline links */
+				/* ————————————————————————————————————————————————————————— */
+				.sectionDarkmode .linkInline-primary {
+					color: #FFFFFF !important;
+					border-color: #db6f41 !important;
+					text-decoration-color: #db6f41 !important;
+				}
+					.sectionDarkmode .linkInline-primary:hover {
+						color: #FFFFFF !important;
+						border-color: #FFFFFF !important;
+						text-decoration-color: #FFFFFF !important;
+					}
+					
+					.sectionDarkmode .linkInline-secondary {
+						color: #27a1ff !important;
+						border-color: #27a1ff !important;
+						text-decoration-color: #27a1ff !important;
+					}
+					.sectionDarkmode .linkInline-secondary:hover {
+						color: #FFFFFF !important;
+						border-color: #FFFFFF !important;
+					}
+
+				.sectionDarkmode .linkInline-tertiary {
+					color: #FFFFFF !important;
+					border-color: #00c4b6 !important;
+				}
+					.sectionDarkmode .linkInline-tertiary:hover {
+						color: #FFFFFF !important;
+						border-color: #FFFFFF !important;
+					}
+
+				.sectionDarkmode .linkInline-quaternary {
+					color: #e6e6e6 !important;
+					border-color: #88a2b4 !important;
+				}
+					.sectionDarkmode .linkInline-quaternary:hover {
+						color: #FFFFFF !important;
+						border-color: #FFFFFF !important;
+					}
+
+				.sectonDarkmode .linkBlock-primary {
+					color: #09112f !important;
+				}
+					.sectonDarkmode .linkBlock-primary:hover {
+						background-color: #00c4b6 !important;
+					}
+
+				
+				.sectionDarkmode .card {
+					background-color: #252525 !important;
+				}
+						.sectionDarkmode .card .blockquote p {
+							color: #e6e6e6 !important;
+						}
+						.sectionDarkmode .card .blockquote cite {
+							color: #27a1ff !important;
+						}
+
+				.sectionDarkmode .textHighlight-primary {
+					background-color: #db6f41 !important;
+					color: #FFFFFF !important;
+				}
+				.sectionDarkmode .textHighlight-secondary {
+					background-color: #00c4b6 !important;
+					color: #09112f !important;
+				}
+			}
+
+			/* Mobile specific */
+			@media screen and (max-width: 767px) {
+				html,
+				.containerDarkmode,
+				.sectionSpacer {
+					background-color: transparent !important;
+				}
+					.sectionSpacer td {
+						height: 1px !important;
+						font-size: 1px !important;
+						line-height: 1px !important;
+					}
+
+				.section {
+					padding: 24px !important;
+				}
+				.sectionDarkmode {
+					padding: 24px !important;
+				}
+				.sectionHeader {
+					padding: 24px !important;
+				}
+				.sectionFooter {
+					background-color: transparent !important;
+				}
+
+				.card {
+					padding: 24px !important;
+				}
+
+				.borderRadius {
+					border-radius: 0 !important;
+				}
+
+				p,
+				p a,
+				cite a {
+					font-size: 19px !important;
+					line-height: 1.4 !important;
+					letter-spacing: 0.4px;
+				}
+
+				.reverseColumnOrder {
+					display: table !important;
+				}
+
+				.reverseColumnOrder td:first-child {
+					display: table-footer-group !important;
+				}
+				.reverseColumnOrder td:last-child {
+					display: table-header-group !important;
+				}
+
+				.columnWrapper {
+					display: block !important;
+					width: 100% !important;
+					max-width: 100% !important;
+					text-align: center !important;
+
+				}
+
+					.column {
+						display: block !important;
+						width: 100% !important;
+					}
+
+					.imageContainer img{
+						margin: 0px 0px 20px 0px !important;
+						width: 200px !important;
+						max-width: 200px !important;
+					}
+			}
+
+			/* Dark mode + Mobile specific */
+			@media (prefers-color-scheme: dark) and (max-width: 767px) {
+				html,
+				.containerDarkmode,
+				.sectionSpacer,
+				.sectionSpacer-inner {
+					background-color: #1a1a1a !important;
+				}
+					.sectionSpacer-line {
+						background-color: #2d2d2d !important;
+					}
+				.sectionDarkmode {
+					background-color: #1a1a1a !important;
+				}
+			}
+
+			@media screen and (max-width: 767px) {
+				.columnWrapper {
+					display: block !important;
+					width: 100% !important;
+					max-width: 100% !important;
+				}
+			}
+		</style>
+	</head>
+
+	<body class="containerDarkmode" bgcolor="#DFECFA" style="background-color: #eff0f2; margin: 0 !important; padding: 0 !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;">
+		<table class="containerDarkmode" role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="margin: 0; padding: 0;">
+			<tr>
+				<td style="margin: 0; padding: 0;">
+					<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td></tr></table>
+					<div class="containerDarkmode" bgcolor="#DFECFA" style="background-color: #eff0f2; margin: 0 !important; padding: 0 !important; width: 100%;">
+						<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+						<div lang="ro" style="max-width: 636px; margin: 0 auto; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+							<main>
+								<div role="div">
+									<div class="sectionHeader borderRadius" style="background-color: #FFFFFF; padding: 48px 48px 24px 48px; border-radius: 28px 28px 0px 0px;">
+										<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+										<table class="col100" align="center" valign="middle" border="0" cellpadding="0" cellspacing="0" width="100%" style="display: block !important; box-sizing: border-box !important; width: 100% !important; max-width: 636px !important;">
+											<tbody align="center" valign="middle" border="0" cellpadding="0" cellspacing="0" width="100%" style="display: block !important; box-sizing: border-box !important;">
+												<tr valign="middle" style="display: block !important; box-sizing: border-box !important;">
+													<td width="350" style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1; box-sizing: border-box !important; text-align: left; color: #191718;">
+														<a class="linkImage" href="https://www.publica.ro/" title="Publica aduce idei" target="_blank" rel="noopener" style="display: block;">
+															<img src="https://newsletter.publica.ro/assets/img/id/publica.ro-logo-dark.png" alt="Logo-ul Editurii Publica" style="height: 20px !important; margin: 0;">
+														</a>
+													</td>
+													<td width="350" style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1; box-sizing: border-box !important; text-align: right;">
+														<p class="tagline" style="color: #384caa; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 20px; font-weight: 400; line-height: 1.5; margin: 0; padding: 0;" aria-label="Sloganul Publica: Aduce idei">Aduce idei</p>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+										<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+									</div>
+									<div class="section sectionDarkmode" style="background-color: #FFFFFF; padding: 40px 48px 48px 48px;">
+										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; text-wrap: pretty;">
+											În opinia celor care au participat la ediția online Brand Minds 2020, Neil Pasricha a fost unul dintre speakerii care a adunat foarte multe aprecieri. Ne bucurăm că în această toamnă va veni să se întâlnească față în față cu publicul din România și nu numai.
+										</p>
+										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; text-wrap: pretty;">
+											Autor de succes, consultant pentru mulți lideri importanți și speaker admirat, Neil reușește să ne amintească ceea ce contează cu adevărat în viață și cum să prioritizăm aceste lucruri.
+										</p>
+										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; text-wrap: pretty;">
+											În cartea <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/neil-pasricha-ecuatia-fericirii-editia-ii.html" target="_blank" rel="noopener">Ecuația fericirii</a> răspunde la întrebarea: care este cea mai simplă formulă a fericirii? Căutarea lui Neil a început după ce a constatat că nici măcar oamenii care păreau că aveau totul nu sunt fericiți. Inevitabil, apar discuțiile despre lupta de a ne găsi echilibrul, despre cât de ocupați ne simțim în majoritatea timpului și despre cât de greu pare că ne e să ținem pasul cu alții. Indiferent de statut, mulți oameni declară că nu au suficientă libertate în viață, că sunt stresați din cauza timpului și banilor sau că se simt împovărați de decizii nesfârșite, în ciuda faptului că bifează multe lucruri de pe liste.
+										</p>
+										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; text-wrap: pretty;">
+											Ne reamintește că modelul cu care creștem <span class="textHighlight textHighlight-primary">Învață din greu! → O să ai o carieră minunată → Fii fericit!</span> nu e în ordinea corectă și că ar trebui să începem să ne focusăm pe etapa care nu ne condiționează starea de bine:
+										</p><br/>
+										<a class="borderRadius" href="https://www.youtube.com/watch?v=203j1cuXZDE" style="display: block; text-align: center; text-decoration: none; border: none !important; border-radius: 8px 8px 8px 8px;" target="_blank" rel="noopener">
+											<img class="borderRadius" alt="Coperta cărții „Meditații pentru muritori”, de Oliver Burkeman" src="img/publica-2025_03_14-hero-01.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px; text-align: center; color: #191718; margin: 0 auto; border-radius: 8px 8px 8px 8px;">
+										</a><br/>
+										<div class="card" style="background-color: #dceeff; padding: 32px; border-radius: 8px;">
+											<blockquote class="blockquote" style="padding: 0; margin: 0;">
+												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718;">„Petrecem o parte semnificativă din viață la muncă, iar cultura pe care o creăm în organizațiile noastre ne modelează experiențele de zi cu zi. O cultură sănătoasă nu este doar despre productivitate – este despre oameni care se simt apreciați și ascultați. Când construim un mediu bazat pe încredere și respect, fericirea nu mai este ceva ce trebuie să căutăm – devine un rezultat firesc.”</p>
+												<footer><cite style="color: #191718; display: block; margin-top: 12px; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 500; font-style: normal !important; line-height: 1.5; text-decoration: none;">— Avi Cicirean,  fondatorul <a class="linkInline linkInline-secondary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #384caa; color: #384caa;" href="" target="_blank" rel="noopener">BRAND MINDS</a></cite></footer>
+											</blockquote>
+										</div>
+									</div>
+									<div style="background-color: #ede7ff;">
+										<a href="https://www.publica.ro/oliver-burkeman-meditatii-pentru-muritori.html" style="display: block; text-align: center; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+											<img alt="Coperta cărții „Meditații pentru muritori”, de Oliver Burkeman" src="img/publica-2025_03_14-hero-02.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px; text-align: center; color: #191718; margin: 0 auto;">
+										</a>
+									</div>
+									<div class="section borderRadius" style="background-color: #db6f41; padding: 0px 48px 48px 48px; border-radius: 0px 0px 28px 28px; text-align: center;">
+										<a class="linkBlock linkBlock-primary" href="https://www.publica.ro/oliver-burkeman-meditatii-pentru-muritori.html" target="_blank" style="display: block; background-color: #384caa; color: #FFFFFF; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; line-height: 60px; text-decoration: none; text-align: center; width: 210px; -webkit-text-size-adjust:none; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; transition: background-color 0.4s ease; margin: 0 auto;">Comandă aici</a>
+									</div>
+
+									<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td></tr></table>
+
+									<article class="borderRadius" style="border-radius: 28px; background: #FFFFFF;">
+										<div class="section" style="padding: 48px 48px 4px 48px;">
+											<h3 style="color: #ff790b; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; margin: 0; padding: 0;">
+												Ofertă specială:
+											</h3>
+											<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+												Dacă adaugi în coș cartea nouă, împreună cu oricare dintre recomandările de mai jos, beneficiezi de <span class="textHighlight textHighlight-primary">20% discount</span> la această carte. Oferta este valabilă în perioada <span class="textHighlight textHighlight-secondary">14 → 18 martie</span>.
+											</p>
+										</div>
+										<div class="columnWrapper" style="display: table; table-layout: fixed; width: 100%; max-width: 636px; margin: 0px auto; padding: 0px;">
+											<div class="column imageContainer" style="display: table-cell; vertical-align: top; width: 30%; max-width: 210px; padding: 0px;">
+												<a class="linkImage imageWidth-40" href="https://www.publica.ro/tali-sharot-cass-sunstein-priveste-din-nou.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+													<img alt="Coperta cărții „Privește din nou” de Cass Sunstein" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-priveste_din_nou.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
+												</a>
+											</div>
+											<div class="column textContainer" style="display: table-cell; vertical-align: middle; width: 70%; max-width: 490px; padding: 4px 24px 24px 24px; text-align: left;">
+												<a class="linkInline linkInline-secondary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #acadb7; color: #404a52;" href="https://www.publica.ro/tali-sharot-cass-sunstein-priveste-din-nou.html" target="_blank" rel="noopener">Privește din nou</a><br/>
+												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718;">
+													Cartea lui Cass Sunstein și Tali Sharot ne ajută să ieșim din rutină și să ne bucurăm mai mult de viață.
+												</p>
+											</div>
+										</div>
+										<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="2" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 2px; line-height: 2px; text-decoration: none !important;">&#xA0;</td></tr></table>
+										<div class="columnWrapper" style="display: table; table-layout: fixed; width: 100%; max-width: 636px; margin: 0px auto; padding: 0px;">
+											<div class="column imageContainer" style="display: table-cell; vertical-align: top; width: 30%; max-width: 210px; padding: 0px;">
+												<a class="linkImage imageWidth-40" href="https://www.publica.ro/chris-anderson-generozitate-infectioasa.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+													<img alt="Coperta cărții „Generozitate infecțioasă” de Chris Anderson, directorul TED" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-generozitate_infectioasa.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
+												</a>
+											</div>
+											<div class="column textContainer" style="display: table-cell; vertical-align: middle; width: 70%; max-width: 490px; padding: 4px 24px 24px 24px; text-align: left;">
+												<a class="linkInline linkInline-secondary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #acadb7; color: #404a52;" href="https://www.publica.ro/chris-anderson-generozitate-infectioasa.html" target="_blank" rel="noopener">Generozitate infecțioasă</a><br/>
+												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718;">
+													Directorul TED, Chris Anderson, reușește să ne arate cum generozitatea poate schimba vieți chiar și atunci când citim despre acest subiect.
+												</p>
+											</div>
+										</div>
+										<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="2" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 2px; line-height: 2px; text-decoration: none !important;">&#xA0;</td></tr></table>
+										<div class="columnWrapper" style="display: table; table-layout: fixed; width: 100%; max-width: 636px; margin: 0px auto; padding: 0px;">
+											<div class="column imageContainer" style="display: table-cell; vertical-align: top; width: 30%; max-width: 210px; padding: 0px;">
+												<a class="linkImage imageWidth-40" href="https://www.publica.ro/kaushik-basu-ratiune-pentru-a-fi-fericiti.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+													<img alt="Coperta cărții „Rațiune pentru a fi fericiți” de Kaushik Basu" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-ratiune_pentru_a_fi_fericiti.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
+												</a>
+											</div>
+											<div class="column textContainer" style="display: table-cell; vertical-align: middle; width: 70%; max-width: 490px; padding: 4px 24px 24px 24px; text-align: left;">
+												<a class="linkInline linkInline-secondary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #acadb7; color: #404a52;" href="https://www.publica.ro/kaushik-basu-ratiune-pentru-a-fi-fericiti.html" target="_blank" rel="noopener">Rațiune pentru a fi fericiți</a><br/>
+												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718;">
+													Cu idei din filosofie, teoria jocului și economie, autorul ne ajută să înțelegem lumea care ne înconjoară și să ne definim un nou mod de viață plin de sens. 
+												</p>
+											</div>
+										</div>
+									</article>
+
+									<!--[if (gte mso 9)|(IE)]><table align="center" border="0" cellspacing="0" cellpadding="0" width="640"><tr><td align="center" valign="middle" width="640"><![endif]-->
+									<div role="div" class="sectionFooter" aria-label="Detalii despre editura Publica" lang="ro" style="color: #191718; text-align: left; padding: 12px; max-width: 636px; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;">
+											Editura Publica <br/>
+											Ne poți vizita pe <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" title="Adresa pe Google Maps" href="https://goo.gl/maps/4DtyqHU1i3QYEpbs5" target="_blank" rel="noopener">B-dul Pache Protopopescu, nr. 11, etajul 2</a>.<br>
+											Scrie-ne pe <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" title="carte@publica.ro (se deschide într-un tab nou)" href="mailto:carte@publica.ro" target="_blank" rel="noopener">carte@publica.ro</a>
+										</p>
+										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;"> Urmărește-ne și pe:<br/>
+											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.goodreads.com/user/show/56158609-editura-publica" target="_blank" rel="noopener">Goodreads</a> ·
+											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.instagram.com/editurapublica" target="_blank" rel="noopener">Instagram</a> ·
+											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.facebook.com/editurapublica" target="_blank" rel="noopener">Facebook</a> ·
+											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.pinterest.com/editurapublica" target="_blank" rel="noopener">Pinterest</a> ·
+											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.youtube.com/user/meetthethinkers" target="_blank" rel="noopener">Youtube</a> ·
+											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://twitter.com/edituraPublica" target="_blank" rel="noopener">Twitter</a> ·
+											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://blog.publica.ro" target="_blank" rel="noopener">Blog</a>
+										</p>
+										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;"> *|IF:FNAME|**|TITLE:FNAME|*, primești *|ELSE:|*Primești*|END:IF|* acest newsletter pentru că te-ai abonat la noutățile editurii Publica. Aici poți să <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="*|UPDATE_PROFILE|*" target="_blank" rel="noopener">editezi setările</a> acestui newsletter. Dacă vrei, de aici <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="*|UNSUB|*" target="_blank" rel="noopener">te poți dezabona</a>. </p>
+										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;"> Citește termenii și condițiile privind <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.publica.ro/termeni-si-conditii.html" target="_blank" rel="noopener">confidențialitatea datelor</a>.<br/>
+											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="*|ARCHIVE|*" target="_blank" rel="noopener">Vezi în browser</a>
+										</p>
+									</div>
+									<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+								</main>
+							</div>
+							<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
+							<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td></tr></table>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<!--[if mso]>
+		<noscript>
+			<xml>
+				<o:OfficeDocumentSettings>
+					<o:PixelsPerInch>96</o:PixelsPerInch>
+				</o:OfficeDocumentSettings>
+			</xml>
+		</noscript>
+		<![endif]-->
+	</body>
+</html>
