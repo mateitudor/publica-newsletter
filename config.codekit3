@@ -41951,6 +41951,14 @@
       "oAP" : "\/2025\/03_14\/publica.ro-2025_03_14-G-prod.html",
       "oF" : 2
     },
+    "\/2025\/03_14\/publica.ro-2025_03_14-G-prod.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_14\/publica.ro-2025_03_14-G-prod.html",
+      "oF" : 0
+    },
     "\/2025\/03_14\/publica.ro-2025_03_14-R-dev.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -41966,6 +41974,48 @@
       "oA" : 0,
       "oAP" : "\/2025\/03_14\/publica.ro-2025_03_14-R-prod.html",
       "oF" : 0
+    },
+    "\/2025\/03_19\/img\/publica-burn_book-book_launch-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 587724,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_19\/img\/publica-burn_book-book_launch-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2025\/03_19\/img\/publica-power_of_storytelling_2025-nl_hero.jpg" : {
+      "ft" : 16384,
+      "iS" : 126852,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_19\/img\/publica-power_of_storytelling_2025-nl_hero.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/2025\/03_19\/publica.ro-2025_03_19-G-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_19\/publica.ro-2025_03_19-G-prod.html",
+      "oF" : 2
+    },
+    "\/2025\/03_19\/publica.ro-2025_03_19-R-dev.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 2,
+      "oA" : 0,
+      "oAP" : "\/2025\/03_19\/publica.ro-2025_03_19-R-prod.html",
+      "oF" : 2
     },
     "\/assets\/img\/audiobooks\/backgrounds\/publica.ro-audiobook-nl_bk-white.jpg" : {
       "ft" : 16384,
@@ -42113,6 +42163,19 @@
       "iS" : 42835,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-al_meu.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-algebra_bogatiei.png" : {
+      "ft" : 32768,
+      "iS" : 92081,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-algebra_bogatiei.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -43304,6 +43367,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cand_cerurile_au_fost_scoase_la_vanzare.png" : {
+      "ft" : 32768,
+      "iS" : 109641,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-cand_cerurile_au_fost_scoase_la_vanzare.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/assets\/img\/books\/small\/publica.ro-nl-book_small-capcana_sfaturilor.png" : {
       "ft" : 32768,
       "iS" : 39206,
@@ -43725,6 +43801,19 @@
       "iS" : 105581,
       "oA" : 0,
       "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-determinat.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/assets\/img\/books\/small\/publica.ro-nl-book_small-dilema_inovatorului.png" : {
+      "ft" : 32768,
+      "iS" : 94716,
+      "oA" : 0,
+      "oAP" : "\/assets\/img\/books\/small\/publica.ro-nl-book_small-dilema_inovatorului.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
