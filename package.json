@@ -1,0 +1,32 @@
+{
+  "name": "publica-newsletter",
+  "version": "1.0.0",
+  "description": "Publica Newsletter HTML templates",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateitudor/publica-newsletter.git"
+  },
+  "keywords": [
+    "newsletter",
+    "html",
+    "templates"
+  ],
+  "author": "Matei Tudor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mateitudor/publica-newsletter/issues"
+  },
+  "homepage": "https://github.com/mateitudor/publica-newsletter#readme",
+  "devDependencies": {
+    "glob": "^11.0.1",
+    "html-minimizer-webpack-plugin": "^5.0.2",
+    "html-webpack-plugin": "^5.6.3",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1"
+  }
+}
