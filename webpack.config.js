@@ -15,18 +15,15 @@ const isDevelopment = process.env.NODE_ENV !== 'production';
 
 module.exports = {
 	mode: isDevelopment ? 'development' : 'production',
-  entry: {
-    reload: path.resolve(__dirname, 'reload.js'),
-  }, // no bundle.js
+  entry: {}, // Empty entry point since we're just processing HTML files
   output: {
     path: currentDir,
     publicPath: '/',
-    filename: '[name].js',
   },
   devServer: {
     static: {
-      directory: path.resolve(__dirname, 'nothing-to-serve'),
-      watch: false,
+      directory: currentDir,
+      watch: true,
     },
     port: 3000,
     open: {
@@ -61,8 +58,7 @@ module.exports = {
       new HtmlWebpackPlugin({
         template: path.join(currentDir, file),
         filename: file.replace('-dev.html', '-prod.html'),
-        inject: true,
-        chunks: ['reload'],
+        inject: false, // Don't inject any scripts since we don't have an entry point
         minify: {
           removeComments: true,
           collapseWhitespace: true,
@@ -76,18 +72,6 @@ module.exports = {
           minifyURLs: true,
         },
       })
-    ),
-    {
-      apply: (compiler) => {
-        compiler.hooks.afterCompile.tap('WatchDevHTMLPlugin', (compilation) => {
-          inputFiles.forEach(file => {
-            const fullPath = path.join(currentDir, file);
-            compilation.fileDependencies.add(fullPath);
-            console.log('[WatchDevHTMLPlugin] Watching:', fullPath);
-          });
-        });
-      }
-    }
-    
+    )
   ]  
 };
