@@ -15,7 +15,9 @@ const isDevelopment = process.env.NODE_ENV !== 'production';
 
 module.exports = {
 	mode: isDevelopment ? 'development' : 'production',
-  entry: {}, // Empty entry point since we're just processing HTML files
+  entry: {
+    main: path.join(__dirname, 'reload.js')
+  },
   output: {
     path: currentDir,
     publicPath: '/',
@@ -58,7 +60,7 @@ module.exports = {
       new HtmlWebpackPlugin({
         template: path.join(currentDir, file),
         filename: file.replace('-dev.html', '-prod.html'),
-        inject: false, // Don't inject any scripts since we don't have an entry point
+        inject: false,
         minify: {
           removeComments: true,
           collapseWhitespace: true,
