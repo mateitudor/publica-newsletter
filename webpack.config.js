@@ -16,7 +16,10 @@ const isDevelopment = process.env.NODE_ENV !== 'production';
 module.exports = {
 	mode: isDevelopment ? 'development' : 'production',
   entry: {
-    main: path.join(__dirname, 'reload.js')
+    main: {
+      import: 'webpack-dev-server/client/index.js?protocol=ws&hostname=localhost&port=3000',
+      filename: 'webpack.reload.js'
+    }
   },
   output: {
     path: currentDir,
@@ -31,7 +34,7 @@ module.exports = {
     open: {
       target: inputFiles[0].replace('-dev.html', '-prod.html'),
     },
-    hot: false,
+    hot: true,
     liveReload: true,
     devMiddleware: {
       writeToDisk: (filePath) => {
@@ -60,7 +63,7 @@ module.exports = {
       new HtmlWebpackPlugin({
         template: path.join(currentDir, file),
         filename: file.replace('-dev.html', '-prod.html'),
-        inject: false,
+        inject: true,
         minify: {
           removeComments: true,
           collapseWhitespace: true,
