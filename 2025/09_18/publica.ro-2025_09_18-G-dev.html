@@ -130,16 +130,17 @@
 						-webkit-box-decoration-break: clone;
 					}
 						.textHighlight-primary {
-							background-color: #fef1e8;
-							color: #191718;
+
+							background-color: #0ea0d7;
+							color: #FFFFFF;
 						}
 
 						.textHighlight-secondary {
-							background-color: #eeeeee;
-							color: #191718;
+							background-color: #ff4635;
+							color: #FFFFFF;
 						}
 						.textHighlight-tertiary {
-							background-color: #e3dfd4;
+							background-color: #f8c800;
 							color: #191718;
 						}
 
@@ -159,21 +160,25 @@
 						transition: all 0.2s ease-in-out !important;
 					}
 						.linkInline-primary:hover {
-							color: #50bbfc !important;
-							border-color: #50bbfc !important;
-							text-decoration-color: #50bbfc !important;
-						}
-						.linkInline-secondary:hover {
-							color: #40ac06 !important;
-							border-color: #40ac06 !important;
-						}
-						.linkInline-tertiary:hover {
-							color: #50bbfc !important;
-							border-color: #50bbfc !important;
-						}
-						.linkInline-quaternary:hover {
 							color: #191718 !important;
 							border-color: #191718 !important;
+							text-decoration-color: #191718 !important;
+						}
+						.linkInline-secondary:hover {
+							color: #191718 !important;
+							border-color: #191718 !important;
+						}
+						.linkInline-tertiary:hover {
+							color: #feac16 !important;
+							border-color: #feac16 !important;
+						}
+						.linkInline-quaternary:hover {
+							color: #91adef !important;
+							border-color: #91adef !important;
+						}
+						.linkInline-quinary:hover {
+							color: #fb7fe2 !important;
+							border-color: #fb7fe2 !important;
 						}
 
 				/* Buttons */
@@ -183,20 +188,32 @@
 						transition: all 0.4s ease-in-out !important;
 					}
 
-						.linkBlock-primary:hover {
-							background-color: #139ad6 !important;
-							color: #FFFFFF !important;
+						.linkBlock-primary {
+							background-color: #e4e2e3 !important;
+							color: #191718 !important;
 						}
+							.linkBlock-primary:hover {
+								background-color: #FFFFFF !important;
+								color: #191718 !important;
+							}
 
-						.linkBlock-secondary:hover {
-							background-color: #40ac06 !important;
+						.linkBlock-secondary {
+							background-color: #46ae0e !important;
 							color: #FFFFFF !important;
 						}
+							.linkBlock-secondary:hover {
+								background-color: #abd59f !important;
+								color: #191718 !important;
+							}
 
-						.linkBlock-tertiary:hover {
-							background-color: #ffea81 !important;
+						.linkBlock-tertiary {
+							background-color: #191718 !important;
 							color: #FFFFFF !important;
 						}
+							.linkBlock-tertiary:hover {
+								background-color: #191718 !important;
+								color: #FFFFFF !important;
+							}
 
 
 
@@ -208,7 +225,7 @@
 				body, html,
 				.containerDarkmode,
 				.sectionSpacer {
-					background-color: #1a1a1a !important;
+					background-color: #000000 !important;
 				}
 
 				.sectionHeader {
@@ -216,11 +233,11 @@
 					border-bottom: 1px solid #FFFFFF !important;
 				}
 					.sectionHeader .textTagline {
-						color: #139ad6 !important;
+						color: #0ea0d7 !important;
 					}
 
 				.sectionDarkmode {
-					background-color: #2d2d2d !important;
+					background-color: #191718 !important;
 				}
 
 				.sectionFooter p,
@@ -243,70 +260,86 @@
 
 				/* Text */
 				/* ————————————————————————————————————————————————————————— */
-				.sectionDarkmode .textTagline {
-					color: #50bbfc !important;
-				}
+
 				.sectionDarkmode p,
-				.sectionDarkmode li {
+				.sectionDarkmode li,
+				.sectionDarkmode td {
 					color: #FFFFFF !important;
 				}
 
 				/* Links */
 				/* ————————————————————————————————————————————————————————— */
+
 				.sectionDarkmode .linkInline-primary {
 					color: #FFFFFF !important;
-					border-color: #ff840a !important;
-					text-decoration-color: #ff840a !important;
+					border-color: #FFFFFF !important;
+					text-decoration-color: #FFFFFF !important;
 				}
 					.sectionDarkmode .linkInline-primary:hover {
-						color: #ff840a !important;
-						border-color: #ff840a !important;
-						text-decoration-color: #ff840a !important;
+						color: #FFFFFF !important;
+						border-color: #FFFFFF !important;
+						text-decoration-color: #FFFFFF !important;
 					}
 
 					.sectionDarkmode .linkInline-secondary {
 						color: #FFFFFF !important;
-						border-color: #0da6de !important;
-						text-decoration-color: #384caa !important;
+						border-color: #FFFFFF !important;
+						text-decoration-color: #FFFFFF !important;
 					}
 					.sectionDarkmode .linkInline-secondary:hover {
 						color: #FFFFFF !important;
 						border-color: #FFFFFF !important;
+						text-decoration-color: #FFFFFF !important;
 					}
 
 				.sectionDarkmode .linkInline-tertiary {
 					color: #FFFFFF !important;
-					border-color: #feac16 !important;
+					border-color: #FFFFFF !important;
+					text-decoration-color: #FFFFFF !important;
 				}
 					.sectionDarkmode .linkInline-tertiary:hover {
-						color: #feac16 !important;
-						border-color: #feac16 !important;
+						color: #FFFFFF !important;
+						border-color: #FFFFFF !important;
+						text-decoration-color: #FFFFFF !important;
 					}
 
 				.sectionDarkmode .linkInline-quaternary {
-					color: #e6e6e6 !important;
-					border-color: #88a2b4 !important;
+					color: #FFFFFF !important;
+					border-color: #FFFFFF !important;
+					text-decoration-color: #FFFFFF !important;
 				}
 					.sectionDarkmode .linkInline-quaternary:hover {
 						color: #FFFFFF !important;
 						border-color: #FFFFFF !important;
+						text-decoration-color: #FFFFFF !important;
+					}
+
+				.sectionDarkmode .linkInline-quinary {
+					color: #FFFFFF !important;
+					border-color: #FFFFFF !important;
+					text-decoration-color: #FFFFFF !important;
+				}
+					.sectionDarkmode .linkInline-quinary:hover {
+						color: #FFFFFF !important;
+						border-color: #FFFFFF !important;
+						text-decoration-color: #FFFFFF !important;
 					}
 
 				.sectionDarkmode .linkBlock-primary {
-					background-color: #ff2f33 !important;
-					color: #FFFFFF !important;
+					background-color: #FFFFFF !important;
+					color: #191718 !important;
 				}
 					.sectionDarkmode .linkBlock-primary:hover {
-						background-color: #d6d3c6 !important;
-						color: #FFFFFF !important;
+						background-color: #FFFFFF !important;
+						color: #191718 !important;
 					}
 
 				.sectionDarkmode .linkBlock-secondary {
-					background-color: #d6d3c6 !important;
+					background-color: #175cb4 !important;
 					color: #FFFFFF !important;
 				}
 					.sectionDarkmode .linkBlock-secondary:hover {
-						background-color: #0da6de !important;
+						background-color: #3483ec !important;
 						color: #FFFFFF !important;
 					}
 
@@ -322,12 +355,13 @@
 						}
 
 				.sectionDarkmode .textHighlight-primary {
-					background-color: #ffea81 !important;
+					border-color: #FFFFFF;
+					background-color: #2d2d2d !important;
 					color: #FFFFFF !important;
 				}
 				.sectionDarkmode .textHighlight-secondary {
-					background-color: #0da6de !important;
-					color: #FFFFFF !important;
+					background-color: #79f4fe !important;
+					color: #191718 !important;
 				}
 			}
 
@@ -410,7 +444,7 @@
 				.containerDarkmode,
 				.sectionSpacer,
 				.sectionSpacer-inner {
-					background-color: #1a1a1a !important;
+					background-color: #000000 !important;
 				}
 					.sectionSpacer-line {
 						background-color: #2d2d2d !important;
@@ -446,104 +480,104 @@
 											<tbody align="center" valign="middle" border="0" cellpadding="0" cellspacing="0" width="100%" style="display: block !important; box-sizing: border-box !important;">
 												<tr valign="middle" style="display: block !important; box-sizing: border-box !important;">
 													<td width="350" style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1; box-sizing: border-box !important; text-align: left; color: #191718;">
-														<a class="linkImage" href="https://www.publica.ro/" title="Publica aduce idei" target="_blank" rel="noopener" style="display: block;">
+														<a href="https://www.publica.ro/" style="display: block;" class="linkImage" title="Publica aduce idei" target="_blank" rel="noopener">
 															<img src="https://newsletter.publica.ro/assets/img/id/publica.ro-logo-dark.png" alt="Logo-ul Editurii Publica" style="height: 20px !important; margin: 0;">
 														</a>
 													</td>
 													<td width="350" style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1; box-sizing: border-box !important; text-align: right;">
-														<p class="textTagline" style="color: #ff840a; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 20px; font-weight: 400; line-height: 1.5; margin: 0; padding: 0;" aria-label="Sloganul Publica: Aduce idei">Aduce idei</p>
+														<p class="textTagline" style="color: #0ea0d7; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 20px; font-weight: 400; line-height: 1.5; margin: 0; padding: 0;" aria-label="Sloganul Publica: Aduce idei">Aduce idei</p>
 													</td>
 												</tr>
 											</tbody>
 										</table>
 										<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
 									</div>
-									<div class="section sectionDarkmode" style="background-color: #FFFFFF; padding: 40px 48px 48px 48px;">
-										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; text-wrap: pretty;">
-											Dr. Monty Lyman, specialist în domeniul inovativ al imunopsihiatriei, se întoarce cu o carte care prezintă o nouă frontieră în abordarea medicinei: legătură dintre minte, sistemul imunitar și microbiom.
+									<div class="section sectionDarkmode" style="background-color: #FFFFFF; padding: 40px 48px 20px 48px">
+										<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+											Nate Silver, statisticianul și fondatorul platformei FiveThirtyEight și autorul bestsellerului <em>Semnalul și zgomotul</em>, revine în atenția cititorilor cu o carte oportună și captivantă în care analizează „Fluviul” sau lumea indivizilor care, prin asumarea de riscuri la nivel profesionist, ajung să modeleze și să domine o bună parte a vieții contemporane.
 										</p>
-										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; text-wrap: pretty;">
-											Am experimentat cu toții „comportamentul de boală”, acel mix de simptome pe care le manifestăm în urma unei infecții sau a unei inflamații: oboseală, proastă dispoziție, pierderea apetitului, sensibilitate crescută la durere, mișcări mai lente, diminuare a poftei de a explora lumea exterioară. Acest comportament care ne vine atât de natural arată că o afecțiune fizică influențează puternic starea noastră de spirit; și totuși, societatea noastră încă tratează separat afecțiunile corpului de cele mintale.
+										<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+											Acești profesioniști ai riscului pot varia ca interese, dar mulți sunt jucători de poker, investitori de capital de risc, fani ai criptomonedelor, colecționari de artă de mare valoare – iar Nate Silver crede că putem învăța de la ei cum să ne descurcăm printre incertitudinile zilelor noastre. Pentru fluviali complexitatea este integrată în realitate, iar singura problemă de rezolvat e cum putem face lucrurile în limitele comportamentului acceptabil. Cartea ne explică de ce deslușirea modului de gândire a fluvialilor, inclusiv a lacunelor logice, este esențială pentru a înțelege ce angrenează astăzi deciziile globale.
 										</p>
-										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; text-wrap: pretty;">
-											Dr. Lyman ne arată forța conexiunii dintre sistemul imunitar și minte, precum și ce se întâmplă atunci când această conexiune se dereglează și acumulăm inflamație cronică. <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff840a; color: #191718;" href="https://www.publica.ro/monty-lyman-mintea-imuna.html" target="_blank" rel="noopener">Mintea imună</a> explorează noile descoperiri din științele biologice (micro și anatomice) și științele cognitive și propune abordarea și tratarea ființei umane în întregul său, pentru a avea corpuri cu un sistem de apărare echilibrat și să ne bucurăm de bunăstarea care decurge din acest echilibru.
+										<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+											În contrast cu personalitățile cu toleranța la risc ridicată, afinitate față de cifre, independente și cu aversiune față de judecata convențională și interes pentru altruismul eficient, Silver pune experiența celor din „Sătuc”, unde tronează scepticismul față de capitalismul nereglementat, iar preocuparea față de pericolele morale și interesul pentru binele comun guvernează deciziile.
 										</p><br/>
-										<div class="card" style="background-color: #fef1e8; padding: 32px; border-radius: 8px;">
+										<div class="card" style="background-color: #edfeff; padding: 32px; border-radius: 8px;">
 											<blockquote class="blockquote" style="padding: 0; margin: 0;">
-												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718; text-align: center;">„Substanțială, ludică și lămuritoare. O lectură lejeră și încântătoare. O recomand cu căldură pentru perspectiva sa cuprinzătoare și revelatoare a interacțiunii dintre sistemul imunitar, minte și microbiomul intestinal.”</p>
-												<footer><cite style="color: #ff840a; display: block; margin-top: 12px; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 500; font-style: normal !important; line-height: 1.5; text-decoration: none; text-align: center;">Grace Wade, New Scientist</cite></footer>
+												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718; text-align: center;">„Silver susține cu argumente convingătoare că oamenii se opun riscurilor, însă aceia care pot lupta cu discernământ contra acestui impuls au deseori mari beneficii în viață. O carte interdisciplinară, incitantă, care tratează o multitudine de subiecte actuale, de la inteligența artificială și teoria politică la ce se întâmplă când cei care își asumă riscuri merg prea departe.”</p>
+												<footer><cite style="color: #191718; display: block; margin-top: 12px; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 500; font-style: normal !important; line-height: 1.5; text-decoration: none; text-align: center;">Associated Press</cite></footer>
 											</blockquote>
 										</div>
 									</div>
-									<div class="section" style="background-color: #50bbfc;">
-										<a href="https://www.publica.ro/monty-lyman-mintea-imuna.html" style="display: block; text-align: center; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
-											<img alt="Coperta cărții „Mintea imună”, de Dr. Monty Lyman" src="https://newsletter.publica.ro/2025/08_25/img/publica-dr_monty_lyman-mintea_imuna-book_launch-nl_hero.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px; text-align: center; color: #191718; margin: 0 auto;">
+									<div style="background-color: #0ea0d7;">
+										<a href="https://www.publica.ro/nate-silver-la-limita.html" style="display: block; text-align: center; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+											<img alt="Coperta cărții „La limită”, de Nate Silver" src="https://newsletter.publica.ro/2025/09_18/img/publica-nate_silver-la_limita-book_launch-nl_hero.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px; text-align: center; color: #191718; margin: 0 auto;">
 										</a>
 									</div>
-									<div class="section borderRadius" style="background-color: #50bbfc; padding: 24px 48px 48px 48px; border-radius: 0px 0px 28px 28px; text-align: center;">
-										<a class="linkBlock linkBlock-primary" href="https://www.publica.ro/monty-lyman-mintea-imuna.html" target="_blank" style="display: block; background-color: #FFFFFF; color: #ff840a; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; line-height: 60px; text-decoration: none; text-align: center; width: 210px; -webkit-text-size-adjust:none; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; transition: background-color 0.4s ease; margin: 0 auto;">Comandă aici</a>
+									<div class="section borderRadius" style="background-color: #0ea0d7; padding: 24px 48px 48px 48px; border-radius: 0px 0px 28px 28px; text-align: center;">
+										<a class="linkBlock linkBlock-primary" href="https://www.publica.ro/nate-silver-la-limita.html" target="_blank" style="display: block; background-color: #828280; color: #FFFFFF; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; line-height: 60px; text-decoration: none; text-align: center; width: 210px; -webkit-text-size-adjust:none; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; transition: background-color 0.4s ease; margin: 0 auto;">Comandă aici</a>
 									</div>
 
 									<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td></tr></table>
 
 									<article class="borderRadius" style="border-radius: 28px; background: #FFFFFF;">
 										<div class="section" style="padding: 48px 48px 4px 48px;">
-											<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 18px; font-weight: 400; line-height: 1.34;">Fiindcă ești cititor gold, beneficiezi de <span class="textHighlight textHighlight-primary">25% discount</span> la achiziția cărților noastre, inclusiv la cartea anunțată în acest newsletter. Vei vizualiza reducerea după <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 18px; font-weight: 400; text-decoration: none; padding: 2px 0px; color: #404a52; border-bottom: 2px solid #acadb7;" href="https://www.publica.ro/customer/account/login/" target="_blank" rel="noopener">autentificarea în contul personal</a>.</p>
-											<h3 style="color: #ff840a; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; margin: 8px 0px 0px 0px; padding: 0;">Iată câteva lecturi complementare:</h3>
+											<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">Fiindcă ești cititor gold, beneficiezi de <span class="textHighlight textHighlight-primary">25% discount</span> la achiziția cărților noastre, inclusiv la cartea anunțată în acest newsletter. Vei vizualiza reducerea după <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; padding: 2px 0px; color: #404a52; border-bottom: 2px solid #acadb7;" href="https://www.publica.ro/customer/account/login/" target="_blank" rel="noopener">autentificarea în contul personal</a>.</p><br/>
+											<h3 style="color: #0da6de; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; line-height: 1.1; margin-top: 0; margin-bottom: 12px;">Iată câteva lecturi complementare:</h3>
 
 										</div>
 										<div class="columnWrapper" style="display: table; table-layout: fixed; width: 100%; max-width: 636px; margin: 0px auto; padding: 0px;">
 											<div class="column imageContainer" style="display: table-cell; vertical-align: top; width: 30%; max-width: 210px; padding: 0px;">
-												<a class="linkImage imageWidth-40" href="https://www.publica.ro/ed-yong-cuprind-multimi.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
-													<img alt="Coperta cărții „Cuprind mulțimi” de Ed Yong" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-cuprind_multimi.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
+												<a class="linkImage imageWidth-40" href="https://www.publica.ro/david-mcwilliams-bani.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+													<img alt="Coperta cărții „Bani” de David McWilliams" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-bani.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
 												</a>
 											</div>
 											<div class="column textContainer" style="display: table-cell; vertical-align: middle; width: 70%; max-width: 490px; padding: 4px 24px 24px 24px; text-align: left;">
-												<a class="linkInline linkInline-primary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #d6d3c6; color: #404a52;" href="https://www.publica.ro/ed-yong-cuprind-multimi.html" target="_blank" rel="noopener">Cuprind mulțimi</a><br/>
+												<a class="linkInline linkInline-primary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #d6d3c6; color: #404a52;" href="https://www.publica.ro/david-mcwilliams-bani.html" target="_blank" rel="noopener">Bani</a><br/>
 												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718;">
-													Minunatul scriitor de știință Ed Yong ne introduce în fascinanta lume a microbilor în general și a microbiotei noastre în special. Recomandăm această carte despre o lume observabilă doar la microscop dar care reușește să ne ofere o perspectivă amplă asupra vieții.
+													Recomandăm cartea economistului David McWilliams care ne spune povestea omenirii din prisma acestei invenții care nu doar a influențat, ci a sculptat forma poveștii noastre.
 												</p>
 											</div>
 										</div>
 										<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="2" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 2px; line-height: 2px; text-decoration: none !important;">&#xA0;</td></tr></table>
 										<div class="columnWrapper" style="display: table; table-layout: fixed; width: 100%; max-width: 636px; margin: 0px auto; padding: 0px;">
 											<div class="column imageContainer" style="display: table-cell; vertical-align: top; width: 30%; max-width: 210px; padding: 0px;">
-												<a class="linkImage imageWidth-40" href="https://www.publica.ro/jessie-inchauspe-revolutia-glucozei.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
-													<img alt="Coperta cărții „Revoluția glucozei” de Clayton M. Christensen" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-revolutia_glucozei.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
+												<a class="linkImage imageWidth-40" href="https://www.publica.ro/will-storr-stiinta-povestirii.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+													<img alt="Coperta cărții „Știința povestirii” de Will Storr" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-stiinta_povestirii.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
 												</a>
 											</div>
 											<div class="column textContainer" style="display: table-cell; vertical-align: middle; width: 70%; max-width: 490px; padding: 4px 24px 24px 24px; text-align: left;">
-												<a class="linkInline linkInline-primary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #d6d3c6; color: #404a52;" href="https://www.publica.ro/jessie-inchauspe-revolutia-glucozei.html" target="_blank" rel="noopener">Revoluția glucozei</a><br/>
+												<a class="linkInline linkInline-primary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #d6d3c6; color: #404a52;" href="https://www.publica.ro/will-storr-stiinta-povestirii.html" target="_blank" rel="noopener">Știința povestirii</a><br/>
 												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718;">
-													Recomandăm și acest bestseller fiindcă, la fel ca Monty Lyman, și Glucose Goddess vine cu o perspectivă nouă asupra modului în care înțelegem sănătatea: în acest caz, cum vârfurile glicemice îi afectează și pe cei care nu sunt diagnosticați cu diabet. Remarcabil, autoarea reusește să ne facă să vizualizăm și să înțelegem procesele din corpul nostru.
+													Că tot vorbim despre ceea ce ne spunem, recomandăm și excelenta carte scrisă de Will Storr despre creierul povestitor și cum ne traducem lumea pe care o experimentăm.
 												</p>
 											</div>
 										</div>
 										<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="2" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 2px; line-height: 2px; text-decoration: none !important;">&#xA0;</td></tr></table>
 										<div class="columnWrapper" style="display: table; table-layout: fixed; width: 100%; max-width: 636px; margin: 0px auto; padding: 0px;">
 											<div class="column imageContainer" style="display: table-cell; vertical-align: top; width: 30%; max-width: 210px; padding: 0px;">
-												<a class="linkImage imageWidth-40" href="https://www.publica.ro/robert-sapolsky-de-ce-nu-fac-zebrele-ulcer.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
-													<img alt="Coperta cărții „De ce nu fac zebrele ulcer?” de Robert M. Sapolsky" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-de_ce_nu_fac_zebrele_ulcer.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
+												<a class="linkImage imageWidth-40" href="https://www.publica.ro/clayton-christensen-dilema-inovatorului.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+													<img alt="Coperta cărții „Dilema inovatorului” de Clayton M. Christensen" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-dilema_inovatorului.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
 												</a>
 											</div>
 											<div class="column textContainer" style="display: table-cell; vertical-align: middle; width: 70%; max-width: 490px; padding: 4px 24px 24px 24px; text-align: left;">
-												<a class="linkInline linkInline-primary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #d6d3c6; color: #404a52;" href="https://www.publica.ro/robert-sapolsky-de-ce-nu-fac-zebrele-ulcer.html" target="_blank" rel="noopener">De ce nu fac zebrele ulcer?</a><br/>
+												<a class="linkInline linkInline-primary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #d6d3c6; color: #404a52;" href="https://www.publica.ro/clayton-christensen-dilema-inovatorului.html" target="_blank" rel="noopener">Dilema inovatorului</a><br/>
 												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718;">
-													Nu se poate să nu recomandăm ediția a treia a cărții lui Sapolsky despre efectul stresului, în special al stresului prelungit, asupra corpurilor noastre. O carte mare, la propriu și figurat, de la unul dintre cei mai importanți profesori de biologie și neurologie ai lumii.
+													Bestsellerul lui Christensen cel mai probabil este una dintre cărțile pe care orice fluvial din tehnologie va spune că este cartea care l-a marcat cel mai mult.
 												</p>
 											</div>
 										</div>
 										<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="2" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 2px; line-height: 2px; text-decoration: none !important;">&#xA0;</td></tr></table>
 										<div class="columnWrapper" style="display: table; table-layout: fixed; width: 100%; max-width: 636px; margin: 0px auto; padding: 0px;">
 											<div class="column imageContainer" style="display: table-cell; vertical-align: top; width: 30%; max-width: 210px; padding: 0px;">
-												<a class="linkImage imageWidth-40" href="https://www.publica.ro/anders-hansen-creierul-deprimat.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
-													<img alt="Coperta cărții „Creierul deprimat” de Anders Hansen" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-creierul_deprimat.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
+												<a class="linkImage imageWidth-40" href="https://www.publica.ro/annie-duke-gandeste-in-pariuri.html" style="display: block; text-decoration: none; border: none !important;" target="_blank" rel="noopener">
+													<img alt="Coperta cărții „Gândește în pariuri” de Annie Duke" src="https://newsletter.publica.ro/assets/img/books/small/publica.ro-nl-book_small-gandeste_in_pariuri.png" width="140" style="display: block; width: 100%; height: auto; max-width: 100%; min-width: 80px; margin-top: 0; margin-bottom: 0 !important; margin-left: 0; margin-right: 0; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 22px;" border="0">
 												</a>
 											</div>
 											<div class="column textContainer" style="display: table-cell; vertical-align: middle; width: 70%; max-width: 490px; padding: 4px 24px 24px 24px; text-align: left;">
-												<a class="linkInline linkInline-primary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #d6d3c6; color: #404a52;" href="https://www.publica.ro/anders-hansen-creierul-deprimat.html" target="_blank" rel="noopener">Creierul deprimat</a><br/>
+												<a class="linkInline linkInline-primary" style="display: inline-block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; margin-bottom: .6em; border-bottom: 2px solid #d6d3c6; color: #404a52;" href="https://www.publica.ro/annie-duke-gandeste-in-pariuri.html" target="_blank" rel="noopener">Gândește în pariuri</a><br/>
 												<p style="font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5; color: #191718;">
-													Psihiatrul suedez Anders Hansen ne reamintește că sentimentele de stres, anxietate și depresie moderată sunt naturale și ele arată mai degrabă că încă nu avem un creier adaptat la mediul în care trăim acum. Expunând o perspectivă evolutivă, Anders explică pe înțelesul tuturor mecanismele din creierul nostru.
+													Recomandăm bestsellerul care e și cartea cu care a debutat Annie Duke, despre psihologia deciziilor în special cele în condiții de incertitudine.
 												</p>
 											</div>
 										</div>
@@ -558,23 +592,50 @@
 											</a>
 										</div>
 										<div class="section borderRadius" style="background-color: #FFFFFF; padding: 40px 48px 48px 48px; border-radius: 0px 0px 28px 28px;">
+											<h3 style="color: #46ae0e; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; line-height: 1.1; margin-top: 0; margin-bottom: 12px;">Din lista de cărți cu 50% discount, recomandăm următoarele titluri:</h3>
 											<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
-												Din lista de cărți cu 50% discount, recomandăm <a class="linkInline linkInline-secondary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #3aa202; color: #191718;" href="https://www.publica.ro/james-gleick-haos.html" target="_blank" rel="noopener">Haos</a> pentru că explorează cum se naște o idee nouă în știință, fascinanta teorie a haosului în contextul științelor exacte. Tot din această listă recomandăm două cărți excelente care combină biologia cu alte științe sociale: <a class="linkInline linkInline-secondary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #3aa202; color: #191718;" href="https://www.publica.ro/peter-godfrey-smith-metazoare.html" target="_blank" rel="noopener">Metazoare</a>, despre nașterea minții și originea conștiinței, precum și <a class="linkInline linkInline-secondary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #3aa202; color: #191718;" href="https://www.publica.ro/adam-rutherford-cartea-oamenilor.html" target="_blank" rel="noopener">Cartea oamenilor</a> care ne reamintește de ce suntem o specie unică.
+												Omul din viitor, cartea despre John von Newmann, geniul care a folosit exemple din poker pentru a exemplifica teorii matematice;
+											</p>
+											<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+												Cea mai mare cacealma cartea pentru care Maria Konnikova, care deține un doctorat în psihologie, a învățat să joace poker cu ajutorul lui Erik Seidel pentru a studia stăpânirea de sine în condiții stresante;
+											</p>
+											<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+												Wanting, cartea despre dorința mimetică și forța ei extrem de puternică în societatea umană descoperită de filosoful francez René Girard care a fost un mentor pentru mulți absolvenți Stanford, printre care și Peter Thiel.
 											</p><br/>
-											<a class="linkBlock linkBlock-secondary" href="https://www.publica.ro/reduceri.html" target="_blank" style="display: block; background-color: #3aa202; color: #FFFFFF; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; line-height: 60px; text-decoration: none; text-align: center; width: 260px; -webkit-text-size-adjust:none; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; transition: background-color 0.4s ease;">Comandă cărți -50%</a>
+											<a class="linkBlock linkBlock-secondary" href="https://www.publica.ro/reduceri.html" target="_blank" style="display: block; background-color: #46ae0e; color: #FFFFFF; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; line-height: 60px; text-decoration: none; text-align: center; width: 260px; -webkit-text-size-adjust:none; border-top-left-radius: 8px; border-top-right-radius: 8px; border-bottom-right-radius: 8px; border-bottom-left-radius: 8px; transition: background-color 0.4s ease;">Comandă cărți -50%</a>
 										</div>
 									</div>
 
+									<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td></tr></table>
+
+									<article class="borderRadius" style="padding: 48px; border-radius: 28px; background: #FFFFFF;">
+										<h3 style="color: #6e8e9a; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; line-height: 1.1; margin-top: 0; margin-bottom: 12px;">🗓️ Evenimentele lunii:</h3>
+										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+											Marți și miercuri, 23–24 septembrie 2025, ne vom întâlni cu <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ee33c0; color: #191718;" href="https://www.publica.ro/neil-pasricha-ecuatia-fericirii-editia-ii.html" target="_blank" rel="noopener">Neil Pasricha</a> și <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ee33c0; color: #191718;" href="https://www.publica.ro/alexander-osterwalder-yves-pigneur-business-model-generation.html" target="_blank" rel="noopener">Alex Osterwalder</a> la <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ee33c0; color: #191718;" href="https://brandminds.com/" target="_blank" rel="noopener">Brand Minds 2025</a>.
+										</p>
+										<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin: 12px 0;">
+											<tr>
+												<td style="height: 1px; background-color: #e0e0e0; font-size: 1px; line-height: 1px;">&nbsp;</td>
+											</tr>
+										</table>
+										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+											Luni, 29 septembrie 2025, Ron Kaufman, autorul bestsellerului <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #191718;" href="https://www.publica.ro/ron-kaufman-cultura-serviciilor-superioare.html" target="_blank" rel="noopener">Cultura serviciilor superioare</a>, revine la București la <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #191718;" href="https://ronkaufman.ro/" target="_blank" rel="noopener">The Future of Service Excellence</a>. Cititorii Publica beneficiază de <span class="textHighlight textHighlight-secondary">10% discount</span> la achiziția biletului cu codul <span class="textHighlight textHighlight-secondary keepTogether" style="text-decoration: none !important;">RK25@PUBLICA</span>.
+										</p>
+									</article>
 
 									<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td></tr></table>
 
-									<div class="borderRadius" style="background-color: #FFFFFF; padding: 0px 0px 0px 0px; border-radius: 28px 28px 0px 0px;">
-										<img src="https://newsletter.publica.ro/2025/08_12/img/publica-2025_08_12-nl_hero-03.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px; text-align: center; color: #191718; margin: 0 auto; border-radius: 28px 28px 0px 0px;" alt="Colaj ebookuri și audiobookuri" >
-									</div>
-									<div class="section sectionDarkmode borderRadius" style="background-color: #FFFFFF; padding: 32px 48px 48px 48px; border-radius: 0px 0px 28px 28px;">
-										<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
-											Dacă preferi lectura în format digital, nu uita să verifici ce cărți am mai publicat în acest format: <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/e-books.html" target="_blank" rel="noopener">ebookuri</a> și <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #000000;" href="https://www.publica.ro/audiobooks.html" target="_blank" rel="noopener">audiobookuri</a>.
-										</p>
+									<div role="div">
+										<div class="borderRadius" style="background-color: #FFFFFF; border-radius: 28px 28px 0 0;">
+											<a class="borderRadius" href="https://www.publica.ro/reduceri.html" style="display: block; text-align: center; text-decoration: none; border: none !important; border-radius: 28px 28px 0 0;" target="_blank" rel="noopener">
+												<img class="borderRadius" alt="Colaj ebookuri și audiobookuri" src="https://newsletter.publica.ro/2025/09_18/img/publica-2025_09_18-nl_hero-03.jpg" width="640" border="0" style="display: block; max-width: 100%; min-width: 100px; width: 100%; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px; text-align: center; color: #191718; margin: 0 auto; border-radius: 28px 28px 0 0;">
+											</a>
+										</div>
+										<div class="section borderRadius" style="background-color: #FFFFFF; padding: 40px 48px 48px 48px; border-radius: 0px 0px 28px 28px;">
+											<p style="color: #191718; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
+												Dacă preferi lectura în format digital, nu uita să verifici ce cărți am mai publicat în acest format: <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #191718;" href="https://www.publica.ro/audiobooks.html" target="_blank" rel="noopener">audiobookuri</a> și <a class="linkInline linkInline-primary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 19px; font-weight: 400; text-decoration: none; border-bottom: 2px solid #ff4635; color: #191718;" href="https://www.publica.ro/e-books.html" target="_blank" rel="noopener">ebookuri</a>.
+											</p>
+										</div>
 									</div>
 
 									<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 20px; line-height: 20px; text-decoration: none !important;">&#xA0;</td></tr></table>
@@ -583,21 +644,21 @@
 									<div role="div" class="sectionFooter" aria-label="Detalii despre editura Publica" lang="ro" style="color: #191718; text-align: left; padding: 12px; max-width: 636px; font-family: 'Piazzolla', serif; font-size: 19px; font-weight: 400; line-height: 1.5;">
 										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;">
 											Editura Publica <br/>
-											Ne poți vizita pe <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" title="Adresa pe Google Maps" href="https://goo.gl/maps/4DtyqHU1i3QYEpbs5" target="_blank" rel="noopener">B-dul Pache Protopopescu, nr. 11, etajul 2</a>.<br>
-											Scrie-ne pe <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" title="carte@publica.ro (se deschide într-un tab nou)" href="mailto:carte@publica.ro" target="_blank" rel="noopener">carte@publica.ro</a>
+											Ne poți vizita pe <a href="https://goo.gl/maps/4DtyqHU1i3QYEpbs5" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" title="Adresa pe Google Maps" target="_blank" rel="noopener">B-dul Pache Protopopescu, nr. 11, etajul 2</a>.<br>
+											Scrie-ne pe <a href="mailto:carte@publica.ro" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" title="carte@publica.ro (se deschide într-un tab nou)" target="_blank" rel="noopener">carte@publica.ro</a>
 										</p>
 										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;"> Urmărește-ne și pe:<br/>
-											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.goodreads.com/user/show/56158609-editura-publica" target="_blank" rel="noopener">Goodreads</a> ·
-											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.instagram.com/editurapublica" target="_blank" rel="noopener">Instagram</a> ·
-											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.facebook.com/editurapublica" target="_blank" rel="noopener">Facebook</a> ·
-											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.pinterest.com/editurapublica" target="_blank" rel="noopener">Pinterest</a> ·
-											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.youtube.com/user/meetthethinkers" target="_blank" rel="noopener">Youtube</a> ·
-											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://twitter.com/edituraPublica" target="_blank" rel="noopener">Twitter</a> ·
-											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://blog.publica.ro" target="_blank" rel="noopener">Blog</a>
+											<a href="https://www.goodreads.com/user/show/56158609-editura-publica" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">Goodreads</a> ·
+											<a href="https://www.instagram.com/editurapublica" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">Instagram</a> ·
+											<a href="https://www.facebook.com/editurapublica" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">Facebook</a> ·
+											<a href="https://www.pinterest.com/editurapublica" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">Pinterest</a> ·
+											<a href="https://www.youtube.com/user/meetthethinkers" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">Youtube</a> ·
+											<a href="https://twitter.com/edituraPublica" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">Twitter</a> ·
+											<a href="https://blog.publica.ro" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">Blog</a>
 										</p>
-										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;"> *|IF:FNAME|**|TITLE:FNAME|*, primești *|ELSE:|*Primești*|END:IF|* acest newsletter pentru că te-ai abonat la noutățile editurii Publica. Aici poți să <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="*|UPDATE_PROFILE|*" target="_blank" rel="noopener">editezi setările</a> acestui newsletter. Dacă vrei, de aici <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="*|UNSUB|*" target="_blank" rel="noopener">te poți dezabona</a>. </p>
-										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;"> Citește termenii și condițiile privind <a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="https://www.publica.ro/termeni-si-conditii.html" target="_blank" rel="noopener">confidențialitatea datelor</a>.<br/>
-											<a class="linkInline linkInline-quaternary" style="font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none; border-bottom: 1px solid #88a2b4; color: #404a52;" href="*|ARCHIVE|*" target="_blank" rel="noopener">Vezi în browser</a>
+										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;"> *|IF:FNAME|**|TITLE:FNAME|*, primești *|ELSE:|*Primești*|END:IF|* acest newsletter pentru că te-ai abonat la noutățile editurii Publica. Aici poți să <a href="*|UPDATE_PROFILE|*" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">editezi setările</a> acestui newsletter. Dacă vrei, de aici <a href="*|UNSUB|*" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">te poți dezabona</a>. </p>
+										<p style="color: #404a52; font-family: 'Piazzolla', serif; font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: 0.2px;"> Citește termenii și condițiile privind <a href="https://www.publica.ro/termeni-si-conditii.html" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">confidențialitatea datelor</a>.<br/>
+											<a href="*|ARCHIVE|*" style="color: #404a52; border-bottom: 1px solid #88a2b4; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 15px; font-weight: 400; line-height: 1.2; text-decoration: none;" class="linkInline linkInline-quaternary" target="_blank" rel="noopener">Vezi în browser</a>
 										</p>
 									</div>
 									<!--[if (gte mso 9)|(IE)]></td></tr></table><![endif]-->
