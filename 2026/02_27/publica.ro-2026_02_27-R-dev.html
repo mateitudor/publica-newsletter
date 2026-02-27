@@ -380,6 +380,7 @@
 				}
 				.sectionFooter {
 					background-color: transparent !important;
+					padding: 24px !important;
 				}
 
 				.card {
@@ -418,6 +419,12 @@
 						margin: 0px 0px 20px 0px !important;
 						width: 200px !important;
 						max-width: 200px !important;
+					}
+
+					/* Remove inner column horizontal padding on mobile so total stays 24px */
+					.column.textContainer {
+						padding-left: 0 !important;
+						padding-right: 0 !important;
 					}
 			}
 
@@ -506,8 +513,8 @@
 
 										<table class="sectionSpacer" border="0" cellpadding="0" cellspacing="0" width="100%"><tr style="display: block;"><td width="100%" height="20" style="display: block; border-collapse: collapse; font-family: sans-serif !important; font-size: 22px; line-height: 20px; text-decoration: none !important;">&#xA0;</td></tr></table>
 
-										<div class="section borderRadius darkmode" style="border-radius: 28px; background: #FFFFFF;">
-											<div style="padding: 48px 48px 4px 48px;">
+										<div class="section borderRadius darkmode" style="border-radius: 28px; background: #FFFFFF; padding: 48px 48px 4px 48px;">
+											<div>
 												<h3 style="color: #FF8C2F; display: block; font-family: 'Atkinson Hyperlegible', sans-serif; font-size: 22px; font-weight: 400; line-height: 1.1; margin: 0 0 12px 0; padding: 0;">
 													Ofertă specială:
 												</h3>
